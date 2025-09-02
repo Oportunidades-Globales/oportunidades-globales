@@ -84,6 +84,7 @@ class SubscriptionService {
   // Enviar email de confirmación
   async sendConfirmationEmail(email, subscriptionId) {
     try {
+      // eslint-disable-next-line no-unused-vars
       const emailData = {
         to: email,
         subject: '¡Bienvenido al Newsletter Premium!',
@@ -180,4 +181,5 @@ class SubscriptionService {
   }
 }
 
-export default new SubscriptionService();
+const subscriptionService = new SubscriptionService();
+export default subscriptionService;

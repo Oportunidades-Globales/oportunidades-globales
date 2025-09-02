@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { oportunidades } from '../data/oportunidades';
-import { contactConfig } from '../config/contact';
+// import { contactConfig } from '../config/contact';
 import ContactoRedes from './ContactoRedes';
 
 const DetalleOportunidad = () => {
@@ -13,9 +13,9 @@ const DetalleOportunidad = () => {
   const oportunidad = oportunidades.find(op => op.id === parseInt(id));
 
   // Función para cerrar el modal
-  const cerrarImagenModal = () => {
+  const cerrarImagenModal = useCallback(() => {
     setImagenModal({ abierto: false, imagen: '', titulo: '' });
-  };
+  }, []);
 
   // Función para cerrar con tecla Escape
   useEffect(() => {
@@ -59,12 +59,7 @@ const DetalleOportunidad = () => {
     }
   };
 
-  const handleContactar = () => {
-    const asunto = `${contactConfig.subject}: ${oportunidad.titulo}`;
-    const cuerpo = contactConfig.defaultMessage.replace('{titulo}', oportunidad.titulo);
-    const mailtoLink = `mailto:${contactConfig.email}?subject=${encodeURIComponent(asunto)}&body=${encodeURIComponent(cuerpo)}`;
-    window.open(mailtoLink);
-  };
+
 
   // Función para abrir el modal de imagen
   const abrirImagenModal = (imagen, titulo) => {
