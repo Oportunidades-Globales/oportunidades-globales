@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tudominio.com/sitemap.xml
+
+# Optimización para motores de búsqueda
+Crawl-delay: 1
