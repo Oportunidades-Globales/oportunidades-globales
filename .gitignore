@@ -46,3 +46,6 @@ Desktop.ini
 
 # Environment variables
 .env
+
+# Subdirectories with their own git repos
+oportunidades-globales/
