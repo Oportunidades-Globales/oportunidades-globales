@@ -8,7 +8,13 @@ import ContactoRedes from './ContactoRedes';
 const DetalleOportunidad = () => {
   const { id } = useParams();
   const navigate = useNavigate();
-  const [imagenModal, setImagenModal] = useState({ abierto: false, imagen: '', titulo: '' });
+  const [imagenModal, setImagenModal] = useState({ 
+    abierto: false, 
+    imagen: '', 
+    titulo: '', 
+    indiceActual: 0,
+    imagenes: []
+  });
 
   // Encontrar la oportunidad por ID
   const oportunidad = oportunidades.find(op => op.id === parseInt(id));
@@ -20,24 +26,36 @@ const DetalleOportunidad = () => {
 
   // Función para cerrar el modal
   const cerrarImagenModal = useCallback(() => {
-    setImagenModal({ abierto: false, imagen: '', titulo: '' });
+    setImagenModal({ abierto: false, imagen: '', titulo: '', indiceActual: 0, imagenes: [] });
   }, []);
 
-  // Función para cerrar con tecla Escape
+  // Función para cerrar con tecla Escape y navegación con flechas
   useEffect(() => {
-    const handleEscape = (e) => {
-      if (e.key === 'Escape' && imagenModal.abierto) {
-        cerrarImagenModal();
+    const handleKeyDown = (e) => {
+      if (!imagenModal.abierto) return;
+      
+      switch (e.key) {
+        case 'Escape':
+          cerrarImagenModal();
+          break;
+        case 'ArrowLeft':
+          navegarImagen('anterior');
+          break;
+        case 'ArrowRight':
+          navegarImagen('siguiente');
+          break;
+        default:
+          break;
       }
     };
 
     if (imagenModal.abierto) {
-      document.addEventListener('keydown', handleEscape);
+      document.addEventListener('keydown', handleKeyDown);
       document.body.style.overflow = 'hidden'; // Prevenir scroll del body
     }
 
     return () => {
-      document.removeEventListener('keydown', handleEscape);
+      document.removeEventListener('keydown', handleKeyDown);
       document.body.style.overflow = 'unset'; // Restaurar scroll del body
     };
   }, [imagenModal.abierto, cerrarImagenModal]);
@@ -67,9 +85,36 @@ const DetalleOportunidad = () => {
 
 
 
+  // Función para navegar entre imágenes
+  const navegarImagen = (direccion) => {
+    if (!imagenModal.imagenes || imagenModal.imagenes.length <= 1) return;
+    
+    let nuevoIndice = imagenModal.indiceActual;
+    
+    if (direccion === 'anterior') {
+      nuevoIndice = nuevoIndice > 0 ? nuevoIndice - 1 : imagenModal.imagenes.length - 1;
+    } else if (direccion === 'siguiente') {
+      nuevoIndice = nuevoIndice < imagenModal.imagenes.length - 1 ? nuevoIndice + 1 : 0;
+    }
+    
+    setImagenModal(prev => ({
+      ...prev,
+      indiceActual: nuevoIndice,
+      imagen: prev.imagenes[nuevoIndice],
+      titulo: `Imagen ${nuevoIndice + 1}`
+    }));
+  };
+
   // Función para abrir el modal de imagen
-  const abrirImagenModal = (imagen, titulo) => {
-    setImagenModal({ abierto: true, imagen, titulo });
+  const abrirImagenModal = (imagen, titulo, indice = 0) => {
+    const imagenes = oportunidad.imagenes || [];
+    setImagenModal({ 
+      abierto: true, 
+      imagen, 
+      titulo, 
+      indiceActual: indice,
+      imagenes 
+    });
   };
 
   // Función para cerrar el modal al hacer click en el fondo
@@ -216,7 +261,7 @@ const DetalleOportunidad = () => {
                        src={imagen} 
                        alt={`${oportunidad.titulo} - Imagen ${index + 1}`}
                        className="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform duration-200 cursor-pointer"
-                       onClick={() => abrirImagenModal(imagen, `Imagen ${index + 1}`)}
+                       onClick={() => abrirImagenModal(imagen, `Imagen ${index + 1}`, index)}
                      />
                    ))}
                  </div>
@@ -321,7 +366,45 @@ const DetalleOportunidad = () => {
               >
                 &times;
               </button>
-              
+
+              {/* Contador de imágenes */}
+              {imagenModal.imagenes && imagenModal.imagenes.length > 1 && (
+                <div className="absolute top-4 left-4 bg-black bg-opacity-50 hover:bg-opacity-75 text-white px-3 py-1 rounded-full text-sm font-medium z-10">
+                  {imagenModal.indiceActual + 1} / {imagenModal.imagenes.length}
+                </div>
+              )}
+
+              {/* Flecha izquierda */}
+              {imagenModal.imagenes && imagenModal.imagenes.length > 1 && (
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    navegarImagen('anterior');
+                  }}
+                  className="absolute left-4 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 hover:bg-opacity-75 text-white w-12 h-12 rounded-full flex items-center justify-center transition-all duration-200 hover:scale-110 z-10"
+                  title="Imagen anterior (←)"
+                >
+                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                </button>
+              )}
+
+              {/* Flecha derecha */}
+              {imagenModal.imagenes && imagenModal.imagenes.length > 1 && (
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    navegarImagen('siguiente');
+                  }}
+                  className="absolute right-4 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 hover:bg-opacity-75 text-white w-12 h-12 rounded-full flex items-center justify-center transition-all duration-200 hover:scale-110 z-10"
+                  title="Imagen siguiente (→)"
+                >
+                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              )}
 
             </div>
           </div>
