@@ -3,6 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { oportunidades } from '../data/oportunidades';
 // import { contactConfig } from '../config/contact';
 import ContactoRedes from './ContactoRedes';
+import GoogleAds from './GoogleAds';
 
 const DetalleOportunidad = () => {
   const { id } = useParams();
@@ -273,6 +274,15 @@ const DetalleOportunidad = () => {
                  </svg>
                  Aplicar Ahora
                </button>
+             </div>
+
+             {/* Anuncio en página de detalle */}
+             <div className="mt-8 flex justify-center">
+               <GoogleAds 
+                 adSlot="0987654321" 
+                 adFormat="auto"
+                 className="max-w-full"
+               />
              </div>
           </div>
         </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import OportunidadCard from './OportunidadCard';
+import GoogleAds from './GoogleAds';
 import { oportunidades } from '../data/oportunidades';
 
 const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
@@ -62,6 +63,15 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
           <h2 className="text-3xl font-bold text-gray-900 mb-4">
             {getMensajeResultados()}
           </h2>
+        </div>
+
+        {/* Anuncio superior */}
+        <div className="mb-8 flex justify-center">
+          <GoogleAds 
+            adSlot="1234567890" 
+            adFormat="auto"
+            className="max-w-full"
+          />
         </div>
 
         {/* Grid de oportunidades */}
