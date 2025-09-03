@@ -6,9 +6,9 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Logo y descripción */}
-          <div className="md:col-span-1">
+          <div>
             <div className="flex items-center space-x-3 mb-4">
               <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-lg flex items-center justify-center overflow-hidden">
                 <img 
@@ -42,82 +42,21 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Enlaces rápidos */}
-          <div className="md:col-span-1">
-            <h4 className="text-lg font-semibold mb-4">Enlaces Rápidos</h4>
-            <ul className="space-y-3">
-              <li>
-                <button 
-                  onClick={() => window.location.href = '/#oportunidades'}
-                  className="text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer"
-                >
-                  Ver Oportunidades
-                </button>
-              </li>
-              <li>
-                <button 
-                  onClick={() => window.location.href = '/#preguntas-frecuentes'}
-                  className="text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer"
-                >
-                  Preguntas Frecuentes
-                </button>
-              </li>
-              <li>
-                <button 
-                  onClick={() => window.location.href = '/#contacto'}
-                  className="text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer"
-                >
-                  Contacto
-                </button>
-              </li>
-              <li>
-                <button 
-                  onClick={() => window.location.href = '/politica-privacidad'}
-                  className="text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer"
-                >
-                  Política de Privacidad
-                </button>
-              </li>
-            </ul>
-          </div>
-
-          {/* Categorías */}
-          <div className="md:col-span-1">
-            <h4 className="text-lg font-semibold mb-4">Categorías</h4>
-            <ul className="space-y-3">
-              <li>
-                <button 
-                  onClick={() => window.location.href = '/?categoria=becas'}
-                  className="text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer"
-                >
-                  Becas
-                </button>
-              </li>
-              <li>
-                <button 
-                  onClick={() => window.location.href = '/?categoria=voluntariados'}
-                  className="text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer"
-                >
-                  Voluntariados
-                </button>
-              </li>
-              <li>
-                <button 
-                  onClick={() => window.location.href = '/?categoria=trabajos'}
-                  className="text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer"
-                >
-                  Trabajos
-                </button>
-              </li>
-              <li>
-                <button 
-                  onClick={() => window.location.href = '/?categoria=cruceros'}
-                  className="text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer"
-                >
-                  Cruceros
-                </button>
-              </li>
-            </ul>
+          {/* Frase inspiradora */}
+          <div className="flex items-center justify-center">
+            <div className="text-center">
+              <blockquote className="text-xl md:text-2xl font-medium text-gray-200 italic leading-relaxed">
+                "La educación es el pasaporte hacia el futuro, el mañana pertenece a aquellos que se preparan para él hoy."
+              </blockquote>
+              <p className="text-sm text-gray-400 mt-4">
+                — Malcolm X
+              </p>
+              <div className="mt-6">
+                <p className="text-gray-300 text-lg">
+                  <span className="text-primary-400 font-semibold">Cada oportunidad</span> es un paso hacia tu futuro brillante.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
 
