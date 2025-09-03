@@ -86,7 +86,10 @@ const OportunidadCard = ({ oportunidad }) => {
       {/* Contenido */}
       <div className="p-6">
         {/* Título */}
-        <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-primary-600 transition-colors duration-200">
+        <h3 
+          className="text-xl font-bold text-gray-900 mb-3 group-hover:text-primary-600 transition-colors duration-200 cursor-pointer hover:underline"
+          onClick={handleVerDetalles}
+        >
           {oportunidad.titulo || 'Título no disponible'}
         </h3>
 
