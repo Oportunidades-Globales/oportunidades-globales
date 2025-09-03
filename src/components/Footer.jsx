@@ -42,23 +42,7 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Newsletter */}
-          <div>
-            <h4 className="text-lg font-semibold mb-4">Suscríbete a nuestro newsletter</h4>
-            <p className="text-gray-300 mb-4">
-              Recibe las mejores oportunidades directamente en tu correo.
-            </p>
-            <div className="flex space-x-2">
-              <input
-                type="email"
-                placeholder="Tu correo electrónico"
-                className="flex-1 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"
-              />
-              <button className="btn-primary">
-                Suscribirse
-              </button>
-            </div>
-          </div>
+
         </div>
 
 

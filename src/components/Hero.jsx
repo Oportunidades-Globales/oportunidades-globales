@@ -1,8 +1,6 @@
-import React, { useState } from 'react';
-import NewsletterModal from './NewsletterModal';
+import React from 'react';
 
 const Hero = () => {
-  const [showNewsletterModal, setShowNewsletterModal] = useState(false);
   const scrollToOportunidades = () => {
     const element = document.getElementById('oportunidades');
     if (element) {
@@ -50,19 +48,13 @@ const Hero = () => {
             </div>
           </div>
 
-          {/* Botones de acción */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          {/* Botón de acción */}
+          <div className="flex justify-center">
             <button 
               onClick={scrollToOportunidades}
               className="btn-primary text-lg px-8 py-4 hover:scale-105 transition-transform duration-200"
             >
               Explorar Oportunidades
-            </button>
-            <button 
-              onClick={() => setShowNewsletterModal(true)}
-              className="btn-secondary text-lg px-8 py-4"
-            >
-              Suscribirse al Newsletter
             </button>
           </div>
 
@@ -74,12 +66,6 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      
-      {/* Modal de Newsletter */}
-      <NewsletterModal 
-        isOpen={showNewsletterModal}
-        onClose={() => setShowNewsletterModal(false)}
-      />
     </section>
   );
 };
