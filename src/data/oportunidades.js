@@ -55,7 +55,7 @@ export const oportunidades = [
       "/imagenes/Camp leaders/camp14.jpg"
     ],
     videos: [
-      { titulo: "Testimonio de estudiante", url: "https://www.tiktok.com/@erasmusmundus/video/123456789", plataforma: "TikTok" },
+      { titulo: "Testimonio de voluntario", url: "https://www.tiktok.com/@erasmusmundus/video/123456789", plataforma: "TikTok" },
       { titulo: "Camp leaders official", url: "https://www.instagram.com/campleadersofficial/", plataforma: "Instagram" }
     ]
   },
@@ -183,7 +183,7 @@ export const oportunidades = [
     id: 4,
     categoria: "Beca",
     titulo: "🌎 Becas de Excelencia del Gobierno de México 2025 para Extranjeros",
-    descripcion: `¿Quieres estudiar en México con todo el respaldo académico? 🇲🇽
+    descripcion: `¿Quieres estudiar en México con todo el respaldo académico?
     La SRE y AMEXCID ofrecen becas a estudiantes de más de 170 países, en alianza con 90 universidades mexicanas de alto nivel.
     📚 Programas de posgrado avalados por el Sistema Nacional de Posgrados.
     💸 Apoyo económico mensual de $17,197 MXN (~$882 USD).
@@ -207,98 +207,53 @@ export const oportunidades = [
   {
     id: 5,
     categoria: "Beca",
-    titulo: "Beca Chevening del Reino Unido",
-    descripcion: "Maestría completa en cualquier universidad del Reino Unido. Incluye matrícula, alojamiento y gastos de viaje.",
-    imagen: "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    titulo: "✨ Beca Chevening: Estudia en el Reino Unido con todo pagado",
+    descripcion: `La Beca Chevening cubre todo lo que necesitas para estudiar en Reino Unido: matrícula completa, estipendio mensual, vuelos, visa, apoyo de llegada y salida, además de fondos para eventos exclusivos. ¡Una experiencia 100% financiada!
+    
+    📌 Pasos para aplicar a la Beca Chevening
+    1. Registro en línea
+    Entra al sistema de aplicación desde el enlace “Apply today” en la página de tu país.
+    Acepta términos y condiciones, registra tu correo y teléfono, y recibe el acceso al portal.
+
+    2. Verificación de elegibilidad
+    Responde el cuestionario de elegibilidad.
+    Si pasas, recibirás un correo para continuar tu aplicación.
+
+    3. Código de acceso  
+    Obtendrás un código único que necesitarás cada vez que entres al sistema.
+    Guárdalo en un lugar seguro (sugerencia: tomarle foto).
+
+    4. Completar la solicitud
+    - Deberás llenar todas las secciones del formulario:
+    - Datos personales (nombre, fecha de nacimiento, dirección, lugar de entrevista).
+    - Datos migratorios (nacionalidad, número de pasaporte).
+    - Educación (instituciones, programas, calificaciones).
+    - Experiencia laboral (hasta 15 entradas; el sistema calcula si cumples las 2,800 horas mínimas).
+    - Programas de estudio (tus 3 opciones de maestrías en Reino Unido; no es obligatorio haber aplicado aún).
+    - Referencias (datos de 2 personas que luego deberán enviar cartas si pasas a entrevista).
+    - Ensayos (4 preguntas sobre liderazgo, networking, elección de cursos y metas profesionales; deben estar en inglés).
+    - Igualdad de oportunidades (información de contexto, sin afectar tu evaluación).
+    
+    5. Enviar la aplicación
+    - Revisa que todas las secciones estén completas.
+    - Acepta las condiciones de la beca.
+    - Haz clic en “submit application” y confirma.`,
+
+    imagen: "https://www.publicdomainpictures.net/pictures/370000/nahled/oxford-uk-1602957266L8t.jpg",
     sitioWeb: "https://www.chevening.org/apply/",
     pais: "Reino Unido",
     duracion: "1 año",
-    fechaLimite: "2024-11-15",
+    fechaLimite: "2025-10-07",
     imagenes: [
-      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9Xk4iC4wEiclwfw4RVptCZsxS30ffuESQw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgz-zlpKVVT0eKjpRmZ_HIWKZssB_MrU0S5A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1u_vRbnUqz1VlSG81Q4YefkgyfaOgqLj0kg&s"
     ],
     videos: [
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
-      { titulo: "Vida en Londres", url: "https://www.instagram.com/reel/zyxwvutsrq/", plataforma: "Instagram" }
+      { titulo: "Chevening official", url: "https://www.instagram.com/cheveningfcdo", plataforma: "Instagram" }
     ]
   },
-  {
-    id: 6,
-    categoria: "Voluntariado",
-    titulo: "Conservación Marina en Australia",
-    descripcion: "Ayuda a proteger la Gran Barrera de Coral. Participa en investigaciones marinas y educación ambiental.",
-    imagen: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-    sitioWeb: "https://www.gbrmpa.gov.au/get-involved/volunteer",
-    pais: "Australia",
-    duracion: "2-4 meses",
-    fechaLimite: "2024-12-01",
-    imagenes: [
-      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1559028006-448665bd7c7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
-    ],
-    videos: [
-      { titulo: "Gran Barrera de Coral", url: "https://www.tiktok.com/@australiawildlife/video/654321987", plataforma: "TikTok" },
-      { titulo: "Proyectos de conservación", url: "https://www.instagram.com/reel/mnopqrstuv/", plataforma: "Instagram" }
-    ]
-  },
-  {
-    id: 7,
-    categoria: "Trabajo",
-    titulo: "Enfermero en Nueva Zelanda",
-    descripcion: "Oportunidad para profesionales de la salud. Salario competitivo y excelente calidad de vida en un país hermoso.",
-    imagen: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-    sitioWeb: "https://www.seek.co.nz/job/enfermero-nueva-zelanda",
-    pais: "Nueva Zelanda",
-    duracion: "Permanente",
-    fechaLimite: "2024-10-30",
-    imagenes: [
-      "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1460925895917-afdab827c072?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
-    ],
-    videos: [
-      { titulo: "Sistema de salud NZ", url: "https://www.tiktok.com/@nzhealthcare/video/987654321", plataforma: "TikTok" },
-      { titulo: "Vida en Auckland", url: "https://www.instagram.com/reel/abcdefghijk/", plataforma: "Instagram" }
-    ]
-  },
-  {
-    id: 8,
-    categoria: "Crucero",
-    titulo: "Cruceros por el Mediterráneo",
-    descripcion: "Trabaja en cruceros de lujo visitando los destinos más hermosos del Mediterráneo. Experiencia internacional única.",
-    imagen: "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-    sitioWeb: "https://www.royalcaribbean.com/careers/",
-    pais: "Mediterráneo",
-    duracion: "8-12 meses",
-    fechaLimite: "2024-09-15",
-    imagenes: [
-      "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
-    ],
-    videos: [
-      { titulo: "Destinos mediterráneos", url: "https://www.tiktok.com/@royalcaribbean/video/123456789", plataforma: "TikTok" },
-      { titulo: "Experiencia a bordo", url: "https://www.instagram.com/reel/zyxwvutsrq/", plataforma: "Instagram" }
-    ]
-  },
-  {
-    id: 9,
-    categoria: "Beca",
-    titulo: "Beca Fulbright en Estados Unidos",
-    descripcion: "Programa de intercambio cultural y académico. Maestría o doctorado en universidades estadounidenses de prestigio.",
-    imagen: "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-    sitioWeb: "https://fulbright.org/",
-    pais: "Estados Unidos",
-    duracion: "2-4 años",
-    fechaLimite: "2024-10-01",
-    imagenes: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
-    ],
-    videos: [
-      { titulo: "Guía Fulbright", url: "https://www.tiktok.com/@fulbright/video/456789123", plataforma: "TikTok" },
-      { titulo: "Campus universitarios", url: "https://www.instagram.com/reel/mnopqrstuv/", plataforma: "Instagram" }
-    ]
-  }
 ];
 
 export const categorias = [
