@@ -2,7 +2,17 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://tudominio.com/sitemap.xml
+Sitemap: https://oportunidades-globales.com/sitemap.xml
 
 # Optimización para motores de búsqueda
 Crawl-delay: 1
+
+# Permitir acceso a recursos importantes
+Allow: /static/
+Allow: /Imagenes/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.ico
