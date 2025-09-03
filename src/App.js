@@ -12,6 +12,7 @@ import TerminosServicio from './components/TerminosServicio';
 import Cookies from './components/Cookies';
 import CookieBanner from './components/CookieBanner';
 import Footer from './components/Footer';
+import GoogleAnalytics from './components/GoogleAnalytics';
 
 
 // Componente interno para manejar la lógica de navegación
@@ -19,6 +20,9 @@ function AppContent() {
   const [categoriaActiva, setCategoriaActiva] = useState('todas');
   const [busqueda, setBusqueda] = useState('');
   const location = useLocation();
+
+  // Google Analytics - Reemplaza con tu Tracking ID real
+  const GA_TRACKING_ID = 'G-XXXXXXXXXX';
 
   // Manejar navegación con estado para filtros
   useEffect(() => {
@@ -38,6 +42,7 @@ function AppContent() {
 
   return (
     <>
+      <GoogleAnalytics trackingId={GA_TRACKING_ID} />
       <Header 
         categoriaActiva={categoriaActiva}
         setCategoriaActiva={setCategoriaActiva}
