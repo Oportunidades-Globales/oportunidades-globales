@@ -21,8 +21,8 @@ function AppContent() {
   const [busqueda, setBusqueda] = useState('');
   const location = useLocation();
 
-  // Google Analytics - Reemplaza con tu Tracking ID real
-  const GA_TRACKING_ID = 'G-XXXXXXXXXX';
+  // Google Analytics - Tracking ID real
+  const GA_TRACKING_ID = 'G-0ST7KCCY1X';
 
   // Manejar navegación con estado para filtros
   useEffect(() => {

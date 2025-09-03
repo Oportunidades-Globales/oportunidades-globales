@@ -1,7 +1,7 @@
 // Configuración de Google Analytics
 export const analyticsConfig = {
-  // Reemplaza con tu Tracking ID real de Google Analytics
-  trackingId: 'G-XXXXXXXXXX',
+  // Tracking ID real de Google Analytics
+  trackingId: 'G-0ST7KCCY1X',
   
   // Configuración adicional
   config: {
