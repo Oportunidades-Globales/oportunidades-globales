@@ -53,12 +53,7 @@ const ContactoRedes = ({ className = '', titulo = 'Síguenos en redes sociales',
         </div>
       </div>
 
-      {/* Nota sobre Facebook */}
-      <div className="mt-6 text-center">
-        <p className="text-sm text-gray-500">
-          <span className="font-medium">Nota:</span> Nuestra página de Facebook estará disponible próximamente.
-        </p>
-      </div>
+
     </div>
   );
 };

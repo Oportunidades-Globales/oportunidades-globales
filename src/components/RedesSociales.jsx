@@ -87,11 +87,8 @@ const RedesSociales = ({ className = '', showLabels = false, size = 'md' }) => {
               href={red.url}
               target={red.nombre === 'Gmail' ? '_self' : '_blank'}
               rel={red.nombre === 'Gmail' ? '' : 'noopener noreferrer'}
-              className={`text-gray-600 transition-colors duration-200 ${red.color} ${
-                red.nombre === 'Facebook' ? 'opacity-50 cursor-not-allowed' : ''
-              }`}
-              title={red.nombre === 'Facebook' ? 'Próximamente' : `Síguenos en ${red.nombre}`}
-              onClick={red.nombre === 'Facebook' ? (e) => e.preventDefault() : undefined}
+              className={`text-gray-600 transition-colors duration-200 ${red.color}`}
+              title={`Síguenos en ${red.nombre}`}
             >
               {red.icono}
             </a>
