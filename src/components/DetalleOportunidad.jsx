@@ -12,6 +12,11 @@ const DetalleOportunidad = () => {
   // Encontrar la oportunidad por ID
   const oportunidad = oportunidades.find(op => op.id === parseInt(id));
 
+  // Scroll al inicio cuando se carga la página
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [id]);
+
   // Función para cerrar el modal
   const cerrarImagenModal = useCallback(() => {
     setImagenModal({ abierto: false, imagen: '', titulo: '' });

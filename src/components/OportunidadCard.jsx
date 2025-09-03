@@ -50,7 +50,10 @@ const OportunidadCard = ({ oportunidad }) => {
   return (
     <div className="card overflow-hidden group">
       {/* Imagen */}
-      <div className="relative h-48 overflow-hidden">
+      <div 
+        className="relative h-48 overflow-hidden cursor-pointer"
+        onClick={handleVerDetalles}
+      >
         <img
           src={oportunidad.imagen || 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDQwMCAzMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSIjRjNGNEY2Ii8+CjxwYXRoIGQ9Ik0xNjAgMTIwQzE2MCAxMDcuMTYzIDE3MC4xNjMgOTcgMTgzIDk3SDE2N0MxNzkuODM3IDk3IDE5MCAxMDcuMTYzIDE5MCAxMjBIMTYwWiIgZmlsbD0iIzlDQTNBRiIvPgo8cGF0aCBkPSJNMTYwIDE0MEMxNjAgMTI3LjE2MyAxNzAuMTYzIDExNyAxODMgMTE3SDE2N0MxNzkuODM3IDExNyAxOTAgMTI3LjE2MyAxOTAgMTQwSDE2MFoiIGZpbGw9IiM5Q0EzQUYiLz4KPHN2ZyB4PSIxNzAiIHk9IjEwMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiPgo8cGF0aCBkPSJNMTAgMTBIMTdWMTdIMFYxMFoiIGZpbGw9IiM5Q0EzQUYiLz4KPHN2ZyB4PSIxNzAiIHk9IjEyMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiPgo8cGF0aCBkPSJNMTAgMTBIMTdWMTdIMFYxMFoiIGZpbGw9IiM5Q0EzQUYiLz4KPC9zdmc+Cjx0ZXh0IHg9IjIwMCIgeT0iMTgwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNjc3NDhCIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTYiPkltYWdlbiBObyBEaXNwb25pYmxlPC90ZXh0Pgo8L3N2Zz4K'}
           alt={oportunidad.titulo || 'Oportunidad'}
