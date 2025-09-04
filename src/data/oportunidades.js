@@ -257,10 +257,11 @@ export const oportunidades = [
   {
     id: 6,
     categoria: "Beca",
-    titulo: "🎓 Beca de Doctorado para estudiar Traducción y Cultura en los siglos IV–VI d.C. en la Universidad Católica Australiana (ACU) – Melbourne",
+    titulo: "🎓 Beca de Doctorado para estudiar Traducción y Cultura en la Universidad Católica Australiana – Melbourne",
     descripcion: `La ACU ofrece una beca de doctorado a tiempo completo en el Instituto de Religión e Investigación Crítica para investigar la traducción y transformación en la Antigüedad Tardía (siglos IV–VI d.C.).
     
     El proyecto está dirigido por el Prof. Michael Hanaghan y cuenta con un equipo internacional de expertos. La beca incluye mentoría, oportunidades de publicación, participación en conferencias (incluida una en Roma) y un entorno de investigación de alto impacto global.
+    
     📍 Detalles principales
     - Duración: Hasta 3,5 años, tiempo completo en el campus de Melbourne
     - Inicio: 2026
@@ -306,7 +307,7 @@ export const oportunidades = [
       "https://upload.wikimedia.org/wikipedia/commons/c/cf/Acu-melbourne.jpg"
     ],
     videos: [
-    
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
     ]
   },
