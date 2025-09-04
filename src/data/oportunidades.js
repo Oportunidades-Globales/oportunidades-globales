@@ -254,6 +254,62 @@ export const oportunidades = [
       { titulo: "Chevening official", url: "https://www.instagram.com/cheveningfcdo", plataforma: "Instagram" }
     ]
   },
+  {
+    id: 6,
+    categoria: "Beca",
+    titulo: "🎓 Beca de Doctorado para estudiar Traducción y Cultura en los siglos IV–VI d.C. en la Universidad Católica Australiana (ACU) – Melbourne",
+    descripcion: `La ACU ofrece una beca de doctorado a tiempo completo en el Instituto de Religión e Investigación Crítica para investigar la traducción y transformación en la Antigüedad Tardía (siglos IV–VI d.C.).
+    
+    El proyecto está dirigido por el Prof. Michael Hanaghan y cuenta con un equipo internacional de expertos. La beca incluye mentoría, oportunidades de publicación, participación en conferencias (incluida una en Roma) y un entorno de investigación de alto impacto global.
+    📍 Detalles principales
+    - Duración: Hasta 3,5 años, tiempo completo en el campus de Melbourne
+    - Inicio: 2026
+    - Beneficios:
+      - Estipendio anual de A$33,511 (libre de impuestos, indexado)
+      - Cobertura de matrícula (A$30,000 anuales)
+      - Apoyo en investigación con la industria
+      - Para internacionales: seguro médico OSHC + ayuda de reubicación hasta A$2,000
+
+    📝 Pasos para postularte
+    1. Contacta al supervisor
+      - Escribe al Prof. Michael Hanaghan antes de enviar tu aplicación:
+      - 📧 michael.hanaghan@acu.edu.au
+
+    2. Prepara tu documentación
+      - CV actualizado (con experiencia académica y práctica).
+      - Carta de presentación explicando tu interés y/o experiencia en el tema de investigación.
+
+    3. Completa la solicitud de doctorado en ACU
+      - Accede al formulario de aplicación para doctorado en ACU.
+      - Adjunta todos los documentos requeridos.
+      - Indica en el formulario que también postulas a la beca de estipendio.
+      - Incluye el nombre del proyecto:
+      - 👉 “Traducción y transformación en la Antigüedad tardía”.
+
+    4. Verifica elegibilidad
+      - Revisa los criterios para el programa de doctorado en el Reglamento de Investigación de ACU.
+      - Confirma los requisitos de beca en la Política de Becas RTP de ACU.
+
+    5. Enviar solicitud completa
+      - Cierre: Abierto hasta adjudicación (se recomienda aplicar lo antes posible).
+
+   `,
+
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Australian_Catholic_University_-_Signadou_Campus.jpg",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/translation-and-transformation-in-late-antiquity",
+    pais: "Australia",
+    duracion: "3 - 4 años",
+    fechaLimite: "Abierto hasta adjudicación",
+    imagenes: [
+      "https://live.staticflickr.com/8214/8266916214_ca42c6706d_b.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Acu-rome-italy.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/Acu-melbourne.jpg"
+    ],
+    videos: [
+    
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
 ];
 
 export const categorias = [
