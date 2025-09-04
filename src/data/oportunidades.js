@@ -300,7 +300,7 @@ export const oportunidades = [
     sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/translation-and-transformation-in-late-antiquity",
     pais: "Australia",
     duracion: "3 - 4 años",
-    fechaLimite: "Abierto hasta adjudicación",
+    fechaLimite: "2025-12-31",
     imagenes: [
       "https://live.staticflickr.com/8214/8266916214_ca42c6706d_b.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/5/5a/Acu-rome-italy.jpg",
