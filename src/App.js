@@ -6,6 +6,7 @@ import Filtros from './components/Filtros';
 import ListaOportunidades from './components/ListaOportunidades';
 import DetalleOportunidad from './components/DetalleOportunidad';
 import PreguntasFrecuentes from './components/PreguntasFrecuentes';
+import QuienesSomos from './components/QuienesSomos';
 import Contacto from './components/Contacto';
 import PoliticaPrivacidad from './components/PoliticaPrivacidad';
 import TerminosServicio from './components/TerminosServicio';
@@ -73,6 +74,7 @@ function App() {
           <Route path="/" element={<AppContent />} />
           <Route path="/oportunidad/:id" element={<DetalleOportunidad />} />
           <Route path="/preguntas-frecuentes" element={<PreguntasFrecuentes />} />
+          <Route path="/quienes-somos" element={<QuienesSomos />} />
           <Route path="/contacto" element={<Contacto />} />
           <Route path="/politica-privacidad" element={<PoliticaPrivacidad />} />
           <Route path="/terminos-servicio" element={<TerminosServicio />} />

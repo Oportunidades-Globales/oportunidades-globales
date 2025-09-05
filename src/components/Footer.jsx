@@ -87,6 +87,12 @@ const Footer = () => {
               Cookies
             </button>
             <button 
+              onClick={() => window.location.href = '/quienes-somos'}
+              className="hover:text-white transition-colors duration-200 cursor-pointer"
+            >
+              ¿Quiénes somos?
+            </button>
+            <button 
               onClick={() => {
                 // Mostrar el banner de cookies nuevamente
                 localStorage.removeItem('cookieConsent');
