@@ -501,6 +501,56 @@ En el formulario, indicar el nombre del proyecto:
       { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
     ]
   },
+  {
+    id: 11,
+    categoria: "Beca",
+    titulo: "🤖 Beca de Doctorado en Inteligencia Artificial para Seguridad Vial – ACU North Sydney",
+    descripcion: `La Australian Catholic University (ACU) ofrece una beca de doctorado a tiempo completo para desarrollar un marco innovador basado en IA generativa y técnicas de detección experimental que permita identificar grietas en carreteras y evaluar condiciones de seguridad vial.
+
+El proyecto busca mejorar la detección temprana de fallas en el pavimento, prevenir accidentes y optimizar el mantenimiento de infraestructura.
+
+📍 Ubicación: Campus North Sydney
+⏳ Duración: Hasta 3,5 años (inicio 2025)
+👩‍🏫 Supervisora: Prof. Asociada Eila Erfani
+🤝 Con apoyo de Transport for NSW
+💰 Financiamiento:
+  - Estipendio de A$33,511/año (libre de impuestos, indexado).
+  - Beca complementaria de A$10,000/año.
+  - Beca de matrícula (~A$30,000/año).
+  - Subsidios de salud y reubicación para internacionales.
+
+✅ Áreas clave de investigación
+  - Algoritmos de IA generativa para detección de grietas y predicción de riesgos.
+  - Integración de imágenes y datos de sensores físicos (vibración, acústica, 3D).
+  - Validación experimental en laboratorio y en campo.
+  - Herramientas de apoyo a decisiones para autoridades de transporte.
+
+📝 Pasos para aplicar
+  - Contactar previamente a la supervisora 👉 eila.erfani@acu.edu.au
+  - Preparar la documentación requerida por el programa de doctorado en ACU.
+Incluir:
+  - CV académico y profesional.
+  - Carta de presentación con tu interés/experiencia en IA o transporte.
+En el formulario, indicar el nombre del proyecto:
+"Generative AI-driven multimodal framework for pavement crack detection and road safety assessment".
+📅 Cierre de solicitudes: Abierto hasta adjudicación.
+
+   `,
+
+    imagen: "https://live.staticflickr.com/8214/8266916214_ca42c6706d_b.jpg",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/generative-ai-driven-framework-for-road-safety-assessment",
+    pais: "Australia",
+    duracion: "3 - 5 años",
+    fechaLimite: "2025-12-31",
+    imagenes: [
+      "https://live.staticflickr.com/443/31277129354_dd36931e29_b.jpg",
+      "https://live.staticflickr.com/5324/31197786702_2ee2ae8f09_b.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
 ];
 
 export const categorias = [
