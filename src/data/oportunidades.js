@@ -311,6 +311,193 @@ export const oportunidades = [
       { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
     ]
   },
+  {
+    id: 7,
+    categoria: "Beca",
+    titulo: "🏀 Beca de Doctorado en Rendimiento y Baloncesto de Élite – ACU Melbourne",
+    descripcion: `La Universidad Católica Australiana (ACU) ofrece una beca de doctorado para investigar la integración del seguimiento de jugadores y pruebas de rendimiento en atletas de baloncesto de élite, en colaboración con Strongside Performance.
+
+ 📍 Detalles principales
+  - Duración: hasta 3,5 años, tiempo completo
+  - Ubicación: Melbourne / Blacktown / Strathfield
+  - Inicio: Noviembre 2025
+  - Beca: A$33,511 anuales + cobertura de matrícula + apoyos para internacionales
+
+ ✅ Requisitos
+  - Estudios en Ciencias del Deporte o afines
+  - Experiencia en fuerza y acondicionamiento de atletas élite
+  - Manejo de monitoreo de jugadores y análisis de datos (R, Python, etc.)
+
+ 📝 Cómo aplicar
+  - Contactar al Prof. Grant Duthie 📧 grant.duthie@acu.edu.au
+  - Preparar CV + carta de presentación
+  - Enviar solicitud de doctorado en ACU indicando este proyecto
+
+ ⏰ Cierre de postulaciones: 1 de octubre de 2025
+
+   `,
+
+    imagen: "https://www.acu.edu.au/-/media/feature/pagecontent/imagewithrichtext/1up-placeholder-600x650/acu-600x650.jpg?rev=5e933743ab8c40ae869bae5b29db5185&la=en&h=650&w=600&hash=F26B643C683CDDF745EED67143D06BE3",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/strength-and-power-in-elite-basketball-athletes",
+    pais: "Australia",
+    duracion: "3 - 4 años",
+    fechaLimite: "2025-10-01",
+    imagenes: [
+      "https://live.staticflickr.com/7229/6962567194_db86cac118_b.jpg",
+      "https://c.pxhere.com/images/51/3f/3f542bd47a80d516d53c09d3dc9c-1571535.jpg!d"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 8,
+    categoria: "Beca",
+    titulo: "🌊 Beca de Doctorado en Historia del Colonialismo y Resistencia en Micronesia – ACU Melbourne",
+    descripcion: `La Australian Catholic University (ACU) ofrece una beca de doctorado a tiempo completo para investigar la historia del colonialismo y la resistencia en Micronesia y el Pacífico (1688–1990).
+
+El proyecto, bajo la supervisión de Dra. Kristie Patricia Flannery, forma parte de un equipo internacional financiado por el Australian Research Council (ARC), analizando la influencia de los imperios (España, Alemania, Japón y EE. UU.) en la región y la respuesta de sus pueblos.
+
+📍 Ubicación: ACU Melbourne
+⏳ Duración: Hasta 3.5 años (inicio en 2026)
+💰 Financiamiento:
+  - Estipendio de A$33,511/año (libre de impuestos, indexado).
+  - Bono adicional de A$10,000/año.
+  - Beca de matrícula (~A$30,000/año).
+  - Apoyo extra para viajes de campo y conferencias.
+  - Subsidios de salud y reubicación para estudiantes internacionales.
+
+✅ Requisitos
+  - Experiencia en investigación de archivos (presencial u online).
+  - Familiaridad con archivos coloniales españoles (preferible).
+  - Conocimiento de la bibliografía académica relevante.
+
+📝 Pasos para aplicar
+  - Contactar previamente a la Dra. Kristie Flannery 👉 kristie.flannery@acu.edu.au
+  - Reunir documentos de postulación al PhD en ACU (ver “How to Apply”).
+  - Incluir:
+    - CV con experiencia académica/práctica relevante.
+    - Carta de presentación con tu interés y experiencia.
+
+  - En el formulario, indicar que postulas también a la stipend scholarship y escribir el título del proyecto: “Pacific Powers: Imperial Competition and Cooperation in Micronesia”.
+  📅 Cierre de solicitudes: 1 de octubre de 2025.
+
+   `,
+
+    imagen: "https://live.staticflickr.com/1938/30716256757_928dc4d559_b.jpg",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/pacific-powers",
+    pais: "Australia",
+    duracion: "3 - 4 años",
+    fechaLimite: "2025-10-01",
+    imagenes: [
+      "https://www.worldhistory.org/uploads/images/14373.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/Malinche_con_Cortes.JPG"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
+ {
+    id: 8,
+    categoria: "Beca",
+    titulo: "🌊 Beca de Doctorado en Historia del Colonialismo y Resistencia en Micronesia – ACU Melbourne",
+    descripcion: `La Australian Catholic University (ACU) ofrece una beca de doctorado a tiempo completo para investigar la historia del colonialismo y la resistencia en Micronesia y el Pacífico (1688–1990).
+
+El proyecto, bajo la supervisión de Dra. Kristie Patricia Flannery, forma parte de un equipo internacional financiado por el Australian Research Council (ARC), analizando la influencia de los imperios (España, Alemania, Japón y EE. UU.) en la región y la respuesta de sus pueblos.
+
+📍 Ubicación: ACU Melbourne
+⏳ Duración: Hasta 3.5 años (inicio en 2026)
+💰 Financiamiento:
+  - Estipendio de A$33,511/año (libre de impuestos, indexado).
+  - Bono adicional de A$10,000/año.
+  - Beca de matrícula (~A$30,000/año).
+  - Apoyo extra para viajes de campo y conferencias.
+  - Subsidios de salud y reubicación para estudiantes internacionales.
+
+✅ Requisitos
+  - Experiencia en investigación de archivos (presencial u online).
+  - Familiaridad con archivos coloniales españoles (preferible).
+  - Conocimiento de la bibliografía académica relevante.
+
+📝 Pasos para aplicar
+  - Contactar previamente a la Dra. Kristie Flannery 👉 kristie.flannery@acu.edu.au
+  - Reunir documentos de postulación al PhD en ACU (ver “How to Apply”).
+  - Incluir:
+    - CV con experiencia académica/práctica relevante.
+    - Carta de presentación con tu interés y experiencia.
+
+  - En el formulario, indicar que postulas también a la stipend scholarship y escribir el título del proyecto: “Pacific Powers: Imperial Competition and Cooperation in Micronesia”.
+  📅 Cierre de solicitudes: 1 de octubre de 2025.
+
+   `,
+
+    imagen: "https://live.staticflickr.com/1938/30716256757_928dc4d559_b.jpg",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/pacific-powers",
+    pais: "Australia",
+    duracion: "3 - 4 años",
+    fechaLimite: "2025-10-01",
+    imagenes: [
+      "https://www.worldhistory.org/uploads/images/14373.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/Malinche_con_Cortes.JPG"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 9,
+    categoria: "Beca",
+    titulo: "🏉 Beca de Doctorado en Ciencia del Deporte – Rugby Australia & ACU",
+    descripcion: `La Australian Catholic University (ACU) en colaboración con Rugby Australia ofrece una beca de doctorado a tiempo completo para desarrollar y analizar una base de datos nacional de jugadores de rugby profesional.
+
+El proyecto busca mejorar el rendimiento, establecer estándares de referencia y apoyar el desarrollo a largo plazo de atletas de élite en preparación para los Mundiales de Rugby 2027 y 2029 y los JJ. OO. de 2032.
+
+📍 Ubicación: Brisbane (con estancias en clubes Super Rugby – NSW, ACT y WA)
+⏳ Duración: Hasta 4 años (inicio 2025/2026)
+👨‍🏫 Supervisor: Prof. Asociado Jonathon Weakley
+💰 Financiamiento:
+  - Estipendio de A$33,511/año (libre de impuestos).
+  - Bono ACU: A$15,000/año.
+  - Bono Gobierno: A$6,968/año.
+  - Beca de matrícula (~A$30,000/año).
+  - Subsidios de salud y reubicación para internacionales.
+
+✅ Requisitos
+  - Interés en ciencia del deporte o ciencia de datos.
+  - Formación en ciencias del ejercicio, estadística o fisioterapia.
+  - Experiencia con atletas o en investigación aplicada.
+  - Manejo de software estadístico o de programación (ej. RStudio).
+
+📝 Pasos para aplicar
+  - Contactar previamente al Prof. Jonathon Weakley 👉 jonathon.weakley@acu.edu.au
+  - Reunir documentos de postulación al PhD en ACU.
+  - Incluir:
+    - CV académico y profesional.
+    - Carta de presentación con tu interés y experiencia.
+
+  - Indicar en el formulario el nombre del proyecto:
+"Testing and Profiling of Australian Rugby Union Players: Development and Analysis of a National Database".
+📅 Cierre de solicitudes: 3 de octubre de 2025.
+
+   `,
+
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/6/61/%281%29Mount_Royal_%28Australian_Catholic_University%29_Strathfield-2.jpg",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/testing-and-profiling-of-australian-rugby-union-players",
+    pais: "Australia",
+    duracion: "3 - 4 años",
+    fechaLimite: "2025-10-01",
+    imagenes: [
+      "https://images.squarespace-cdn.com/content/v1/6376a8e47e45667316f33418/1707409065121-GUV0B9AVA3LFX2HC4I87/cm_20220526_predators%40Lions_3007.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/General_Rugby_Union_backplay.JPG"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
 ];
 
 export const categorias = [
