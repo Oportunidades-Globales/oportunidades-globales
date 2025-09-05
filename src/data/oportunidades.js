@@ -450,6 +450,57 @@ El proyecto busca mejorar el rendimiento, establecer estándares de referencia y
       { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
     ]
   },
+  {
+    id: 10,
+    categoria: "Beca",
+    titulo: "🏉 Beca de Doctorado en Optimización del Entrenamiento y Nutrición en Rugby – ACU & Rugby Australia",
+    descripcion: `La Australian Catholic University (ACU) en colaboración con Rugby Australia ofrece 2 becas de doctorado a tiempo completo enfocadas en mejorar el rendimiento y reducir lesiones en jugadores profesionales de rugby.
+
+El proyecto permitirá especializarte en:
+  - 📊 Carga de entrenamiento
+  - 🥗 Nutrición y rendimiento
+  - 🏥 Vigilancia de lesiones
+  - 📍 Ubicación: Brisbane (con estancias en clubes Super Rugby en NSW, ACT y WA)
+  - ⏳ Duración: Hasta 3 años (inicio 2025/2026)
+  - 👨‍🏫 Supervisor: Prof. Asociado Jonathon Weakley
+  - 💰 Financiamiento:
+    - Estipendio de A$33,511/año (libre de impuestos, indexado).
+    - Beca de matrícula (~A$30,000/año).
+    - Apoyo a la investigación aplicada con Rugby Australia.
+    - Subsidios de salud y reubicación para estudiantes internacionales.
+
+✅ Requisitos
+  - Interés en ciencia del deporte, nutrición o ciencia de datos.
+  - Formación en ejercicio, fisioterapia, nutrición o estadística.
+  - Experiencia con atletas de alto rendimiento.
+  - Conocimiento en software estadístico o programación (ej. RStudio).
+
+📝 Pasos para aplicar
+  - Contactar previamente al Prof. Jonathon Weakley 👉 jonathon.weakley@acu.edu.au
+  - Preparar la documentación requerida para el PhD en ACU.
+  - Incluir:
+    - CV académico y profesional.
+    - Carta de presentación con tu interés y experiencia.
+En el formulario, indicar el nombre del proyecto:
+  "Optimisation of training loads, injury surveillance, and nutritional support in professional rugby union players".
+  📅 Cierre de solicitudes: 3 de octubre de 2025.
+
+   `,
+
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Acu-north-sydney.jpg",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/supporting-professional-rugby-union-players",
+    pais: "Australia",
+    duracion: "Hasta 3 años",
+    fechaLimite: "2025-10-03",
+    imagenes: [
+      "https://cdn12.picryl.com/photo/2016/12/31/rugby-football-sport-sports-76d660-1024.jpg",
+      "https://live.staticflickr.com/3329/3575637293_e869bf0cf9_z.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
 ];
 
 export const categorias = [
