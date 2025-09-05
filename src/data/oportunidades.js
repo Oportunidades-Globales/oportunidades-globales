@@ -399,54 +399,6 @@ El proyecto, bajo la supervisión de Dra. Kristie Patricia Flannery, forma parte
       { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
     ]
   },
- {
-    id: 8,
-    categoria: "Beca",
-    titulo: "🌊 Beca de Doctorado en Historia del Colonialismo y Resistencia en Micronesia – ACU Melbourne",
-    descripcion: `La Australian Catholic University (ACU) ofrece una beca de doctorado a tiempo completo para investigar la historia del colonialismo y la resistencia en Micronesia y el Pacífico (1688–1990).
-
-El proyecto, bajo la supervisión de Dra. Kristie Patricia Flannery, forma parte de un equipo internacional financiado por el Australian Research Council (ARC), analizando la influencia de los imperios (España, Alemania, Japón y EE. UU.) en la región y la respuesta de sus pueblos.
-
-📍 Ubicación: ACU Melbourne
-⏳ Duración: Hasta 3.5 años (inicio en 2026)
-💰 Financiamiento:
-  - Estipendio de A$33,511/año (libre de impuestos, indexado).
-  - Bono adicional de A$10,000/año.
-  - Beca de matrícula (~A$30,000/año).
-  - Apoyo extra para viajes de campo y conferencias.
-  - Subsidios de salud y reubicación para estudiantes internacionales.
-
-✅ Requisitos
-  - Experiencia en investigación de archivos (presencial u online).
-  - Familiaridad con archivos coloniales españoles (preferible).
-  - Conocimiento de la bibliografía académica relevante.
-
-📝 Pasos para aplicar
-  - Contactar previamente a la Dra. Kristie Flannery 👉 kristie.flannery@acu.edu.au
-  - Reunir documentos de postulación al PhD en ACU (ver “How to Apply”).
-  - Incluir:
-    - CV con experiencia académica/práctica relevante.
-    - Carta de presentación con tu interés y experiencia.
-
-  - En el formulario, indicar que postulas también a la stipend scholarship y escribir el título del proyecto: “Pacific Powers: Imperial Competition and Cooperation in Micronesia”.
-  📅 Cierre de solicitudes: 1 de octubre de 2025.
-
-   `,
-
-    imagen: "https://live.staticflickr.com/1938/30716256757_928dc4d559_b.jpg",
-    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/pacific-powers",
-    pais: "Australia",
-    duracion: "3 - 4 años",
-    fechaLimite: "2025-10-01",
-    imagenes: [
-      "https://www.worldhistory.org/uploads/images/14373.png",
-      "https://upload.wikimedia.org/wikipedia/commons/0/09/Malinche_con_Cortes.JPG"
-    ],
-    videos: [
-      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
-      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
-    ]
-  },
   {
     id: 9,
     categoria: "Beca",
@@ -488,7 +440,7 @@ El proyecto busca mejorar el rendimiento, establecer estándares de referencia y
     sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/testing-and-profiling-of-australian-rugby-union-players",
     pais: "Australia",
     duracion: "3 - 4 años",
-    fechaLimite: "2025-10-01",
+    fechaLimite: "2025-10-03",
     imagenes: [
       "https://images.squarespace-cdn.com/content/v1/6376a8e47e45667316f33418/1707409065121-GUV0B9AVA3LFX2HC4I87/cm_20220526_predators%40Lions_3007.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/d/db/General_Rugby_Union_backplay.JPG"
