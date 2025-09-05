@@ -551,6 +551,95 @@ En el formulario, indicar el nombre del proyecto:
       { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
     ]
   },
+  {
+    id: 12,
+    categoria: "Beca",
+    titulo: "🎓 Beca de Doctorado en Justicia Social e Historia del Bienestar Infantil – ACU Ballarat",
+    descripcion: `La Australian Catholic University (ACU) ofrece una beca de doctorado a tiempo completo en colaboración con Child and Family Services (CAFS) Ballarat, para investigar la historia y el legado de los sistemas de bienestar infantil y contribuir al avance de la justicia social para sobrevivientes.
+
+El proyecto permitirá trabajar con la Prof. Nell Musgrove y con CAFS, explorando temas como:
+  - Historias y memorias de instituciones infantiles y cuidado de acogida.
+  - Archivos, memoria e identidad.
+  - Impacto histórico en prácticas profesionales actuales.
+  - Producción de resultados públicos (exposiciones, recursos educativos, publicaciones).
+
+📍 Ubicación: Campus Ballarat
+⏳ Duración: Hasta 3.5 años (inicio 2025)
+👩‍🏫 Supervisora: Prof. Nell Musgrove
+🤝 Socio comunitario: CAFS Ballarat
+💰 Financiamiento:
+  - Estipendio de A$33,511/año (libre de impuestos, indexado).
+  - Beca de matrícula (~A$30,000/año).
+  - 60 días de experiencia práctica con CAFS.
+  - Apoyos de salud y reubicación para estudiantes internacionales.
+
+📝 Requisitos de aplicación
+  - Interés en historia pública y académica.
+  - Enviar: CV, muestra escrita (1,500–2,500 palabras) y carta de motivación.
+  - Indicar en la solicitud el nombre del proyecto:
+  "Advancing social justice for survivors of historical child welfare systems".
+📅 Cierre: Abierto hasta adjudicación.
+📩 Contacto previo: benjamin.mountford@acu.edu.au
+
+   `,
+
+    imagen: "https://live.staticflickr.com/65535/52040775792_ef4687a7e9_b.jpg",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/advancing-social-justice",
+    pais: "Australia",
+    duracion: "3 - 4 años",
+    fechaLimite: "2025-12-31",
+    imagenes: [
+      "https://www.tierra.org/wp-content/uploads/2019/10/Tratado-de-Derechos-Humanos-y-Empresas.jpg",
+      "https://images.pexels.com/photos/6257074/pexels-photo-6257074.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 13,
+    categoria: "Beca",
+    titulo: "🌙 Beca de Doctorado en Visión Nocturna en el Mediterráneo Antiguo Tardío – ACU Melbourne",
+    descripcion: `La Australian Catholic University (ACU) ofrece dos becas de doctorado a tiempo completo como parte del proyecto financiado por el Consejo Australiano de Investigación (ARC): Visión Nocturna en el Mediterráneo Antiguo Tardío.
+
+Este proyecto busca reconstruir una nueva historia cultural de la noche, explorando la vigilia nocturna, la sociabilidad y las experiencias de grupos marginados en el Mediterráneo entre los siglos IV–VI. Los estudiantes desarrollarán sus propias líneas de investigación en áreas como:
+  - Clásicos y estudios bíblicos
+  - Judaísmo y Antigüedad Tardía
+  - Estudios bizantinos y del mundo antiguo
+
+📍 Ubicación: Campus Melbourne (con opción de otros campus)
+⏳ Duración: Hasta 3,5 años (inicio 2025)
+👩‍🏫 Supervisión: Dra. Kylie Crabbe y Dra. Sarah Gador-Whyte
+🤝 Investigación en el Instituto de Religión e Investigación Crítica (IRCI)
+💰 Financiamiento:
+  - Estipendio de A$33,511/año (libre de impuestos).
+  - Beca de matrícula (~A$30,000/año).
+  - 60 días de experiencia en investigación aplicada.
+  - Apoyos de salud y reubicación para estudiantes internacionales.
+
+📝 Requisitos de aplicación
+  - Enviar: CV + carta de motivación.
+  - Indicar el nombre del proyecto:
+  "Visión nocturna en el Mediterráneo antiguo tardío".
+📅 Cierre: Abierto hasta asignar las becas.
+📩 Contacto: sarah.gadorwhyte@acu.edu.au
+
+   `,
+
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/4/48/%281%29Mount_Royal_%28Australian_Catholic_University%29_Strathfield-1.jpg",
+    sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/night-vision",
+    duracion: "3 - 4 años",
+    fechaLimite: "2025-12-31",
+    imagenes: [
+      "https://images.pexels.com/photos/11696719/pexels-photo-11696719.jpeg",
+      "https://staging-jubilee.flickr.com/976/26979409047_f1a9f19a23_b.jpg"  
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
 ];
 
 export const categorias = [
