@@ -9,13 +9,13 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
     return oportunidades.filter(oportunidad => {
       // Filtro por categoría
       const coincideCategoria = categoriaActiva === 'todas' || 
-        oportunidad.categoria.toLowerCase() === categoriaActiva.toLowerCase();
+        (oportunidad.categoria && oportunidad.categoria.toLowerCase() === categoriaActiva.toLowerCase());
       
       // Filtro por búsqueda
       const coincideBusqueda = !busqueda || busqueda.trim() === '' || 
-        oportunidad.titulo.toLowerCase().includes(busqueda.toLowerCase()) ||
-        oportunidad.descripcion.toLowerCase().includes(busqueda.toLowerCase()) ||
-        oportunidad.pais.toLowerCase().includes(busqueda.toLowerCase());
+        (oportunidad.titulo && oportunidad.titulo.toLowerCase().includes(busqueda.toLowerCase())) ||
+        (oportunidad.descripcion && oportunidad.descripcion.toLowerCase().includes(busqueda.toLowerCase())) ||
+        (oportunidad.pais && oportunidad.pais.toLowerCase().includes(busqueda.toLowerCase()));
 
       return coincideCategoria && coincideBusqueda;
     });
