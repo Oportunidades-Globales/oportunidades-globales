@@ -1,6 +1,6 @@
 import React from 'react';
 import OportunidadCard from './OportunidadCard';
-// import GoogleAds from './GoogleAds'; // Temporalmente deshabilitado
+import GoogleAds from './GoogleAds';
 import { oportunidades } from '../data/oportunidades';
 
 const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
@@ -65,14 +65,14 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
           </h2>
         </div>
 
-        {/* Anuncio superior - Temporalmente deshabilitado hasta configurar unidades reales */}
-        {/* <div className="mb-8 flex justify-center">
+        {/* Anuncio superior */}
+        <div className="mb-8 flex justify-center">
           <GoogleAds 
             adSlot="1234567890" 
             adFormat="auto"
             className="max-w-full"
           />
-        </div> */}
+        </div>
 
         {/* Grid de oportunidades */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

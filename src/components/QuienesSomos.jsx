@@ -1,4 +1,5 @@
 import React from 'react';
+import GoogleAds from './GoogleAds';
 
 const QuienesSomos = () => {
   return (
@@ -111,8 +112,17 @@ const QuienesSomos = () => {
           </div>
         </div>
 
+        {/* Anuncio antes del Call to Action */}
+        <div className="mt-16 mb-8 flex justify-center">
+          <GoogleAds 
+            adSlot="1122334455" 
+            adFormat="auto"
+            className="max-w-full"
+          />
+        </div>
+
         {/* Call to Action */}
-        <div className="text-center mt-16">
+        <div className="text-center mt-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">
             ¿Listo para tu próxima oportunidad?
           </h2>
