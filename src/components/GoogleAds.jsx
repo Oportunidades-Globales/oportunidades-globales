@@ -39,6 +39,11 @@ const GoogleAds = ({
     );
   }
 
+  // Temporalmente ocultar anuncios en producción hasta que Google AdSense los apruebe
+  if (process.env.NODE_ENV === 'production') {
+    return null;
+  }
+
   return (
     <div className={`ads-container ${className}`} style={{ minHeight: '250px', minWidth: '300px' }}>
       <ins
