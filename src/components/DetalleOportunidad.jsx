@@ -60,6 +60,26 @@ const DetalleOportunidad = () => {
     };
   }, [imagenModal.abierto, cerrarImagenModal]);
 
+  // Función para navegar entre imágenes
+  const navegarImagen = useCallback((direccion) => {
+    if (!imagenModal.imagenes || imagenModal.imagenes.length <= 1) return;
+    
+    let nuevoIndice = imagenModal.indiceActual;
+    
+    if (direccion === 'anterior') {
+      nuevoIndice = nuevoIndice > 0 ? nuevoIndice - 1 : imagenModal.imagenes.length - 1;
+    } else if (direccion === 'siguiente') {
+      nuevoIndice = nuevoIndice < imagenModal.imagenes.length - 1 ? nuevoIndice + 1 : 0;
+    }
+    
+    setImagenModal(prev => ({
+      ...prev,
+      indiceActual: nuevoIndice,
+      imagen: prev.imagenes[nuevoIndice],
+      titulo: `Imagen ${nuevoIndice + 1}`
+    }));
+  }, [imagenModal.imagenes, imagenModal.indiceActual]);
+
   if (!oportunidad) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
@@ -81,28 +101,6 @@ const DetalleOportunidad = () => {
     if (oportunidad.sitioWeb) {
       window.open(oportunidad.sitioWeb, '_blank');
     }
-  };
-
-
-
-  // Función para navegar entre imágenes
-  const navegarImagen = (direccion) => {
-    if (!imagenModal.imagenes || imagenModal.imagenes.length <= 1) return;
-    
-    let nuevoIndice = imagenModal.indiceActual;
-    
-    if (direccion === 'anterior') {
-      nuevoIndice = nuevoIndice > 0 ? nuevoIndice - 1 : imagenModal.imagenes.length - 1;
-    } else if (direccion === 'siguiente') {
-      nuevoIndice = nuevoIndice < imagenModal.imagenes.length - 1 ? nuevoIndice + 1 : 0;
-    }
-    
-    setImagenModal(prev => ({
-      ...prev,
-      indiceActual: nuevoIndice,
-      imagen: prev.imagenes[nuevoIndice],
-      titulo: `Imagen ${nuevoIndice + 1}`
-    }));
   };
 
   // Función para abrir el modal de imagen
