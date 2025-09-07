@@ -676,7 +676,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
 
    `,
 
-    imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iatitravelinsurance.com%2Fmx%2Fblog%2Fque-ver-china%2F&psig=AOvVaw0ZX8OIVEHTZaJW5TCJFddY&ust=1757297489001000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjSwLnJxY8DFQAAAAAdAAAAABAE",
+    imagen: "https://fund.ar/wp-content/uploads/2023/01/PortadaChina.jpg",
     sitioWeb: "https://iaeste.org/internships/cn-2025-00058",
     pais: "China",
     duracion: "12 - 24 semanas",
@@ -727,7 +727,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
 
    `,
 
-    imagen: "https://media.grandvoyage.com/__sized__/voyages/6_Viaje_a_Arabia_saudita_en_11_dias__museos_y_montanas-thumbnail_webp-1920x960.webp",
+    imagen: "https://www.readyeducation.com/img/containers/images/success-stories/kaust/1000x500px-%28main-image%29_.jpg/c646788120edf9102d7af0a59638f00c/1000x500px-%28main-image%29_.webp",
     sitioWeb: "https://iaeste.org/internships/sa-2025-01",
     pais: "Arabia Saudita",
     duracion: "8 - 24 semanas",
@@ -832,6 +832,56 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
       { titulo: "IAESTE", url: "https://www.instagram.com/iaeste_official", plataforma: "Instagram" }
     ]
   },
+  {
+    id: 18,
+    categoria: "Trabajo",
+    titulo: "💼 Pasantía en Desarrollo de Negocios – Reino Unido",
+    descripcion: `¿Quieres combinar tu formación en ingeniería con el mundo de los negocios y las ventas? Esta pasantía en Reino Unido es una excelente oportunidad para adquirir experiencia en desarrollo comercial en industrias de alto perfil como la aeroespacial, automotriz, energética y de manufactura avanzada.
+
+📌 Detalles de la pasantía:
+  - Ubicación: Reino Unido
+  - Duración: 12 meses (noviembre 2025 – noviembre 2026)
+  - Áreas: Ingeniería Mecánica, Eléctrica, Aeroespacial + Negocios/Ventas
+  - Salario: 1350 GBP/mes
+  - Costo de vida estimado: 1350 GBP/mes (alojamiento aprox. 850 GBP)
+  - Ambiente: Trabajo de oficina
+
+💼 Responsabilidades:
+  - Establecer y mantener relaciones con clientes actuales.
+  - Identificar y conectar con clientes potenciales (LinkedIn, ferias y networking).
+  - Representar a la empresa en conferencias y eventos del sector.
+  - Colaborar con los equipos de ingeniería y ventas para comunicar el valor de los servicios técnicos.
+  - Apoyar tareas administrativas en desarrollo de negocios.
+  - Dar seguimiento a clientes y recopilar feedback.
+
+🎯 Requisitos:
+  - Estudiante de último año o recién graduado en electrónica, ingeniería o campo afín.
+  - Interés en ventas y desarrollo de negocios.
+  - Inglés intermedio (B1–B2).
+  - Habilidades de comunicación, proactividad y motivación.
+
+
+📅 Fechas:
+  - Inicio: 03/11/2025
+  - Fin: 02/11/2026
+  - Cierre de aplicaciones: abierto hasta cubrirse
+
+   `,
+
+    imagen: "https://admision.pucp.edu.pe/sites/default/files/2024-03/PORTADA_ING-MECANICA_0.png",
+    sitioWeb: "https://iaeste.org/internships/gb-2026-res-01/about",
+    pais: "Reino Unido",
+    duracion: "12 meses",
+    fechaLimite: "2025-09-16",
+    imagenes: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bomba_de_Calor.jpg/330px-Bomba_de_Calor.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "IAESTE", url: "https://www.instagram.com/iaeste_official", plataforma: "Instagram" }
+    ]
+  },
+
 ];
 
 export const categorias = [
