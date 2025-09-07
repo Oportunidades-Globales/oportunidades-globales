@@ -630,6 +630,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
     imagen: "https://upload.wikimedia.org/wikipedia/commons/4/48/%281%29Mount_Royal_%28Australian_Catholic_University%29_Strathfield-1.jpg",
     sitioWeb: "https://www.acu.edu.au/research-and-enterprise/graduate-research-school/scholarships/night-vision",
     duracion: "3 - 4 años",
+    pais: "Australia",
     fechaLimite: "2025-12-31",
     imagenes: [
       "https://images.pexels.com/photos/11696719/pexels-photo-11696719.jpeg",
@@ -638,6 +639,197 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
     videos: [
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "Australian Catholic University", url: "https://www.instagram.com/acuimages/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 14,
+    categoria: "Trabajo",
+    titulo: "🌏 Pasantía en Ingeniería Mecánica y Mecatrónica – China",
+    descripcion: `La IAESTE ofrece una oportunidad única de pasantía presencial en China para estudiantes de Ingeniería Mecánica, Mecatrónica, Robótica o Automatización.
+
+📌 Detalles de la pasantía:
+  - Duración: 12–24 semanas (15.09.2025 – 28.02.2026)
+  - Ubicación: China (oficina)
+  - Salario: 3000 CNY/mes
+  - Alojamiento: Departamento cubierto (0 CNY/mes)
+  - Costo de vida estimado: 2000 CNY/mes
+
+💼 Responsabilidades:
+  - Apoyo en el desarrollo y optimización de procesos de fabricación.
+  - Análisis de datos para identificar mejoras.
+  - Resolución de problemas en producción.
+  - Participación en iniciativas de mejora continua (Lean Manufacturing, Six Sigma).
+  - Manejo de herramientas y sistemas de automatización.
+
+🎯 Requisitos:
+  - Inglés excelente (C1-C2).
+  - Al menos 2 años de estudios completados en un área afín.
+  - Conocimientos básicos en procesos y equipos de manufactura.
+  - Capacidad para interpretar planos técnicos.
+  - Habilidades de comunicación y trabajo en equipo.
+
+✅ Pasos para aplicar:
+  - Busca y regístrate en la plataforma IAESTE.
+  - Contacta a tu comité nacional para guiar tu aplicación.
+  - Espera la aceptación del empleador.
+  - ¡Realiza tu pasantía en China!
+
+   `,
+
+    imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iatitravelinsurance.com%2Fmx%2Fblog%2Fque-ver-china%2F&psig=AOvVaw0ZX8OIVEHTZaJW5TCJFddY&ust=1757297489001000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjSwLnJxY8DFQAAAAAdAAAAABAE",
+    sitioWeb: "https://iaeste.org/internships/cn-2025-00058",
+    pais: "China",
+    duracion: "12 - 24 semanas",
+    fechaLimite: "2025-09-27",
+    imagenes: [
+      "https://www.ingenieria.unam.mx/programas_academicos/images/carreras/mecanica_01.jpg",
+      "https://blogs.unitec.mx/hubfs/Imported_Blog_Media/cual-es-el-campo-laboral-de-la-ingenieria-mecanica-2-compressor-Dec-17-2022-07-30-58-3410-PM.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "IAESTE", url: "https://www.instagram.com/iaeste_official", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 15,
+    categoria: "Trabajo",
+    titulo: "🔬 Pasantía en Bioinformática y Ciencias Biomédicas – KAUST, Arabia Saudita",
+    descripcion: `La King Abdullah University of Science and Technology (KAUST) abre su Programa de Investigación para Estudiantes Visitantes (VSRP), una oportunidad única de investigación científica en un campus internacional de excelencia.
+
+📌 Detalles de la pasantía:
+  - Ubicación: KAUST, Arabia Saudita
+  - Duración: 8–24 semanas (entre oct. 2025 – jun. 2026)
+  - Áreas: Bioinformática, Biología, Ciencias Biomédicas, Bioquímica
+  - Salario: 1000 USD/mes
+  - Financiamiento: Incluye vuelos, alojamiento, seguro médico y reembolso de visa
+  - Costo de vida: ~800 USD/mes (cubierto por el estipendio)
+
+💼 Responsabilidades:
+  - Participar en proyectos de investigación en laboratorios de vanguardia.
+  - Trabajar bajo la mentoría de profesores internacionales.
+  - Contribuir en proyectos como:
+    - Resistencia bacteriana a antimicrobianos.
+    - Neurodegeneración y función lisosomal.
+    - Inmunología molecular.
+    - Simbiosis y blanqueamiento de corales.
+
+🎯 Requisitos:
+  - Estar cursando o haber completado al menos 2 años de estudios en áreas afines.
+  - Inglés avanzado (C1-C2).
+  - Experiencia previa en investigación deseable.
+  - Trabajo en equipo y disposición para un entorno internacional.
+
+✅ Pasos para aplicar:
+  - Regístrate en la plataforma IAESTE.
+  - Contacta a tu comité nacional para guiar tu solicitud.
+  - Espera la aceptación de KAUST.
+  - ¡Vive tu experiencia en Arabia Saudita!
+
+   `,
+
+    imagen: "https://media.grandvoyage.com/__sized__/voyages/6_Viaje_a_Arabia_saudita_en_11_dias__museos_y_montanas-thumbnail_webp-1920x960.webp",
+    sitioWeb: "https://iaeste.org/internships/sa-2025-01",
+    pais: "Arabia Saudita",
+    duracion: "8 - 24 semanas",
+    fechaLimite: "2025-09-27",
+    imagenes: [
+      "https://cemp.es/wp-content/uploads/2024/09/tipos-bioinformatica.jpg.webp",
+      "https://www.unitec.mx/hs-fs/hubfs/01.UNITEC/2025/05/ingenier%C3%ADa-biom%C3%A9dica-joven-con-pr%C3%B3tesis.jpg?width=1280&height=720&name=ingenier%C3%ADa-biom%C3%A9dica-joven-con-pr%C3%B3tesis.jpg",
+      "https://www.readyeducation.com/img/containers/images/success-stories/kaust/1000x500px-%28main-image%29_.jpg/c646788120edf9102d7af0a59638f00c/1000x500px-%28main-image%29_.webp"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "IAESTE", url: "https://www.instagram.com/iaeste_official", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 16,
+    categoria: "Trabajo",
+    titulo: "🥔 Pasantía en Ciencia de los Alimentos – Suiza",
+    descripcion: `¿Quieres vivir una experiencia internacional en la industria alimentaria? La marca líder de snacks salados en Suiza, Zweifel, abre pasantías en control de calidad y desarrollo de proyectos.
+
+📌 Detalles de la pasantía:
+  - Ubicación: Suiza
+  - Duración: 26–35 semanas (feb. – sept. 2026)
+  - Área: Ciencia de los Alimentos
+  - Salario: 3000 CHF/mes (menos 10% de seguridad social)
+  - Costo de vida estimado: 1650 CHF/mes (alojamiento aprox. 850 CHF)
+  - Ambiente: Investigación y desarrollo
+
+💼 Responsabilidades:
+  - Control de calidad en producción de snacks (contenido de sal, humedad, aceite, envasado).
+  - Supervisión de materias primas y producto final.
+  - Análisis de laboratorio (ej. determinación de azúcares en patatas).
+  - Colaboración en proyectos de innovación.
+
+🎯 Requisitos:
+  - Estudiante de Ciencia de los Alimentos con mínimo 1.5 años de estudios completados.
+  - Inglés avanzado (C1-C2).
+  - Persona proactiva y con capacidad de trabajo en equipo.
+  - Para estudiantes fuera de la UE/AELC: carta oficial de su universidad confirmando que la práctica es obligatoria.
+
+✅ Pasos para aplicar:
+  - Regístrate en la plataforma IAESTE.
+  - Contacta a tu comité nacional para guiar tu solicitud.
+  - Espera la aceptación del empleador.
+  - ¡Vive tu experiencia profesional en Suiza!
+
+   `,
+
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_j4X4s8icTrZNVKoY-Rdodp0gINRRJnz4A&s",
+    sitioWeb: "https://iaeste.org/internships/ch-2025-000252",
+    pais: "Suiza",
+    duracion: "26 - 35 semanas",
+    fechaLimite: "2025-09-12",
+    imagenes: [
+      "https://images.griddo.universitatcarlemany.com/descubre-la-bromatologia-la-ciencia-de-los-alimentos",
+      "https://media.scoolinary.app/blog/images/2021/02/ciencia_de_los_alimentos1.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "IAESTE", url: "https://www.instagram.com/iaeste_official", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 17,
+    categoria: "Trabajo",
+    titulo: "🌱 Pasantía en Horticultura – Suiza",
+    descripcion: `¿Quieres vivir una experiencia internacional en agricultura y horticultura aplicada? Esta empresa suiza, con más de 100 años de tradición familiar, abre sus puertas a estudiantes para una pasantía práctica en el cultivo de plantas ornamentales, frutales y arbustos.
+
+📌 Detalles de la pasantía:
+  - Ubicación: Suiza
+  - Duración: 40–52 semanas (marzo 2026 – febrero 2027)
+  - Área: Agricultura / Horticultura aplicada
+  - Salario: 2426 CHF/mes (menos 10% seguridad social)
+  - Costo de vida estimado: 1200 CHF/mes (alojamiento aprox. 420 CHF)
+  - Ambiente: Trabajo de campo
+
+💼 Responsabilidades:
+  - Producción y cuidado de plantas ornamentales, frutales, arbustos y rosales.
+  - Propagación manual y con maquinaria.
+  - Poda, injertos, modelado y técnicas de topiaria.
+  - Teoría del sustrato, riego y protección invernal.
+  - Control de calidad, etiquetado y preparación de pedidos.
+
+🎯 Requisitos:
+  - Estudiante de Agricultura / Horticultura con mínimo 2 años de estudios completados.
+  - Inglés o alemán intermedio (B1-B2).
+  - Buena condición física.
+  - Para estudiantes fuera de la UE/AELC: carta oficial de su universidad confirmando que la práctica es obligatoria.
+📅 Fecha límite de aplicación: 12 de septiembre de 2025
+   `,
+
+    imagen: "https://lindafazenda.com/wp-content/uploads/2023/06/Agricultura-1024x683.jpg",
+    sitioWeb: "https://iaeste.org/internships/ch-2025-000248",
+    pais: "Suiza",
+    duracion: "40 - 52 semanas",
+    fechaLimite: "2025-09-12",
+    imagenes: [
+      "https://youth.europa.eu/sites/default/files/styles/1260x630/public/article/iaeste.jpg?itok=bZjlDDgF"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "IAESTE", url: "https://www.instagram.com/iaeste_official", plataforma: "Instagram" }
     ]
   },
 ];
