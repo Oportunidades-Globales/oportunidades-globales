@@ -881,6 +881,52 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
       { titulo: "IAESTE", url: "https://www.instagram.com/iaeste_official", plataforma: "Instagram" }
     ]
   },
+  {
+    id: 19,
+    categoria: "Beca",
+    titulo: "🌎 Diplomado en Cooperación Internacional – Becas OEI/ICETEX",
+    descripcion: `¿Quieres formarte en cooperación internacional para el desarrollo y acceder a una beca completa? La Organización de Estados Iberoamericanos (OEI) y el ICETEX ofrecen 41 becas para colombianos interesados en fortalecer sus conocimientos en este campo clave para la transformación social.
+
+📌 Detalles principales:
+  - Modalidad: Virtual – Asincrónico
+  - Duración: 400 horas (03/11/2025 – 30/06/2026)
+  - Idioma: Español
+  - Certificación: FLACSO Chile
+  - Cierre de convocatoria: 28/09/2025 – 11:59 p.m.
+  - Cobertura: 100% del costo del curso
+
+🎯 Requisitos principales:
+  - Ser colombiano (18 a 65 años).
+  - Estudios finalizados en técnico, tecnólogo o pregrado.
+  - Promedio académico mínimo 3,7/5.
+  - Documentación completa: cédula, certificados académicos y laborales, carta de compromiso, certificado de residencia, entre otros.
+
+✅ Beneficios:
+  - Acceso gratuito al diplomado virtual.
+  - Formación especializada en cooperación internacional y desarrollo.
+  - Certificado emitido por FLACSO Chile y avalado por la OEI.
+
+📅 Cómo aplicar:
+  - Revisa los requisitos en la convocatoria del ICETEX.
+  - Prepara y sube la documentación en la plataforma oficial.
+  - Espera los resultados por correo electrónico.
+
+   `,
+
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Edificio_institucional_FLACSO-Chile_-_panoramio.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/2025-diplomado-cooperacion-internacional-desarrollo-flacso-chile-ibf-oei",
+    pais: "Colombia",
+    duracion: "7 meses",
+    fechaLimite: "2025-09-28",
+    imagenes: [
+      "https://live.staticflickr.com/5622/21866777535_46c3ebc136_b.jpg",
+      "https://dialogue.earth/content/uploads/2023/03/20230302_Lula-en-el-cierre-de-su-campana-Sep-2022_Oliver-Kornblihtt_Midia-NINJA-v2-scaled-e1677776787800-1440x720-1.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
 
 ];
 
