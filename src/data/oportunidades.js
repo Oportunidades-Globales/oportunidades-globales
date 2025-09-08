@@ -915,7 +915,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
 
     imagen: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Edificio_institucional_FLACSO-Chile_-_panoramio.jpg",
     sitioWeb: "https://web.icetex.gov.co/es/-/2025-diplomado-cooperacion-internacional-desarrollo-flacso-chile-ibf-oei",
-    pais: "Colombia",
+    pais: "Chile",
     duracion: "7 meses",
     fechaLimite: "2025-09-28",
     imagenes: [
@@ -927,7 +927,101 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
       { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
     ]
   },
+  {
+    id: 20,
+    categoria: "Beca",
+    titulo: "🎨 Diplomado en Educación Artística del Presente – Becas OEI/ICETEX",
+    descripcion: `¿Te interesa la educación artística como motor de transformación social? La OEI y el ICETEX ofrecen 41 becas completas para colombianos que deseen cursar el Diplomado en Educación Artística del Presente, avalado por la Universidad de Talca y el Instituto Iberoamericano de Formación.
 
+📌 Detalles principales:
+Modalidad: Virtual – Asincrónico
+  - Duración: 300 horas (03/11/2025 – 30/05/2026)
+  - Idioma: Español
+  - Certificación: Universidad de Talca
+  - Cierre de convocatoria: 28/09/2025 – 11:59 p.m.
+  - Cobertura: 100% del costo del curso
+
+🎯 Requisitos principales:
+  - Ser colombiano (18–65 años).
+  - Técnico, tecnólogo o pregrado finalizado en áreas afines: pedagogía, artes visuales, comunicación, humanidades, etc.
+  - Promedio académico mínimo de 3,7/5.
+  - Documentación completa: cédula, certificados académicos y laborales, carta de compromiso, certificado socioeconómico, residencia, entre otros.
+
+✅ Beneficios:
+  - Acceso gratuito al diplomado virtual.
+  - Formación especializada en educación artística iberoamericana.
+  - Certificado emitido por la Universidad de Talca y avalado por la OEI.
+
+📅 Cómo aplicar:
+  - Revisa requisitos en la convocatoria del ICETEX.
+  - Prepara y sube la documentación solicitada en la plataforma oficial.
+  - Espera los resultados por correo electrónico.
+
+   `,
+
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo-utalca.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/diplomado-educacion-artistica-talca-iberoamericano",
+    pais: "Chile",
+    duracion: "7 meses",
+    fechaLimite: "2025-09-28",
+    imagenes: [
+      "https://live.staticflickr.com/4880/46331097932_8474eba8b4_b.jpg",
+      "https://live.staticflickr.com/4217/34214519954_268f2b1b1e_b.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 21,
+    categoria: "Beca",
+    titulo: "🎓 Beca de alojamiento en Madrid – Colegio Mayor Miguel Antonio Caro",
+    descripcion: `El ICETEX ofrece 36 becas de alojamiento en Madrid 🇪🇸 para estudiantes colombianos/as de maestría o doctorado. Incluyen habitación individual amoblada, desayuno diario y servicios públicos por 10 meses (octubre 2025 – julio 2026).
+
+📅 Cierre de convocatoria: 12 de septiembre de 2025 (5:00 p.m.).
+
+✅ Requisitos principales:
+  - Ser colombiano/a entre 21 y 45 años.
+  - Tener título universitario de pregrado o posgrado.
+  - Contar con admisión definitiva en una maestría o doctorado presencial en Madrid (programa oficial).
+  - Promedio mínimo de 4.0/5.0 en pregrado o posgrado.
+  - No tener deudas en mora con ICETEX.
+  - Contar con pasaporte vigente, visa de estudiante o NIE, y seguro médico internacional válido durante toda la estancia.
+
+  📝 Documentos clave:
+  - Cédula de ciudadanía.
+  - Pasaporte vigente.
+  - Visa de estudiante/NIE.
+  - Seguro médico internacional.
+  - Carta de admisión definitiva de la universidad.
+  - Título universitario y certificado de notas.
+  - Certificado SISBEN IV o factura de servicios públicos (estrato socioeconómico).
+  - Certificado de residencia en Colombia.
+
+🚀 Pasos para aplicar:
+  - Reúne y escanea en PDF todos los documentos exigidos.
+  - Ingresa a la plataforma del ICETEX (Ventanilla Digital).
+  - Completa el formulario de postulación y adjunta los documentos.
+  - Envía la solicitud antes del 12 de septiembre de 2025.
+  - Espera resultados de la Comisión Nacional de Becas vía correo electrónico.
+
+   `,
+
+    imagen: "https://www.ucm.es/tribunacomplutense/media/images/galeriaimagenes/7066.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/becas-alojamiento-colegio-mayor-miguel-antonio-caro-madrid",
+    pais: "España",
+    duracion: "10 meses",
+    fechaLimite: "2025-09-12",
+    imagenes: [
+      "https://www.wradio.com.co/resizer/v2/6VK7WLO5MJHH7CAVPHQI7K7QG4.png?auth=aa0d1a24cbf86a32f80b3079b5d3e7735b531da2d33d6218306636fc40233637&width=650&height=488&quality=70&smart=true",
+      "https://www.innovamos.gov.co/sites/default/content/files/000133/6612_beca-cupos-en-las-residencias-del-colegio-mayor-miguel-801697_1024x576.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
 ];
 
 export const categorias = [
