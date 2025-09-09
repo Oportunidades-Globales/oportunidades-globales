@@ -67,28 +67,28 @@ const Footer = () => {
           <p className="text-gray-400">
             © 2025 Oportunidades Globales. Todos los derechos reservados.
           </p>
-          <div className="mt-2 flex justify-center space-x-6 text-sm text-gray-400">
+          <div className="mt-2 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm text-gray-400">
             <button 
               onClick={() => window.location.href = '/politica-privacidad'}
-              className="hover:text-white transition-colors duration-200 cursor-pointer"
+              className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               Política de Privacidad
             </button>
             <button 
               onClick={() => window.location.href = '/terminos-servicio'}
-              className="hover:text-white transition-colors duration-200 cursor-pointer"
+              className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               Términos de Servicio
             </button>
             <button 
               onClick={() => window.location.href = '/cookies'}
-              className="hover:text-white transition-colors duration-200 cursor-pointer"
+              className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               Cookies
             </button>
             <button 
               onClick={() => window.location.href = '/quienes-somos'}
-              className="hover:text-white transition-colors duration-200 cursor-pointer"
+              className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               ¿Quiénes somos?
             </button>
@@ -99,7 +99,7 @@ const Footer = () => {
                 localStorage.removeItem('cookieConsentDate');
                 window.location.reload();
               }}
-              className="hover:text-white transition-colors duration-200 cursor-pointer"
+              className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               Gestionar Cookies
             </button>

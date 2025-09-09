@@ -959,7 +959,7 @@ Modalidad: Virtual – Asincrónico
 
    `,
 
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo-utalca.jpg",
+    imagen: "https://www.diarioelcentro.cl/wp-content/uploads/2023/01/Universidad-de-Talca-99.png",
     sitioWeb: "https://web.icetex.gov.co/es/-/diplomado-educacion-artistica-talca-iberoamericano",
     pais: "Chile",
     duracion: "7 meses",
