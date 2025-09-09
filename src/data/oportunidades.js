@@ -915,7 +915,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
 
     imagen: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Edificio_institucional_FLACSO-Chile_-_panoramio.jpg",
     sitioWeb: "https://web.icetex.gov.co/es/-/2025-diplomado-cooperacion-internacional-desarrollo-flacso-chile-ibf-oei",
-    pais: "Chile",
+    pais: "Colombia",
     duracion: "7 meses",
     fechaLimite: "2025-09-28",
     imagenes: [
@@ -934,7 +934,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
     descripcion: `¿Te interesa la educación artística como motor de transformación social? La OEI y el ICETEX ofrecen 41 becas completas para colombianos que deseen cursar el Diplomado en Educación Artística del Presente, avalado por la Universidad de Talca y el Instituto Iberoamericano de Formación.
 
 📌 Detalles principales:
-Modalidad: Virtual – Asincrónico
+  - Modalidad: Virtual – Asincrónico
   - Duración: 300 horas (03/11/2025 – 30/05/2026)
   - Idioma: Español
   - Certificación: Universidad de Talca
@@ -961,7 +961,7 @@ Modalidad: Virtual – Asincrónico
 
     imagen: "https://www.diarioelcentro.cl/wp-content/uploads/2023/01/Universidad-de-Talca-99.png",
     sitioWeb: "https://web.icetex.gov.co/es/-/diplomado-educacion-artistica-talca-iberoamericano",
-    pais: "Chile",
+    pais: "Colombia",
     duracion: "7 meses",
     fechaLimite: "2025-09-28",
     imagenes: [
@@ -1016,6 +1016,635 @@ Modalidad: Virtual – Asincrónico
     imagenes: [
       "https://www.wradio.com.co/resizer/v2/6VK7WLO5MJHH7CAVPHQI7K7QG4.png?auth=aa0d1a24cbf86a32f80b3079b5d3e7735b531da2d33d6218306636fc40233637&width=650&height=488&quality=70&smart=true",
       "https://www.innovamos.gov.co/sites/default/content/files/000133/6612_beca-cupos-en-las-residencias-del-colegio-mayor-miguel-801697_1024x576.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 21,
+    categoria: "Beca",
+    titulo: "🎓 Beca de alojamiento en Madrid – Colegio Mayor Miguel Antonio Caro",
+    descripcion: `El ICETEX ofrece 36 becas de alojamiento en Madrid 🇪🇸 para estudiantes colombianos/as de maestría o doctorado. Incluyen habitación individual amoblada, desayuno diario y servicios públicos por 10 meses (octubre 2025 – julio 2026).
+
+📅 Cierre de convocatoria: 12 de septiembre de 2025 (5:00 p.m.).
+
+✅ Requisitos principales:
+  - Ser colombiano/a entre 21 y 45 años.
+  - Tener título universitario de pregrado o posgrado.
+  - Contar con admisión definitiva en una maestría o doctorado presencial en Madrid (programa oficial).
+  - Promedio mínimo de 4.0/5.0 en pregrado o posgrado.
+  - No tener deudas en mora con ICETEX.
+  - Contar con pasaporte vigente, visa de estudiante o NIE, y seguro médico internacional válido durante toda la estancia.
+
+  📝 Documentos clave:
+  - Cédula de ciudadanía.
+  - Pasaporte vigente.
+  - Visa de estudiante/NIE.
+  - Seguro médico internacional.
+  - Carta de admisión definitiva de la universidad.
+  - Título universitario y certificado de notas.
+  - Certificado SISBEN IV o factura de servicios públicos (estrato socioeconómico).
+  - Certificado de residencia en Colombia.
+
+🚀 Pasos para aplicar:
+  - Reúne y escanea en PDF todos los documentos exigidos.
+  - Ingresa a la plataforma del ICETEX (Ventanilla Digital).
+  - Completa el formulario de postulación y adjunta los documentos.
+  - Envía la solicitud antes del 12 de septiembre de 2025.
+  - Espera resultados de la Comisión Nacional de Becas vía correo electrónico.
+
+   `,
+
+    imagen: "https://www.ucm.es/tribunacomplutense/media/images/galeriaimagenes/7066.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/becas-alojamiento-colegio-mayor-miguel-antonio-caro-madrid",
+    pais: "España",
+    duracion: "10 meses",
+    fechaLimite: "2025-09-12",
+    imagenes: [
+      "https://www.wradio.com.co/resizer/v2/6VK7WLO5MJHH7CAVPHQI7K7QG4.png?auth=aa0d1a24cbf86a32f80b3079b5d3e7735b531da2d33d6218306636fc40233637&width=650&height=488&quality=70&smart=true",
+      "https://www.innovamos.gov.co/sites/default/content/files/000133/6612_beca-cupos-en-las-residencias-del-colegio-mayor-miguel-801697_1024x576.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 22,
+    categoria: "Beca",
+    titulo: "🎓 Becas del 70% para Maestrías Online – Broward International University (EE.UU.)",
+    descripcion: `La Broward International University (Miami, EE. UU.) ofrece becas del 70% para maestrías online en español, en áreas de negocios, educación, tecnología e innovación. Una oportunidad única para obtener un título oficial estadounidense desde Colombia y fortalecer tu perfil profesional a nivel internacional.
+
+📌 Detalles principales
+- Universidad: Broward International University (Miami, USA)
+- Modalidad: Online – en español
+- Duración: 18 meses (Oct 2025 – Mar 2027)
+- Título: Oficial USA Degree
+- Cierre convocatoria: 15 de septiembre 2025 (5:00 p.m.)
+- Cobertura: 70% del valor de matrícula
+- Áreas: Educación, Administración de Negocios, Marketing Digital, Inteligencia Artificial, Ingeniería de Software y más.
+
+✅ Beneficios
+- Becas del 70% en matrícula
+- Maestrías oficiales con título en EE.UU.
+- Estudia 100% online en español
+- Amplia variedad de especializaciones
+
+🎯 Requisitos
+- Ser colombiano, entre 21 y 65 años
+- Título universitario de pregrado
+- Promedio mínimo 4.0/5.0
+- Experiencia laboral mínima: 2 años
+- Contar con admisión definitiva en BIU
+
+📅 Pasos para aplicar
+- Obtener la carta de admisión en Broward International University
+- Reunir documentos: título, notas, cédula, experiencia laboral, certificado socioeconómico
+- Postularse en la plataforma de ICETEX antes del 15/09/2025
+- Esperar resultados vía correo electrónico
+
+   `,
+
+    imagen: "https://cdntrust.s3.us-east-2.amazonaws.com/images/4026ffc1-3557-4ebc-8736-d9af7ed88ef7.jfif",
+    sitioWeb: "https://web.icetex.gov.co/es/-/2025-becas-del-70-maestrias-online-en-la-universidad-broward-international-university",
+    pais: "Colombia",
+    duracion: "18 meses",
+    fechaLimite: "2025-09-15",
+    imagenes: [
+      "https://fcqudec.cl/wp-content/uploads/2024/04/WhatsApp-Image-2024-03-27-at-15.52.57.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 23,
+    categoria: "Beca",
+    titulo: "🌎 Becas 100% para Maestrías Online en BIU – Estados Unidos",
+    descripcion: `La Broward International University (Miami, EE. UU.) abre 8 becas completas para que profesionales colombianos cursen maestrías online en áreas de negocios, educación e ingeniería. Una gran oportunidad de obtener un título oficial de EE. UU. desde Colombia.
+
+📌 Programas disponibles:
+- MBA con énfasis en Emprendimiento
+- MBA en Transformación Digital y Desarrollo de Negocios
+- Maestría en Educación Virtual (Liderazgo y Sostenibilidad)
+- Maestría en Ingeniería de Software
+
+✅ Beneficios:
+- Cobertura del 100% de matrícula
+- Título oficial de EE. UU. (USA Degree)
+- Modalidad 100% online en español
+- Duración: 18 meses (Oct. 2025 – Mar. 2027)
+
+🎯 Requisitos principales:
+- Ser colombiano (21 a 65 años).
+- Título universitario de pregrado reconocido en Colombia.
+- Promedio mínimo: 4,2/5,0.
+- Mínimo 24 meses de experiencia profesional en el área.
+- Carta de admisión definitiva de BIU al programa elegido.
+- Documentación oficial: notas, experiencia laboral, cédula y certificado socioeconómico.
+
+📅 Fechas clave:
+- Apertura: 15 de agosto 2025
+- Cierre: 15 de septiembre 2025 – 5:00 p.m.
+- Comisión Nacional de Becas: 30 de septiembre 2025
+
+👉 Pasos para aplicar:
+- Gestiona tu admisión en BIU al programa de tu interés (admissions@biu.us).
+- Reúne la documentación oficial (título, notas, experiencia laboral, certificado socioeconómico, cédula).
+- Sube todos los documentos en PDF a la plataforma de ICETEX antes del cierre.
+- Espera los resultados de la Comisión Nacional de Becas vía correo electrónico.
+
+   `,
+
+    imagen: "https://cdntrust.s3.us-east-2.amazonaws.com/images/4026ffc1-3557-4ebc-8736-d9af7ed88ef7.jfif",
+    sitioWeb: "https://web.icetex.gov.co/es/-/becas-maestrias-online-broward-2025",
+    pais: "Colombia",
+    duracion: "18 meses",
+    fechaLimite: "2025-09-15",
+    imagenes: [
+      "https://cdntrust.s3.us-east-2.amazonaws.com/images/4026ffc1-3557-4ebc-8736-d9af7ed88ef7.jfif"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 24,
+    categoria: "Beca",
+    titulo: "🌍 Curso en India: Remote Sensing of Geological Hazards",
+    descripcion: `El Gobierno de la India ofrece becas completas para un curso presencial de 2 semanas en el Indian Institute of Remote Sensing (Dehradun). Está dirigido a profesionales colombianos que deseen fortalecer sus conocimientos en teledetección y SIG aplicados a riesgos geológicos como deslizamientos, avalanchas o sismos.
+
+📌 Detalles principales:
+- Duración: 27 oct – 7 nov 2025 (2 semanas)
+- Lugar: Dehradun, India
+- Idioma: Inglés
+- Certificación: Indian Institute of Remote Sensing
+- Cierre convocatoria: 12 sept 2025
+- Resultados Comisión Nacional de Becas: 25 sept 2025
+
+✅ Beneficios:
+- 100% matrícula cubierta
+- Pasajes aéreos ida y regreso en clase económica
+- Alojamiento en hostal/hotel (cubierto por el Gobierno de India)
+- Estipendio diario (1200–1500 rupias)
+- Materiales, visitas de estudio y libros incluidos
+- Visa gratuita emitida por la Embajada de India
+
+🎯 Requisitos principales:
+- Ser profesional colombiano (25 a 45 años).
+- Título universitario de pregrado en área relacionada.
+- Promedio mínimo: 3,7/5,0.
+- Mínimo 5 años de experiencia profesional en el área.
+- Nivel de inglés B2 acreditado (IELTS, TOEFL, Cambridge, Duolingo, MET o Aptis).
+- Pasaporte vigente al momento de viajar.
+- No estar en mora con ICETEX.
+
+📅 Pasos para aplicar:
+- Diligencia el formulario ITEC (en inglés) del Gobierno de la India.
+- Reúne los documentos: título, notas, experiencia laboral, certificado de inglés, cédula.
+- Sube la documentación en PDF a la plataforma de ICETEX antes del cierre.
+- Si eres preseleccionado, entrega originales en la Embajada de India en Bogotá.
+- Espera resultados oficiales por correo electrónico.
+   `,
+
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGz4Iv0VXsf_Oxz1QBIfiQPGqqhsJ5swIYw&s",
+    sitioWeb: "https://web.icetex.gov.co/es/-/2025-remote-sensing-of-geological-hazards",
+    pais: "Colombia",
+    duracion: "2 semanas",
+    fechaLimite: "2025-09-12",
+    imagenes: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGz4Iv0VXsf_Oxz1QBIfiQPGqqhsJ5swIYw&s"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 25,
+    categoria: "Beca",
+    titulo: "🎓 Cursos Cortos Ejecutivos – Instituto Europeo de Posgrado (España)",
+    descripcion: `El Instituto Europeo de Posgrado, en cooperación con el Gobierno de Colombia y España, ofrece becas completas para cursos virtuales ejecutivos en habilidades digitales, inteligencia artificial, marketing, negocios y emprendimiento. Una gran oportunidad para fortalecer tu perfil profesional desde cualquier lugar de Colombia.
+
+📌 Detalles principales:
+- Duración: 50 horas (virtual – asincrónico)
+- Inicio: 6 ago 2025
+- Finalización de cursos: hasta el 15 ene 2026
+- Idioma: Español
+- Certificación: Instituto Europeo de Posgrado
+- Cobertura: 100% del costo del curso
+- Cierre convocatoria: 15 oct 2025 – 5:00 p.m.
+- Resultados: Comisión Nacional de Becas – 30 oct 2025
+
+✅ Beneficios:
+- Acceso gratuito a cursos ejecutivos en diversas áreas.
+- Certificado de finalización.
+- Flexibilidad total (modalidad virtual asincrónica).
+
+🎯 Requisitos principales:
+- Ser ciudadano colombiano (18–65 años).
+- Haber finalizado bachillerato, técnico, tecnólogo o pregrado.
+- Presentar cédula, diploma/título académico y carta de compromiso.
+- Acceso a internet y correo electrónico activo.
+
+📅 Pasos para aplicar:
+- Reúne los documentos solicitados: cédula, título/diploma, carta de compromiso.
+- Diligencia la carta de compromiso (formato disponible en la convocatoria).
+- Realiza tu postulación únicamente a través de la plataforma del ICETEX antes del cierre.
+- Espera los resultados en tu correo electrónico.
+
+   `,
+
+    imagen: "https://uniscopio.com/wp-content/uploads/2024/03/iep-instituto-europeo-de-posgrado-1.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/convocatoria-de-cursos-cortos-ejecutivos-instituto-europeo-de-posgrado-iep.",
+    pais: "Colombia",
+    duracion: "50 horas",
+    fechaLimite: "2025-10-15",
+    imagenes: [
+      "https://uniscopio.com/wp-content/uploads/2024/03/iep-instituto-europeo-de-posgrado-1.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 26,
+    categoria: "Beca",
+    titulo: "🎓 Cursos Cortos Empresariales – Instituto Europeo de Posgrado (España)",
+    descripcion: `El Instituto Europeo de Posgrado, junto al Gobierno de España y Colombia, ofrece becas completas para cursos virtuales en áreas clave como Microsoft, ciberseguridad, gerencia de proyectos, comunicación profesional, programación (Python, Java), marketing digital y emprendimiento. Una oportunidad para fortalecer tu perfil laboral y abrir nuevas oportunidades de desarrollo profesional.
+
+📌 Detalles principales:
+- Duración: Hasta 2 meses (virtual – asincrónico)
+- Inicio: 5 ago 2025
+- Cierre convocatoria: 28 sep 2025 – 5:00 p.m.
+- Idioma: Español
+- Certificación: Emitida por la entidad (requiere aprobar examen final)
+- Cobertura: 100% del costo del curso
+- Resultados: Comisión Nacional de Becas – 9 oct 2025
+
+✅ Beneficios:
+- Cursos especializados en temas empresariales y tecnológicos.
+- Certificación internacional con respaldo de entidades como PMI, CISCO, Meta, Microsoft, ITS y ESB.
+- Flexibilidad total (modalidad virtual asincrónica).
+
+🎯 Requisitos principales:
+- Ser ciudadano colombiano (18–65 años).
+- Haber finalizado bachillerato, técnico, tecnólogo o pregrado.
+- Presentar cédula, diploma/título académico y carta de compromiso.
+- Acceso a internet y correo electrónico activo.
+
+📅 Pasos para aplicar:
+- Reúne los documentos: cédula, diploma/título académico, carta de compromiso.
+- Descarga y firma la carta de compromiso.
+- Postúlate únicamente en la plataforma del ICETEX antes del cierre.
+- Espera resultados vía correo electrónico.
+
+   `,
+
+    imagen: "https://imagenes.elpais.com/resizer/v2/IMY2X2UDNBBANMXXTBNWYOJNBU.jpg?auth=a65426b20787f5faf0ea57173d0bb449a8fddfbc57f4a0444e168a37448b9625&width=1960&height=1470&focal=2460%2C1720",
+    sitioWeb: "https://web.icetex.gov.co/es/-/convocatoria-cursos-cortos-iep-2025",
+    pais: "Colombia",
+    duracion: "2 meses",
+    fechaLimite: "2025-09-28",
+    imagenes: [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_Instituto_Europeo_de_Posgrado_IEP.png"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 27,
+    categoria: "Beca",
+    titulo: "🌊 Sustainable Integrated Water Resources Management – Singapur",
+    descripcion: `El Gobierno de Singapur ofrece una beca presencial para el curso corto “Sustainable Integrated Water Resources Management”, enfocado en la gestión integrada del agua, resiliencia climática y sostenibilidad hídrica. La convocatoria está dirigida a servidores públicos colombianos con experiencia en políticas públicas, medio ambiente, administración, ingeniería o áreas afines, que busquen fortalecer sus competencias en gestión de recursos hídricos y sostenibilidad.
+
+📌 Detalles principales:
+- Duración: 5 días (presencial)
+- Inicio: 19 ene 2026
+- Cierre convocatoria: 27 oct 2025 – 5:00 p.m.
+- Ciudad: Singapur
+- Idioma: Inglés
+- Certificación: Certificado del curso
+- Resultados: Comisión Nacional de Becas – 6 nov 2025
+
+✅ Beneficios incluidos (70% de cobertura de la beca):
+- Matrícula del curso cubierta al 100%
+- Alojamiento en hotel con desayuno incluido
+- Estipendio diario de aprox. 130 SGD
+- Transporte local entre hotel y centro de formación
+- Seguro de salud básico
+- Tasas de solicitud de visado
+
+⚠️ Nota importante:
+- Los tiquetes internacionales, viáticos adicionales y seguro de viaje integral son responsabilidad del participante o la entidad pública que lo postula.
+- Se recomienda seguro de viaje que cubra enfermedades preexistentes y evacuación médica.
+
+🎯 Requisitos principales:
+- Ser servidor público colombiano con vínculo laboral vigente
+- Edad: 23–65 años
+- Título profesional de pregrado y promedio mínimo 3,7/5,0
+- Experiencia mínima: 12 meses en área relacionada
+- Inglés mínimo nivel B2 (IELTS, TOEFL, Cambridge, Duolingo, MET o APTIS)
+- Cédula, título, certificado de notas, certificado de experiencia profesional y formulario del Gobierno de Singapur
+
+📄 Documentos requeridos:
+- Formulario oficial del Gobierno de Singapur (en inglés)
+- Título universitario de pregrado
+- Certificado de notas de pregrado
+- Certificado de experiencia profesional vigente en entidad pública
+- Certificado de inglés B2 o superior
+- Cédula de ciudadanía
+
+📊 Criterios de selección (puntaje máximo 100):
+- Nivel de inglés: 30–40 puntos
+- Experiencia profesional: 10–40 puntos
+- Promedio académico: 5–20 puntos
+- Puntaje adicional por lugar de residencia: 3–10 puntos
+
+   `,
+
+    imagen: "https://wwfint.awsassets.panda.org/img/original/5973619143_06564084b3_z_1.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/sustainable-water-resources-management",
+    pais: "Singapur",
+    duracion: "5 días",
+    fechaLimite: "2025-10-27",
+    imagenes: [
+      "https://wwfint.awsassets.panda.org/img/original/5973619143_06564084b3_z_1.jpg",
+      "https://lkyspp.nus.edu.sg/images/default-source/gia-images/water-policy-singapore_page_01.jpg?sfvrsn=95414b0a_0"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 28,
+    categoria: "Beca",
+    titulo: "🎓 Magíster en Diferentes Áreas – Universidades Chilenas",
+    descripcion: `AGCID ofrece becas para programas de Magíster en universidades chilenas, dirigidas a profesionales colombianos con título de pregrado que se desempeñen como académicos o en entidades públicas o privadas relacionadas con el área del programa. La beca cubre matrícula, estipendio, seguro médico y materiales, fomentando la formación de capital humano avanzado en Latinoamérica.
+
+📌 Detalles principales:
+- Duración: 24 meses
+- Inicio: marzo / septiembre 2026
+- Cierre convocatoria: 3 oct 2025 – 5:00 p.m.
+- Ciudad: Diferentes ciudades de Chile
+- Idioma: Español
+- Modalidad: Presencial o virtual
+- Título: Otorgado por la universidad respectiva
+- Resultados: Comisión Nacional de Becas – 23 oct 2025
+
+✅ Beneficios incluidos (100% cobertura):
+- Matrícula, arancel y titulación
+- Estipendio mensual: $600.000 CLP
+- Seguro médico y de vida durante la vigencia de la beca
+- Asignación única para libros y materiales: $90.000 CLP
+
+⚠️ Nota importante:
+- Los beneficios no cubren gastos de visa, viajes internacionales, tasas de embarque u otros gastos personales.
+- El estipendio y seguro médico NO aplican para programas virtuales.
+- Solo se otorga una beca por persona; cónyuges no son elegibles simultáneamente.
+
+🎯 Requisitos principales:
+- Edad: 20–65 años
+- Título profesional de pregrado y promedio mínimo 3,7/5,0
+- Experiencia mínima: 12 meses en área relacionada
+- Admisión definitiva al programa de Magíster en una universidad chilena incluida en el Anexo 1
+- Situación financiera al día con ICETEX
+
+📄 Documentos requeridos:
+- Formulario de postulación (ANEXO 4)
+- Carta de admisión definitiva
+- Certificado de salud (ANEXO 5)
+- Título universitario de pregrado
+- Certificado de notas de pregrado
+- Certificado de experiencia profesional
+- Curriculum Vitae
+- Carta de motivación
+- Proyecto de tesis
+- Carta de recomendación académica
+- Carta de patrocinio institucional (si aplica)
+- Certificado de residencia
+- Cédula de ciudadanía
+
+📊 Criterios de selección (puntaje máximo 100):
+- Experiencia profesional relacionada: 25 puntos
+- Promedio académico de pregrado: 40 puntos
+- Sector de desempeño laboral: 20 puntos
+- Lugar de residencia: 15 puntos
+
+⚖️ Criterios de desempate:
+- Mayor experiencia profesional
+- Mayor promedio académico
+- Prioridad de género: mujeres
+
+   `,
+
+    imagen: "https://yt3.googleusercontent.com/io8W3IuWMjJVzzqFuRnNa-ZBHx0tyj9il9nqE8pC78rTVgrHyS4Pzxt7pytb76kryVEESJKhQKw=s900-c-k-c0x00ffffff-no-rj",
+    sitioWeb: "https://web.icetex.gov.co/es/-/magister-diferentes-areas-universidades-chilenas-2025",
+    pais: "Chile",
+    duracion: "24 meses",
+    fechaLimite: "2025-10-03",
+    imagenes: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYoa55a6iog5SqSkecZNfiiELeaV9dUcPuQ&s"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 29,
+    categoria: "Beca",
+    titulo: "🎓 Geología de Suelos para Ingenieros no Especialistas",
+    descripcion: `El programa busca proporcionar a ingenieros no especialistas en geología los conocimientos y habilidades necesarios para identificar, analizar y aplicar conceptos geológicos fundamentales en proyectos de ingeniería, mejorando su capacidad para evaluar las condiciones del terreno y los materiales de construcción.
+✅ Requisitos
+- Edad: 23 a 65 años al cierre de la convocatoria
+- Formación académica: Título profesional de pregrado de una institución reconocida por el Ministerio de Educación Nacional de Colombia
+- Promedio académico: Mínimo 3,7/5,0
+- Experiencia profesional: Mínimo 1 año en áreas relacionadas
+- Situación financiera: No estar en mora con ICETEX o fondos en administración
+- Notas importantes:
+- Solo se evaluarán postulaciones a través de ICETEX.
+- No pueden pertenecer a las Fuerzas Armadas ni instituciones de Defensa Nacional.
+- Prioridad a quienes trabajen en proyectos de desarrollo nacional.
+
+🎯 Beneficios de la beca
+- Matrícula: 100% cubierta
+- Otros rubros: No se financian costos adicionales
+- Número de becas: No determinado, máximo 30 estudiantes en total
+
+📄 Documentos requeridos
+- Formulario de postulación (ANEXO I) – firmado por la persona postulante y jefe inmediato
+- Propuesta de plan de acción (ANEXO II)
+- Carta de compromiso (ANEXO III)
+- Título universitario de pregrado (convalidado si es del exterior)
+- Certificado de notas de pregrado
+- Certificado de experiencia profesional relacionada
+- Cédula de ciudadanía
+- Todos los documentos deben ser PDF y legibles.
+
+📊 Criterios de preselección (puntaje máximo 100)
+- Experiencia profesional relacionada (50%)
+- 1–3 años: 20 puntos
+- 3–5 años: 30 puntos
+- 5–7 años: 40 puntos
+- 7 años: 50 puntos
+Promedio académico (50%)
+- 3,7–3,9: 20 puntos
+- 4,0–4,2: 30 puntos
+- 4,3–4,5: 40 puntos
+- 4,6–5,0: 50 puntos
+- Puntaje adicional (hasta 10 puntos): Según entidad u organización de desempeño profesional
+
+Criterios de desempate:
+- Mayor experiencia profesional relacionada
+- Promedio académico más alto
+- Igualdad de género (prioridad a mujeres)
+- Mínimo para aprobación: 40 puntos base
+
+📚 Contenido del programa
+- Introducción a la Geología Aplicada a la Ingeniería
+- Introducción a la Mineralogía para Ingenieros
+- Petrografía Aplicada a Proyectos de Ingeniería
+- Evaluación de Depósitos Minerales y su Relevancia en Ingeniería
+
+   `,
+
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/8/81/Facultad_de_Ciencias_Fisicas_y_Matematicas.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/2025-geologia-de-suelos-para-ingenieros-no-especialistas",
+    pais: "Colombia",
+    duracion: "2 semanas",
+    fechaLimite: "2025-09-12",
+    imagenes: [
+      "https://images.adsttc.com/media/images/54c9/9e05/e58e/ce99/0100/0210/large_jpg/Portada_DSC_4838_copy.jpg?1422499299"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 30,
+    categoria: "Beca",
+    titulo: "🎓 Convocatoria de Cursos Cortos Empresariales – Instituto Europeo de Posgrado (IEP)",
+    descripcion: `El IEP, en el marco de la cooperación entre Colombia y España, ofrece 400 cursos ejecutivos certificados a ciudadanos colombianos de la región del Catatumbo y Cañón del Micay, enfocados en áreas como:
+- Informática de Microsoft
+- Ciberseguridad
+- Gerencia de proyectos
+- Comunicación profesional
+- Python y Java
+- Marketing digital
+- Emprendimiento y pequeños negocios
+- El objetivo es fortalecer habilidades profesionales, generar ingresos y ofrecer alternativas laborales sostenibles para estas comunidades.
+
+✅ Requisitos
+- Nacionalidad: Colombiana (verificada con cédula)
+- Formación académica: Bachillerato completo o convalidado por el Ministerio de Educación Nacional
+- Residencia: Vivir en los municipios priorizados de:
+- Norte de Santander: Ocaña, El Carmen, Convención, Teorama, San Calixto, Hacarí, La Playa de Belén, El Tarra, Tibú, Sardinata, Ábrego
+- Cauca: El Tambo, Argelia, López de Micay, Guapi, Timbiquí
+- Cesar: Río de Oro, González
+- Edad: 18–65 años
+- Carta de Compromiso: Firmada, comprometiéndose a completar el curso
+
+🎯 Beneficios de la beca
+- Cursos: 400 cursos empresariales certificados
+- Cobertura: 100% del costo del curso virtual
+- Nota: No se financian gastos adicionales. La certificación se otorgará solo si se completa la totalidad del curso.
+
+📄 Documentos requeridos
+- Documento de identificación: Cédula colombiana (ambas caras)
+- Diploma de bachiller: Con acta de grado o certificado de graduación
+- Certificado de residencia: Emitido por Alcaldía, Junta de Acción Comunal, Resguardo Indígena o recibo de servicio público
+- Carta de compromiso: Formato oficial debidamente diligenciado y firmado
+- Todos los documentos deben ser legibles y en formato digital (PDF).
+
+⚠️ Observaciones importantes
+- La persona aspirante es responsable de garantizar acceso a internet y dispositivos para la formación virtual.
+- Documentos incompletos, ilegibles o alterados serán motivo de descarte.
+- La certificación se otorgará únicamente si se cumple con la intensidad horaria completa.
+- La postulación se realiza únicamente a través de la plataforma ICETEX; no se aceptan documentos físicos ni por correo electrónico.
+
+🏆 Criterio de selección
+- Orden de recepción de la postulación:
+- Se asignarán las 400 becas siguiendo la fecha y hora en que se completó la postulación de manera exitosa en la plataforma ICETEX, hasta agotar los cursos disponibles.
+
+   `,
+    imagen: "https://iep.edu.es/wp-content/uploads/2023/03/video_iep_reconocimientos.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/convocatoria-cursos-cortos-empresariales-iep",
+    pais: "Colombia",
+    duracion: "2 meses",
+    fechaLimite: "2025-09-12",
+    imagenes: [
+      "https://iep.edu.es/wp-content/uploads/2023/03/video_iep_reconocimientos.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 31,
+    categoria: "Beca",
+    titulo: "🎓 Convocatoria de Cursos Cortos Ejecutivos - Instituto Europeo de Posgrado - IEP",
+    descripcion: `El Instituto Europeo de Posgrado ofrece 200 cursos ejecutivos certificados a ciudadanos/as colombianos/as de la Región del Catatumbo y Cañón del Micay, enfocados en:
+- Habilidades informáticas (básicas, intermedias y avanzadas)
+- Inteligencia Artificial
+- Marketing, negocios y emprendimiento
+- Esta iniciativa busca fortalecer capacidades profesionales, generar ingresos y promover oportunidades sostenibles para estas comunidades.
+
+✅ Requisitos para participar
+- 👤 Persona natural de origen colombiano: Verificado con cédula de ciudadanía por ambas caras
+- 🎓 Formación académica: Bachillerato completo o convalidado por el Ministerio de Educación Nacional
+- 🏘️ Residir en regiones priorizadas:
+- Norte de Santander: Ocaña, El Carmen, Convención, Teorama, San Calixto, Hacarí, La Playa de Belén, El Tarra, Tibú, Sardinata, Ábrego
+- Cauca: El Tambo, Argelia, López de Micay, Guapi, Timbiquí
+- Cesar: Río de Oro, González
+- 🎂 Edad: 18 a 65 años al cierre de la convocatoria
+- 🖋️ Carta de compromiso: Diligenciar y firmar la carta anexa
+
+💻 Cursos disponibles
+- La persona beneficiaria podrá seleccionar los cursos de interés según el listado de 200 becas proporcionado por el IEP.
+
+💰 Cobertura de la convocatoria
+- 100% costo del curso virtual cubierto
+- ⚠️ No se financian otros gastos adicionales
+- 🏅 Se entregará certificación de realización y finalización al cumplir la totalidad de horas
+
+📄 Documentos requeridos
+- Documento	Cantidad	Observaciones
+- Documento de identificación	1	Copia digital legible de la cédula por ambas caras
+- Diploma de bachiller	1	Acta de grado o certificado de finalización; en caso de estudios en el exterior, convalidación del Ministerio
+- Certificado de residencia	1	Alcaldía, Junta de Acción Comunal, Resguardo Indígena o recibo de servicios públicos
+- Carta de compromiso	1	Diligenciada y firmada comprometiéndose a finalizar el curso
+
+📌 Nota: Documentos ilegibles, incompletos o alterados serán descartados.
+- ⚖️ Selección y orden de asignación
+- La selección de los 200 cursos se hará por orden de recepción de postulaciones que cumplan los requisitos.
+- 📅 La fecha de recepción se valida en la plataforma ICETEX
+- Se asignan los cursos consecutivamente hasta agotar los 200 cupos
+
+📌 Responsabilidades del aspirante
+- Verificar que los documentos cumplan los requisitos
+- Contar con internet y dispositivos para la formación virtual
+- Mantener un correo electrónico activo durante todo el proceso
+- La presentación de documentación falsa o incompleta implica descargo automático
+
+   `,
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sede_de_Madrid_del_Instituto_Europeo_de_Posgrado_-_IEP.jpg/1200px-Sede_de_Madrid_del_Instituto_Europeo_de_Posgrado_-_IEP.jpg",
+    sitioWeb: "https://web.icetex.gov.co/es/-/convocatoria-de-cursos-cortos-ejecutivos-instituto-europeo-de-posgrado-iep",
+    pais: "Colombia",
+    duracion: "2 meses",
+    fechaLimite: "2025-09-12",
+    imagenes: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sede_de_Madrid_del_Instituto_Europeo_de_Posgrado_-_IEP.jpg/1200px-Sede_de_Madrid_del_Instituto_Europeo_de_Posgrado_-_IEP.jpg"
     ],
     videos: [
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
