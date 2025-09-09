@@ -1023,55 +1023,6 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
     ]
   },
   {
-    id: 21,
-    categoria: "Beca",
-    titulo: "🎓 Beca de alojamiento en Madrid – Colegio Mayor Miguel Antonio Caro",
-    descripcion: `El ICETEX ofrece 36 becas de alojamiento en Madrid 🇪🇸 para estudiantes colombianos/as de maestría o doctorado. Incluyen habitación individual amoblada, desayuno diario y servicios públicos por 10 meses (octubre 2025 – julio 2026).
-
-📅 Cierre de convocatoria: 12 de septiembre de 2025 (5:00 p.m.).
-
-✅ Requisitos principales:
-  - Ser colombiano/a entre 21 y 45 años.
-  - Tener título universitario de pregrado o posgrado.
-  - Contar con admisión definitiva en una maestría o doctorado presencial en Madrid (programa oficial).
-  - Promedio mínimo de 4.0/5.0 en pregrado o posgrado.
-  - No tener deudas en mora con ICETEX.
-  - Contar con pasaporte vigente, visa de estudiante o NIE, y seguro médico internacional válido durante toda la estancia.
-
-  📝 Documentos clave:
-  - Cédula de ciudadanía.
-  - Pasaporte vigente.
-  - Visa de estudiante/NIE.
-  - Seguro médico internacional.
-  - Carta de admisión definitiva de la universidad.
-  - Título universitario y certificado de notas.
-  - Certificado SISBEN IV o factura de servicios públicos (estrato socioeconómico).
-  - Certificado de residencia en Colombia.
-
-🚀 Pasos para aplicar:
-  - Reúne y escanea en PDF todos los documentos exigidos.
-  - Ingresa a la plataforma del ICETEX (Ventanilla Digital).
-  - Completa el formulario de postulación y adjunta los documentos.
-  - Envía la solicitud antes del 12 de septiembre de 2025.
-  - Espera resultados de la Comisión Nacional de Becas vía correo electrónico.
-
-   `,
-
-    imagen: "https://www.ucm.es/tribunacomplutense/media/images/galeriaimagenes/7066.jpg",
-    sitioWeb: "https://web.icetex.gov.co/es/-/becas-alojamiento-colegio-mayor-miguel-antonio-caro-madrid",
-    pais: "España",
-    duracion: "10 meses",
-    fechaLimite: "2025-09-12",
-    imagenes: [
-      "https://www.wradio.com.co/resizer/v2/6VK7WLO5MJHH7CAVPHQI7K7QG4.png?auth=aa0d1a24cbf86a32f80b3079b5d3e7735b531da2d33d6218306636fc40233637&width=650&height=488&quality=70&smart=true",
-      "https://www.innovamos.gov.co/sites/default/content/files/000133/6612_beca-cupos-en-las-residencias-del-colegio-mayor-miguel-801697_1024x576.jpg"
-    ],
-    videos: [
-      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
-      { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
-    ]
-  },
-  {
     id: 22,
     categoria: "Beca",
     titulo: "🎓 Becas del 70% para Maestrías Online – Broward International University (EE.UU.)",
@@ -1107,7 +1058,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
 
    `,
 
-    imagen: "https://cdntrust.s3.us-east-2.amazonaws.com/images/4026ffc1-3557-4ebc-8736-d9af7ed88ef7.jfif",
+    imagen: "https://cge.usil.edu.pe/hubfs/Broward%20College.jpg",
     sitioWeb: "https://web.icetex.gov.co/es/-/2025-becas-del-70-maestrias-online-en-la-universidad-broward-international-university",
     pais: "Colombia",
     duracion: "18 meses",
@@ -1159,7 +1110,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
 
    `,
 
-    imagen: "https://cdntrust.s3.us-east-2.amazonaws.com/images/4026ffc1-3557-4ebc-8736-d9af7ed88ef7.jfif",
+    imagen: "https://res.cloudinary.com/digicomm/image/upload/t_metadata/news-magazine/2016/_assets/fiu-broward-center.jpg",
     sitioWeb: "https://web.icetex.gov.co/es/-/becas-maestrias-online-broward-2025",
     pais: "Colombia",
     duracion: "18 meses",
@@ -1211,7 +1162,7 @@ Este proyecto busca reconstruir una nueva historia cultural de la noche, explora
 - Espera resultados oficiales por correo electrónico.
    `,
 
-    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGz4Iv0VXsf_Oxz1QBIfiQPGqqhsJ5swIYw&s",
+    imagen: "https://www.admissionfever.com/Media/clgimg/gallery/266_img6689726884747468.jpg",
     sitioWeb: "https://web.icetex.gov.co/es/-/2025-remote-sensing-of-geological-hazards",
     pais: "Colombia",
     duracion: "2 semanas",
