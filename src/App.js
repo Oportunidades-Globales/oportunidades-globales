@@ -14,6 +14,10 @@ import Cookies from './components/Cookies';
 import CookieBanner from './components/CookieBanner';
 import Footer from './components/Footer';
 import GoogleAnalytics from './components/GoogleAnalytics';
+import Articulos from './components/Articulos';
+import SeccionEducativa from './components/SeccionEducativa';
+import ArticulosDestacados from './components/ArticulosDestacados';
+import DetalleArticulo from './components/DetalleArticulo';
 
 
 // Componente interno para manejar la lógica de navegación
@@ -60,6 +64,8 @@ function AppContent() {
         categoriaActiva={categoriaActiva}
         busqueda={busqueda}
       />
+      <ArticulosDestacados />
+      <SeccionEducativa />
       <Footer />
       <CookieBanner />
     </>
@@ -79,6 +85,8 @@ function App() {
           <Route path="/politica-privacidad" element={<PoliticaPrivacidad />} />
           <Route path="/terminos-servicio" element={<TerminosServicio />} />
           <Route path="/cookies" element={<Cookies />} />
+          <Route path="/articulos" element={<Articulos />} />
+          <Route path="/articulo/:id" element={<DetalleArticulo />} />
         </Routes>
       </div>
     </Router>

@@ -128,6 +128,12 @@ const Header = ({ categoriaActiva, setCategoriaActiva, setBusqueda }) => {
               Cruceros
             </button>
             <button 
+              onClick={() => navigate('/articulos')}
+              className="text-gray-700 hover:text-primary-600 font-medium transition-colors duration-200"
+            >
+              Artículos
+            </button>
+            <button 
               onClick={() => navigate('/quienes-somos')}
               className="text-gray-700 hover:text-primary-600 font-medium transition-colors duration-200"
             >
@@ -227,6 +233,15 @@ const Header = ({ categoriaActiva, setCategoriaActiva, setBusqueda }) => {
                >
                  Cruceros
                </button>
+              <button 
+                onClick={() => {
+                  setIsMenuOpen(false);
+                  navigate('/articulos');
+                }}
+                className="block w-full text-left px-3 py-2 text-gray-700 hover:text-primary-600 font-medium rounded-md"
+              >
+                Artículos
+              </button>
               <button 
                 onClick={() => {
                   setIsMenuOpen(false);

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import { oportunidades } from '../data/oportunidades';
 // import { contactConfig } from '../config/contact';
 import ContactoRedes from './ContactoRedes';
@@ -8,6 +8,7 @@ import GoogleAds from './GoogleAds';
 const DetalleOportunidad = () => {
   const { id } = useParams();
   const navigate = useNavigate();
+  const location = useLocation();
   const [imagenModal, setImagenModal] = useState({ 
     abierto: false, 
     imagen: '', 
@@ -23,6 +24,21 @@ const DetalleOportunidad = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [id]);
+
+  // Función para regresar a oportunidades manteniendo la posición
+  const handleVolverAOportunidades = () => {
+    // Guardar la posición actual antes de navegar
+    const savedPosition = sessionStorage.getItem('oportunidadesScrollPosition');
+    if (savedPosition) {
+      navigate('/');
+      // Restaurar posición después de un pequeño delay
+      setTimeout(() => {
+        window.scrollTo(0, parseInt(savedPosition, 10));
+      }, 100);
+    } else {
+      navigate('/');
+    }
+  };
 
   // Función para cerrar el modal
   const cerrarImagenModal = useCallback(() => {
@@ -129,7 +145,7 @@ const DetalleOportunidad = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex items-center justify-between">
             <button 
-              onClick={() => navigate('/')}
+              onClick={handleVolverAOportunidades}
               className="flex items-center text-gray-600 hover:text-gray-900 transition-colors"
             >
               <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

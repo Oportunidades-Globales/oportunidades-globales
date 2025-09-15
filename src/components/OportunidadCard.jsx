@@ -37,9 +37,28 @@ const OportunidadCard = ({ oportunidad }) => {
     }
   };
 
+  // Función para verificar si la oportunidad está vencida
+  const isVencida = (dateString) => {
+    try {
+      const [year, month, day] = dateString.split('-').map(num => parseInt(num, 10));
+      const fechaLimite = new Date(year, month - 1, day);
+      const hoy = new Date();
+      
+      // Establecer las horas a 0 para comparar solo fechas
+      hoy.setHours(0, 0, 0, 0);
+      fechaLimite.setHours(0, 0, 0, 0);
+      
+      return fechaLimite < hoy;
+    } catch (error) {
+      return false;
+    }
+  };
+
   const handleVerDetalles = () => {
     console.log('Haciendo clic en Ver más detalles para oportunidad:', oportunidad.id);
     try {
+      // Guardar la posición actual de scroll antes de navegar
+      sessionStorage.setItem('oportunidadesScrollPosition', window.scrollY.toString());
       navigate(`/oportunidad/${oportunidad.id}`);
       console.log('Navegando a:', `/oportunidad/${oportunidad.id}`);
     } catch (error) {
@@ -57,12 +76,27 @@ const OportunidadCard = ({ oportunidad }) => {
         <img
           src={oportunidad.imagen || 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDQwMCAzMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSIjRjNGNEY2Ii8+CjxwYXRoIGQ9Ik0xNjAgMTIwQzE2MCAxMDcuMTYzIDE3MC4xNjMgOTcgMTgzIDk3SDE2N0MxNzkuODM3IDk3IDE5MCAxMDcuMTYzIDE5MCAxMjBIMTYwWiIgZmlsbD0iIzlDQTNBRiIvPgo8cGF0aCBkPSJNMTYwIDE0MEMxNjAgMTI3LjE2MyAxNzAuMTYzIDExNyAxODMgMTE3SDE2N0MxNzkuODM3IDExNyAxOTAgMTI3LjE2MyAxOTAgMTQwSDE2MFoiIGZpbGw9IiM5Q0EzQUYiLz4KPHN2ZyB4PSIxNzAiIHk9IjEwMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiPgo8cGF0aCBkPSJNMTAgMTBIMTdWMTdIMFYxMFoiIGZpbGw9IiM5Q0EzQUYiLz4KPHN2ZyB4PSIxNzAiIHk9IjEyMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiPgo8cGF0aCBkPSJNMTAgMTBIMTdWMTdIMFYxMFoiIGZpbGw9IiM5Q0EzQUYiLz4KPC9zdmc+Cjx0ZXh0IHg9IjIwMCIgeT0iMTgwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNjc3NDhCIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTYiPkltYWdlbiBObyBEaXNwb25pYmxlPC90ZXh0Pgo8L3N2Zz4K'}
           alt={oportunidad.titulo || 'Oportunidad'}
-          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
+          className={`w-full h-full object-cover transition-transform duration-300 ${isVencida(oportunidad.fechaLimite) ? 'grayscale' : 'group-hover:scale-110'}`}
           onError={(e) => {
             e.target.src = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDQwMCAzMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSIjRjNGNEY2Ii8+CjxwYXRoIGQ9Ik0xNjAgMTIwQzE2MCAxMDcuMTYzIDE3MC4xNjMgOTcgMTgzIDk3SDE2N0MxNzkuODM3IDk3IDE5MCAxMDcuMTYzIDE5MCAxMjBIMTYwWiIgZmlsbD0iIzlDQTNBRiIvPgo8cGF0aCBkPSJNMTYwIDE0MEMxNjAgMTI3LjE2MyAxNzAuMTYzIDExNyAxODMgMTE3SDE2N0MxNzkuODM3IDExNyAxOTAgMTI3LjE2MyAxOTAgMTQwSDE2MFoiIGZpbGw9IiM5Q0EzQUYiLz4KPHN2ZyB4PSIxNzAiIHk9IjEwMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiPgo8cGF0aCBkPSJNMTAgMTBIMTdWMTdIMFYxMFoiIGZpbGw9IiM5Q0EzQUYiLz4KPHN2ZyB4PSIxNzAiIHk9IjEyMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiPgo8cGF0aCBkPSJNMTAgMTBIMTdWMTdIMFYxMFoiIGZpbGw9IiM5Q0EzQUYiLz4KPC9zdmc+Cjx0ZXh0IHg9IjIwMCIgeT0iMTgwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNjc3NDhCIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTYiPkltYWdlbiBObyBEaXNwb25pYmxlPC90ZXh0Pgo8L3N2Zz4K';
           }}
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+        
+        {/* Overlay para imagen vencida */}
+        {isVencida(oportunidad.fechaLimite) && (
+          <div className="absolute inset-0 bg-black/60 flex items-center justify-center">
+            <div className="text-center">
+              <div className="bg-red-600 text-white px-6 py-3 rounded-lg font-bold text-lg shadow-lg">
+                VENCIDO
+              </div>
+            </div>
+          </div>
+        )}
+        
+        {/* Overlay normal para imágenes activas */}
+        {!isVencida(oportunidad.fechaLimite) && (
+          <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+        )}
         
         {/* Badge de categoría */}
         <div className="absolute top-4 left-4">

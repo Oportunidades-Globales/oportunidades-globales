@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import OportunidadCard from './OportunidadCard';
 import GoogleAds from './GoogleAds';
 import { oportunidades } from '../data/oportunidades';
@@ -20,6 +20,18 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
       return coincideCategoria && coincideBusqueda;
     });
   }, [categoriaActiva, busqueda]);
+
+  // Restaurar posición de scroll cuando se regresa desde una oportunidad
+  useEffect(() => {
+    const savedPosition = sessionStorage.getItem('oportunidadesScrollPosition');
+    if (savedPosition) {
+      const position = parseInt(savedPosition, 10);
+      setTimeout(() => {
+        window.scrollTo(0, position);
+        sessionStorage.removeItem('oportunidadesScrollPosition');
+      }, 100);
+    }
+  }, []);
 
   // Mensaje cuando no hay resultados
   if (oportunidadesFiltradas.length === 0) {

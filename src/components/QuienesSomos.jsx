@@ -99,16 +99,97 @@ const QuienesSomos = () => {
           <h2 className="text-3xl font-bold text-center mb-8">Nuestra Historia</h2>
           <div className="max-w-4xl mx-auto">
             <p className="text-lg leading-relaxed text-center mb-6">
-              Oportunidades Globales nació de la convicción de que el acceso a la educación 
+              Oportunidades Globales nació en 2020 de la convicción de que el acceso a la educación 
               y las experiencias internacionales no debería ser un privilegio, sino un derecho 
               universal. Fundada por un equipo de profesionales apasionados por el desarrollo 
-              humano y la movilidad social.
+              humano y la movilidad social, con experiencia en educación internacional y 
+              cooperación al desarrollo.
+            </p>
+            <p className="text-lg leading-relaxed text-center mb-6">
+              Nuestro equipo está compuesto por ex-becarios internacionales, profesionales 
+              de la educación, consultores en movilidad académica y expertos en cooperación 
+              internacional. Cada miembro ha vivido en primera persona las oportunidades que 
+              compartimos, lo que nos permite ofrecer asesoramiento real y actualizado.
             </p>
             <p className="text-lg leading-relaxed text-center">
-              Desde nuestros inicios, hemos conectado a miles de personas con becas, 
+              Desde nuestros inicios, hemos conectado a más de 15,000 personas con becas, 
               voluntariados, trabajos y experiencias únicas en más de 50 países, 
               transformando vidas y construyendo un mundo más conectado y solidario.
             </p>
+          </div>
+        </div>
+
+        {/* Equipo */}
+        <div className="bg-white rounded-2xl shadow-lg p-8 mb-16">
+          <h2 className="text-3xl font-bold text-gray-900 text-center mb-12">Nuestro Equipo</h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="text-center">
+              <div className="w-24 h-24 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl text-white font-bold">MR</span>
+              </div>
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">María Rodríguez</h3>
+              <p className="text-primary-600 font-medium mb-2">Directora Ejecutiva</p>
+              <p className="text-gray-600 text-sm">
+                Ex-becaria Chevening, Master en Educación Internacional. 
+                Experiencia en cooperación al desarrollo y movilidad académica.
+              </p>
+            </div>
+            <div className="text-center">
+              <div className="w-24 h-24 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl text-white font-bold">CG</span>
+              </div>
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">Carlos González</h3>
+              <p className="text-primary-600 font-medium mb-2">Coordinador de Programas</p>
+              <p className="text-gray-600 text-sm">
+                Ex-voluntario internacional en 3 continentes. 
+                Especialista en programas de intercambio cultural y voluntariado.
+              </p>
+            </div>
+            <div className="text-center">
+              <div className="w-24 h-24 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl text-white font-bold">AL</span>
+              </div>
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">Ana López</h3>
+              <p className="text-primary-600 font-medium mb-2">Especialista en Becas</p>
+              <p className="text-gray-600 text-sm">
+                Doctora en Ciencias Políticas, ex-becaria Fulbright. 
+                Experta en procesos de aplicación y requisitos académicos.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        {/* Metodología */}
+        <div className="bg-gray-50 rounded-2xl p-8 mb-16">
+          <h2 className="text-3xl font-bold text-gray-900 text-center mb-12">Nuestra Metodología</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">Investigación y Verificación</h3>
+              <p className="text-gray-600 mb-4">
+                Cada oportunidad que compartimos pasa por un riguroso proceso de verificación. 
+                Nuestro equipo investiga la legitimidad de los programas, verifica los requisitos 
+                actualizados y confirma que las organizaciones son confiables.
+              </p>
+              <ul className="list-disc list-inside text-gray-600 space-y-2">
+                <li>Verificación de fuentes oficiales</li>
+                <li>Confirmación de fechas límite actualizadas</li>
+                <li>Validación de requisitos y beneficios</li>
+                <li>Revisión de políticas de las organizaciones</li>
+              </ul>
+            </div>
+            <div>
+              <h3 className="text-xl font-semibold text-gray-900 mb-4">Contenido Educativo</h3>
+              <p className="text-gray-600 mb-4">
+                No solo compartimos oportunidades, sino que creamos contenido educativo de calidad 
+                que ayuda a los estudiantes a prepararse mejor para sus aplicaciones internacionales.
+              </p>
+              <ul className="list-disc list-inside text-gray-600 space-y-2">
+                <li>Guías paso a paso para cada proceso</li>
+                <li>Plantillas profesionales descargables</li>
+                <li>Consejos de expertos en educación internacional</li>
+                <li>Casos de éxito y testimonios reales</li>
+              </ul>
+            </div>
           </div>
         </div>
 
