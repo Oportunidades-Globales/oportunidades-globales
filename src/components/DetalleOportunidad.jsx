@@ -20,6 +20,23 @@ const DetalleOportunidad = () => {
   // Encontrar la oportunidad por ID
   const oportunidad = oportunidades.find(op => op.id === parseInt(id));
 
+  // Función para verificar si la oportunidad está vencida
+  const isVencida = (dateString) => {
+    try {
+      const [year, month, day] = dateString.split('-').map(num => parseInt(num, 10));
+      const fechaLimite = new Date(year, month - 1, day);
+      const hoy = new Date();
+      
+      // Establecer las horas a 0 para comparar solo fechas
+      hoy.setHours(0, 0, 0, 0);
+      fechaLimite.setHours(0, 0, 0, 0);
+      
+      return fechaLimite < hoy;
+    } catch (error) {
+      return false;
+    }
+  };
+
   // Scroll al inicio cuando se carga la página
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -167,9 +184,24 @@ const DetalleOportunidad = () => {
             <img
               src={oportunidad.imagen}
               alt={oportunidad.titulo}
-              className="w-full h-full object-cover"
+              className={`w-full h-full object-cover ${isVencida(oportunidad.fechaLimite) ? 'grayscale' : ''}`}
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+            
+            {/* Overlay para imagen vencida */}
+            {isVencida(oportunidad.fechaLimite) && (
+              <div className="absolute inset-0 bg-black/60 flex items-center justify-center">
+                <div className="text-center">
+                  <div className="bg-red-600 text-white px-8 py-4 rounded-lg font-bold text-2xl shadow-lg">
+                    VENCIDO
+                  </div>
+                </div>
+              </div>
+            )}
+            
+            {/* Overlay normal para imágenes activas */}
+            {!isVencida(oportunidad.fechaLimite) && (
+              <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+            )}
             
             {/* Badge de categoría */}
             <div className="absolute top-6 left-6">

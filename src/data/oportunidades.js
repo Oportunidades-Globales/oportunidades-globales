@@ -1601,7 +1601,7 @@ Criterios de desempate:
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
     ]
-  },
+  }
 ];
 
 export const categorias = [
