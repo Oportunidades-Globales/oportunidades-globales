@@ -23,6 +23,11 @@ const DetalleOportunidad = () => {
   // Función para verificar si la oportunidad está vencida
   const isVencida = (dateString) => {
     try {
+      // Si es un texto especial, nunca está vencida
+      if (dateString === 'Abierto' || dateString === 'Sin fecha límite' || dateString === 'Continuo' || dateString === 'Disponible' || dateString === 'Rolling admission') {
+        return false;
+      }
+      
       const [year, month, day] = dateString.split('-').map(num => parseInt(num, 10));
       const fechaLimite = new Date(year, month - 1, day);
       const hoy = new Date();
@@ -266,6 +271,11 @@ const DetalleOportunidad = () => {
                 <p className="text-gray-600">
                   {(() => {
                     try {
+                      // Si es un texto especial, devolverlo tal como está
+                      if (oportunidad.fechaLimite === 'Abierto' || oportunidad.fechaLimite === 'Sin fecha límite' || oportunidad.fechaLimite === 'Continuo' || oportunidad.fechaLimite === 'Disponible' || oportunidad.fechaLimite === 'Rolling admission') {
+                        return oportunidad.fechaLimite;
+                      }
+                      
                       // Parsear la fecha manualmente para evitar problemas de zona horaria
                       const [year, month, day] = oportunidad.fechaLimite.split('-').map(num => parseInt(num, 10));
                       const date = new Date(year, month - 1, day); // month - 1 porque los meses van de 0-11

@@ -21,6 +21,11 @@ const OportunidadCard = ({ oportunidad }) => {
 
   const formatDate = (dateString) => {
     try {
+      // Si es un texto especial, devolverlo tal como está
+      if (dateString === 'Abierto' || dateString === 'Sin fecha límite' || dateString === 'Continuo' || dateString === 'Disponible' || dateString === 'Rolling admission') {
+        return dateString;
+      }
+      
       // Parsear la fecha manualmente para evitar problemas de zona horaria
       const [year, month, day] = dateString.split('-').map(num => parseInt(num, 10));
       const date = new Date(year, month - 1, day); // month - 1 porque los meses van de 0-11
@@ -40,6 +45,11 @@ const OportunidadCard = ({ oportunidad }) => {
   // Función para verificar si la oportunidad está vencida
   const isVencida = (dateString) => {
     try {
+      // Si es un texto especial, nunca está vencida
+      if (dateString === 'Abierto' || dateString === 'Sin fecha límite' || dateString === 'Continuo' || dateString === 'Disponible' || dateString === 'Rolling admission') {
+        return false;
+      }
+      
       const [year, month, day] = dateString.split('-').map(num => parseInt(num, 10));
       const fechaLimite = new Date(year, month - 1, day);
       const hoy = new Date();

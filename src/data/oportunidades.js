@@ -1601,6 +1601,579 @@ Criterios de desempate:
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "ICETEX", url: "https://www.instagram.com/icetex_colombia/", plataforma: "Instagram" }
     ]
+  },
+  {
+    id: 32,
+    categoria: "Voluntariado",
+    titulo: "🌎 Voluntariado en EE. UU.: Ayuda a combatir el hambre mundial en California",
+    descripcion: `¿Quieres vivir una experiencia transformadora mientras generas un impacto real? En Tulare County, California, podrás unirte a un proyecto internacional que distribuye alimentos a más de 100 países 🌍. Una oportunidad única para aportar tu granito de arena contra el hambre, mientras viajas y conoces una de las regiones más interesantes de Estados Unidos.
+
+📌 ¿En qué consiste la oportunidad?
+Como voluntario, participarás en distintas actividades que contribuyen directamente a la lucha contra el hambre:
+🍽️ Preparación y servicio de comidas.
+🌱 Jardinería y cultivo sostenible.
+🛠️ Apoyo en reparaciones y construcción.
+🧹 Limpieza y organización de espacios.
+
+El proyecto tiene flexibilidad en la duración de tu estadía (mínimo 1 semana, máximo 3) y se desarrolla en un ambiente multicultural, con otros voluntarios de diferentes partes del mundo.
+
+✅ Beneficios para el voluntario
+🛏️ Alojamiento en habitación compartida.
+🍳 Desayuno, almuerzo y cena incluidos cada día.
+🌐 Acceso a internet básico gratuito.
+🚐 Traslado desde tu llegada al lugar del voluntariado.
+📅 2 días libres a la semana para explorar California.
+🏊 Acceso a piscina, áreas comunes y espacios cómodos.
+🛡️ Soporte y acompañamiento del equipo de Worldpackers durante tu experiencia.
+
+🗓️ Disponibilidad
+- Estancias entre 1 y 3 semanas.
+- El proyecto está activo durante gran parte del año.
+
+📍 Ubicación
+Central California, entre Los Ángeles y San Francisco.
+`,
+    imagen: "https://images.pexels.com/photos/6590920/pexels-photo-6590920.jpeg",
+    sitioWeb: "https://www.worldpackers.com/es/positions/2973",
+    pais: "Estados Unidos",
+    duracion: "1 - 3 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 33,
+    categoria: "Voluntariado",
+    titulo: "💫 Voluntariado Único en San Francisco: Vive, Conecta y Haz la Diferencia",
+    descripcion: `¿Buscas una experiencia diferente al voluntariado tradicional? 🌍 En el vibrante Área de la Bahía de San Francisco, tendrás la oportunidad de convivir con Bruce, una persona inspiradora que, a pesar de ser cuadripléjico, vive la vida al máximo. Aquí no solo apoyarás con tareas cotidianas, sino que también crearás una conexión auténtica, compartirás aventuras y explorarás una de las ciudades más fascinantes del mundo.
+
+📌 ¿En qué consiste la oportunidad?
+Tu voluntariado incluye:
+🧹 Apoyo en tareas de limpieza del hogar.
+👥 Colaboración en proyectos sociales locales.
+❤️ Acompañamiento y ayuda en actividades cotidianas, fomentando una amistad genuina.
+
+Más allá del apoyo, esta experiencia se trata de conexión humana, intercambio cultural y aventuras compartidas en la vida diaria de Bruce, su esposa Kim, sus perros de servicio y sus gatos.
+
+✅ Beneficios para el voluntario
+🛏️ Habitación privada para tu comodidad.
+🍳 Desayuno, almuerzo y cena incluidos diariamente.
+🧺 Acceso gratuito a lavandería.
+🚲 Uso de bicicletas para explorar la ciudad.
+🏙️ Tours gratuitos por San Francisco.
+👩‍🍳 Cocina equipada para preparar tus propias comidas.
+🌐 Internet de alta velocidad + espacio de trabajo dedicado.
+📅 2 días libres por semana para vivir tu propia aventura en California.
+
+🗓️ Disponibilidad y condiciones
+- 18 horas de ayuda por semana.
+- Duración flexible, con actividades principalmente de lunes a viernes.
+
+📍 Ubicación
+San Francisco Bay Area, Estados Unidos
+`,
+    imagen: "https://images.pexels.com/photos/4063789/pexels-photo-4063789.jpeg",
+    sitioWeb: "https://www.worldpackers.com/es/positions/49577",
+    pais: "Estados Unidos",
+    duracion: "1 - 3 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/6195464/pexels-photo-6195464.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 34,
+    categoria: "Voluntariado",
+    titulo: "🌴 Voluntariado en Hawaii: Vida Comunitaria, Agricultura Orgánica y Ecoturismo",
+    descripcion: `¿Te imaginas vivir en una comunidad intencional en Hawaii, rodeado de naturaleza, practicando agricultura orgánica y compartiendo experiencias con personas de todo el mundo? 🌎🌱 Este voluntariado es una oportunidad única para aprender sobre permacultura, vida sostenible y ecoturismo, mientras disfrutas de la belleza tropical de la isla.
+
+📌 ¿En qué consiste la oportunidad?
+Los voluntarios forman parte activa de la comunidad, dedicando alrededor de 25 horas semanales en tareas como:
+🌿 Agricultura y cuidado de la tierra (plantar, cosechar, deshierbar).
+🛠️ Apoyo en proyectos de construcción y mantenimiento.
+🧹 Tareas de limpieza y mantenimiento de espacios comunitarios.
+🛎️ Atención y recepción de huéspedes en actividades de ecoturismo.
+
+Además, tendrás la posibilidad de unirte a cursos de permacultura gratuitos y aprender directamente de expertos en vida sostenible.
+
+✅ Beneficios para el voluntario
+🛏️ Habitación privada para tu descanso.
+🍳 Uso libre de la cocina equipada.
+🚲 Bicicletas disponibles para explorar la zona.
+🎉 Acceso gratuito a eventos locales.
+🧺 Lavandería gratuita.
+🚌 Traslado de llegada incluido.
+🎓 Curso de permacultura gratuito.
+💸 Descuentos en alojamiento en hostales asociados.
+📅 2 días libres a la semana para recorrer y disfrutar Hawaii.
+
+🗓️ Disponibilidad y condiciones
+- 25 horas de colaboración semanal.
+- Duración mínima: 4 semanas (Farm Stay).
+- Depósito reembolsable de $500 USD al finalizar en buen estado tu estadía.
+- Programas más largos como Community Member requieren cuotas de membresía adicionales.
+
+📍 Ubicación
+Hawaii, Estados Unidos
+`,
+    imagen: "https://images.pexels.com/photos/5256939/pexels-photo-5256939.jpeg",
+    sitioWeb: "https://www.worldpackers.com/es/positions/49043",
+    pais: "Estados Unidos",
+    duracion: "4 - 12 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/10406504/pexels-photo-10406504.jpeg "
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 35,
+    categoria: "Voluntariado",
+    titulo: "🌉 Voluntariado en San Francisco: Vive, Ayuda y Conecta con una Experiencia Única",
+    descripcion: `¿Quieres vivir en el corazón del Área de la Bahía de San Francisco mientras generas un impacto positivo en la vida de alguien? 🌎💙 Esta oportunidad de voluntariado combina apoyo social, convivencia y crecimiento personal en una experiencia única de intercambio cultural.
+
+📌 ¿En qué consiste la oportunidad?
+El anfitrión, residente en San Francisco y con parálisis del cuello hacia abajo, busca un voluntario dispuesto a:
+🤝 Brindar apoyo en tareas del hogar.
+🧹 Colaborar en la limpieza y organización de espacios.
+👵 Compartir tiempo de calidad y cuidado.
+🚲 Acompañar en actividades sociales y paseos.
+
+Más que una ayuda, esta experiencia se trata de construir una conexión real, compartir intereses y explorar juntos la vida en una de las zonas más vibrantes de EE.UU.
+
+✅ Beneficios para el voluntario
+🛏️ Habitación privada.
+🍳 Desayuno, almuerzo y cena incluidos.
+🚲 Bicicletas disponibles para explorar.
+🎉 Tours gratuitos por la ciudad.
+🧺 Lavandería gratuita.
+📶 Internet de alta velocidad + espacio de trabajo remoto.
+🍳 Acceso a cocina equipada.
+📅 2 días libres por semana para recorrer San Francisco y sus alrededores.
+
+🗓️ Disponibilidad y condiciones
+- 6 horas de apoyo por día.
+- 2 días libres semanales.
+- Se requiere inglés intermedio.
+- Solo se admiten voluntarios individuales.
+- Es necesario contar con visado o ciudadanía de EE.UU.
+
+📍 Ubicación
+Área de la Bahía de San Francisco, California, Estados Unidos
+`,
+    imagen: "https://images.pexels.com/photos/7699052/pexels-photo-7699052.jpeg",
+    sitioWeb: "https://www.worldpackers.com/es/positions/75456",
+    pais: "Estados Unidos",
+    duracion: "1 - 3 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/8415496/pexels-photo-8415496.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 36,
+    categoria: "Voluntariado",
+    titulo: "🐑 Voluntariado Ecológico: Convierte la Lana en Fibras Sustentables 🌱",
+    descripcion: `¿Sabías que la lana puede ser un sumidero de carbono y ayudar al planeta? 🌍💚 Esta experiencia única combina vida comunitaria, sostenibilidad y arte. Vivirás en una comunidad rural rodeada de naturaleza, aprendiendo todo el proceso de transformar la lana en fibras mágicas: desde la limpieza hasta el teñido natural con plantas silvestres.
+
+Más que un voluntariado, es una oportunidad para aprender a vivir de forma autosuficiente, cuidar la tierra y explorar tu lado creativo.
+
+📌 ¿En qué consiste la oportunidad?
+🧶 Limpieza, cardado y preparación de lana.
+🌿 Recolección de plantas silvestres para teñidos naturales.
+🎨 Participar en procesos creativos de tejido, tintura y arte.
+🍲 Colaborar en la cocina y actividades comunitarias.
+🛠️ Apoyo en reparaciones y construcción ligera.
+
+✅ Beneficios para el voluntario
+🛏️ Habitación privada o 🏕️ opción de camping en plena naturaleza.
+🍳 Todas las comidas incluidas (desayuno, almuerzo y cena).
+🧺 Lavandería gratuita.
+🎉 Acceso a tours, excursiones, fiestas y eventos culturales.
+🧘 Terapias holísticas incluidas.
+🚐 Traslado desde tu llegada hasta la comunidad.
+📶 Internet de alta velocidad + espacio de trabajo remoto.
+📅 ¡3 días libres por semana!
+
+🗓️ Disponibilidad y condiciones
+- 25 horas de ayuda por semana.
+- Se requiere inglés intermedio.
+- Edad: entre 18 y 70 años.
+- Se aceptan voluntarios individuales, parejas y dúos.
+- Necesario contar con visado o ciudadanía de EE.UU.
+
+📍 Ubicación
+Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y redwoods milenarios.
+`,
+    imagen: "https://images.pexels.com/photos/4621910/pexels-photo-4621910.jpeg",
+    sitioWeb: "https://www.worldpackers.com/es/positions/74119",
+    pais: "Estados Unidos",
+    duracion: "1 - 3 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/6765519/pexels-photo-6765519.jpeg "
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 37,
+    categoria: "Voluntariado",
+    titulo: "⚡ Ayuda con Reparaciones e Instalaciones Eléctricas - Estados Unidos",
+    descripcion: `¿Eres electricista experimentado y quieres vivir una experiencia única en Estados Unidos? Únete a nuestro proyecto de reparaciones eléctricas en un ambiente comunitario donde podrás aplicar tus habilidades mientras conoces la cultura estadounidense.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario electricista, participarás en diversas tareas especializadas:
+    🔧 Reemplazo de luminarias fluorescentes antiguas por LED.
+    🏠 Reparaciones generales del hogar como cambio de termostatos.
+    🚐 Cableado en camper van (cargador B2B, etc.).
+    🔍 Revisión y reparación de sistemas eléctricos en 3 casas, camper van y trailer.
+
+    ⏰ Horario de trabajo:
+    - Lunes a viernes de 10:00 AM a 4:00 PM
+    - Hora de almuerzo: 12:30-1:30 PM
+    - 25 horas de ayuda por semana
+    - 2 días libres por semana
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación privada (solo para ti).
+    🍽️ Desayuno, almuerzo y cena incluidos diariamente.
+    🧺 Lavandería gratuita.
+    🍻 Tragos y comidas gratis.
+    🎉 Pases gratis a fiestas y eventos de la ciudad.
+    🚲 Bicicletas a tu disposición.
+    🚐 Traslado desde tu llegada.
+    🧘 Clases de yoga gratuitas.
+    🌍 Clases de idiomas gratuitas.
+    🍳 Cocina completamente equipada para uso libre.
+    💰 Estipendio de viaje incluido.
+
+    💰 Cuota requerida:
+    - US$ 35 por día
+    - Destinada a beneficios para voluntarios
+    - Gratis si tienes Green Card o eres ciudadano estadounidense
+    - Precio negociable para estadías más largas
+
+    🎯 Requisitos:
+    - Inglés intermedio o español fluido
+    - Más de 21 años
+    - Experiencia en electricidad
+    - Visado o ciudadanía de Estados Unidos
+    - Admite voluntarios solos, parejas y dúos
+
+    📋 Reglas importantes:
+    - No se permiten teléfonos durante horas de trabajo o comidas (excepto emergencias o fotos)
+    - Menos de 15 horas semanales para compromisos externos
+    - Preparación de comidas en comunidad
+    - Cena comunitaria semanal en la casa principal
+
+    🌟 Ambiente:
+    - Experiencia cultural auténtica
+    - Ambiente comunitario colaborativo
+    - Oportunidad de practicar inglés/español
+    - Conocimiento de la cultura estadounidense
+    `,
+    imagen: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    sitioWeb: "https://www.worldpackers.com/es/positions/60474",
+    pais: "Estados Unidos",
+    duracion: "1 - 4 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 38,
+    categoria: "Voluntariado",
+    titulo: "🎨 Únete a nuestra Comunidad Artística - Estados Unidos",
+    descripcion: `¿Eres creativo y quieres formar parte de una comunidad artística vibrante en Estados Unidos? Únete a nuestro proyecto donde podrás desarrollar tus habilidades artísticas mientras contribuyes a una comunidad colaborativa y creativa.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en nuestra comunidad artística, participarás en diversas actividades creativas y de mantenimiento:
+    🎨 Proyectos de arte grandes y pequeños.
+    🖌️ Pintura profesional, escultura y dibujo.
+    🏠 Pintura y decoración de espacios.
+    🔧 Construcción y reparaciones menores.
+    🌱 Trabajos de jardinería y mantenimiento del patio.
+    🧹 Tareas de organización general y limpieza.
+    🏡 Asistencia con tareas domésticas.
+
+    ⏰ Horario de trabajo:
+    - Lunes a viernes de 10:00 AM a 4:00 PM
+    - Hora de almuerzo: 12:30-1:30 PM
+    - 25 horas de ayuda por semana
+    - 2 días libres por semana
+    - Actividades varían según la temporada y necesidades
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación privada o compartida disponible.
+    🍽️ Desayuno, almuerzo y cena incluidos diariamente.
+    🧺 Lavandería gratuita.
+    🎉 Pases gratis a eventos de la ciudad.
+    🚲 Bicicletas a tu disposición.
+    🚐 Traslado desde tu llegada.
+    🌍 Clases de idiomas gratuitas.
+    🍳 Cocina completamente equipada para uso libre.
+    📶 Internet de alta velocidad para trabajo remoto.
+    🎵 Jams de música acústica y eléctrica los fines de semana.
+    🎨 Clases de artes y manualidades.
+
+    💰 Cuota requerida:
+    - US$ 35 por día
+    - Destinada a beneficios para voluntarios
+    - Gratis si tienes Green Card o eres ciudadano estadounidense
+    - Precio negociable para estadías más largas
+
+    🎯 Requisitos:
+    - Inglés intermedio
+    - Más de 21 años
+    - Interés en arte y creatividad
+    - Visado o ciudadanía de Estados Unidos
+    - Admite voluntarios solos, parejas y dúos
+
+    📋 Reglas importantes:
+    - No se permiten teléfonos durante horas de trabajo o comidas (excepto emergencias o fotos)
+    - Nómadas digitales bienvenidos (trabajo en noches y fines de semana)
+    - Menos de 15 horas semanales para compromisos externos
+    - Preparación de comidas en comunidad
+    - Cena comunitaria semanal (pot luck) en la casa principal
+
+    🌟 Actividades especiales:
+    - Proyectos artísticos colaborativos
+    - Jams musicales los fines de semana
+    - Clases de artes y manualidades
+    - Intercambio cultural auténtico
+    - Trabajo estacional (jardinería en primavera/otoño, limpieza de nieve en invierno)
+
+    🏠 Ambiente comunitario:
+    - Despensa comunitaria con alimentos frescos
+    - Cocina compartida para preparar comidas
+    - Espacios creativos para proyectos artísticos
+    - Ambiente colaborativo y cultural
+    - Oportunidades de networking artístico
+    `,
+    imagen: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    sitioWeb: "https://www.worldpackers.com/es/positions/60375",
+    pais: "Estados Unidos",
+    duracion: "1 - 4 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 39,
+    categoria: "Voluntariado",
+    titulo: "🏠 Administradora de Casa / Organizadora Comunitaria - San Francisco",
+    descripcion: `¿Eres una mujer proactiva y organizada con experiencia en liderazgo comunitario? Únete como Administradora de Casa en Mission Dolores Manor, una casa de coliving para fundadores de tecnología en el corazón de San Francisco.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como Administradora de Casa, serás la líder comunitaria principal:
+    👥 Entrevistas, incorporación y bienvenida de nuevos residentes y voluntarios.
+    💬 Respuesta a solicitudes e inquietudes de residentes.
+    📢 Notificaciones y anuncios a la comunidad.
+    📊 Seguimiento de check-ins, pagos y asignación de habitaciones.
+    🎉 Gestión de eventos: creación, apoyo y dirección.
+    👥 Coordinación y liderazgo del equipo de voluntarios.
+    🧹 Mantenimiento de espacios comunes limpios y funcionales.
+    🍳 Apoyo en preparación de comidas y cenas grupales.
+    🌱 Jardinería ligera y tareas de mantenimiento básico.
+
+    ⏰ Horario de trabajo:
+    - Horas flexibles (rol requiere estar disponible para residentes y voluntarios)
+    - Check-ins matutinos con el equipo
+    - Recorridos vespertinos de la casa
+    - Apoyo ocasional a residentes por las tardes
+    - Eventos los fines de semana
+    - Promedio de 25 horas por semana
+    - Generalmente distribuido en 5 días
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación compartida con otra voluntaria (dormitorio femenino).
+    🚿 Baño privado compartido.
+    🎉 Descuentos en fiestas y clubes cercanos.
+    🎊 Pases gratis a fiestas y eventos de la ciudad.
+    🧺 Lavandería gratuita.
+    🍳 Cocina completamente equipada para uso libre.
+    📶 Internet de alta velocidad para trabajo remoto.
+    🌟 Experiencia en hospitalidad y gestión comunitaria.
+
+    🎯 Requisitos específicos:
+    - **Solo aplicantes femeninas**
+    - Inglés fluido
+    - Más de 21 años
+    - Experiencia en liderazgo comunitario (hostel/coliving preferible)
+    - Visado o ciudadanía de Estados Unidos
+    - Solo voluntarias individuales (no parejas o dúos)
+
+    📋 Cualidades ideales:
+    - Proactiva y comunicativa
+    - Organizada y limpia
+    - Personable y con habilidades sociales
+    - Hábil con reparaciones básicas
+    - Experiencia en liderazgo comunitario
+    - Comprometida con la confiabilidad y consistencia
+    - Abierta a cocinar o hacer jardinería cuando sea necesario
+
+    🏠 Ambiente de trabajo:
+    - Comunidad vibrante de coliving tecnológico
+    - Ambiente emprendedor e internacional
+    - Conexión con fundadores de tecnología
+    - Liderazgo de equipo de voluntarios
+    - Gestión de eventos comunitarios
+    - Experiencia en hospitalidad
+
+    📍 Ubicación:
+    Mission Dolores Manor, San Francisco, California
+    - Corazón de San Francisco
+    - Comunidad de coliving para fundadores de tecnología
+    - Ambiente internacional y emprendedor
+
+    🚫 Reglas importantes:
+    - Ser proactiva y comunicativa (residentes y voluntarios dependen de tu guía)
+    - Mantener ambiente limpio, organizado y acogedor
+    - Respetar reglas de horas de silencio y espacios compartidos
+    - Liderar con el ejemplo (establecer tono de trabajo en equipo)
+    - No drogas, alcohol excesivo o comportamiento disruptivo
+    - Compromiso con confiabilidad y consistencia esencial`,
+    imagen: "https://images.pexels.com/photos/2031727/pexels-photo-2031727.jpeg",
+    sitioWeb: "https://www.worldpackers.com/es/positions/96173",
+    pais: "Estados Unidos",
+    duracion: "3 - 6 meses",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1555854877-bab0ef4c7b62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 40,
+    categoria: "Voluntariado",
+    titulo: "💻 Desarrollador Web / Genio del Marketing - Estados Unidos",
+    descripcion: `¿Eres un desarrollador web con habilidades de marketing digital? Únete a nuestro proyecto de corta duración (1-2 semanas) donde podrás aplicar tus conocimientos técnicos mientras contribuyes a una comunidad vibrante y creativa.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como Desarrollador Web y especialista en marketing, trabajarás en:
+    💻 Desarrollo y mantenimiento de sitios web.
+    📝 Creación de contenido inspirador y atractivo.
+    🔍 Optimización SEO para mejorar visibilidad.
+    📱 Gestión de redes sociales y marketing digital.
+    📸 Fotografía y video para eventos (fuera del horario normal).
+    🎨 Colaboración en actividades de arte, manualidades y música.
+
+    ⏰ Horario de trabajo:
+    - Lunes a viernes de 10:00 AM a 4:00 PM
+    - Hora de almuerzo: 12:30-1:30 PM
+    - 25 horas de ayuda por semana
+    - 2 días libres por semana
+    - Flexibilidad para trabajo remoto desde donde te sientas cómodo
+    - Intercambio de horas por fotografía/video de eventos
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación privada (solo para ti).
+    🍽️ Desayuno, almuerzo y cena incluidos diariamente.
+    🧺 Lavandería gratuita.
+    🎉 Pases gratis a eventos de la ciudad.
+    🚲 Bicicletas a tu disposición.
+    🚐 Traslado desde tu llegada.
+    🌍 Clases de idiomas gratuitas.
+    🍳 Cocina completamente equipada para uso libre.
+    📶 Internet de alta velocidad para trabajo remoto.
+    💼 Espacio de trabajo dedicado para trabajo remoto.
+
+    💰 Cuota requerida:
+    - US$ 35 por día
+    - Destinada a beneficios para voluntarios
+    - Gratis si tienes Green Card o eres ciudadano estadounidense
+    - Precio negociable para estadías más largas
+
+    🎯 Requisitos técnicos:
+    - Inglés fluido
+    - Más de 21 años
+    - Habilidades de diseño y programación web
+    - Familiaridad con SEO
+    - Experiencia en creación de contenido
+    - Conocimientos de marketing en redes sociales
+    - Referencias que verifiquen tus habilidades
+    - Visado o ciudadanía de Estados Unidos
+    - Solo voluntarios individuales (no parejas o dúos)
+
+    🛠️ Habilidades específicas:
+    - Desarrollo web (HTML, CSS, JavaScript, etc.)
+    - Optimización SEO
+    - Creación de contenido digital
+    - Gestión de redes sociales
+    - Fotografía y video (opcional)
+    - Trabajo en equipo y comunicación
+
+    🏠 Ambiente de trabajo:
+    - Cocina completamente equipada para preparar comidas
+    - Espacio de trabajo dedicado para trabajo remoto
+    - Interacción con miembros de la comunidad
+    - Cena comunitaria semanal (pot luck)
+    - Actividades de arte, manualidades y música
+    - Jams musicales y clases de ejercicio
+    - Festivales ocasionales y ventas de garaje
+
+    📋 Reglas importantes:
+    - No se permiten teléfonos durante horas de trabajo o comidas (excepto fotos/videos o emergencias)
+    - Compromisos externos no deben interferir con el programa
+    - Interacción comunitaria importante para intercambio cultural
+    - Flexibilidad para intercambiar horas por fotografía de eventos
+    - Trabajo colaborativo y comunicación efectiva
+
+    🌟 Actividades especiales:
+    - Clases de arte, manualidades y música
+    - Jams musicales
+    - Festivales y eventos comunitarios
+    - Ventas de garaje
+    - Intercambio cultural auténtico
+    - Networking con la comunidad creativa`,
+    imagen: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    sitioWeb: "https://www.worldpackers.com/es/positions/80829",
+    pais: "Estados Unidos",
+    duracion: "1 - 2 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
   }
 ];
 
