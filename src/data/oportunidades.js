@@ -2174,6 +2174,1405 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
     ]
+  },
+  {
+    id: 41,
+    categoria: "Voluntariado",
+    titulo: "🍳 Administradora de Cocina y Casa - Estados Unidos",
+    descripcion: `¿Tienes excelentes habilidades culinarias y de gestión de cocina? ¿Te enorgullece mantener una casa limpia y hermosa? Únete a nuestra comunidad de música y arte que está muy activa de abril a octubre, donde podrás aplicar tus habilidades culinarias mientras contribuyes a un ambiente comunitario vibrante.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como Administradora de Cocina y Casa, serás responsable de:
+    🍳 Gestión completa de la cocina y preparación de comidas.
+    🛒 Pedidos de alimentos y gestión de inventario.
+    🧹 Mantenimiento de todas las áreas comunes sanitarias y ordenadas.
+    🧺 Lavandería y cuidado de la ropa.
+    🌱 Riego de plantas y cuidado del jardín.
+    🐕 Alimentación y paseo de perros.
+    🛏️ Ocasionalmente hacer camas y tareas domésticas.
+    🎉 Organización y promoción de fiestas y eventos sociales.
+
+    ⏰ Horario de trabajo:
+    - Lunes a viernes de 9:00 AM a 3:00 PM
+    - Hora de almuerzo con otros voluntarios (importante para intercambio cultural)
+    - 25 horas de ayuda por semana
+    - 2 días libres por semana
+    - Flexibilidad para intercambiar horas por eventos especiales
+    - Asistencia de otros voluntarios entre 9-10 AM si es necesario
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación privada o compartida disponible.
+    🍽️ Desayuno, almuerzo y cena incluidos diariamente.
+    🧺 Lavandería gratuita.
+    🍻 Tragos y comidas gratis.
+    🎉 Pases gratis a fiestas y eventos de la ciudad.
+    🚲 Bicicletas a tu disposición.
+    🚐 Traslado desde tu llegada.
+    🌍 Clases de idiomas gratuitas.
+    🍳 Cocina completamente equipada para uso libre.
+
+    💰 Cuota requerida:
+    - US$ 35 por día
+    - Destinada a beneficios para voluntarios
+    - Gratis si tienes Green Card o eres ciudadano estadounidense
+    - Precio negociable para estadías más largas
+
+    🎯 Requisitos específicos:
+    - **Experiencia obligatoria en gestión de cocina**
+    - Conocimiento de preparación de alimentos para diferentes dietas:
+      - Vegetariana, vegana, sin gluten, sin lácteos
+      - Preparación de carnes y pescados
+    - Inglés intermedio o español fluido
+    - Más de 21 años
+    - Referencias que avalen tu experiencia en este tipo de posición
+    - Visado o ciudadanía de Estados Unidos
+    - Solo voluntarios individuales (no parejas o dúos)
+
+    🍽️ Habilidades culinarias requeridas:
+    - Gestión de cocina profesional
+    - Preparación de menús variados
+    - Conocimiento de dietas especiales
+    - Organización de inventario y pedidos
+    - Liderazgo de equipo en cocina
+    - Limpieza y mantenimiento de cocina
+
+    🏠 Responsabilidades de la casa:
+    - Mantenimiento de áreas comunes
+    - Lavandería y cuidado de ropa
+    - Cuidado de plantas y jardín
+    - Cuidado de mascotas (perros)
+    - Tareas domésticas generales
+    - Organización de eventos sociales
+
+    🌟 Actividades especiales:
+    - Comunidad de música y arte
+    - Temporada alta de abril a octubre
+    - Fiestas y eventos comunitarios
+    - Intercambio cultural auténtico
+    - Oportunidades de networking creativo
+    - Ambiente vibrante y colaborativo
+
+    📋 Reglas importantes:
+    - No se permiten teléfonos durante horas de trabajo o comidas (excepto fotos/videos o emergencias)
+    - Compromisos externos no deben interferir con el programa
+    - Intercambio cultural importante durante las comidas
+    - Flexibilidad para intercambiar horas por eventos especiales
+    - Liderazgo y dirección de otros voluntarios en cocina
+
+    🎵 Ambiente comunitario:
+    - Comunidad de música y arte activa
+    - Temporada alta de abril a octubre
+    - Ambiente creativo y colaborativo
+    - Oportunidades de crecimiento profesional
+    - Networking con artistas y músicos
+    - Experiencia en gestión de eventos`,
+    imagen: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    sitioWeb: "https://www.worldpackers.com/es/positions/61637",
+    pais: "Estados Unidos",
+    duracion: "2 - 6 meses",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 42,
+    categoria: "Voluntariado",
+    titulo: "🏡 Sé parte del Renacimiento de mi Casa de la Infancia - California",
+    descripcion: `¿Quieres ser parte de una historia especial? Únete al renacimiento de mi casa de la infancia en California, donde podrás contribuir a transformar un hogar que ahora será un Airbnb, mientras disfrutas de la proximidad al Parque Nacional Sequoia y la vibrante vida de Visalia.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en el renacimiento de la casa, participarás en:
+    🏠 Limpieza y renovación de la casa.
+    🌱 Jardinería y cuidado del césped.
+    🍳 Ayuda en la cocina y preparación de comidas.
+    🐕 Cuidado de mascotas y animales.
+    🔧 Tareas básicas de mantenimiento del hogar.
+    🎨 Contribución a la transformación del espacio.
+    📱 Preparación para el futuro Airbnb.
+
+    ⏰ Horario de trabajo:
+    - 25 horas de ayuda por semana
+    - 2 días libres por semana
+    - Horarios flexibles según las necesidades del proyecto
+    - Tiempo de silencio: 10:00 PM - 6:00 AM
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación privada (solo para ti).
+    🏕️ Opción de camping con carpa/tienda.
+    🍽️ Desayuno, almuerzo y cena incluidos diariamente.
+    🧺 Lavandería gratuita.
+    🚲 Bicicletas a tu disposición.
+    🌍 Clases de idiomas gratuitas.
+    🍳 Cocina completamente equipada para uso libre.
+    📶 Internet de alta velocidad para trabajo remoto.
+    💼 Espacio de trabajo dedicado para trabajo remoto.
+
+    🎯 Requisitos:
+    - Inglés principiante o español principiante
+    - Entre 18 y 65 años
+    - Respeto por los demás
+    - Visado o ciudadanía de Estados Unidos
+    - Admite voluntarios solos, parejas y dúos
+
+    🏠 Historia de la casa:
+    - Casa de la infancia del anfitrión
+    - Fue rentada y no fue cuidada adecuadamente
+    - Ahora está siendo renovada y transformada
+    - Próximamente será un Airbnb
+    - Proyecto de renacimiento y restauración
+
+    📍 Ubicación privilegiada:
+    - 35-40 minutos del Parque Nacional Sequoia
+    - Centro de tránsito vibrante en Visalia
+    - Estación de tren Amtrak en Hanford
+    - Acceso fácil a la naturaleza y la ciudad
+    - Ambiente tranquilo y rural
+
+    🌲 Atracciones cercanas:
+    - Parque Nacional Sequoia (gigantescas secuoyas)
+    - Downtown de Visalia (vida urbana)
+    - Estación de tren Amtrak
+    - Naturaleza y senderismo
+    - Cultura y entretenimiento local
+
+    🛠️ Actividades principales:
+    - Limpieza profunda de la casa
+    - Corte y mantenimiento del césped
+    - Tareas básicas de mantenimiento
+    - Preparación de comidas
+    - Cuidado de mascotas
+    - Contribución al proyecto de renovación
+
+    📋 Reglas importantes:
+    - Respeto mutuo entre todos
+    - Tiempo de silencio: 10:00 PM - 6:00 AM
+    - Mantenimiento del orden y limpieza
+    - Colaboración en el proyecto de renovación
+    - Disfrute del ambiente familiar y acogedor
+
+    🌟 Experiencia única:
+    - Formar parte de una historia personal
+    - Contribuir al renacimiento de un hogar
+    - Proximidad a la naturaleza (Sequoia)
+    - Ambiente familiar y acogedor
+    - Preparación para proyecto Airbnb
+    - Conexión con la comunidad local`,
+    imagen: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    sitioWeb: "https://www.worldpackers.com/es/positions/81143",
+    pais: "Estados Unidos",
+    duracion: "1 - 4 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/2670273/pexels-photo-2670273.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 43,
+    categoria: "Voluntariado",
+    titulo: "🏨 ¡Hola! El Hostal más Genial de San Diego - Estados Unidos",
+    descripcion: `¡Hola desde el hostal más genial de San Diego! Únete a nosotros en el hostal con las mejores vibras de San Diego, ubicado estratégicamente cerca del famoso Balboa Park. Una oportunidad única para vivir la experiencia hostelera mientras contribuyes a proyectos sociales locales.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en el hostal más genial de San Diego, participarás en:
+    🤝 Trabajo social en proyectos locales y comunidades.
+    🏨 Apoyo en operaciones del hostal.
+    🎉 Participación en eventos y fiestas de la ciudad.
+    🚲 Uso de bicicletas para explorar San Diego.
+    🍳 Preparación de comidas en cocina equipada.
+    🧺 Uso de lavandería gratuita.
+
+    ⏰ Horario de trabajo:
+    - 4 horas de ayuda por día
+    - 1 día libre por semana
+    - Horarios flexibles según las necesidades del hostal
+    - Ambiente relajado y colaborativo
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación compartida con otros viajeros.
+    👥 Habitación del equipo con otros voluntarios.
+    🧺 Lavandería gratuita.
+    🍻 Tragos y comidas gratis.
+    🎉 Pases gratis a las mejores fiestas de la ciudad.
+    🎊 Pases gratis a eventos de la ciudad.
+    🚲 Bicicletas a tu disposición.
+    🍳 Cocina completamente equipada para uso libre.
+
+    🎯 Requisitos:
+    - Más de 21 años
+    - Visado o ciudadanía de Estados Unidos
+    - Solo voluntarios individuales (no parejas o dúos)
+    - Interés en trabajo social y comunidad
+    - Actitud positiva y colaborativa
+
+    🏆 Reconocimientos del hostal:
+    - Votado como "Best Vibes Hostel" en San Diego
+    - Único hostal caminable a Balboa Park
+    - 4.5 estrellas con 182 reseñas
+    - Ambiente comunitario excepcional
+    - Experiencia hostelera auténtica
+
+    📍 Ubicación privilegiada:
+    - San Diego, California
+    - Caminable a Balboa Park
+    - Acceso fácil a atracciones de la ciudad
+    - Cerca de transporte público
+    - Ambiente urbano vibrante
+
+    🌟 Atracciones cercanas:
+    - Balboa Park (museos, jardines, zoológico)
+    - Gaslamp Quarter (vida nocturna)
+    - La Jolla (playas y vida marina)
+    - Coronado Island
+    - Old Town San Diego
+    - Seaport Village
+
+    🤝 Trabajo social:
+    - Proyectos comunitarios locales
+    - Apoyo a organizaciones sin fines de lucro
+    - Participación en iniciativas sociales
+    - Conexión con la comunidad local
+    - Impacto positivo en San Diego
+
+    🎉 Vida social:
+    - Fiestas y eventos gratuitos
+    - Networking con viajeros internacionales
+    - Actividades comunitarias del hostal
+    - Exploración de la vida nocturna de San Diego
+    - Conexiones culturales auténticas
+
+    📋 Ambiente del hostal:
+    - Mejores vibras de San Diego
+    - Ambiente internacional y diverso
+    - Espacios comunes acogedores
+    - Cocina compartida bien equipada
+    - Áreas de descanso y socialización
+
+    🌟 Experiencia única:
+    - Formar parte del hostal más genial de San Diego
+    - Proximidad a Balboa Park
+    - Trabajo social significativo
+    - Vida social vibrante
+    - Conexión con viajeros de todo el mundo
+    - Experiencia auténtica de San Diego`,
+    imagen: "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    sitioWeb: "https://www.worldpackers.com/es/positions/39118",
+    pais: "Estados Unidos",
+    duracion: "2 - 8 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 44,
+    categoria: "Voluntariado",
+    titulo: "🌿 Diseño de Paisaje en Granja de Kentucky - Estados Unidos",
+    descripcion: `¿Eres creativo y apasionado por el diseño de paisajes? Únete a nuestra granja de Kentucky en nuestra búsqueda por convertirnos en una operación agrícola más sostenible. Ayúdanos con diseño de paisajes, jardines, instalaciones de arte y diseño de hardscape mientras nos divertimos creando juntos.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en diseño de paisaje, participarás en:
+    🌱 Diseño de paisajes y jardines sostenibles.
+    🎨 Instalaciones de arte en la granja.
+    🏗️ Diseño de hardscape (caminos, patios, estructuras).
+    🌿 Jardinería y cultivo de plantas.
+    💡 Desarrollo de diseños creativos para "The Art Farm".
+    🤝 Colaboración en proyectos de sostenibilidad.
+
+    ⏰ Horarios de trabajo disponibles:
+    - 9:00 AM - 1:00 PM
+    - 11:00 AM - 3:00 PM
+    - 1:00 PM - 5:00 PM
+    - 2:00 PM - 6:00 PM
+    - 5 horas de ayuda por día
+    - 3 días libres por semana
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación privada (solo para ti).
+    🏕️ Opción de camping con carpa/tienda.
+    📶 Internet básica para trabajo remoto.
+    💼 Espacio de trabajo dedicado para trabajo remoto.
+    🌱 Acceso a proyectos de diseño creativo.
+    🎨 Oportunidad de expresar tu creatividad.
+
+    🎯 Requisitos:
+    - Inglés intermedio
+    - Entre 30 y 80 años
+    - Visado o ciudadanía de Estados Unidos
+    - Admite voluntarios solos, parejas y dúos
+    - Interés en diseño de paisajes y sostenibilidad
+    - Creatividad y habilidades artísticas
+
+    🌱 Proyectos de diseño:
+    - Diseño de paisajes sostenibles
+    - Jardines temáticos y funcionales
+    - Instalaciones de arte al aire libre
+    - Hardscape (caminos, patios, estructuras)
+    - Planificación de espacios verdes
+    - Integración de arte y naturaleza
+
+    🏡 The Art Farm:
+    - Granja en proceso de transformación sostenible
+    - Enfoque en arte y diseño
+    - Proyectos creativos colaborativos
+    - Ambiente inspirador para artistas
+    - Conexión entre arte y agricultura
+    - Desarrollo de espacios únicos
+
+    📍 Ubicación:
+    - Kentucky, Estados Unidos
+    - Ambiente rural y tranquilo
+    - Acceso a naturaleza y espacios abiertos
+    - Ambiente creativo e inspirador
+    - Conexión con la comunidad local
+
+    🎨 Actividades creativas:
+    - Diseño de jardines temáticos
+    - Instalaciones de arte en la granja
+    - Creación de espacios funcionales
+    - Integración de elementos naturales
+    - Colaboración en proyectos artísticos
+    - Desarrollo de conceptos sostenibles
+
+    🌿 Sostenibilidad:
+    - Prácticas agrícolas sostenibles
+    - Diseño ecológico
+    - Conservación del medio ambiente
+    - Uso eficiente de recursos
+    - Integración de sistemas naturales
+    - Educación ambiental
+
+    📋 Reglas importantes:
+    - Fumar permitido fuera de los edificios
+    - No contenedores de vidrio en área de jacuzzi
+    - Respeto por el ambiente natural
+    - Colaboración en proyectos creativos
+    - Mantenimiento de espacios de trabajo
+
+    🌟 Experiencia única:
+    - Contribuir a una granja sostenible
+    - Expresar creatividad en diseño
+    - Trabajar en proyectos artísticos
+    - Conectar con la naturaleza
+    - Desarrollar habilidades de diseño
+    - Formar parte de "The Art Farm"`,
+    imagen: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    sitioWeb: "https://www.worldpackers.com/es/positions/68909",
+    pais: "Estados Unidos",
+    duracion: "2 - 6 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33927618/pexels-photo-33927618.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 45,
+    categoria: "Voluntariado",
+    titulo: "👥 Coordinador y Administrador de Voluntarios - Estados Unidos",
+    descripcion: `¿Tienes habilidades excepcionales de comunicación y mediación? Nuestra comunidad está creciendo y necesitamos un Coordinador de Voluntarios que pueda mantener un ambiente armonioso mientras coordina y comunica efectivamente a través de la diversidad cultural. Si tienes esta habilidad y estás listo para liderar, necesitamos tu talento.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como Coordinador y Administrador de Voluntarios, serás responsable de:
+    👥 Coordinación y comunicación con voluntarios y huéspedes.
+    🤝 Mediación y mantenimiento de ambiente armonioso.
+    🌱 Jardinería y cultivo de jardines.
+    🍳 Ayuda en cocina y preparación de comidas.
+    🧹 Limpieza de cocina, dormitorios, baños y áreas comunes.
+    🍽️ Preparación de comidas para huéspedes.
+    📊 Evaluación y reportes de rendimiento de voluntarios.
+
+    ⏰ Horario de trabajo:
+    - 32 horas de ayuda por semana
+    - 4 días libres por semana
+    - 25 horas semanales enfocadas en coordinación y comunicación
+    - Posición de manos a la obra que requiere compromiso diario
+    - Trabajo en ambos turnos según necesidades
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación compartida con otros viajeros.
+    🏕️ Opción de camping con carpa/tienda.
+    🍽️ Desayuno, almuerzo y cena incluidos diariamente.
+    🧺 Lavandería gratuita.
+    🍳 Cocina completamente equipada para uso libre.
+    📶 Internet de alta velocidad para trabajo remoto.
+    🏠 **Posible habitación privada** (si demuestras tu valía).
+
+    🎯 Requisitos específicos:
+    - **Fluidez en inglés y español**
+    - Sin restricciones dietéticas (puede comer cualquier cosa)
+    - Sin condiciones médicas no declaradas
+    - Buena salud y contacto de emergencia
+    - Entre 21 y 65 años
+    - Visado o ciudadanía de Estados Unidos
+    - Solo voluntarios individuales (no parejas o dúos)
+
+    👥 Responsabilidades de coordinación:
+    - Asignar tareas a voluntarios
+    - Imprimir hojas de trabajo semanales
+    - Revisar áreas de trabajo de voluntarios
+    - Evaluar rendimiento de voluntarios
+    - Hacer reportes semanales a Susan
+    - Delegar tareas adicionales (jardinería, cocina)
+    - Recibir huéspedes con hospitalidad
+    - Realizar tareas en ausencia de voluntarios
+    - Verificar cumplimiento diario del trabajo
+
+    🤝 Colaboraciones:
+    - Cocina principal (Lead House Cook)
+    - Jardinero
+    - Equipo de voluntarios
+    - Huéspedes y residentes
+    - Gestión de la casa
+
+    🌍 Diversidad cultural:
+    - Comunidad multicultural en crecimiento
+    - Diferentes culturas cada mes
+    - Dinámicas fluidas y cambiantes
+    - Comunicación efectiva a través de la diversidad
+    - Prevención de malentendidos
+    - Mantenimiento de armonía establecida
+
+    🏠 Ambiente comunitario:
+    - Inquilinos de largo plazo
+    - Huéspedes de Airbnb
+    - Voluntarios temporales
+    - Temporada alta en verano
+    - Ambiente ocupado y dinámico
+    - Sentido de pertenencia y ayuda mutua
+
+    📋 Reglas importantes:
+    - Mantener silencio y volumen bajo en todo momento
+    - Recordar reglas de la casa a otros
+    - No fumar dentro de la casa
+    - Todos limpian después de sí mismos
+    - Todos contribuyen al trabajo
+    - Respeto mutuo y colaboración
+
+    🌟 Habilidades requeridas:
+    - Comunicación excepcional
+    - Mediación y resolución de conflictos
+    - Liderazgo y motivación
+    - Trabajo en equipo
+    - Adaptabilidad cultural
+    - Habilidades sociales avanzadas
+    - Compromiso y responsabilidad
+
+    💼 Oportunidades de crecimiento:
+    - Posible habitación privada por buen rendimiento
+    - Desarrollo de habilidades de liderazgo
+    - Experiencia en gestión comunitaria
+    - Networking internacional
+    - Habilidades de mediación cultural
+    - Experiencia en hospitalidad`,
+    imagen: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    sitioWeb: "https://www.worldpackers.com/es/positions/70178",
+    pais: "Estados Unidos",
+    duracion: "3 - 8 meses",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 46,
+    categoria: "Voluntariado",
+    titulo: "🏝️ ¡Vende Regalos en el Mercado Famoso de Hawái! - Estados Unidos",
+    descripcion: `¡Vive la experiencia única de Hawái vendiendo regalos auténticos en un mercado famoso! Únete a nosotros en esta isla paradisíaca donde podrás interactuar con turistas y locales mientras vendes productos hawaianos auténticos. Una oportunidad perfecta para experimentar la cultura hawaiana y desarrollar habilidades de ventas.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como vendedor en el mercado de Hawái, participarás en:
+    🛍️ Venta de regalos y productos hawaianos auténticos.
+    💬 Atención al cliente y respuesta a preguntas.
+    💰 Manejo de pagos y transacciones.
+    🧹 Limpieza y mantenimiento (3 horas diarias).
+    🌱 Jardinería y cultivo de plantas.
+    🎨 Pintura y decoración del local.
+    🏗️ Ayuda en remodelación cuando sea necesario.
+
+    ⏰ Horario de trabajo:
+    - **Sábados y domingos**: 12:00 PM - 4:00 PM (ventas)
+    - **Domingos**: 10:00 AM - 4:00 PM (ventas extendidas)
+    - **Lunes a viernes**: 9:00 AM - 12:00 PM (limpieza)
+    - **Jueves**: 6:00 PM - 9:00 PM (preparación de comidas)
+    - 30 horas de ayuda por semana
+    - 1 día libre por semana
+    - Horario estricto (no se permite faltar)
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación compartida con otros viajeros.
+    🍽️ Desayuno y almuerzo incluidos diariamente.
+    🧺 Lavandería gratuita.
+    🚐 Traslado desde tu llegada.
+    📶 Internet básica para trabajo remoto.
+    💼 Espacio de trabajo dedicado.
+    🎁 Propinas de clientes (para ti).
+    🎫 Pases para eventos de la isla (disponibles).
+
+    💰 Cuota requerida:
+    - **US$ 200 única vez** (depósito)
+    - **IMPORTANTE**: Se pierde el depósito completo si:
+      - Abandonas temprano
+      - Faltas días de trabajo
+      - No cumples con las horas requeridas
+      - No eres apto para el trabajo
+
+    🎯 Requisitos específicos:
+    - Inglés intermedio o español principiante
+    - Entre 18 y 50 años
+    - **Experiencia en ventas o atención al cliente**
+    - Inglés fluido para ventas (preferible)
+    - Visado o ciudadanía de Estados Unidos
+    - Admite voluntarios solos, parejas y dúos
+    - **Horario estricto** - No se permite faltar
+
+    🛍️ Experiencia en ventas:
+    - Venta de gafas de sol, joyería y juguetes
+    - Atención a 10-15 personas por día
+    - Manejo de precios y cotizaciones
+    - Experiencia cara a cara con clientes
+    - Servicio al cliente excepcional
+    - Interacción con turistas y locales
+
+    🏝️ Ubicación paradisíaca:
+    - Hawái, Estados Unidos
+    - Mercado famoso de la isla
+    - Ambiente tropical y relajado
+    - Interacción con cultura hawaiana
+    - Acceso a playas y naturaleza
+    - Experiencia auténtica de la isla
+
+    🧹 Responsabilidades de limpieza:
+    - Lunes a viernes: 9:00 AM - 12:00 PM
+    - Limpieza de platos y food truck
+    - Baños y habitaciones
+    - Áreas privadas y jardín
+    - Mantenimiento general
+    - Preparación de comidas (jueves)
+
+    🎨 Actividades creativas:
+    - Pintura y decoración del local
+    - Jardinería y cultivo
+    - Ayuda en remodelación
+    - Decoración de espacios
+    - Mantenimiento creativo
+    - Mejora del ambiente
+
+    📋 Reglas estrictas:
+    - **No fumar**
+    - **No drogas**
+    - **No mascotas**
+    - **No parejas** (posiciones separadas)
+    - **No beber alcohol**
+    - **No vapear**
+    - Horario estricto obligatorio
+
+    🌟 Oportunidades especiales:
+    - Propinas de clientes (100% para ti)
+    - Pases para eventos de la isla
+    - Más de un día libre (por buen rendimiento)
+    - Experiencia en cultura hawaiana
+    - Networking con turistas internacionales
+    - Desarrollo de habilidades de ventas
+
+    ⚠️ **IMPORTANTE - Términos estrictos:**
+    - Depósito de US$ 200 en efectivo antes de llegar
+    - Semana de prueba disponible (pero se pierde el depósito)
+    - Horario estricto - no se permite faltar
+    - Solo para personas trabajadoras y comprometidas
+    - Aceptación de términos obligatoria
+
+    🏝️ **¡Hawái es para cada persona trabajadora!** 🌺`,
+    imagen: "https://images.pexels.com/photos/412681/pexels-photo-412681.jpeg",
+    sitioWeb: "https://www.worldpackers.com/es/positions/77333",
+    pais: "Estados Unidos",
+    duracion: "2 - 4 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/757432/pexels-photo-757432.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 47,
+    categoria: "Voluntariado",
+    titulo: "💙 ¡Únete a nuestro Hermoso Proyecto de Transformación Social! - Estados Unidos",
+    descripcion: `¿Quieres ser parte de un proyecto hermoso que transforma vidas? Únete a nuestra organización sin fines de lucro que se enfoca en mentoría juvenil, asistencia familiar y apoyo comunitario. También brindamos apoyo en salud mental a veteranos y ofrecemos intercambios culturales para educar sobre la pobreza y salud mental en los sistemas de salud y justicia estadounidenses.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en nuestro hermoso proyecto, participarás en:
+    👥 Mentoría juvenil y apoyo a jóvenes.
+    👨‍👩‍👧‍👦 Asistencia a familias en necesidad.
+    🏠 Apoyo en la casa comunitaria.
+    🧠 Apoyo en salud mental a veteranos.
+    🐕 Cuidado de mascotas y animales.
+    🍳 Preparación de comidas para huéspedes.
+    🤝 Trabajo social en proyectos locales.
+    🌍 Enseñanza de idiomas a la comunidad.
+
+    ⏰ Horario de trabajo:
+    - 9:00 AM - 1:00 PM (turno matutino)
+    - 25 horas de ayuda por semana
+    - 2 días libres por semana
+    - Horarios flexibles según necesidades del proyecto
+
+    ✅ Beneficios incluidos:
+    🛏️ Habitación compartida con otros viajeros.
+    🍽️ Desayuno y cena incluidos diariamente.
+    🧺 Lavandería gratuita.
+    🎉 Pases gratis a fiestas de la ciudad.
+    🎊 Pases gratis a eventos de la ciudad.
+    🍺 Pub crawls en bares locales.
+    🚐 Traslado desde tu llegada.
+    🧘 Clases de yoga gratuitas.
+    💃 Clases de baile gratuitas.
+    🍳 Cocina completamente equipada para uso libre.
+    📶 Internet de alta velocidad para trabajo remoto.
+
+    🎯 Requisitos:
+    - Inglés intermedio
+    - Entre 19 y 60 años
+    - Visado o ciudadanía de Estados Unidos
+    - Admite voluntarios solos, parejas y dúos
+    - Interés en trabajo social y transformación
+    - Compromiso con la comunidad
+
+    💙 Hope Dealers Prison Reform:
+    - Organización sin fines de lucro
+    - Enfoque en reforma penitenciaria
+    - Transformación del sistema de encarcelamiento
+    - De castigo a rehabilitación y recuperación
+    - Apoyo a individuos y sus familias
+    - Cambios significativos en vidas
+
+    🌟 Misión de transformación:
+    - Creer en el poder de la transformación
+    - Movimiento compasivo de reforma
+    - Reshape del sistema de encarcelamiento
+    - Ver más allá de las rejas
+    - Apoyo a corazones y vidas
+    - Cambios significativos y duraderos
+
+    👥 Programas principales:
+    - **Mentoría juvenil**: Apoyo a jóvenes en riesgo
+    - **Asistencia familiar**: Ayuda a familias en necesidad
+    - **Casa comunitaria**: Espacio de apoyo y recursos
+    - **Salud mental**: Apoyo especializado a veteranos
+    - **Intercambio cultural**: Educación sobre sistemas sociales
+    - **Trabajo social**: Proyectos comunitarios locales
+
+    🌍 Intercambio cultural:
+    - Educación sobre pobreza en Estados Unidos
+    - Comprensión de salud mental en sistemas de salud
+    - Conocimiento del sistema de justicia estadounidense
+    - Intercambio de perspectivas culturales
+    - Aprendizaje mutuo y crecimiento
+    - Construcción de puentes culturales
+
+    🎨 Actividades culturales:
+    - Clases de yoga gratuitas
+    - Clases de baile gratuitas
+    - Pub crawls en bares locales
+    - Eventos y fiestas de la ciudad
+    - Intercambio cultural auténtico
+    - Conexión con la comunidad local
+
+    🤝 Trabajo social:
+    - Proyectos comunitarios locales
+    - Apoyo a organizaciones sin fines de lucro
+    - Participación en iniciativas sociales
+    - Mentoría y guía juvenil
+    - Apoyo a familias vulnerables
+    - Impacto positivo en la comunidad
+
+    🌟 Experiencia única:
+    - Formar parte de un proyecto transformador
+    - Contribuir a la reforma social
+    - Apoyo a veteranos y jóvenes
+    - Intercambio cultural auténtico
+    - Desarrollo de habilidades sociales
+    - Impacto real en vidas humanas
+
+    💙 **¡Únete a nosotros en esta hermosa misión de transformación!**`,
+    imagen: "https://images.pexels.com/photos/207896/pexels-photo-207896.jpeg",
+    sitioWeb: "https://www.worldpackers.com/es/positions/77183",
+    pais: "Estados Unidos",
+    duracion: "2 - 6 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1036804/pexels-photo-1036804.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "WORLDPACKERS", url: "https://www.instagram.com/worldpackers.es", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 48,
+    categoria: "Voluntariado",
+    titulo: "🏔️ ¡Ayuda en Akaroa! - Nueva Zelanda",
+    descripcion: `¡Únete a nosotros en Akaroa! Somos un host experimentado con más de 13 años en HelpX y una excelente calificación de 58. Vivimos en la calle principal de Akaroa, muy cerca de todo, y necesitamos ayuda con tareas de casa y jardinería.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en Akaroa, participarás en:
+    🏠 Tareas de limpieza y mantenimiento del hogar.
+    🌱 Jardinería y cuidado de plantas.
+    🎨 Pintura de valla (proyecto actual).
+    🧹 Mantenimiento general de la propiedad.
+    🏡 Ayuda con tareas domésticas básicas.
+    🌿 Cuidado del jardín y espacios verdes.
+
+    ⏰ Horario de trabajo:
+    - 3-4 horas diarias (muy flexible)
+    - Mínimo 1 semana de estadía
+    - Horarios flexibles según tus necesidades
+    - Tiempo libre para explorar la zona
+
+    ✅ Beneficios incluidos:
+    🛏️ Alojamiento gratuito en habitación cómoda.
+    🍽️ Comida incluida durante toda tu estadía.
+    🏠 Ubicación privilegiada en la calle principal de Akaroa.
+    🚶 Cerca de todo - acceso fácil a tiendas y servicios.
+    🌊 Proximidad al mar y actividades costeras.
+    🏔️ Vistas espectaculares de la Península de Banks.
+
+    🎯 Requisitos:
+    - Mínimo 1 semana de compromiso
+    - Disponibilidad para 3-4 horas diarias
+    - Interés en jardinería y tareas domésticas
+    - Respeto por el hogar y la propiedad
+    - Espíritu aventurero para explorar Nueva Zelanda
+
+    🏔️ Ubicación privilegiada:
+    - Akaroa, Península de Banks
+    - Calle principal - acceso a todo
+    - Cerca de Christchurch (fácil acceso)
+    - Vistas al mar y montañas
+    - Ambiente tranquilo y relajado
+    - Comunidad local acogedora
+
+    🌊 Akaroa - Perla de la Península:
+    - Ciudad costera encantadora
+    - Historia rica y cultura local
+    - Actividades acuáticas disponibles
+    - Paisajes espectaculares
+    - Ambiente relajado y pacífico
+    - Perfecto para explorar Nueva Zelanda
+
+    🏠 Experiencia de hogar:
+    - **Hogar acogedor** y familiar
+    - **Ubicación céntrica** en Akaroa
+    - **Acceso fácil** a servicios
+    - **Ambiente tranquilo** para descansar
+    - **Conexión** con la comunidad local
+    - **Base perfecta** para explorar
+
+    🌱 Trabajos de jardinería:
+    - Cuidado de plantas y flores
+    - Mantenimiento de jardines
+    - Trabajos de paisajismo
+    - Cuidado de espacios verdes
+    - Actividades al aire libre
+    - Conexión con la naturaleza
+
+    🏡 Tareas domésticas:
+    - Limpieza general del hogar
+    - Mantenimiento básico
+    - Organización de espacios
+    - Ayuda con tareas cotidianas
+    - Mantenimiento de la propiedad
+    - Contribución al hogar
+
+    🌟 Experiencia única:
+    - Vivir en Akaroa - destino turístico
+    - Calle principal - corazón de la ciudad
+    - Península de Banks - paisajes únicos
+    - Cultura neozelandesa auténtica
+    - Comunidad local acogedora
+    - Base perfecta para explorar
+
+    🏔️ ¡Akaroa te espera con los brazos abiertos! 🌊`,
+    imagen: "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1393575ZK",
+    pais: "Nueva Zelanda",
+    duracion: "1 - 4 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg",
+      "https://images.pexels.com/photos/417325/pexels-photo-417325.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 49,
+    categoria: "Voluntariado",
+    titulo: "🏡 ¡Vive en Hamilton! - Nueva Zelanda",
+    descripcion: `¡Únete a Karen y Damian en Hamilton! Somos un host nuevo pero entusiasta con una calificación de 9. Vivimos en un hermoso bloque de estilo de vida de 2 hectáreas en el suroeste de Hamilton, con fácil acceso a todas las atracciones principales de la región.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en Hamilton, participarás en:
+    🌱 Desherbar y mantenimiento de jardines.
+    🧹 Barrer y limpieza general.
+    ✂️ Podar setos y trabajos de jardinería.
+    🏠 Limpiar y ordenar la casa.
+    🔨 Renovación, construcción y pintura (según tu experiencia).
+    🌿 Cortar el césped y mantenimiento exterior.
+    🏡 Tareas domésticas variadas.
+
+    ⏰ Horario de trabajo:
+    - Horarios flexibles y negociables
+    - Puedes ayudar más tiempo un día y tener un día libre
+    - Días de ayuda negociables según tus necesidades
+    - Tiempo libre para explorar la región
+
+    ✅ Beneficios incluidos:
+    🛏️ Alojamiento gratuito en unidad independiente.
+    📶 WiFi gratuito durante toda tu estadía.
+    📺 Televisión en tu alojamiento.
+    🏊 Piscina disponible durante el verano.
+    🚌 Transporte local disponible.
+    🍽️ Al menos una comida incluida durante tu estancia.
+    🛒 Supermercado a menos de 5 minutos.
+
+    🎯 Requisitos:
+    - Interés en jardinería y tareas domésticas
+    - Experiencia en construcción/pintura (preferible)
+    - Respeto por el hogar y la propiedad
+    - Amor por los animales (perros y gatos)
+    - Espíritu aventurero para explorar Nueva Zelanda
+
+    🏡 Ubicación privilegiada:
+    - Glenview, Hamilton, Waikato
+    - 2 hectáreas de propiedad
+    - Fácil acceso a Hamilton Gardens (10 min)
+    - Centro de la ciudad (10 min)
+    - Aeropuerto de Hamilton (10 min)
+    - Parada de autobús al final del camino
+
+    🌟 Atracciones cercanas:
+    - Raglan - 45 minutos (playa y surf)
+    - Sanctuary Mountain - 45 minutos
+    - Hobbiton - Menos de 1 hora
+    - Cuevas de Waitomo - Menos de 1 hora
+    - Rotorua - Menos de 1.5 horas
+    - Tauranga - Menos de 1.5 horas
+
+    🏠 Alojamiento independiente:
+    - Unidad completamente independiente
+    - Cocina americana equipada
+    - Baño privado
+    - Cama queen cómoda
+    - WiFi y televisión
+    - Colchón adicional disponible
+    - Hasta 3 personas en grupo
+
+    🌱 Trabajos de jardinería:
+    - Desherbar y mantenimiento
+    - Podar setos y plantas
+    - Cortar césped
+    - Cuidado de jardines
+    - Trabajos de paisajismo
+    - Actividades al aire libre
+
+    🏗️ Trabajos de construcción:
+    - Renovación de la casa
+    - Construcción básica
+    - Pintura y decoración
+    - Mantenimiento general
+    - Proyectos de mejora
+    - Trabajos de carpintería
+
+    🏡 Tareas domésticas:
+    - Limpieza general
+    - Ordenar y organizar
+    - Mantenimiento básico
+    - Ayuda con tareas cotidianas
+    - Contribución al hogar
+    - Apoyo a Karen y Damian
+
+    🐕🐱 Mascotas amigables:
+    - **Debe gustarle los perros**
+    - **Debe gustarle los gatos**
+    - **Ambiente familiar** y acogedor
+    - **Compañía animal** durante tu estancia
+    - **Experiencia única** con mascotas
+
+    🌟 Experiencia única:
+    - Vivir en Hamilton - corazón de Waikato
+    - Propiedad de 2 hectáreas - espacio amplio
+    - Acceso fácil a atracciones principales
+    - Alojamiento independiente - privacidad total
+    - Hosts entusiastas - Karen y Damian
+    - Base perfecta para explorar Nueva Zelanda
+
+    🏡 ¡Hamilton te espera con los brazos abiertos! 🌿`,
+    imagen: "https://images.pexels.com/photos/808465/pexels-photo-808465.jpeg",
+    sitioWeb: "https://www.helpx.net/host/ZCZV1HV1D",
+    pais: "Nueva Zelanda",
+    duracion: "1 - 4 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/3396657/pexels-photo-3396657.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 50,
+    categoria: "Voluntariado",
+    titulo: "🐄 ¡Granja Lechera Orgánica en Canterbury! - Nueva Zelanda",
+    descripcion: `¡Únete a nosotros en nuestra granja lechera orgánica! Somos un host experimentado con una calificación de 21 y más de 8 años en HelpX. Vivimos en un hermoso lugar de 85 hectáreas en Ohoka, con 260 vacas y sistema de riego, a solo 15 minutos de Christchurch.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en nuestra granja lechera, participarás en:
+    🐄 Ordeñar vacas y cuidado del ganado.
+    🐮 Criar terneros y atención veterinaria.
+    🚜 Conducir y operar tractores y maquinaria.
+    🏍️ Manejar quads y vehículos de granja.
+    🌱 Trabajos agrícolas y mantenimiento.
+    🏠 Mantenimiento de la propiedad.
+    🚐 Cuidado de autocaravanas disponibles.
+
+    ⏰ Horario de trabajo:
+    - 4-5 horas diarias por comida saludable y alojamiento
+    - Horarios flexibles según las necesidades de la granja
+    - Tiempo libre para explorar la región
+    - Disponible todo el año
+
+    ✅ Beneficios incluidos:
+    🛏️ Alojamiento gratuito cálido y acogedor.
+    🍽️ Comida saludable incluida durante toda tu estadía.
+    🏊 Piscina grande disponible.
+    🏋️ Gimnasio completo en la propiedad.
+    🧘 Spa para relajación.
+    🚴 Bicicletas disponibles para uso libre.
+    🏄 Playa de surf a 10 minutos.
+    🚐 Autocaravanas para viajes (alquiler disponible).
+
+    🎯 Requisitos:
+    - Interés en trabajo agrícola y ganadero
+    - Experiencia con animales (preferible)
+    - Disponibilidad para 4-5 horas diarias
+    - Respeto por los animales y la naturaleza
+    - Espíritu aventurero para explorar Nueva Zelanda
+
+    🏡 Ubicación privilegiada:
+    - Kaiapoi, North Canterbury
+    - 85 hectáreas de propiedad
+    - 15 minutos de Christchurch
+    - Playas locales y ríos circundantes
+    - Ambiente rural y tranquilo
+    - Acceso fácil a la ciudad
+
+    🐄 Granja lechera orgánica:
+    - 260 vacas en producción
+    - Sistema de riego moderno
+    - Certificación orgánica desde 2018
+    - Prácticas sostenibles y ecológicas
+    - Cuidado animal de primera calidad
+    - Tecnología agrícola avanzada
+
+    🌱 Trabajos agrícolas:
+    - Ordeño de vacas diario
+    - Cuidado de terneros
+    - Manejo de maquinaria
+    - Trabajos de campo
+    - Mantenimiento de equipos
+    - Actividades al aire libre
+
+    🚜 Maquinaria y vehículos:
+    - **Tractores** para trabajo de campo
+    - **Quads** para transporte
+    - **Otras máquinas** agrícolas
+    - **Autocaravanas** para viajes
+    - **Bicicletas** para uso libre
+    - **Equipos modernos**
+
+    🏠 Alojamiento renovado:
+    - **Cálido y acogedor**
+    - **Recientemente renovado**
+    - **Hasta 3 o más personas**
+    - **Comodidades modernas**
+    - **Ambiente familiar**
+    - **Espacio amplio**
+
+    🏊 Instalaciones de lujo:
+    - **Piscina grande** para relajación
+    - **Gimnasio completo** para ejercicio
+    - **Spa** para bienestar
+    - **Áreas de descanso** amplias
+    - **Espacios verdes** extensos
+    - **Ambiente tranquilo**
+
+    🌊 Atracciones cercanas:
+    - **Christchurch** - 15 minutos
+    - **Playas locales** - Acceso fácil
+    - **Ríos circundantes** - Actividades acuáticas
+    - **Playa de surf** - 10 minutos
+    - **Naturaleza** abundante
+    - **Paisajes espectaculares**
+
+    🚐 Autocaravanas disponibles:
+    - **Para estancias prolongadas**
+    - **Viajes por Nueva Zelanda**
+    - **Alquiler disponible**
+    - **Libertad de movimiento**
+    - **Exploración independiente**
+    - **Aventuras únicas**
+
+    🎓 Experiencias educativas:
+    - **Atención médica** a animales bovinos
+    - **Técnicas de ordeño** profesionales
+    - **Manejo de ganado** especializado
+    - **Operación de maquinaria** agrícola
+    - **Prácticas orgánicas** sostenibles
+    - **Conocimiento agrícola** profundo
+
+    🌍 Intercambio cultural:
+    - **Enseñanza de idiomas** mutua
+    - **Cultura neozelandesa** auténtica
+    - **Tradiciones agrícolas** locales
+    - **Intercambio de conocimientos**
+    - **Conexión humana** genuina
+    - **Aprendizaje mutuo**
+
+    🌟 Experiencia única:
+    - Vivir en una granja lechera orgánica
+    - Trabajar con 260 vacas diariamente
+    - Aprender técnicas agrícolas modernas
+    - Disfrutar instalaciones de lujo
+    - Explorar Canterbury desde la base
+    - Conexión con la naturaleza
+
+    🐄 ¡La granja lechera te espera! 🌿`,
+    imagen: "https://images.pexels.com/photos/5848486/pexels-photo-5848486.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2202207OG",
+    pais: "Nueva Zelanda",
+    duracion: "2 - 8 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/162240/bull-calf-heifer-ko-162240.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 51,
+    categoria: "Voluntariado",
+    titulo: "🏔️ ¡Península en el Estuario de Waimea! - Nueva Zelanda",
+    descripcion: `¡Únete a Andrew, Christine y Jack en Redwood Valley! Somos un host experimentado con una calificación de 33 y más de 8 años en HelpX. Vivimos en una península en el impresionante estuario de Waimea, con vistas al agua y a las montañas, y 250m de terreno costero.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en nuestra península, participarás en:
+    🌱 Jardinería y cuidado de plantas.
+    🐄 Alimentar al ganado y cuidado de animales.
+    🧹 Limpieza y mantenimiento general.
+    🎨 Pintura y trabajos de decoración.
+    🔥 Leña y preparación de combustible.
+    🍳 Cocina y preparación de comidas.
+    🌿 Plantación de árboles y vegetación.
+
+    ⏰ Horario de trabajo:
+    - 4 horas diarias con flexibilidad
+    - Días libres para disfrutar la región
+    - Mínimo 1 semana inicialmente
+    - Opción de extender si todos nos llevamos bien
+
+    ✅ Beneficios incluidos:
+    🛏️ Alojamiento gratuito en habitación de invitados.
+    🍽️ Comidas incluidas durante toda tu estadía.
+    📶 WiFi gratuito durante tu estancia.
+    🚴 Bicicletas disponibles para uso libre.
+    🏔️ Vistas espectaculares al agua y montañas.
+    🚣 Kayak doble para navegar por el estuario.
+
+    🎯 Requisitos:
+    - Interés en jardinería y trabajo agrícola
+    - Amor por los animales (perros y ganado)
+    - Disponibilidad para 4 horas diarias
+    - Respeto por la naturaleza y el medio ambiente
+    - Espíritu aventurero para explorar Nueva Zelanda
+
+    🏔️ Ubicación privilegiada:
+    - Redwood Valley, Richmond, Nelson
+    - 6 hectáreas de propiedad
+    - Península en el estuario de Waimea
+    - 250m de terreno costero
+    - Vistas al agua y montañas
+    - Ambiente natural único
+
+    🌊 Estuario de Waimea:
+    - Península impresionante con vistas espectaculares
+    - 250m de terreno costero para explorar
+    - Ideal para pasear o correr por la tarde
+    - Nadar en el extremo en verano
+    - Kayak doble para navegar
+    - Naturaleza abundante
+
+    🐦 Vida silvestre:
+    - Tui - Ave nativa de Nueva Zelanda
+    - Piwakawaka - Fantail neozelandés
+    - Faisanes - Aves de caza
+    - Pukeko - Ave acuática nativa
+    - Codornices - Aves pequeñas
+    - Halcones y kārearea - Halcón autóctono
+
+    🌱 Proyectos de plantación:
+    - Más de 5000 plantas plantadas
+    - Árboles de 4+ metros de altura
+    - 7 años de proyectos de plantación
+    - Contribución ambiental significativa
+    - Legado sostenible para el futuro
+    - Conexión con la naturaleza
+
+    🏠 Alojamiento flexible:
+    - Dos habitaciones de invitados con cama queen
+    - Opción al aire libre para mayor privacidad
+    - Cama king y sofá cama queen
+    - 50 metros de la casa principal
+    - Tú eliges tu preferencia
+    - Ambiente cómodo y acogedor
+
+    🌍 Experiencia internacional:
+    - Andrew habla español - Comunicación fácil
+    - Hemos viajado mucho - Entendemos viajeros
+    - Contacto mantenido con visitantes anteriores
+    - Reuniones en Europa y Malasia
+    - Hijas alojadas con ex-voluntarios
+    - Conexiones duraderas
+
+    🏔️ Atracciones cercanas:
+    - Mapua - 10 minutos (saltos desde el muelle)
+    - Richmond - 15 minutos
+    - Nelson - 30 minutos
+    - Parque Nacional Abel Tasman - 40 minutos
+    - Música en vivo en verano
+    - Cervecería local en Mapua
+
+    🚴 Actividades disponibles:
+    - Ciclismo de montaña en Nelson
+    - Senderismo en parques nacionales
+    - Kayak en el estuario
+    - Naturaleza abundante para explorar
+    - Saltos desde el muelle en Mapua
+    - Música en vivo en verano
+
+    🍳 Experiencia culinaria:
+    - Probar platos típicos de tu tierra
+    - Cocina tradicional compartida
+    - Intercambio cultural gastronómico
+    - Comidas incluidas durante tu estancia
+    - Preparación de comidas juntos
+    - Sabores internacionales
+
+    🌍 Intercambio cultural:
+    - Enseñanza de idiomas mutua
+    - Cocina tradicional compartida
+    - Mostrar el área local a los ayudantes
+    - Conocer gente nueva de otros países
+    - Experiencias culturales auténticas
+    - Conexión humana genuina
+
+    🐕🐄 Mascotas y animales:
+    - Jack, el perro - Compañía canina
+    - Ganado en la propiedad
+    - Debe gustarle los perros
+    - Debe gustarle los animales de granja
+    - Ambiente rural y natural
+    - Conexión con animales
+
+    🌟 Experiencia única:
+    - Vivir en una península única
+    - Estuario de Waimea impresionante
+    - Más de 5000 plantas plantadas
+    - Conexiones internacionales duraderas
+    - Naturaleza abundante para explorar
+    - Base perfecta para Nelson y Abel Tasman
+
+    🏔️ ¡La península te espera! 🌊`,
+    imagen: "https://images.pexels.com/photos/975811/pexels-photo-975811.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1207243JI",
+    pais: "Nueva Zelanda",
+    duracion: "1 - 4 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/4785152/pexels-photo-4785152.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 52,
+    categoria: "Voluntariado",
+    titulo: "🏖️ ¡Casita Frente al Mar en Bay of Islands! - Nueva Zelanda",
+    descripcion: `¡Únete a nosotros en Kerikeri! Somos un host experimentado con una calificación de 11 y más de 10 años en HelpX. Vivimos en una parcela de más de 0.8 hectáreas con un estilo de vida sostenible, y tenemos una casita independiente a 2km de nuestra casa, justo frente al mar en Kerikeri Inlet.
+
+    📌 ¿En qué consiste la oportunidad?
+    Como voluntario en Kerikeri, participarás en:
+    🌱 Mantenimiento del jardín (recorte de setos y árboles).
+    ✂️ Recorte de bordes y trabajos de jardinería.
+    🌿 Deshierbe y cuidado de plantas.
+    🏠 Mantenimiento de la propiedad (casa y jardín).
+    🎨 Pintura y trabajos de decoración.
+    🛤️ Proyecto de sendero en el jardín.
+    🔨 Construcción de escalera de madera (¡Carpinteros, vengan!).
+
+    ⏰ Horario de trabajo:
+    - Horarios flexibles según proyectos
+    - Mínimo 1 semana de estadía
+    - Tiempo libre para actividades recreativas
+    - Disponible todo el año
+
+    ✅ Beneficios incluidos:
+    🛏️ Alojamiento gratuito en casita independiente.
+    🌊 Vistas impresionantes al mar.
+    🏖️ Justo en la playa de Kerikeri Inlet.
+    📶 WiFi gratuito durante tu estancia.
+    🚣 Barca a pedales para pescar.
+    🏄 Kayak y tabla de paddle surf.
+    🏃 Compañero de ejercicio (Tom).
+
+    🎯 Requisitos:
+    - Buen dominio del inglés o alemán
+    - Interés en jardinería y mantenimiento
+    - Experiencia en carpintería (preferible)
+    - Amor por los gatos
+    - Espíritu aventurero para explorar Nueva Zelanda
+
+    🏖️ Ubicación privilegiada:
+    - Kerikeri, Extremo Norte, Nueva Zelanda
+    - Bay of Islands - Región espectacular
+    - Casita independiente a 2km de la casa principal
+    - Justo en la playa de Kerikeri Inlet
+    - Vistas impresionantes al mar
+    - Ambiente costero único
+
+    🌱 Estilo de vida sostenible:
+    - Más de 0.8 hectáreas de propiedad
+    - Huerto grande para enriquecer la dieta
+    - Gallinero para huevos frescos
+    - Minicasa rodante construida
+    - Huerto agrícola productivo
+    - Sistema de energía solar propio
+
+    🏠 Casita independiente:
+    - A 2km de la casa principal
+    - Muy acogedora y cómoda
+    - Frente al mar con vistas espectaculares
+    - Justo en la playa de Kerikeri Inlet
+    - Privacidad total para voluntarios
+    - Ambiente tranquilo y relajado
+
+    🌊 Actividades acuáticas:
+    - Pescar desde la barca a pedales
+    - Kayak en el inlet
+    - Nadar en el mar
+    - Paddle surf en la tabla
+    - Baño matutino o después del trabajo
+    - Actividades costeras únicas
+
+    🏃 Actividades deportivas:
+    - Correr con Tom como compañero
+    - Entrenar juntos
+    - Nadar en el mar
+    - Senderismo en la región
+    - Ejercicio regular y saludable
+    - Vida activa y energética
+
+    🌱 Proyectos de jardinería:
+    - Recorte de setos y árboles
+    - Recorte de bordes del jardín
+    - Deshierbe y mantenimiento
+    - Cuidado de plantas y vegetación
+    - Trabajos de paisajismo
+    - Mantenimiento general
+
+    🔨 Proyectos de construcción:
+    - Sendero en el jardín - Proyecto principal
+    - Escalera de madera - Para carpinteros
+    - Mantenimiento de estructuras
+    - Trabajos de carpintería
+    - Proyectos creativos
+    - Construcción sostenible
+
+    🏠 Mantenimiento de propiedad:
+    - Limpieza general de la casa
+    - Pintura y decoración
+    - Mantenimiento del jardín
+    - Cuidado de la propiedad
+    - Proyectos de mejora
+    - Trabajos diversos
+
+    🌍 Intercambio cultural:
+    - Mostrar el área local a los ayudantes
+    - Conocer gente nueva de otros países
+    - Experiencias culturales auténticas
+    - Conexión humana genuina
+    - Aprendizaje mutuo
+    - Amistades duraderas
+
+    🐱 Mascotas y ambiente:
+    - Gatos en la propiedad
+    - Debe gustarle los gatos
+    - Familia de no fumadores
+    - Ambiente familiar y acogedor
+    - Conexión con animales
+    - Vida tranquila
+
+    🌟 Experiencia única:
+    - Vivir frente al mar en Bay of Islands
+    - Casita independiente con privacidad
+    - Actividades acuáticas diarias
+    - Compañero de ejercicio (Tom)
+    - Proyectos de construcción creativos
+    - Estilo de vida sostenible
+
+    🏖️ ¡La casita frente al mar te espera! 🌊`,
+    imagen: "https://images.pexels.com/photos/4785151/pexels-photo-4785151.jpeg",
+    sitioWeb: "https://www.helpx.net/host/553910GO",
+    pais: "Nueva Zelanda",
+    duracion: "1 - 4 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/4785151/pexels-photo-4785151.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 
