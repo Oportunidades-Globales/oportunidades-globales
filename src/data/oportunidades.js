@@ -3573,6 +3573,1768 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
     ]
+  },
+  {
+    id: 53,
+    categoria: "Voluntariado",
+    titulo: "🏡 Estancia en granja familiar - Kimbolton, Nueva Zelanda",
+    descripcion: `Únete a una familia encantadora en su casa de campo junto al río Rangitikei en Kimbolton, Nueva Zelanda. Esta es una oportunidad perfecta para experimentar la vida rural neozelandesa mientras ayudas con tareas de granja y jardinería.
+
+    📍 Ubicación: Kimbolton, Wanganui, Nueva Zelanda
+    🏠 Alojamiento: Casa de campo sencilla pero encantadora junto al río
+    👨‍👩‍👧‍👦 Familia: Pareja con hijo de 2 años (Joseph) y bebé nacida en septiembre 2024 (Makayla)
+    
+    🌱 Actividades principales:
+    - Ayuda con el huerto y cultivo de verduras
+    - Tareas generales de la casa
+    - Proyectos de mantenimiento (especialmente reparaciones de techo)
+    - Trabajo en la granja de ciervos, ovejas y ganado
+    
+    ⏰ Compromiso: 4 horas de ayuda al día
+    🍽️ Incluye: Comida y alojamiento
+    🐕 Animales: Dos perros, perros de trabajo y ovejas amigables
+    
+    📍 Servicios cercanos:
+    - Tienda más cercana: 25 minutos (Hunterville)
+    - Pub local: 10 minutos
+    
+    Esta familia se esfuerza por vivir de manera sostenible, cazando su propia carne y cultivando sus verduras. Si tienes experiencia en reparaciones de techos, sería especialmente valiosa, pero hay muchas otras tareas disponibles si prefieres otras actividades.`,
+    imagen: "https://images.pexels.com/photos/1595108/pexels-photo-1595108.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1IDBYNZ9C",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/288621/pexels-photo-288621.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 54,
+    categoria: "Voluntariado",
+    titulo: "🏔️ Casa de familia aislada - Kinloch, Glenorchy, Nueva Zelanda",
+    descripcion: `Únete a Al en su casa de familia en Kinloch, Glenorchy, una ubicación práctica para los senderos de Routburn y Greenstone. Esta es una experiencia única para personas que buscan un estilo de vida aislado y autosuficiente.
+
+    📍 Ubicación: Kinloch, Glenorchy, Otago, Nueva Zelanda
+    🏠 Alojamiento: Casa de familia aislada
+    👤 Capacidad: 1 persona solamente
+    ⏰ Estancia mínima: 2 semanas
+    
+    🌱 Actividades principales:
+    - Jardinería y cultivo
+    - Tareas del hogar
+    - Mecánica ligera
+    - Caza (con restricciones éticas)
+    - Mantenimiento general
+    
+    ⚡ Características especiales:
+    - Vida fuera de la red (energía solar)
+    - Sin wifi (necesitas tu propia conexión a internet)
+    - Carga de dispositivos solo durante el día
+    - No se permiten secadores de pelo
+    - Ubicación práctica para senderismo
+    
+    🚫 Restricciones importantes:
+    - No se permiten cazadores de trofeos
+    - No apto para personas con "talento" (muy aislado)
+    - Los vegetarianos/veganos pueden no sentirse cómodos (comen carne diariamente)
+    - No se encargan de prácticas ni solicitudes de visado
+    
+    Se requiere buen sentido del humor y compromiso real de asistir.`,
+    imagen: "https://images.pexels.com/photos/28927794/pexels-photo-28927794.jpeg",
+    sitioWeb: "https://www.helpx.net/host/692938NZ",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://www.pexels.com/es-es/foto/aurora-australis-sobre-casa-24428046/"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 55,
+    categoria: "Voluntariado",
+    titulo: "🌊 Casa orgánica costera - Haumoana, Hastings, Nueva Zelanda",
+    descripcion: `Únete a una experiencia única en Haumoana, un pueblo costero semi-rural muy artístico y alternativo. Perfecto para personas apasionadas por la jardinería y con habilidades prácticas especializadas.
+
+    📍 Ubicación: Haumoana, Hastings, Bahía Hawkes, Nueva Zelanda
+    🏠 Alojamiento: Casa de familia orgánica
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Estancia mínima: 1 semana
+    📅 Disponibilidad: Octubre, noviembre y diciembre
+    
+    🌱 Actividades principales:
+    - Jardinería orgánica
+    - Proyectos prácticos especializados
+    - Mantenimiento general
+    
+    🏄‍♂️ Actividades recreativas:
+    - Dos zonas de surf muy cerca
+    - Clases de yoga y pilates
+    - Cafeterías geniales a 5 minutos
+    - Kilómetros de carriles bici (bicicletas proporcionadas)
+    - Acceso a Napier y Hastings en bicicleta
+    
+    🛒 Servicios:
+    - Supermercado bien abastecido
+    - Sin transporte público (movilidad en bicicleta)
+    - Ocasionalmente transporte en auto del anfitrión
+    
+    Se da preferencia a personas con experiencia en jardinería o habilidades prácticas especializadas.`,
+    imagen: "https://images.pexels.com/photos/17824134/pexels-photo-17824134.jpeg",
+    sitioWeb: "https://www.helpx.net/host/388311RN",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Temporal (Oct-Dic)",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/6845798/pexels-photo-6845798.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 56,
+    categoria: "Voluntariado",
+    titulo: "🏡 Casa orgánica con paisajismo - Oamaru, Otago, Nueva Zelanda",
+    descripcion: `Únete a Marianne en su típica parcela neozelandesa de un cuarto de acre con vistas al mar. Una experiencia perfecta para amantes de la naturaleza y el paisajismo creativo.
+
+    📍 Ubicación: 10 minutos a pie del CBD, Oamaru, Otago, Nueva Zelanda
+    🏠 Alojamiento: Casa de familia orgánica en colina hobbit
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: 4 horas diarias de trabajo
+    
+    🌅 Características del lugar:
+    - Colina hobbit orientada al norte (sol todo el día)
+    - Vistas a Oamaru y al mar
+    - Posibilidad de ver amaneceres desde la cocina
+    - 10 minutos caminando al centro de la ciudad o la costa
+    
+    🍽️ Incluye:
+    - Tres comidas básicas al día
+    - Habitación cómoda y tranquila
+    - Tiempo para relajarse después del trabajo
+    
+    🌱 Proyecto actual de paisajismo:
+    - Creación de senderos en la colina
+    - Excavación y terraplenes
+    - Construcción de muros con piedra natural reciclada de Oamaru
+    - Uso de botellas de vidrio recicladas
+    - Trabajo con arenisca blanca de Oamaru (atractiva para escultores)
+    
+    Ideal para personas interesadas en paisajismo, reciclaje creativo y vida sostenible.`,
+    imagen: "https://images.pexels.com/photos/1308185/pexels-photo-1308185.jpeg",
+    sitioWeb: "https://www.helpx.net/host/K2KPGYKL7",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/19894689/pexels-photo-19894689.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 57,
+    categoria: "Voluntariado",
+    titulo: "🌿 Granja orgánica ecológica - Bombay Hills, Auckland, Nueva Zelanda",
+    descripcion: `Únete a una experiencia única en una casa ecológica construida con ladrillos de tierra y madera natural, ubicada en un paraíso de 6.7 hectáreas con vegetación autóctona.
+
+    📍 Ubicación: Bombay Hills, South Auckland, Auckland, Nueva Zelanda
+    🏠 Alojamiento: Casa ecológica en granja orgánica
+    👥 Capacidad: 1 o 2 personas
+    🌱 Enfoque: Horticultura orgánica y estilo de vida holístico
+    
+    🏡 Características de la casa:
+    - Construida con ladrillos de tierra y madera natural
+    - Ambiente saludable y relajante
+    - 60 km al sur del centro de Auckland
+    - 12 km de la parada de autobús o tienda más cercana
+    
+    🌳 Frutales y cultivos:
+    - Aguacate, limón, lima, mandarina, pomelo
+    - Plátano, melocotón, nogal, macadamia
+    - Verduras y hierbas frescas
+    - Cultivo orgánico de alimentos
+    
+    🍽️ Alimentación:
+    - Dieta para grupo sanguíneo "O" (carne, sin cereales ni lácteos)
+    - Flexibilidad para comprar otros alimentos según necesidades
+    - Enfoque en alimentación saludable y holística
+    
+    👥 Requisitos:
+    - Ayudantes mayores que hablen inglés
+    - Capacidad de seguir instrucciones y trabajar independientemente
+    - Experiencia suficiente para ver qué hay que hacer
+    - Personas conscientes y responsables
+    
+    Ideal para personas interesadas en agricultura orgánica, construcción ecológica y vida sostenible.`,
+    imagen: "https://images.pexels.com/photos/235725/pexels-photo-235725.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1845530SC",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/1211772/pexels-photo-1211772.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 58,
+    categoria: "Voluntariado",
+    titulo: "🎨 Galería con jardines - Isla Waiheke, Auckland, Nueva Zelanda",
+    descripcion: `Únete a un equipo que gestiona un espacio de alta gama en la Galería y destino para visitantes internacionales en la hermosa Isla Waiheke. Perfecto para jardineros experimentados y entusiastas.
+
+    📍 Ubicación: Auckland, Isla Waiheke, Nueva Zelanda
+    🏠 Alojamiento: Alojamiento privado e independiente encima de la Galería
+    👥 Capacidad: 1 persona o pareja
+    ⏰ Compromiso: Hasta 14 horas semanales
+    
+    🏡 Características del alojamiento:
+    - Salón/cocina americana
+    - Dormitorio doble
+    - Ideal para preparar comidas ligeras
+    - Debes traer tu propia comida
+    
+    🌱 Actividades de jardinería:
+    - Desherbar y aplicar mantillo
+    - Podar setos y malas hierbas
+    - Experiencia con recortadoras
+    - Mantenimiento general de jardines y huertos
+    
+    🔨 Tareas adicionales:
+    - Lavar ventanas
+    - Apilar leña
+    - Barrer
+    - Pequeños proyectos de piedra, albañilería o carpintería
+    
+    🎯 Perfil ideal:
+    - Jardineros con experiencia y entusiasmo
+    - Personas independientes, organizadas y eficientes
+    - Conocimientos de piedra, albañilería o carpintería (ideal)
+    - Perfecto para quienes necesitan alojamiento mientras trabajan
+    
+    🌐 Más información: www.churchbay.nz
+    
+    Esta es una oportunidad única en un destino internacional reconocido con un horario de trabajo muy ajustado.`,
+    imagen: "https://images.pexels.com/photos/7931244/pexels-photo-7931244.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2068053DH",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/33370722/pexels-photo-33370722.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 59,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa familiar con vistas al puerto - Challis, Dunedin, Nueva Zelanda",
+    descripcion: `Únete a una familia encantadora en su casa soleada y cálida con vistas al puerto en la península de Otago. Una experiencia perfecta para quienes buscan tranquilidad familiar cerca de la ciudad.
+
+    📍 Ubicación: Challis, Dunedin, Otago, Nueva Zelanda
+    🏠 Alojamiento: Casa familiar encantadora, soleada y cálida
+    👥 Capacidad: 1 persona o pareja
+    ⏰ Estancia: 3 días a 1 semana
+    📅 Próxima disponibilidad: A partir del 14 de octubre de 2025
+    
+    👨‍👩‍👧‍👦 La familia:
+    - Pareja con dos hijos adolescentes (15 y 18 años)
+    - Gato muy amigable
+    - Ambiente familiar tranquilo
+    
+    🌱 Actividades principales:
+    - Tareas ligeras de jardinería
+    - Desherbar el jardín
+    - Barrer caminos
+    - Limpieza con agua a presión
+    - Mantenimiento general del exterior
+    - Limpieza y mantenimiento de la zona
+    
+    🏡 Características del lugar:
+    - Vistas al puerto en la península de Otago
+    - Solo 10 minutos en coche del centro de Dunedin
+    - Sensación de campo a pesar de estar cerca de la ciudad
+    - Jardín grande (necesita atención)
+    
+    🍽️ Incluye: Alojamiento y comidas
+    
+    Perfecto para personas que disfrutan del ambiente familiar y las tareas de jardinería ligeras.`,
+    imagen: "https://images.pexels.com/photos/33934256/pexels-photo-33934256.jpeg",
+    sitioWeb: "https://www.helpx.net/host/927927JS",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/33933723/pexels-photo-33933723.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 60,
+    categoria: "Voluntariado",
+    titulo: "🧘‍♀️ Retiro de salud y sanación - Christchurch, Nueva Zelanda",
+    descripcion: `Únete a Paru en su retiro de salud y sanación con vista al mar y spa de día. Una experiencia única para quienes buscan crecimiento espiritual y bienestar.
+
+    📍 Ubicación: Christchurch, Nueva Zelanda
+    🏠 Alojamiento: Habitación propia
+    👥 Capacidad: 1 persona o pareja
+    ⏰ Compromiso: 4-6 horas diarias
+    📅 Disponibilidad: A partir del 21 de septiembre (URGENTE)
+    
+    👩‍💼 Sobre Paru:
+    - Ha viajado por todo el mundo
+    - Habla francés y español
+    - Apasionada por la comida, espiritualidad y música
+    
+    🧘‍♀️ Actividades incluidas:
+    - Yoga y meditación diarios
+    - Comida deliciosa y saludable
+    - Acceso a spa de día
+    - Crecimiento espiritual personal
+    
+    🌊 Características del lugar:
+    - Vista al mar
+    - Playas a 5 minutos para nadar
+    - Ambiente tranquilo y paradisíaco
+    - Enfoque en salud y bienestar
+    
+    🍽️ Incluye:
+    - Habitación propia
+    - Comidas saludables
+    - Clases de yoga y meditación
+    - Acceso a instalaciones de spa
+    
+    ⚠️ URGENTE: Necesita ayuda para preparar el lugar a partir del 21 de septiembre.
+    Preferentemente mujer. Contacto: journeyessence@gmail.com
+    
+    Ideal para personas interesadas en espiritualidad, yoga, meditación y vida saludable.`,
+    imagen: "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1674577SL",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/561463/pexels-photo-561463.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 61,
+    categoria: "Voluntariado",
+    titulo: "🌿 Granja con piscina de hidromasaje - Upper Moutere, Nelson, Nueva Zelanda",
+    descripcion: `Únete a una familia en su pequeño bloque de apartamentos en el pintoresco Upper Moutere. Una experiencia perfecta para amantes de la naturaleza y la construcción.
+
+    📍 Ubicación: Upper Moutere, Nelson, Nueva Zelanda
+    🏠 Alojamiento: Pequeño bloque de apartamentos
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Tareas de jardinería y construcción
+    
+    👨‍👩‍👧‍👦 La familia:
+    - Pareja con uno de sus dos hijos
+    - Perro y gato
+    - Cinco gallinas
+    - Ex chef (¡comerás bien!)
+    
+    🌱 Actividades principales:
+    - Poda de plantas
+    - Demolición de aulagas
+    - Jardinería en general
+    - Jugar con el perro (¡lanzar la pelota!)
+    - Proyectos de construcción (casa de bayas)
+    
+    🏗️ Proyectos de construcción:
+    - Casa de bayas en construcción
+    - Experiencia en construcción valorada
+    - Trabajo independiente y con iniciativa
+    
+    🏊‍♂️ Amenidades:
+    - Piscina de hidromasaje bajo las estrellas
+    - Excelente manera de relajarse
+    - Ambiente familiar acogedor
+    
+    🍽️ Incluye: Alojamiento y alimentación (preparada por ex chef)
+    
+    Perfecto para personas con experiencia en construcción y jardinería que disfrutan del ambiente familiar.`,
+    imagen: "https://images.pexels.com/photos/248837/pexels-photo-248837.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1212410AE",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 62,
+    categoria: "Voluntariado",
+    titulo: "🎵 Hostal para mochileros - The Wood, Nelson, Nueva Zelanda",
+    descripcion: `Únete al equipo de un acogedor albergue en Nelson con ambiente musical y cultural. Perfecto para mochileros que buscan una experiencia social y relajada.
+
+    📍 Ubicación: The Wood, Nelson, Nueva Zelanda
+    🏠 Alojamiento: Albergue acogedor
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: 2 horas diarias, 1 día libre por semana
+    ⏱️ Estancia mínima: 3 semanas (la mayoría se queda meses)
+    
+    🎵 Ambiente del lugar:
+    - Música en vivo (guitarra, ukelele)
+    - Chimenea de leña y 5 bombas de calor nuevas
+    - Muchos libros, revistas y juegos
+    - Pudín de chocolate todas las noches
+    - Huéspedes creativos y musicales
+    
+    🏘️ Ubicación:
+    - 5-10 minutos a pie del pueblo
+    - Mercados semanales
+    - Artesanía, música y teatro
+    - Mucha actividad cultural
+    
+    🍽️ Incluye:
+    - Alojamiento gratuito
+    - Desayuno gratuito
+    - Pudín de chocolate caliente y helado todas las noches
+    - Lavadora gratuita
+    - Wifi gratuito ilimitado 24/7
+    - Camiseta del equipo TBB
+    
+    🎯 Perfil ideal:
+    - Mochileros que disfrutan del ambiente social
+    - Personas creativas y musicales
+    - Dispuestas a quedarse al menos 3 semanas
+    - Interesadas en la cultura local
+    
+    Perfecto para mochileros que buscan una experiencia cultural rica y un ambiente social vibrante.`,
+    imagen: "https://images.pexels.com/photos/1028225/pexels-photo-1028225.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2283582WU",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/7968285/pexels-photo-7968285.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 63,
+    categoria: "Voluntariado",
+    titulo: "🏔️ Campamento cerca de Fiordland - Monowai, Southland, Nueva Zelanda",
+    descripcion: `Únete a una experiencia única en un pequeño campamento de alojamiento rodeado por las hermosas montañas del Parque Nacional de Fiordland. Perfecto para amantes de la naturaleza.
+
+    📍 Ubicación: Monowai, Pueblo, Southland, Nueva Zelanda
+    🏠 Alojamiento: Cabaña propia
+    👥 Capacidad: 1 persona o pareja
+    ⏰ Compromiso: 5 horas diarias
+    🏔️ Ubicación: Rodeado por montañas del Parque Nacional de Fiordland
+    
+    🏕️ Características del campamento:
+    - Pequeño campamento de alojamiento
+    - Cabaña propia, cálida, seca y acogedora
+    - Perfecta para espacio tranquilo
+    - Ambiente familiar y amigable
+    
+    🌱 Actividades principales:
+    - Limpieza general de primavera
+    - Ayuda para empacar el cobertizo
+    - Ayuda con leña (si el clima es bueno)
+    - Levantamiento de objetos pesados en el cobertizo
+    - Trabajo divertido y variado
+    
+    🍽️ Incluye:
+    - 3 comidas diarias
+    - Alojamiento en cabaña propia
+    - Flexibilidad para explorar (recuperar tiempo después)
+    
+    ⚠️ Consideraciones importantes:
+    - No hay tiendas ni gasolineras (venir preparado)
+    - Debe amar a los animales (perros)
+    - Avisar sobre necesidades dietéticas especiales
+    - Ubicación remota pero espectacular
+    
+    🏔️ Atractivos:
+    - Montañas del Parque Nacional de Fiordland
+    - Naturaleza espectacular
+    - Ambiente tranquilo y relajante
+    - Experiencia de vida rural auténtica
+    
+    Ideal para personas que aman la naturaleza, los animales y la vida rural aislada.`,
+    imagen: "https://images.pexels.com/photos/1687845/pexels-photo-1687845.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2204004AB",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://www.pexels.com/es-es/foto/hombre-vestido-con-gorra-y-camisa-de-cuello-redondo-de-pie-en-medio-del-bosque-2108845/"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 64,
+    categoria: "Voluntariado",
+    titulo: "🌳 Granja orgánica con plantación - Mangawhai, Northland, Nueva Zelanda",
+    descripcion: `Únete a una familia en su casa mágica en Mangawhai para ayudar con la plantación de 3000+ árboles nativos. Una experiencia perfecta para amantes de la naturaleza y la conservación.
+
+    📍 Ubicación: Mangawhai, Northland, Nueva Zelanda
+    🏠 Alojamiento: Casa familiar con habitación de lujo
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Trabajo independiente con iniciativa propia
+    📅 Plantación: Octubre de 2025
+    
+    🌳 Proyecto de plantación:
+    - Plantar más plantas nativas en octubre 2025
+    - Excavar y remover tierra
+    - Plantar y cubrir con mantillo
+    - Usar desbrozadora
+    - Trabajo de conservación ambiental
+    
+    🏡 Características de la casa:
+    - Amplias vistas al valle rural
+    - 8 minutos en coche de playas vírgenes
+    - 5 minutos del centro del pueblo
+    - Propiedad orientada al norte en 1 hectárea
+    - Hogar de pareja, hijo de 10 años y gato Charlie
+    
+    🏠 Habitación de lujo:
+    - Cama king-size
+    - Baño privado
+    - Smart TV
+    - Wifi gratuito
+    - Entrada propia
+    - Mesa para comer o portátil
+    - Privacidad total
+    
+    🌱 Requisitos:
+    - Experiencia en jardinería
+    - Trabajo independiente con iniciativa propia
+    - Disfrutar del aire libre
+    - No desanimarse por lluvia o frío
+    - Experiencia previa valorada
+    
+    🏖️ Atractivos:
+    - Playas vírgenes cercanas
+    - Valle rural con vistas espectaculares
+    - Ambiente familiar creativo
+    - Amistades maravillosas con ayudantes internacionales
+    
+    Ideal para personas con experiencia en jardinería que buscan contribuir a la conservación ambiental.`,
+    imagen: "https://images.pexels.com/photos/1276235/pexels-photo-1276235.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1351644DU",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/1276235/pexels-photo-1276235.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 65,
+    categoria: "Voluntariado",
+    titulo: "🌊 Casa orgánica cerca del mar - Ti Point, Auckland, Nueva Zelanda",
+    descripcion: `Únete a Meaghan en su casa orgánica de 2 acres cerca del mar en Ti Point. Una experiencia perfecta para amantes de la agricultura orgánica y la vida costera.
+
+    📍 Ubicación: Ti Point, Norte de Auckland, Nueva Zelanda
+    🏠 Alojamiento: Casa orgánica de 2 acres
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Disponibilidad: Diciembre a mayo de 2026
+    🌊 Ubicación: 1 hora de Auckland, cerca del mar
+    
+    👩‍🌾 Sobre Meaghan:
+    - Neozelandesa con experiencia en Reino Unido y Dubái
+    - Regresó en 2020 con su hija
+    - Experiencia en finca de 12 acres orgánicos
+    - Aplicación de principios biodinámicos
+    - Instagram disponible (ver enlace abajo)
+    
+    🌱 Características de la propiedad:
+    - 2 acres (mitad arbustos)
+    - Huerto orgánico establecido
+    - Huerto frutal
+    - Gallinas
+    - Casa nueva con vistas y privacidad
+    - Jardín subtropical protegido
+    - ¡Plátanos creciendo!
+    - Experimentos con chirimoya y piña
+    
+    🏖️ Ubicación privilegiada:
+    - 1 hora de Auckland
+    - Pasando Matakana, camino a Leigh
+    - Reserva marina de Goat Island (snorkel y buceo)
+    - Hermosa costa con paseos costeros
+    - Variedad de playas diferentes
+    - Parque regional Tawharanui cercano
+    - Todo a 10 minutos en coche
+    
+    🌱 Actividades:
+    - Mantenimiento del huerto orgánico
+    - Cuidado del huerto frutal
+    - Cuidado de gallinas
+    - Experimentos con nuevos cultivos
+    - Mantenimiento general de la propiedad
+    
+    Ideal para personas interesadas en agricultura orgánica, vida costera y experimentación con cultivos tropicales.`,
+    imagen: "https://images.pexels.com/photos/33863616/pexels-photo-33863616.jpeg",
+    sitioWeb: "https://www.helpx.net/host/JYRBSMPSS",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Temporal (Dic-May)",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/4846303/pexels-photo-4846303.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 66,
+    categoria: "Voluntariado",
+    titulo: "🏛️ Villa victoriana en el centro - Ponsonby, Auckland, Nueva Zelanda",
+    descripcion: `Únete a una experiencia única en una villa victoriana de 116 años en el centro de Ponsonby. Perfecto para quienes buscan la vida urbana con privacidad y comodidad.
+
+    📍 Ubicación: Ponsonby, Auckland, Nueva Zelanda
+    🏠 Alojamiento: Villa victoriana de 116 años
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Desarrollo de jardín y mantenimiento
+    🏛️ Características: Villa victoriana histórica en el centro
+    
+    🏡 Características del alojamiento:
+    - Alojamiento independiente
+    - Entrada independiente
+    - Balcón privado con jardín
+    - Cama doble amplia
+    - Cocina americana con microondas, placa eléctrica, tostadora
+    - Nevera pequeña
+    - Mesa de comedor/escritorio
+    - Lavadora
+    - Baño privado
+    - Wifi gratuito (dentro de lo razonable)
+    
+    🌱 Proyecto de jardín:
+    - Desarrollo de rincón con hierbas y flores
+    - Para disfrute de vecinos e invitados
+    - Mirador de árboles
+    - Organización de espacios verdes
+    
+    🏙️ Ubicación privilegiada:
+    - 2 minutos a pie de Ponsonby Road
+    - Centro de la ciudad
+    - Cerca de dos encantadoras playas portuarias
+    - Excelentes paseos
+    - Bullicio social y cultural
+    - Zona inusualmente amplia para casa de ciudad
+    
+    🎯 Perfil ideal:
+    - Disfrutan del bullicio social y cultural
+    - Valoran su propio espacio privado
+    - Buscan entorno estimulante
+    - Interesados en desarrollo de jardines
+    - Aprecian la historia y arquitectura
+    
+    🏖️ Atractivos:
+    - Vida urbana vibrante
+    - Playas portuarias cercanas
+    - Paseos excelentes
+    - Cultura y entretenimiento
+    - Historia y arquitectura
+    
+    Perfecto para personas que buscan la vida urbana con comodidades modernas y espacios privados.`,
+    imagen: "https://images.pexels.com/photos/32226061/pexels-photo-32226061.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1805611IE",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/29204299/pexels-photo-29204299.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 67,
+    categoria: "Voluntariado",
+    titulo: "📱 Granja con trabajo en redes sociales - Glaciar Franz Josef, Nueva Zelanda",
+    descripcion: `Únete a Josh en su granja cerca del Glaciar Franz Josef para ayudar con redes sociales chinas y contenido de aventuras. Una experiencia única para creadores de contenido digital.
+
+    📍 Ubicación: Glaciar Franz Josef, Costa Oeste, Nueva Zelanda
+    🏠 Alojamiento: Habitación propia con cama super king
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Trabajo en redes sociales y contenido
+    🏔️ Ubicación: Entorno espectacular de Nueva Zelanda
+    
+    👨‍💻 Sobre Josh:
+    - Manitas en varias cosas
+    - Vive solo con dos perros y ovejas
+    - Busca ayuda con redes sociales chinas
+    
+    📱 Actividades principales:
+    - Crear cuentas en redes sociales chinas
+    - BiiBili, Watermelon, etc.
+    - Subir vídeos de aventuras
+    - Traducir subtítulos
+    - Gestión de contenido digital
+    
+    🏠 Alojamiento:
+    - Habitación propia
+    - Cama super king cómoda
+    - Sofá para relajarse
+    - Wifi disponible
+    - Entorno espectacular de Nueva Zelanda
+    
+    🐕 Animales:
+    - Dos perros
+    - Par de ovejas
+    - Ambiente rural auténtico
+    
+    🏔️ Ubicación privilegiada:
+    - Costa Oeste de Nueva Zelanda
+    - Cerca del Glaciar Franz Josef
+    - Entorno natural espectacular
+    - Aventuras al aire libre
+    
+    🎯 Perfil ideal:
+    - Experiencia en redes sociales
+    - Conocimiento de plataformas chinas
+    - Habilidades de traducción
+    - Interés en contenido de aventuras
+    - Comodidad con tecnología digital
+    
+    Perfecto para creadores de contenido digital interesados en redes sociales chinas y aventuras neozelandesas.`,
+    imagen: "https://images.pexels.com/photos/259822/pexels-photo-259822.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2004831CE",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/533982/pexels-photo-533982.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 68,
+    categoria: "Voluntariado",
+    titulo: "🌊 Propiedad costera de 10 hectáreas - Bahía de Tauranga, Westport, Nueva Zelanda",
+    descripcion: `Únete a un fontanero jubilado en su propiedad de 10 hectáreas en la costa oeste de la Isla Sur. Una experiencia única para amantes de la naturaleza y la construcción.
+
+    📍 Ubicación: Bahía de Tauranga, Cabo Foulwind, Westport, Costa Oeste, Nueva Zelanda
+    🏠 Alojamiento: Cabañas en construcción
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Trabajo en propiedades y conservación
+    🌊 Ubicación: 20 km de Westport, 1 km de la bahía de Tauranga
+    
+    👨‍🔧 Sobre el anfitrión:
+    - Fontanero y desatascador certificado
+    - Recién jubilado
+    - Nueva etapa de vida trabajando en propiedades
+    - Experiencia en Couchsurfing
+    - Concepto Helpx nuevo para él
+    
+    🏡 Características de la propiedad:
+    - 10 hectáreas en la costa oeste de la Isla Sur
+    - Comienza en la costa con playa de arena y atardeceres
+    - Se adentra 1 km tierra adentro
+    - Humedales y bosques autóctonos
+    - Necesita mucho trabajo de limpieza y desarrollo
+    
+    🏗️ Proyectos en curso:
+    - Limpiar y delimitar contornos
+    - Cercar y plantar árboles
+    - Crear huerto
+    - Limpiar plantas introducidas
+    - Replantar con plantas autóctonas
+    - Construir nueva cabaña (fase de pintura interior)
+    - Cabaña de huéspedes de 2 habitaciones (revestimiento y pintura)
+    - Invernadero y umbráculo (próximos proyectos)
+    
+    ⚡ Características técnicas:
+    - Cabañas totalmente aisladas del suministro eléctrico
+    - Sistemas de agua independientes
+    - Enfoque en sostenibilidad
+    
+    🏖️ Ubicación:
+    - Playa de arena con atardeceres espectaculares
+    - Humedales y bosques autóctonos
+    - 20 km de Westport
+    - 1 km de la bahía de Tauranga
+    - Transporte público limitado
+    
+    🎯 Perfil ideal:
+    - Interesados en conservación ambiental
+    - Experiencia en construcción
+    - Comodidad con trabajo físico
+    - Apreciación por la naturaleza
+    - Flexibilidad con transporte limitado
+    
+    Perfecto para personas interesadas en conservación, construcción sostenible y vida rural costera.`,
+    imagen: "https://images.pexels.com/photos/33924404/pexels-photo-33924404.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1032963GG",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/33917216/pexels-photo-33917216.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 69,
+    categoria: "Voluntariado",
+    titulo: "🌿 Casa orgánica subtropical - Oratia, Waitakere, Auckland, Nueva Zelanda",
+    descripcion: `Únete a Peter y su pareja en su hermosa propiedad subtropical ubicada en la cordillera Waitakere. Una experiencia perfecta para amantes de la naturaleza y la agricultura orgánica.
+
+    📍 Ubicación: Oratia, Waitakere, Auckland, Nueva Zelanda
+    🏠 Alojamiento: Casa orgánica subtropical
+    👤 Capacidad: 1 persona solamente
+    ⏰ Compromiso: 4 horas al día
+    📅 Disponibilidad: A partir de septiembre
+    
+    🌱 Características de la propiedad:
+    - Arbustos y jardines con senderos por todas partes
+    - Senderos públicos cerca
+    - Huerto orgánico
+    - Ovejas y gallinas que cuidar
+    - 25 minutos en coche de las playas de la costa oeste
+    
+    👨‍👩‍👧‍👦 Sobre los anfitriones:
+    - Peter y su pareja trabajan en el campo
+    - Han viajado mucho
+    - Les encanta interactuar con gente de todo el mundo
+    - Ambiente familiar acogedor
+    
+    🌱 Actividades principales:
+    - Trabajo de campo con las ovejas
+    - Jardinería orgánica
+    - Cocinar
+    - Recoger estiércol para árboles frutales
+    - Trabajos de encofrados
+    - Tareas exteriores del campo
+    
+    🍽️ Incluye:
+    - Comida para todas las comidas (desayuno, almuerzo, comida principal)
+    - Alimentos orgánicos disponibles
+    - Wifi disponible
+    
+    🏖️ Atractivos:
+    - Playas de la costa oeste a 25 minutos
+    - Senderos para caminar
+    - Ambiente subtropical
+    - Conversaciones y relajación
+    
+    Perfecto para personas que disfrutan de la agricultura orgánica, los animales y la vida rural subtropical.`,
+    imagen: "https://images.pexels.com/photos/5006536/pexels-photo-5006536.jpeg",
+    sitioWeb: "https://www.helpx.net/host/784115TP",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/2468773/pexels-photo-2468773.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 70,
+    categoria: "Voluntariado",
+    titulo: "🥑 Huerto de aguacates - Playa Waihi, Bahía de Plenty, Nueva Zelanda",
+    descripcion: `Únete a una familia cristiana en su huerto de aguacates de 5 hectáreas en la hermosa Bahía de Plenty. Una experiencia perfecta para amantes de la agricultura y la costa.
+
+    📍 Ubicación: Playa Waihi, Bahía de Plenty, Nueva Zelanda
+    🏠 Alojamiento: Huerto de aguacates de 5 hectáreas
+    👥 Capacidad: Solo 2 personas
+    ⏰ Compromiso: 3 horas de trabajo al día
+    🥑 Características: 5 minutos de la playa de Waihi
+    
+    🏡 Características de la propiedad:
+    - Huerto de aguacates de 5 hectáreas
+    - Hermosa Bahía de Plenty
+    - 5 minutos de la playa de Waihi
+    - Ambiente familiar cristiano
+    - Dormitorio junto a cancha de tenis
+    
+    👨‍👩‍👧‍👦 La familia:
+    - Familia cristiana
+    - Wendy trabaja martes, miércoles y jueves
+    - Hija menor va a la escuela
+    - Chloe ha pasado 6 meses en Francia
+    - Habla francés (puede traducir)
+    
+    🌱 Actividades principales:
+    - Ayuda en el jardín
+    - Limpieza
+    - Pintura
+    - Trabajo en el huerto
+    - Ayuda con platos después de comidas
+    - Mantenimiento general
+    
+    🏠 Alojamiento:
+    - Dormitorio junto a cancha de tenis
+    - Cama doble
+    - Ducha y baño
+    - Wifi gratuito para huéspedes
+    - Tablas de surf disponibles
+    
+    🏖️ Atractivos:
+    - Playa de Waihi a menos de 5 km
+    - Tablas de surf
+    - Cancha de tenis
+    - Bahía de Plenty
+    - Actividades costeras
+    
+    🎯 Perfil ideal:
+    - No vegetarianos ni veganos
+    - Interesados en agricultura
+    - Comodidad con trabajo físico
+    - Apreciación por la vida costera
+    - Dispuestos a ayudar con platos
+    
+    Perfecto para personas no vegetarianas interesadas en agricultura y vida costera.`,
+    imagen: "https://images.pexels.com/photos/31747250/pexels-photo-31747250.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2158217WC",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/12113255/pexels-photo-12113255.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 71,
+    categoria: "Voluntariado",
+    titulo: "🐄 Granja lechera costera - Puerto Molyneux, Kaka Point, Otago, Nueva Zelanda",
+    descripcion: `Únete a una granja lechera costera con 320 vacas lecheras en la entrada a Catlin's. Una experiencia perfecta para amantes de la agricultura y la vida costera.
+
+    📍 Ubicación: Puerto Molyneux, Kaka Point, Otago, Nueva Zelanda
+    🏠 Alojamiento: Granja lechera costera
+    👤 Capacidad: 1 persona solamente
+    ⏰ Compromiso: Tareas agrícolas variadas
+    🐄 Características: 320 vacas lecheras, 40 vacas de carne Speckle Park
+    
+    🐄 Características de la granja:
+    - 320 vacas lecheras (Holstein y Ayrshire de pedigrí)
+    - 40 vacas de carne Speckle Park
+    - Partos de agosto a octubre
+    - Ordeño en cobertizo Herringbone de 40 plazas
+    - Trabajo remunerado disponible para persona adecuada
+    
+    🌱 Actividades principales:
+    - Tareas agrícolas
+    - Ordeño
+    - Cercado
+    - Control de malezas
+    - Jardinería
+    - Mantenimiento general
+    - Trabajos variados de granja
+    
+    🏖️ Ubicación privilegiada:
+    - Solo minutos de la playa
+    - 1 hora de Dunedin o Gore
+    - 2 horas de Central Otago
+    - Entrada a Catlin's
+    - Vida silvestre impresionante
+    
+    🐎 Animales:
+    - Ganado lechero y de carne
+    - 2 caballos
+    - Cerdos
+    - Variedad de animales de granja
+    
+    🏖️ Actividades recreativas:
+    - Pesca
+    - Surf
+    - Senderismo
+    - Caza
+    - Fauna impresionante (leones marinos, focas, pingüinos)
+    - Exploración costera
+    
+    🎯 Perfil ideal:
+    - Experiencia previa en granjas (ventaja)
+    - Actitud entusiasta por aprender
+    - Comodidad con animales
+    - Interés en agricultura
+    - Apreciación por la vida costera
+    
+    Perfecto para personas con experiencia en granjas que buscan trabajo remunerado y vida costera.`,
+    imagen: "https://images.pexels.com/photos/17664238/pexels-photo-17664238.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2066852AI",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/5712931/pexels-photo-5712931.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 72,
+    categoria: "Voluntariado",
+    titulo: "🏡 Zona rural de Galatea - Murupara, Bahía de Plenty, Nueva Zelanda",
+    descripcion: `Únete a Karen en la zona rural de Galatea, en la hermosa Bahía de Plenty. Una experiencia perfecta para amantes de la naturaleza y las actividades al aire libre.
+
+    📍 Ubicación: Murupara, Bahía de Plenty, Nueva Zelanda
+    🏠 Alojamiento: Zona rural de Galatea
+    👤 Capacidad: 1 persona solamente
+    ⏰ Compromiso: Limpieza y jardinería
+    🌿 Características: Hermosa Bahía de Plenty, ideal para actividades al aire libre
+    
+    👩‍💼 Sobre Karen:
+    - Vive en zona rural de Galatea
+    - Reciente mudanza
+    - Dos hijos trabajan
+    - Hijo visita casi todos los fines de semana
+    - Ambiente familiar acogedor
+    
+    🌱 Actividades principales:
+    - Limpieza general
+    - Jardinería
+    - Mantenimiento de propiedad
+    - Trabajos de mudanza
+    - Organización
+    
+    🏡 Características del lugar:
+    - Zona rural de Galatea
+    - Hermosa Bahía de Plenty
+    - Ideal para actividades al aire libre
+    - Ambiente tranquilo y relajante
+    - Vida rural auténtica
+    
+    🍽️ Incluye:
+    - Comida
+    - Alojamiento
+    - Ambiente familiar
+    
+    🎯 Perfil ideal:
+    - Interesados en limpieza y jardinería
+    - Comodidad con trabajo físico
+    - Apreciación por la vida rural
+    - Dispuestos a ayudar con mudanza
+    - Interesados en actividades al aire libre
+    
+    🏖️ Atractivos:
+    - Bahía de Plenty
+    - Actividades al aire libre
+    - Vida rural
+    - Ambiente familiar
+    - Naturaleza espectacular
+    
+    Perfecto para personas que buscan trabajo de limpieza y jardinería en un ambiente rural familiar.`,
+    imagen: "https://images.pexels.com/photos/33911015/pexels-photo-33911015.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1043034HR",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/11939705/pexels-photo-11939705.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 73,
+    categoria: "Voluntariado",
+    titulo: "🏔️ Casa rural con río - Kōpuaranga, Masterton, Nueva Zelanda",
+    descripcion: `Únete a una familia en su casa rural con río en Kōpuaranga, Masterton. Una experiencia perfecta para amantes de la naturaleza y la vida rural.
+
+    📍 Ubicación: Kōpuaranga, Masterton, Isla Norte Inferior, Nueva Zelanda
+    🏠 Alojamiento: Casa rural con río
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Proyectos de construcción y agricultura
+    🏔️ Características: 1.5 horas al norte de Wellington, río con truchas y anguilas
+    
+    🏡 Características de la propiedad:
+    - Casa rural
+    - 1 km de cualquier otra casa
+    - Experiencia rural auténtica
+    - Vistas espectaculares
+    - Cielo nocturno espectacular
+    - 10 minutos en coche de Masterton
+    - Conexiones ferroviarias con Wellington
+    
+    🌊 Características del río:
+    - Río junto a la casa
+    - Truchas y anguilas
+    - Ideal para chapuzón rápido en días calurosos
+    - Naturaleza curiosa
+    - Vida acuática
+    
+    🌱 Proyectos en curso:
+    - Construcción de corrales
+    - Cría de gallinas y ovejas
+    - Añadir más bancales elevados
+    - Crear huerto productivo
+    - Desarrollo de propiedad
+    
+    🏖️ Ubicación estratégica:
+    - 1.5 horas al norte de Wellington
+    - Carretera estatal 2
+    - Masterton como punto clave
+    - Senderismo, montañas, ríos, costa
+    - Comunidades playeras y surferas
+    - Casa en la playa (a veces trabajan allí)
+    
+    🎯 Perfil ideal:
+    - Interesados en construcción
+    - Experiencia en agricultura
+    - Comodidad con trabajo físico
+    - Apreciación por la vida rural
+    - Interesados en naturaleza
+    
+    Perfecto para personas interesadas en construcción, agricultura y vida rural con acceso a naturaleza.`,
+    imagen: "https://images.pexels.com/photos/4215104/pexels-photo-4215104.jpeg",
+    sitioWeb: "https://www.helpx.net/host/3ZMJVFCLY",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/3036355/pexels-photo-3036355.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 74,
+    categoria: "Voluntariado",
+    titulo: "🐕 Cuidado de casa y perros - Ohauiti, Bahía de Plenty, Nueva Zelanda",
+    descripcion: `Únete a Sue en su casa rural en Ohauiti para cuidar de su casa y perros durante el fin de semana. Una experiencia perfecta para amantes de los perros y la vida rural.
+
+    📍 Ubicación: Ohauiti, Bahía de Plenty, Nueva Zelanda
+    🏠 Alojamiento: Casa rural en Ohauiti
+    👥 Capacidad: 1 persona o pareja
+    ⏰ Compromiso: Cuidado de casa y perros
+    🐕 Características: 5 terneros que se alimentan con leche, perros que necesitan paseos
+    
+    🏡 Características de la propiedad:
+    - Zona rural de Ohauiti
+    - Entorno muy privado y relajante
+    - 25 minutos en coche de playas del Monte Manganui
+    - Jacuzzi disponible
+    - Habitación soleada con cama queen
+    - Excelente comida
+    - Lavadora y wifi
+    
+    🐕 Cuidado de animales:
+    - 5 terneros que se alimentan con leche (2 veces al día, 10 minutos máximo)
+    - Perros que les gusta pasear por la finca a diario
+    - Lotte (perra mayor) necesita mucho cariño y mimos
+    - Solo personas amantes de los perros
+    
+    🏖️ Actividades recreativas:
+    - Jacuzzi mientras observas perros
+    - Perros duermen al sol o juegan a la pelota
+    - Paseos por los campos
+    - Acceso a playas del Monte Manganui
+    - Vida rural relajante
+    
+    🍽️ Comidas:
+    - Excelente comida
+    - Les encanta cocinar y comer
+    - Especialmente al aire libre
+    - Si te gusta cocinar con ellos, es un plus
+    
+    🎯 Perfil ideal:
+    - Amantes de los perros
+    - Dispuestos a cuidar terneros
+    - Interesados en vida rural
+    - Aprecian la privacidad
+    - Interesados en cocinar
+    
+    Perfecto para personas amantes de los perros que buscan una experiencia rural relajante.`,
+    imagen: "https://images.pexels.com/photos/8499860/pexels-photo-8499860.jpeg",
+    sitioWeb: "https://www.helpx.net/host/Z8TBFU3XL",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/7210317/pexels-photo-7210317.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 75,
+    categoria: "Voluntariado",
+    titulo: "👨‍🚒 Bombero y constructor - Hastings, Hawkes Bay, Nueva Zelanda",
+    descripcion: `Únete a Dan, bombero de rescate de aeropuerto y constructor, en Hastings. Una experiencia perfecta para personas mayores que aman los animales y la aventura.
+
+    📍 Ubicación: Hastings, Hawkes Bay, Nueva Zelanda
+    🏠 Alojamiento: Casa con animales
+    👤 Capacidad: 1 persona solamente
+    ⏰ Compromiso: Trabajos fáciles y vida diaria
+    👨‍🚒 Características: Bombero de rescate de aeropuerto y constructor
+    
+    👨‍💼 Sobre Dan:
+    - Bombero de rescate de aeropuerto
+    - Constructor (carpintero)
+    - Miembro fundador de grupo de restauración de árboles nativos
+    - Rescata perros y cachorros no deseados
+    - Persona tranquila con gran sentido del humor
+    - Muy amigable y aventurero
+    
+    🐕 Cuidado de animales:
+    - Querido amigo de cuatro patas
+    - Gallinas
+    - Ovejas
+    - Cuidado diario de animales
+    - Amor por los animales
+    
+    🌱 Actividades principales:
+    - Trabajos fáciles
+    - Cuidado de animales
+    - Vida diaria activa
+    - Conocer amigos
+    - Salir a explorar
+    - Ayuda con compras
+    - Proyectos de construcción
+    
+    🏔️ Intereses y actividades:
+    - Senderismo
+    - Acampada
+    - Motociclismo
+    - Pesca en barco
+    - Viajar por el mundo
+    - Buena conversación
+    - Diversión y aventuras
+    
+    🏍️ Equipamiento:
+    - Equipo de moto de repuesto
+    - Paseos en moto
+    - Exploración de la zona
+    - Aventuras motorizadas
+    
+    🎯 Perfil ideal:
+    - Persona mayor
+    - Amigable y confiable
+    - Activa e involucrada
+    - Amante de los animales
+    - Interesada en aventuras
+    - Dispuesta a explorar
+    
+    Perfecto para personas mayores amantes de los animales que buscan aventuras y vida activa.`,
+    imagen: "https://images.pexels.com/photos/266403/pexels-photo-266403.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1730739SW",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/896568/pexels-photo-896568.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 76,
+    categoria: "Voluntariado",
+    titulo: "🌿 Granja orgánica con restaurante - Wanaka, Otago, Nueva Zelanda",
+    descripcion: `Únete a una granja orgánica en Queensberry, cerca de Wanaka, donde están construyendo un restaurante. Una experiencia perfecta para amantes de la agricultura y la naturaleza.
+
+    📍 Ubicación: Wanaka, Otago, Nueva Zelanda
+    🏠 Alojamiento: Caravana retro o caravana propia
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Trabajo en granja orgánica
+    🌿 Características: 18 km de Wanaka, regeneración de terreno
+    
+    🏡 Características de la propiedad:
+    - Propiedad en Queensberry
+    - 18 km de Wanaka
+    - Plantación de muchos árboles para regenerar terreno
+    - Cultivo de hortalizas y azafrán
+    - Huerto y pequeño vivero
+    - ¡Restaurante en construcción!
+    
+    🏠 Alojamiento:
+    - Caravana retro para dormir
+    - Calefacción incluida
+    - Cama doble súper cómoda
+    - Edredón de plumas muy cálido
+    - Opción de caravana propia
+    - Instalaciones de acampada bien equipadas
+    
+    🌱 Actividades principales:
+    - Plantación de árboles
+    - Cultivo de hortalizas
+    - Cultivo de azafrán
+    - Trabajo en huerto
+    - Trabajo en vivero
+    - Construcción del restaurante
+    - Regeneración del terreno
+    
+    🏔️ Ubicación privilegiada:
+    - Cuenca alta de Clutha
+    - Rodeados de hermosas montañas
+    - Lagos y ríos cercanos
+    - Lejos de zonas urbanas
+    - Cielos despejados
+    - Conexión plena con la naturaleza
+    
+    🚴‍♂️ Actividades recreativas:
+    - Gran cantidad de senderos para bicicletas
+    - Paseos y otras atracciones
+    - Río cercano para explorar
+    - Senderos numerosos
+    - Belleza de Central Otago
+    
+    🍽️ Instalaciones:
+    - Cocina en zona de acampada
+    - Espacio en cobertizo para relajarse
+    - Tranquilidad rural
+    - Todo lo necesario para cocinar
+    
+    Perfecto para personas interesadas en agricultura orgánica, regeneración ambiental y vida rural.`,
+    imagen: "https://images.pexels.com/photos/2284166/pexels-photo-2284166.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1110848UU",
+    
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/6613045/pexels-photo-6613045.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 77,
+    categoria: "Voluntariado",
+    titulo: "☀️ Casa solar pasiva - Atawhai, Nelson, Nueva Zelanda",
+    descripcion: `Únete a una familia en su casa solar pasiva construida con bloques de adobe en Atawhai. Una experiencia perfecta para amantes de la construcción sostenible.
+
+    📍 Ubicación: Atawhai, Atawhai, Nelson, Nelson, Nueva Zelanda
+    🏠 Alojamiento: Casa solar pasiva
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: 4 horas diarias (flexible)
+    ☀️ Características: Casa solar pasiva, 7 km del centro de Nelson
+    
+    🏡 Características de la casa:
+    - Casa solar pasiva diseñada y construida por ellos
+    - Construida con bloques de adobe
+    - Método de construcción sostenible y ecológico
+    - Materiales locales (arcilla y paja)
+    - Mantiene frescos en días calurosos
+    - Cálidos y secos en días frescos
+    - Vista espectacular de la Bahía de Tasmania
+    
+    🌿 Ubicación privilegiada:
+    - Solo 7 km del centro de Nelson
+    - Región de Nelson Tasman muy popular
+    - Acceso al Parque Nacional Abel Tasman (poco más de 1 hora)
+    - Sendero para bicicletas hasta el pueblo (20 minutos)
+    - Parada de autobús cerca
+    - Mejor con transporte propio
+    
+    🌱 Actividades principales:
+    - Proyectos de construcción sostenible
+    - Trabajo con materiales naturales
+    - Mantenimiento de casa solar
+    - Jardinería
+    - Proyectos ecológicos
+    - Trabajos según habilidades
+    
+    🏖️ Atractivos:
+    - Bahía de Tasmania
+    - Parque Nacional Abel Tasman
+    - Sendero para bicicletas
+    - Centro de Nelson
+    - Región popular entre viajeros
+    
+    🎯 Perfil ideal:
+    - Interesados en construcción sostenible
+    - Aprecian materiales naturales
+    - Comodidad con trabajo físico
+    - Interesados en ecología
+    - Dispuestos a trabajar 4 horas diarias
+    
+    Perfecto para personas interesadas en construcción sostenible y vida ecológica.`,
+    imagen: "https://images.pexels.com/photos/9875680/pexels-photo-9875680.jpeg",
+    sitioWeb: "",
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/9875421/pexels-photo-9875421.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 78,
+    categoria: "Voluntariado",
+    titulo: "🏔️ Cuidadores de casa - Hanmer Springs, Nueva Zelanda",
+    descripcion: `Únete a una familia en Hanmer Springs para cuidar de su propiedad rústica y acogedora. Una experiencia perfecta para amantes de la vida rural neozelandesa.
+
+    📍 Ubicación: Hanmer Springs, North Canterbury, Nueva Zelanda
+    🏠 Alojamiento: Propiedad rústica y acogedora
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: 4-5 horas diarias
+    🏔️ Características: 1.5 horas al norte de Christchurch, 7 km de Hanmer Springs
+    
+    👨‍👩‍👧‍👦 Sobre la familia:
+    - Han viajado mucho
+    - Han criado una familia que va y viene
+    - Les encantaría tener gente que quiera vivir la auténtica vida neozelandesa
+    - Aportar toque cultural
+    - Ambiente familiar acogedor
+    
+    🌱 Actividades principales:
+    - Jardinería
+    - Paisajismo
+    - Decoración
+    - Cocina
+    - Cuidado de animales (gallinas, caballos, ovejas)
+    - Leña
+    - Mantenimiento general
+    - Proyectos variados
+    
+    🏡 Características de la propiedad:
+    - Propiedad rústica y acogedora
+    - 1.5 horas al norte de Christchurch
+    - 7 km del municipio de Hanmer Springs
+    - Preferiblemente con transporte propio
+    - Ambiente rural auténtico
+    
+    🏖️ Actividades recreativas:
+    - Nadar en el río junto a la casa
+    - Senderismo en montañas cercanas
+    - Esquí en montañas cercanas
+    - Montar a caballo
+    - Bicicleta de montaña
+    - Piscinas termales de Hanmer Springs
+    - Atracciones de Hanmer Springs
+    
+    🍽️ Incluye:
+    - Habitación
+    - Comidas
+    - Libertad para explorar la zona
+    - Experiencia cultural auténtica
+    
+    🎯 Perfil ideal:
+    - Capacidad física
+    - Iniciativa propia
+    - Interesados en jardinería
+    - Comodidad con animales
+    - Apreciación por la vida rural
+    - Interesados en cultura neozelandesa
+    
+    Perfecto para personas con capacidad física que buscan vivir la auténtica vida rural neozelandesa.`,
+    imagen: "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg",
+    sitioWeb: "https://www.helpx.net/host/586534TV",
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/1909014/pexels-photo-1909014.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 79,
+    categoria: "Voluntariado",
+    titulo: "🌿 Casa orgánica con tienda de reciclaje - Tikorangi, Taranaki, Nueva Zelanda",
+    descripcion: `Únete a una anfitriona en su casa orgánica en Tikorangi, al norte de New Plymouth. Una experiencia perfecta para amantes de la jardinería y el reciclaje.
+
+    📍 Ubicación: Tikorangi, al norte de New Plymouth, Taranaki, Nueva Zelanda
+    🏠 Alojamiento: Casa orgánica
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Mantenimiento de jardín y propiedad
+    🌿 Características: Casa orgánica con enfoque en reciclaje
+    
+    👩‍💼 Sobre la anfitriona:
+    - Puede alojar ayudantes ahora
+    - Disponible para septiembre y principios de octubre
+    - Doblemente vacunada más refuerzo
+    - Voluntaria en tienda de reciclaje comunitaria
+    - Enfoque en mantenimiento y orden
+    
+    🌱 Actividades principales:
+    - Mantenimiento de jardín
+    - Quitar plantas no deseadas
+    - Pintura interior (según clima)
+    - Ayuda a ordenar áreas
+    - Experiencia en informática (bienvenida)
+    - Ordenar en tienda de reciclaje comunitaria
+    
+    🏡 Características del alojamiento:
+    - Edificio independiente
+    - Acogedor y cálido
+    - Ambiente privado
+    - Comodidades básicas
+    
+    ♻️ Proyecto de reciclaje:
+    - The Waitara Project
+    - Tienda de reciclaje comunitaria
+    - Voluntariado en reciclaje
+    - Ordenar y organizar
+    - Contribución comunitaria
+    
+    📱 Contacto:
+    - Enviar mensaje de texto o correo electrónico
+    - Incluir perfil
+    - Avisar si interesa venir a ayudar
+    - Mantener contacto incluso si no vienes
+    
+    ⚠️ Consideraciones:
+    - Usar mascarilla en transporte público
+    - No venir si no te encuentras bien
+    - Comunicación constante
+    
+    🎯 Perfil ideal:
+    - Experiencia en jardinería
+    - Interés en reciclaje
+    - Habilidades en informática
+    - Comodidad con trabajo físico
+    - Interés en mantenimiento
+    
+    Perfecto para personas interesadas en jardinería, reciclaje y mantenimiento de propiedades.`,
+    imagen: "https://images.pexels.com/photos/1105019/pexels-photo-1105019.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1035076RX",
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/5503508/pexels-photo-5503508.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 80,
+    categoria: "Voluntariado",
+    titulo: "🗺️ Guía turístico - Valle de Puaha, península de Banks, Nueva Zelanda",
+    descripcion: `Únete a un guía turístico en su hermosa casa en el valle de Puaha, península de Banks. Una experiencia perfecta para amantes de la naturaleza y la cultura.
+
+    📍 Ubicación: Valle de Puaha, río Little, península de Banks, Nueva Zelanda
+    🏠 Alojamiento: Casa grande y cálida en 11 hectáreas
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Máximo 4 horas diarias
+    🗺️ Características: Guía turístico con conocimiento de Nueva Zelanda
+    
+    👨‍💼 Sobre el anfitrión:
+    - Vive con su perra Nala
+    - Guía turístico para turistas extranjeros
+    - Conoce cada rincón de la Gran Aotearoa
+    - Solía hospedar mochileros extranjeros en Christchurch
+    - Disfruta de la compañía y aprender sobre diferencias culturales
+    
+    🏡 Características de la propiedad:
+    - Casa grande y cálida
+    - 11 hectáreas de terreno
+    - Estilo de vida rural
+    - Rodeado de bosque nativo
+    - Pequeño arroyo
+    - Huerto orgánico
+    
+    🌱 Actividades principales:
+    - Plantar árboles
+    - Podar
+    - Limpiar hogueras
+    - Disfrutar del gran jardín
+    - Mantenimiento general
+    - Trabajos creativos
+    
+    🏖️ Ubicación privilegiada:
+    - 1 hora de Christchurch
+    - 30 minutos de Akaroa
+    - Pueblo costero con herencia francesa
+    - Magníficas vistas de la península de Banks
+    - Lejos del bullicio de la ciudad
+    
+    🍽️ Cultivos:
+    - Huerto orgánico
+    - Verduras frescas
+    - Avellanas
+    - Nueces
+    - Castañas
+    - Alimentos orgánicos
+    
+    🎯 Perfil ideal:
+    - Interesados en naturaleza
+    - Aprecian la cultura
+    - Dispuestos a trabajar creativamente
+    - Interesados en intercambio cultural
+    - Aprecian la vida rural
+    
+    Perfecto para personas interesadas en naturaleza, cultura y intercambio cultural.`,
+    imagen: "https://images.pexels.com/photos/17087507/pexels-photo-17087507.jpeg",
+    sitioWeb: "https://www.helpx.net/host/3GGAAUFVG",
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: [],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 81,
+    categoria: "Voluntariado",
+    titulo: "🏛️ Casa en centro de ciudad - Merivale, Christchurch, Nueva Zelanda",
+    descripcion: `Únete a una familia en su encantadora casa en el centro de Christchurch. Una experiencia perfecta para personas positivas y entusiastas.
+
+    📍 Ubicación: Merivale, (ciudad central), Christchurch, Nueva Zelanda
+    🏠 Alojamiento: Casa encantadora en centro de ciudad
+    👥 Capacidad: 1 persona o pareja
+    ⏰ Compromiso: Varias tareas
+    🏛️ Características: Centro de Christchurch, cerca de atracciones
+    
+    👨‍👩‍👧‍👦 La familia:
+    - Tim (esposo) y anfitriona
+    - Pareja amigable de entre cuarenta y treinta años
+    - Dos niños pequeños
+    - Adaline (10 años) y Raphalea (5 años)
+    - ¡Les mantienen ocupados!
+    
+    🏡 Características de la casa:
+    - Casa encantadora en centro de ciudad
+    - Ubicada en Hagley Park
+    - Justo al lado del centro de Christchurch
+    - Jardines botánicos
+    - Museo de Christchurch
+    - Variedad de bares, tiendas y restaurantes
+    
+    🌱 Actividades principales:
+    - Jardinería
+    - Limpieza
+    - Mantenimiento general
+    - Tareas variadas
+    - Trabajos según habilidades
+    
+    🏖️ Ubicación privilegiada:
+    - 10 minutos a pie del centro de arte
+    - Museo, galería de arte
+    - Bares locales, tiendas y restaurantes
+    - Westfield Mall a 5 minutos en auto
+    - Acceso fácil a atracciones
+    
+    🍽️ Trato:
+    - Serán tratados como parte de la familia
+    - Ambiente familiar acogedor
+    - Integración en la vida familiar
+    - Experiencia auténtica
+    
+    🎯 Perfil ideal:
+    - Personas positivas
+    - Amigables y entusiastas
+    - Solteras, parejas o parejas
+    - Experiencia en jardinería, limpieza
+    - Sentido común
+    - Buena actitud y ganas de ayudar
+    
+    Perfecto para personas positivas que buscan experiencia familiar en el centro de Christchurch.`,
+    imagen: "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1400744HY",
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: [],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 82,
+    categoria: "Voluntariado",
+    titulo: "🌲 Granja con bosque de manuka - Brunswick, Whanganui, Nueva Zelanda",
+    descripcion: `Únete a Geoff y Declan en su granja con vistas espectaculares en Brunswick, Whanganui. Una experiencia perfecta para amantes de la naturaleza y la conservación.
+
+    📍 Ubicación: Brunswick, Whanganui, Wanganui, Nueva Zelanda
+    🏠 Alojamiento: Granja con vistas espectaculares
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Trabajos de ganadería y conservación
+    🌲 Características: Bosque de pinos talado y replantado con manuka
+    
+    🌲 Proyecto de conservación:
+    - Talaron bosque de pinos hace 4 años
+    - Replantaron con manuka
+    - Empieza a verse espectacular
+    - Más aves autóctonas
+    - Establecieron reserva de humedales
+    - Desarrollando zona de descanso
+    
+    🌱 Actividades principales:
+    - Trabajos de ganadería
+    - Colaboración en trabajos
+    - Ayuda con senderos
+    - Gestión de árboles
+    - Mantenimiento de reserva
+    - Trabajos de conservación
+    
+    🏡 Características de la granja:
+    - Vistas espectaculares
+    - Agradable conversación
+    - Ambiente rural auténtico
+    - Enfoque en conservación
+    - Trabajo colaborativo
+    
+    🐦 Vida silvestre:
+    - Más aves autóctonas
+    - Reserva de humedales
+    - Biodiversidad mejorada
+    - Conservación ambiental
+    - Hábitat natural
+    
+    🎯 Perfil ideal:
+    - Interesados en conservación
+    - Comodidad con ganadería
+    - Apreciación por la naturaleza
+    - Interesados en senderos
+    - Dispuestos a colaborar
+    
+    🏖️ Atractivos:
+    - Vistas espectaculares
+    - Conversación agradable
+    - Vida rural
+    - Conservación ambiental
+    - Trabajo colaborativo
+    
+    Perfecto para personas interesadas en conservación, ganadería y trabajo colaborativo en naturaleza.`,
+    imagen: "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg",
+    sitioWeb: "https://www.helpx.net/host/45R8MM64L",
+    pais: "Nueva Zelanda",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/51311/cow-calf-cattle-stock-51311.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 
