@@ -5325,12 +5325,1355 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Trabajo colaborativo
     
     Perfecto para personas interesadas en conservación, ganadería y trabajo colaborativo en naturaleza.`,
-    imagen: "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg",
+    imagen: "https://images.pexels.com/photos/33927618/pexels-photo-33927618.jpeg",
     sitioWeb: "https://www.helpx.net/host/45R8MM64L",
     pais: "Nueva Zelanda",
     duracion: "Todo el año",
-    fechaLimite: "2025-12-31",
+    fechaLimite: "Abierto",
     imagenes: ["https://images.pexels.com/photos/51311/cow-calf-cattle-stock-51311.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 83,
+    categoria: "Voluntariado",
+    titulo: "🏨 Hospitalidad en Suiza - Oberaegeri, Suiza",
+    descripcion: `Únete a una experiencia única de hospitalidad en Oberaegeri, Suiza. Una oportunidad perfecta para quienes buscan una alternativa entre una casa tradicional y un entorno puramente empresarial.
+
+    📍 Ubicación: Oberaegeri, Suiza
+    🏠 Alojamiento: Lugar con elementos de casa y negocio
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Disponibilidad: Marzo y abril, mediados de julio hasta finales de septiembre
+    🎯 Enfoque: Mejorar el mundo y proyectos creativos
+    
+    🌟 Características especiales:
+    - No es una casa tradicional ni un negocio tradicional
+    - Combina elementos de ambos sin sus desventajas
+    - Entorno fantástico y hermoso
+    - Oportunidad de contribuir de manera significativa
+    
+    🌱 Actividades principales:
+    - Cuidado del lugar (pequeña casa de huéspedes)
+    - Colaboración en proyectos de forma rutinaria
+    - Colaboración creativa en proyectos
+    - Ayuda real y significativa
+    
+    💰 Opciones de alojamiento:
+    - Alojamiento gratis con ayuda real
+    - Programas para quienes desean ayudar menos (pago por habitación compartida)
+    
+    🎯 Perfil ideal:
+    - Dispuestos a ayudar de verdad
+    - Interesados en contribuir al mejoramiento del mundo
+    - Buscan experiencia alternativa
+    - Motivados para proyectos creativos
+    
+    Perfecto para personas que buscan una experiencia única de voluntariado en un entorno especial.`,
+    imagen: "https://images.pexels.com/photos/8112704/pexels-photo-8112704.jpeg",
+    sitioWeb: "https://www.helpx.net/host/M9DOQ0AE5",
+    pais: "Suiza",
+    duracion: "Temporal (Mar-Abr, Jul-Sep)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/31970783/pexels-photo-31970783.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 84,
+    categoria: "Voluntariado",
+    titulo: "🌱 Proyecto de permacultura - Thal, Suiza",
+    descripcion: `Únete a Julia en su proyecto de permacultura en Thal, Suiza. Una experiencia perfecta para amantes de la agricultura sostenible y la vida comunitaria.
+
+    📍 Ubicación: Thal, Suiza
+    🏠 Alojamiento: Apartamento o jurt del proyecto
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: 2 horas diarias (opción de 4 horas con día libre)
+    🌱 Características: Proyecto de permacultura con patos en estanque
+    
+    👩‍👧‍👦 La comunidad:
+    - Julia y su hija (7 años)
+    - Grupo de personas trabajando en el paraíso
+    - Ambiente comunitario acogedor
+    - Trabajo colaborativo
+    
+    🌱 Actividades principales:
+    - Cultivo de árboles, bayas, verduras y flores
+    - Cortar el césped
+    - Desherbar
+    - Poner mantillo
+    - Trabajos de jardinería variados
+    
+    🏠 Alojamiento:
+    - Habitación propia
+    - Todo lo demás compartido
+    - Apartamento o jurt del proyecto (5 min en coche, 20 min a pie, 5 min en bicicleta)
+    - Comidas juntos cuando estén en casa
+    
+    🎯 Perfil ideal:
+    - Interesados en permacultura
+    - Dispuestos a trabajar en comunidad
+    - Aprecian la vida rural
+    - Buscan experiencia con niños
+    
+    Perfecto para personas interesadas en permacultura y vida comunitaria sostenible.`,
+    imagen: "https://images.pexels.com/photos/33948594/pexels-photo-33948594.jpeg",
+    sitioWeb: "https://www.helpx.net/host/BO62PVJ6Q",
+    pais: "Suiza",
+    duracion: "Primavera-Otoño",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/33950840/pexels-photo-33950840.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 85,
+    categoria: "Voluntariado",
+    titulo: "🍷 Viñedo orgánico y B&B - Obermumpf, Suiza",
+    descripcion: `Únete a Dave y Brandy en su viñedo orgánico y pequeño Bed and Breakfast en Obermumpf. Una experiencia perfecta para amantes del vino, la cocina y los perros.
+
+    📍 Ubicación: Obermumpf, Suiza
+    🏠 Alojamiento: Viñedo y B&B con 2 habitaciones
+    👤 Capacidad: 1 persona solamente
+    ⏰ Disponibilidad: Abril a septiembre 2025
+    🍷 Características: Viñedo bio/orgánico y Museo Suizo del Tatuaje
+    
+    👨‍🍳 Sobre Dave:
+    - Conocido como "Dave Cuvee" por huéspedes y amigos
+    - Le encanta cocinar
+    - Crea comidas deliciosas y de calidad
+    - Habla inglés y sueco con fluidez
+    - Enfoque en amor y pasión culinaria
+    
+    🐕 Sobre Brandy:
+    - Vizsla húngara hembra (nacida octubre 2013)
+    - Entrenando para buscar trufas
+    - 19 kg, muy activa e inteligente
+    - Juguetona y amigable
+    - Necesita paseos y ejercicio
+    
+    🌱 Actividades principales:
+    - Ayuda en viñedo orgánico
+    - Apoyo en Bed and Breakfast
+    - Trabajo en Museo Suizo del Tatuaje
+    - Cuidado de Brandy (paseos y ejercicio)
+    - Apoyo en cocina
+    
+    🍽️ Incluye:
+    - Comidas deliciosas (¡muchos se van con kilos de más!)
+    - Experiencia culinaria única
+    - Conocimiento sobre vino orgánico
+    
+    🎯 Perfil ideal:
+    - Muy amigable con perros
+    - Interesados en vino y cocina
+    - Dispuestos a cuidar a Brandy
+    - Aprecian la calidad culinaria
+    
+    Perfecto para amantes del vino, la cocina y los perros que buscan una experiencia única.`,
+    imagen: "https://images.pexels.com/photos/39511/purple-grapes-vineyard-napa-valley-napa-vineyard-39511.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1373559YA",
+    pais: "Suiza",
+    duracion: "Temporal (Abr-Sep)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/2339181/pexels-photo-2339181.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 86,
+    categoria: "Voluntariado",
+    titulo: "🐾 Santuario de animales - Wallis, Suiza",
+    descripcion: `Únete a un santuario de animales en Wallis, Suiza. Una experiencia perfecta para personas fuertes, confiables y motivadas que buscan un compromiso a largo plazo.
+
+    📍 Ubicación: Wallis, Suiza
+    🏠 Alojamiento: Santuario de animales
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: 2-3 meses (preferiblemente)
+    🐾 Características: Santuario que requiere ayuda inmediata y a largo plazo
+    
+    📢 Vacantes disponibles:
+    - Ayuda inmediata: hasta el 22 de septiembre
+    - Estadía de invierno: finales de octubre hasta temporada de invierno (2-3 meses)
+    - Ayudantes de último minuto bienvenidos
+    
+    ⚠️ Requisitos importantes:
+    - Solo ayudantes masculinos (debido al tipo de ayuda y condiciones de vida)
+    - Extremadamente confiables, motivados y fuertes
+    - Compromiso a largo plazo preferido
+    - Flexibilidad para apoyar el santuario
+    
+    🌱 Actividades principales:
+    - Cuidado de animales del santuario
+    - Mantenimiento del lugar
+    - Trabajos físicos requeridos
+    - Apoyo en operaciones del santuario
+    - Trabajo en condiciones de vida específicas
+    
+    🎯 Perfil ideal:
+    - Solo hombres
+    - Extremadamente confiables
+    - Motivados y fuertes
+    - Dispuestos a compromiso a largo plazo
+    - Flexibles y comprometidos
+    
+    Perfecto para hombres fuertes y confiables que buscan un compromiso serio con el cuidado de animales.`,
+    imagen: "https://images.pexels.com/photos/13239228/pexels-photo-13239228.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2273687VK",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/15529571/pexels-photo-15529571.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 87,
+    categoria: "Voluntariado",
+    titulo: "🏡 Casa de campo con gatos - Brunnadern, Suiza",
+    descripcion: `Únete a una familia en su encantadora casa de campo en Brunnadern, Suiza. Una experiencia perfecta para amantes de la naturaleza y la jardinería.
+
+    📍 Ubicación: Kanton St.Gallen, Brunnadern, Suiza
+    🏠 Alojamiento: Casa de campo encantadora y antigua
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Disponibilidad: Principios de septiembre hasta noviembre
+    🏔️ Características: 900m sobre el nivel del mar, área natural protegida
+    
+    🐱 Los gatos:
+    - Mosquito y Findus/Findelita
+    - Findelita es alegre y sonriente
+    - Compañeros adorables del hogar
+    
+    🌱 Actividades principales:
+    - Poda de arbustos y árboles
+    - Preparación de parterres
+    - Corte de césped
+    - Terminación del estanque de anfibios
+    - Corte de leña (ocasional)
+    - Cosecha de nueces en octubre
+    
+    🏔️ Ubicación privilegiada:
+    - 900m sobre el nivel del mar
+    - Brisa agradable en veranos calurosos
+    - Área natural protegida
+    - Ambiente de montaña fresco
+    
+    🎯 Perfil ideal:
+    - Familiarizados con jardinería
+    - Aprecian la naturaleza
+    - Dispuestos a trabajar en montaña
+    - Interesados en conservación
+    
+    Perfecto para personas con experiencia en jardinería que buscan trabajar en un entorno natural protegido.`,
+    imagen: "https://images.pexels.com/photos/33940788/pexels-photo-33940788.jpeg",
+    sitioWeb: "https://www.helpx.net/host/530058OC",
+    pais: "Suiza",
+    duracion: "Temporal (Sep-Nov)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/33931335/pexels-photo-33931335.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 88,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa familiar cerca de Berna - Belp, Suiza",
+    descripcion: `Únete a una persona de 66 años en su pequeña casa cerca de la capital de Suiza. Una experiencia perfecta para quienes buscan independencia y variedad de actividades.
+
+    📍 Ubicación: Belp, Suiza (cerca de Berna)
+    🏠 Alojamiento: Pequeña casa con jardín y gallinas
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Estancia máxima: 10 días/2 semanas
+    📅 Disponibilidad: A partir de finales de noviembre de 2025
+    
+    👨‍💼 Sobre el anfitrión:
+    - 66 años, trabaja por turnos en centro de llamadas
+    - Habla francés, alemán e inglés
+    - Interesado en genealogía, viajar, idiomas, música
+    - Hace mermelada, chutney, jarabe casero
+    - Enfoque en reducir plástico y desperdicio de alimentos
+    - Mente abierta, no vegetariana pero se adapta
+    
+    🌱 Actividades principales:
+    - Mucha jardinería (desherbar y cortar césped)
+    - Limpieza general
+    - Trabajo duro como podar árboles
+    - Tareas variadas según necesidades
+    - Trabajo independiente cuando está solo
+    
+    🐔 Características del lugar:
+    - Pequeña casa con jardín
+    - Gallinas en el jardín
+    - Pueblo pequeño en suburbio de Berna
+    - Ubicación hermosa y tranquila
+    
+    🎯 Perfil ideal:
+    - Independientes y autónomos
+    - Dispuestos a trabajar solo
+    - Interesados en jardinería
+    - Aprecian la independencia
+    
+    Perfecto para personas independientes que buscan trabajar solo y disfrutar de la tranquilidad.`,
+    imagen: "https://images.pexels.com/photos/33917617/pexels-photo-33917617.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1326792DH",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/33902149/pexels-photo-33902149.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 89,
+    categoria: "Voluntariado",
+    titulo: "🌿 Casa ecológica en Appenzell - Reute, Suiza",
+    descripcion: `Únete a una familia en su casa ecológica en el distrito de Appenzell, Suiza. Una experiencia perfecta para amantes de la jardinería y la construcción sostenible.
+
+    📍 Ubicación: Reute, Suiza (distrito de Appenzell)
+    🏠 Alojamiento: Casa ecológica con hermosa vista
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Medio día, 4 horas diarias
+    🌿 Características: Construcción de casa ecológica (paralizada temporalmente)
+    
+    👨‍👩‍👧‍👦 La familia:
+    - Isabel, Uli e Isidro (14 años)
+    - Familia de tres personas
+    - Ambiente familiar acogedor
+    
+    🌱 Actividades principales:
+    - Jardinería y tareas domésticas
+    - Limpieza profunda de la casa antes del invierno
+    - Ayuda con limpieza de mesa y cocina después de comidas
+    - Trabajos según necesidades y condiciones meteorológicas
+    
+    🏔️ Ubicación privilegiada:
+    - Distrito de Appenzell
+    - Hermosa vista del valle del Rin
+    - Montañas austriacas y suizas
+    - Ambiente de montaña espectacular
+    
+    🗣️ Idiomas:
+    - Alemán e italiano con fluidez
+    - Francés, inglés, checo y más
+    
+    ⏰ Horario flexible:
+    - 8:00 a 12:00 con tarde libre
+    - Tiempo para excursiones, paseos o bicicleta
+    - Fin de semana libre
+    
+    🎯 Perfil ideal:
+    - Motivados para estancias de semanas
+    - Interesados en jardinería
+    - Dispuestos a trabajo doméstico
+    - Aprecian la flexibilidad
+    
+    Perfecto para personas motivadas que buscan una experiencia familiar en un entorno montañoso hermoso.`,
+    imagen: "https://images.pexels.com/photos/33898255/pexels-photo-33898255.jpeg",
+    sitioWeb: "https://www.helpx.net/host/799294IA",
+    pais: "Suiza",
+    duracion: "Temporal (Abr-Oct)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/33887506/pexels-photo-33887506.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 90,
+    categoria: "Voluntariado",
+    titulo: "🌍 Familia multinacional en Basilea - Bottmingen, Suiza",
+    descripcion: `Únete a una familia multinacional de mente abierta en Bottmingen, cerca de Basilea. Una experiencia perfecta para amantes de la diversidad cultural y la naturaleza.
+
+    📍 Ubicación: Bottmingen, Suiza (cerca de Basilea)
+    🏠 Alojamiento: Casa con reserva natural y bosques
+    👥 Capacidad: 1 persona o pareja
+    🌍 Características: Familia multinacional, Francia y Alemania a paseo en bicicleta
+    
+    👨‍👩‍👧‍👦 Sobre la familia:
+    - Familia multinacional de mente abierta
+    - Vivieron cerca de Sídney en parque nacional
+    - Han viajado mucho
+    - Amantes del intercambio de ideas
+    - Gran comunidad internacional
+    
+    🌱 Actividades principales:
+    - Montar un huerto
+    - Crear un bosque de frutas
+    - Cuidar de mascotas
+    - Ayuda general en casa
+    - Proyectos de jardinería
+    
+    🏞️ Ubicación privilegiada:
+    - Reserva natural a 5 minutos a pie
+    - Bosques cercanos
+    - Estación de tranvía a 7 minutos a pie
+    - Acceso fácil a la ciudad
+    - Francia y Alemania en bicicleta
+    
+    🗣️ Idiomas:
+    - Alemán, suizo, francés
+    - Inglés
+    
+    🍽️ Incluye:
+    - Comidas
+    - Habitación propia
+    - Trato amable y cariñoso
+    
+    🎯 Perfil ideal:
+    - Interesados en diversidad cultural
+    - Amantes de la naturaleza
+    - Dispuestos a cuidar mascotas
+    - Aprecian el intercambio cultural
+    
+    Perfecto para personas que buscan una experiencia multicultural en un entorno natural hermoso.`,
+    imagen: "https://images.pexels.com/photos/33452677/pexels-photo-33452677.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2026104ND",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/4916432/pexels-photo-4916432.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 91,
+    categoria: "Voluntariado",
+    titulo: "👶 Familia joven con bebé - Brig, Suiza",
+    descripcion: `Únete a una familia joven y abierta con un bebé encantador en Brig, Suiza. Una experiencia perfecta para quienes buscan una familia intercultural y actividades al aire libre.
+
+    📍 Ubicación: Brig, Suiza (parte alemana de Wallis)
+    🏠 Alojamiento: Casa familiar en pueblo cultural
+    👤 Capacidad: 1 persona solamente
+    👶 Características: Familia joven con bebé encantador
+    🏔️ Ubicación: Uno de los lugares más hermosos de Suiza
+    
+    👨‍👩‍👶 Sobre la familia:
+    - Familia joven y abierta
+    - Bebé encantador
+    - Familia intercultural
+    - Creen en honestidad y amabilidad
+    - Disfrutan de gente de diferentes culturas
+    
+    🏛️ Atractivos del lugar:
+    - Antiguo pueblo cultural
+    - Numerosos lugares encantadores para explorar
+    - Patrimonio cultural
+    - Rutas de senderismo
+    - Estaciones de esquí a media hora
+    
+    🎯 Actividades:
+    - Senderismo los fines de semana
+    - Turismo (ej. Domodossola, ciudad italiana)
+    - Comida italiana en la frontera
+    - Exploración cultural
+    - Actividades al aire libre
+    
+    🍽️ Requisitos:
+    - Se les da bien cocinar
+    - Preparar almuerzos de lunes a viernes
+    - Una cena a la semana
+    - Probar comida de todas las culturas
+    - Cocinar platos favoritos
+    
+    🎯 Perfil ideal:
+    - Buenos cocineros
+    - Interesados en culturas
+    - Dispuestos a cuidar bebé
+    - Aprecian la honestidad
+    - Buscan experiencia familiar
+    
+    Perfecto para personas que disfrutan cocinar y buscan una experiencia familiar intercultural.`,
+    imagen: "https://images.pexels.com/photos/629167/pexels-photo-629167.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2S1ATCH0L",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/6369229/pexels-photo-6369229.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 92,
+    categoria: "Voluntariado",
+    titulo: "🌿 Granja de permacultura Gaia - Pfeffikon LU, Suiza",
+    descripcion: `Únete a la familia en la granja de Gaia, transformando tierras de cultivo intensivo en un exuberante paraíso de permacultura orgánica. Una experiencia perfecta para amantes de la agricultura sostenible.
+
+    📍 Ubicación: Pfeffikon LU, Suiza
+    🏠 Alojamiento: Caravana hermosa, limpia y acogedora
+    👥 Capacidad: 1 persona o pareja
+    ⏰ Compromiso: Trabajo en granja después del desayuno
+    🌿 Características: Transformación a paraíso de permacultura biodiverso
+    
+    👨‍👩‍👧‍👦 La familia:
+    - Tillie, David y dos niños (5 y 8 años)
+    - Perra Gaia (de ahí el nombre)
+    - Familia de cuatro personas
+    - Ambiente familiar acogedor
+    
+    🌱 Actividades principales:
+    - Trabajo en huerto
+    - Construcción de nuevas estructuras (trabajos ligeros)
+    - Plantar y sembrar
+    - Cosechar
+    - Trabajo en casa
+    - Proyectos e ideas variadas
+    
+    🏠 Alojamiento:
+    - Caravana hermosa, limpia y acogedora
+    - Espacio privado
+    - Cocina y zona común de uso gratuito
+    - Acceso al huerto para cosechar cena
+    
+    🚴‍♂️ Actividades recreativas:
+    - Explorar la naturaleza
+    - Lago cercano
+    - Paseos en bicicleta (bicicletas disponibles)
+    - Explorar Suiza
+    - Ideas sobre qué hacer
+    
+    🍽️ Incluye:
+    - Desayuno y almuerzo juntos
+    - Cena juntos (si planes coinciden)
+    - Uso gratuito de cocina
+    - Cosecha propia del huerto
+    
+    🎯 Perfil ideal:
+    - Interesados en permacultura
+    - Dispuestos a trabajar en familia
+    - Aprecian la naturaleza
+    - Buscan experiencia rural
+    
+    Perfecto para personas interesadas en permacultura y vida familiar rural sostenible.`,
+    imagen: "https://images.pexels.com/photos/10553723/pexels-photo-10553723.jpeg",
+    sitioWeb: "https://www.helpx.net/host/QQ0GKQPNA",
+    pais: "Suiza",
+    duracion: "Temporal (Mar-Nov)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/5145/animal-easter-chick-chicken.jpg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 93,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa grande en pueblo - Wald, Suiza",
+    descripcion: `Únete a una persona en su casa grande en medio de un pueblo en Wald, Suiza. Una experiencia perfecta para quienes buscan trabajos ligeros y tiempo libre para explorar.
+
+    📍 Ubicación: Wald, Suiza
+    🏠 Alojamiento: Casa grande en medio de pueblo
+    👤 Capacidad: 1 persona solamente
+    ⏰ Disponibilidad: De mayo a octubre
+    🏠 Características: A veces alquila habitaciones
+    
+    👩‍👧‍👦 Sobre el anfitrión:
+    - Hija y nieta rara vez viven en la casa
+    - A veces alquila habitaciones
+    - Habla inglés, italiano, francés y alemán
+    - Interesado en finlandés y ruso
+    
+    🌱 Actividades por temporada:
+    - Verano: trabajos ligeros de jardinería
+    - Otoño: trabajos más pesados (cerrar jardín)
+    - Poda de muchos arbustos y árboles
+    - Limpieza en casa
+    - Renovación de muebles viejos (lijar, pintar)
+    - Preparar cosas para vender en internet
+    
+    🧵 Habilidades especiales:
+    - ¿Sabes coser? (bienvenido)
+    - Trabajo con imágenes y texto
+    - Venta en internet
+    - Renovación de muebles
+    
+    🗣️ Idiomas:
+    - Inglés, italiano, francés
+    - Alemán (lengua materna)
+    - Interés en finlandés y ruso
+    
+    🏖️ Tiempo libre:
+    - 2 días de cada 7 (no necesariamente fines de semana)
+    - Lugar conveniente para viajar dentro de Suiza
+    - Tiempo de sobra
+    - Natación, paseos, senderismo
+    
+    🍽️ Incluye:
+    - Desayuno preparado juntos
+    - Ambiente familiar
+    
+    🎯 Perfil ideal:
+    - Interesados en jardinería
+    - Habilidades en costura (ideal)
+    - Dispuestos a trabajar independientemente
+    - Aprecian el tiempo libre
+    
+    Perfecto para personas con habilidades variadas que buscan flexibilidad y tiempo para explorar.`,
+    imagen: "https://images.pexels.com/photos/33898255/pexels-photo-33898255.jpeg",
+    sitioWeb: "https://www.helpx.net/host/317620CF",
+    pais: "Suiza",
+    duracion: "Temporal (May-Oct)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/1105391/pexels-photo-1105391.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 94,
+    categoria: "Voluntariado",
+    titulo: "🐕 Casa con perra - Courtelary, Suiza",
+    descripcion: `Únete a una persona en Courtelary para organizar casa y jardín, y cuidar de su perra de 5 años. Una experiencia perfecta para personas independientes que buscan privacidad.
+
+    📍 Ubicación: Courtelary, Suiza
+    🏠 Alojamiento: Casa con jardín
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Estancia mínima: 2-3 semanas
+    🐕 Características: Cuidado de perra de 5 años
+    
+    👨‍💼 Sobre el anfitrión:
+    - Busca ayuda para organizar casa y jardín
+    - Perra de 5 años que necesita cuidado
+    - Habla francés, inglés y alemán
+    - Vivió en pequeño pueblo en el campo
+    - Acostumbrado a viajar y recibir ayuda mundial
+    
+    🌱 Actividades principales:
+    - Organizar casa y jardín
+    - Cuidar de la perra
+    - Tareas de organización
+    - Mantenimiento general
+    - Trabajo independiente
+    
+    🏞️ Ubicación privilegiada:
+    - Pequeño pueblo en el campo
+    - Muchos lugares hermosos para descubrir
+    - Muchas actividades deportivas
+    - Conexiones en tren fáciles a cualquier lugar
+    
+    🚂 Transporte:
+    - Conexiones en tren fáciles
+    - Acceso a cualquier lugar
+    - Desde temprano por la mañana hasta tarde por la noche
+    
+    🏠 Alojamiento:
+    - Habitación con baño
+    - Casa con jardín
+    - Privacidad
+    - Ambiente independiente
+    
+    🎯 Perfil ideal:
+    - Independientes
+    - Les gusta organizar
+    - Dispuestos a cuidar perros
+    - Aprecian la privacidad
+    - Buscan trabajo independiente
+    
+    Perfecto para personas independientes que buscan privacidad y disfrutan cuidar animales.`,
+    imagen: "https://images.pexels.com/photos/33939739/pexels-photo-33939739.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2099500EU",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/5942742/pexels-photo-5942742.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 95,
+    categoria: "Voluntariado",
+    titulo: "🔨 Renovación de granja antigua - Attalens, Suiza",
+    descripcion: `Únete a la renovación de una antigua granja en Attalens, cerca de Vevey y Lausana. Una experiencia perfecta para personas con experiencia en construcción y reformas.
+
+    📍 Ubicación: Attalens, Suiza (15 min de Vevey, 25 min de Lausana)
+    🏠 Alojamiento: Habitación en piso en renovación
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Disponibilidad: Julio y principios de agosto
+    🔨 Características: Renovación con materiales reciclados
+    
+    🏗️ Proyecto de renovación:
+    - Antigua granja en pequeño pueblo
+    - Máximo de materiales reciclados
+    - Autoconstrucción con aplicación
+    - Muchos acabados por hacer
+    - Carpintería y limpieza/cambio de sitio
+    
+    🌱 Actividades principales:
+    - Trabajos de reforma y construcción
+    - Cuidado de mascotas (perro, gatos, caballos)
+    - Limpieza y orden
+    - Carpintería
+    - Trabajos de acabado
+    
+    🏠 Alojamiento:
+    - Habitación en piso en renovación
+    - Comida (vegetarianos bienvenidos)
+    - Bebidas
+    - Wifi
+    
+    🎭 Actividades especiales:
+    - Curso de teatro
+    - Montar a caballo (1-2 veces)
+    - Experiencias culturales
+    
+    🏖️ Tiempo libre:
+    - Organización de tiempo para visitar
+    - Muchas cosas que ver en la región
+    - Lago Genève cercano
+    - Actividades turísticas
+    
+    🎯 Perfil ideal:
+    - Experiencia en reformas
+    - Habilidades en carpintería o construcción
+    - Motivación y creatividad
+    - Interesados en materiales reciclados
+    
+    Perfecto para personas con experiencia en construcción que buscan un proyecto de renovación único.`,
+    imagen: "https://images.pexels.com/photos/6619445/pexels-photo-6619445.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2299170SN",
+    pais: "Suiza",
+    duracion: "Temporal (Jul-Ago)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/17542939/pexels-photo-17542939.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 96,
+    categoria: "Voluntariado",
+    titulo: "🏙️ Apartamento en Zúrich - Zúrich, Suiza",
+    descripcion: `Únete a una experiencia urbana en un apartamento encantador y minimalista en Zúrich. Una oportunidad perfecta para quienes buscan una experiencia urbana con naturaleza.
+
+    📍 Ubicación: Zúrich, Suiza
+    🏠 Alojamiento: Apartamento encantador y minimalista
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Disponibilidad: 17-23 de julio de 2025
+    🏙️ Características: 10 minutos en tranvía o bicicleta de estación de tren
+    
+    🏠 Sobre el alojamiento:
+    - Apartamento encantador y minimalista
+    - Compartido con compañero de piso y gato amigable
+    - 10 minutos en tranvía o bicicleta de Stadelhofen
+    - Perfecto para experiencia urbana con naturaleza
+    
+    🌱 Actividades principales:
+    - Cuidar del gato
+    - Limpiar el apartamento
+    - Jardinería (jardín salvaje)
+    - Mantenimiento del jardín
+    - Tareas del hogar
+    
+    🌳 Jardín comunitario:
+    - Pequeño jardín en ubicación preciosa
+    - Colina cerca de bosque
+    - Jardines comunitarios locales
+    - Jardín bastante salvaje (necesita ayuda)
+    
+    🏖️ Tiempo libre:
+    - Relajarse en el jardín
+    - Nadar en el lago
+    - Disfrutar oferta cultural de Zúrich
+    - Explorar la ciudad
+    
+    ⏰ Compromiso:
+    - 4 horas de ayuda al día por huésped
+    - Tiempo libre para actividades personales
+    - Flexibilidad en horarios
+    
+    🎯 Perfil ideal:
+    - Interesados en experiencia urbana
+    - Amantes de la naturaleza
+    - Dispuestos a cuidar gatos
+    - Aprecian la cultura urbana
+    
+    Perfecto para personas que buscan una experiencia urbana única con acceso a naturaleza.`,
+    imagen: "https://images.pexels.com/photos/1918291/pexels-photo-1918291.jpeg",
+    sitioWeb: "https://www.helpx.net/host/O0QNZ8AVG",
+    pais: "Suiza",
+    duracion: "Temporal (Abr-Nov)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 97,
+    categoria: "Voluntariado",
+    titulo: "🌱 Huertos de pareja jubilada - Valais, Varen, Suiza",
+    descripcion: `Únete a Thomas y Heidi, una pareja jubilada anticipadamente con muchos huertos en Valais, Varen. Una experiencia perfecta para amantes de la agricultura y vida autosostenible.
+
+    📍 Ubicación: Valais, Varen, Suiza
+    🏠 Alojamiento: Casa de pareja jubilada
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Disponibilidad: Octubre 2025 (Agosto ya reservado)
+    🌱 Características: Muchos huertos, vida autosostenible
+    
+    👨‍👩‍💼 Sobre los anfitriones:
+    - Pareja jubilada anticipadamente
+    - Thomas tiene muchos huertos
+    - Buscan ayudantes para octubre 2025
+    - Estancia mínima de 3 semanas
+    - Enfoque en vida autosostenible
+    
+    🌱 Actividades por temporada:
+    - Primavera: sembrar o plantar verduras, regar, desherbar
+    - Verano y otoño: cosechar, conservar y comer frutas y verduras
+    - Cuidar huertos
+    - Preparar y cocinar comidas
+    - Limpiar y mantener la casa
+    
+    🐔 Cuidado de animales:
+    - Gallinas que alimentar y cuidar
+    - Trabajo con animales de granja
+    - Experiencia en cuidado animal
+    
+    🌱 Cultivos específicos:
+    - Abril y mayo: judías, colirrábanos, tomates, pimientos, coles
+    - Variedad de verduras y frutas
+    - Enfoque en producción propia
+    
+    🏔️ Ubicación:
+    - Alpes suizos
+    - Ambiente rural
+    - Vida autosostenible
+    - Producción de la mayor parte de sus alimentos
+    
+    🎯 Perfil ideal:
+    - Interesados en agricultura
+    - Dispuestos a estancia mínima de 3 semanas
+    - Aprecian la vida autosostenible
+    - Experiencia en cuidado de animales
+    
+    Perfecto para personas interesadas en agricultura y vida autosostenible en los Alpes.`,
+    imagen: "https://images.pexels.com/photos/33900786/pexels-photo-33900786.jpeg",
+    sitioWeb: "https://www.helpx.net/host/WZD1SR55A",
+    pais: "Suiza",
+    duracion: "Temporal (Abr-Oct)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/33950843/pexels-photo-33950843.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 98,
+    categoria: "Voluntariado",
+    titulo: "🍇 Viñedos y permacultura - Montreux, Bex, Suiza",
+    descripcion: `Únete a una casa rural autónoma de 1880 en Bex, en los viñedos de las regiones del Valais y Vaud. Una experiencia perfecta para amantes del vino y la permacultura.
+
+    📍 Ubicación: Montreux, Bex, Suiza
+    🏠 Alojamiento: Casa rural autónoma de 1880
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Estancia mínima: 2-3 semanas
+    🍇 Características: 1.5 hectáreas de viñedos y horticultura en permacultura
+    
+    🏠 Sobre el lugar:
+    - Casa rural autónoma de 1880
+    - Viñedos de las regiones del Valais y Vaud
+    - 20 km del lago Lemán y Montreux
+    - Junto a baños termales de Lavey-les-Bains
+    - 1.5 hectáreas de viñedos y horticultura
+    
+    🌱 Actividades principales:
+    - Trabajo en viñedos
+    - Huerto forestal en construcción
+    - Trabajo en bodegas
+    - Cocina
+    - Huerto
+    - Recolección de plantas silvestres
+    
+    🎓 Formación:
+    - Cursos de formación en permacultura
+    - Aprendizaje sobre viticultura
+    - Técnicas de horticultura sostenible
+    - Conocimiento sobre plantas silvestres
+    
+    🏔️ Ubicación privilegiada:
+    - Cerca de Villars-sur-Ollon
+    - Cerca de Verbier
+    - Excelentes oportunidades para esquiar
+    - Escalada
+    - Baños termales cercanos
+    
+    🗣️ Idioma:
+    - Hablan francés
+    - Ambiente francófono
+    
+    🎯 Perfil ideal:
+    - Interesados en vino y permacultura
+    - Dispuestos a estancia mínima de 2-3 semanas
+    - Aprecian la formación
+    - Interesados en actividades de montaña
+    
+    Perfecto para personas interesadas en viticultura, permacultura y actividades de montaña.`,
+    imagen: "https://images.pexels.com/photos/14374229/pexels-photo-14374229.jpeg ",
+    sitioWeb: "https://www.helpx.net/host/723673VZ",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/16550561/pexels-photo-16550561.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 99,
+    categoria: "Voluntariado",
+    titulo: "🏗️ Renovación de casa de piedra - Erde, Suiza",
+    descripcion: `Únete a la renovación de una vieja casa de piedra en las montañas de Erde, Suiza. Una experiencia perfecta para personas calificadas con experiencia en construcción.
+
+    📍 Ubicación: Erde, Suiza (cerca de Sion, Valais)
+    🏠 Alojamiento: Casa de piedra en montañas (1100m)
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Disponibilidad: Marzo a noviembre
+    🏗️ Características: Renovación con materiales reciclados y autoconstrucción
+    
+    🏔️ Ubicación:
+    - Casa de piedra en montañas (1100m)
+    - Cerca de Sion, Valais
+    - Ambiente rústico de obra
+    - Electricidad solar
+    - Agua de río
+    - Baños secos turcos a cielo abierto
+    
+    🏠 Alojamiento:
+    - Chambre privée (habitación privada)
+    - Wifi disponible
+    - Ambiente rústico
+    - Instalaciones básicas
+    
+    🍽️ Alimentación:
+    - Principalmente frutas y legumbres crudas
+    - Cocinan poco pero están bien equipados
+    - Enfoque en alimentación natural
+    
+    ⚠️ Requisitos importantes:
+    - Solo personas calificadas o con mucha experiencia
+    - No hay trabajos fáciles y comprensivos
+    - Seguro de accidentes requerido
+    - Compromiso serio
+    
+    🌱 Actividades principales:
+    - Renovación de casa de piedra
+    - Trabajo con materiales reciclados
+    - Autoconstrucción
+    - Trabajos de construcción
+    - Mantenimiento general
+    
+    🎯 Perfil ideal:
+    - Calificados o con mucha experiencia
+    - Dispuestos a trabajo duro
+    - Interesados en construcción sostenible
+    - Con seguro de accidentes
+    
+    Perfecto para personas experimentadas en construcción que buscan un proyecto de renovación sostenible.`,
+    imagen: "https://images.pexels.com/photos/33883203/pexels-photo-33883203.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2253060YV",
+    pais: "Suiza",
+    duracion: "Temporal (Mar-Nov)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/33897772/pexels-photo-33897772.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 100,
+    categoria: "Voluntariado",
+    titulo: "👶 Cuidado de niños - Varen, Suiza",
+    descripcion: `Únete a una familia en Varen para cuidar de sus hijos Sam (6) y Tristan (3 años). Una experiencia perfecta para personas que disfrutan cuidar niños y actividades de montaña.
+
+    📍 Ubicación: Varen, Suiza
+    🏠 Alojamiento: Casa con jardín en centro de Varen
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Estancia mínima: 1 mes
+    📅 Disponibilidad: Agosto o septiembre
+    👶 Características: Cuidado de niños independientes
+    
+    👨‍👩‍👧‍👦 Sobre la familia:
+    - Familia que vive en casa con jardín
+    - Los mayores van al colegio todo el día
+    - Muy independientes
+    - Trabajan en turismo
+    - Les gusta conocer gente de diferentes países
+    
+    👶 Cuidado de niños:
+    - Sam (6 años) y Tristan (3 años)
+    - Preparar almuerzo sencillo los dos días que trabajan
+    - Los niños hablan alemán, holandés e inglés
+    - Cuidado durante el día
+    
+    🏔️ Actividades recreativas:
+    - Zona muy turística
+    - Verano: senderismo
+    - Invierno: esquí
+    - Peter va a Crans-Montana por trabajo
+    - Puedes ir gratis con él para esquiar y hacer senderismo
+    - Baños termales de Leukerbad cerca
+    
+    🎯 Perfil ideal:
+    - Dispuestos a cuidar niños
+    - Interesados en actividades de montaña
+    - Estancia mínima de 1 mes
+    - Aprecian la diversidad cultural
+    
+    Perfecto para personas que disfrutan cuidar niños y buscan actividades de montaña en Suiza.`,
+    imagen: "https://images.pexels.com/photos/6974740/pexels-photo-6974740.jpeg",
+    sitioWeb: "https://www.helpx.net/host/TUOM19YAI",
+    pais: "Suiza",
+    duracion: "Temporal (Ene-Abr, Ago-Sep)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/6969723/pexels-photo-6969723.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 101,
+    categoria: "Voluntariado",
+    titulo: "📸 Fotografía y cocina - Varen, Suiza",
+    descripcion: `Únete a Valentin en su casa en la zona montañosa de Wallis para trabajar en fotografía y cocina. Una experiencia perfecta para fotógrafos y amantes de la cocina.
+
+    📍 Ubicación: Varen, Suiza (zona montañosa de Wallis)
+    🏠 Alojamiento: Casa encantadora con jardín
+    👥 Capacidad: 1 o 2 personas
+    🏔️ Características: Pueblo vinícola tradicional del valle principal
+    📸 Enfoque: Habilidades fotográficas y culinarias
+    
+    👨‍💼 Sobre Valentin:
+    - Vive en zona montañosa de Wallis
+    - Casa encantadora con jardín
+    - Pueblo vinícola tradicional
+    - Le encanta viajar y estar en contacto con la naturaleza
+    - Carácter abierto y acogedor
+    - Disfruta conectando e intercambiando con la gente
+    
+    📸 Actividades principales:
+    - Tareas de proyecto con experiencia en fotografía
+    - Videografía
+    - Cocinar y preparar comidas diarias (solo cenas)
+    - Mantener la casa limpia
+    - Apoyo en negocio que requiere mucho tiempo
+    
+    🏠 Alojamiento:
+    - Habitación cómoda
+    - Balcón con vista impresionante del valle
+    - Comidas diarias
+    - Estancia interesante
+    
+    🎯 Requisitos:
+    - Excelentes habilidades fotográficas (productos y personas)
+    - Experiencia profesional en fotografía o videografía
+    - Habilidades culinarias
+    - Interés en intercambio cultural
+    
+    🏔️ Ubicación privilegiada:
+    - Zona montañosa de Wallis
+    - Pueblo vinícola tradicional
+    - Vista impresionante del valle
+    - Ambiente rural auténtico
+    
+    Perfecto para fotógrafos profesionales que buscan una experiencia única en los Alpes suizos.`,
+    imagen: "https://images.pexels.com/photos/1168672/pexels-photo-1168672.jpeg",
+    sitioWeb: "https://www.helpx.net/host/C2BVU4NMA",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/763268/pexels-photo-763268.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 102,
+    categoria: "Voluntariado",
+    titulo: "👨‍👩‍👧‍👦 Familia con cuatro hijos - Brot-Plamboz, Suiza",
+    descripcion: `Únete a una familia con cuatro hijos en Brot-Plamboz, Suiza. Una experiencia perfecta para personas manitas que disfrutan cocinar y cuidar niños.
+
+    📍 Ubicación: Brot-Plamboz, Suiza
+    🏠 Alojamiento: Antigua granja con un solo vecino
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Disponibilidad: Solo de abril a octubre
+    👨‍👩‍👧‍👦 Características: Familia con tres niñas y un niño pequeño
+    
+    👨‍👩‍👧‍👦 La familia:
+    - Tres niñas (nacidas en 2009, 2011 y 2013)
+    - Un niño pequeño (nacido en 2016)
+    - Tres gatos y gatitos
+    - Tres gallinas
+    - Ambiente familiar acogedor
+    
+    🏠 Ubicación:
+    - Antigua granja con un solo vecino
+    - Campo entre La Chaux-de-Fonds y Neuchâtel
+    - 20 minutos en coche de ambas ciudades
+    - Zona muy tranquila de Suiza
+    - Mucha naturaleza
+    
+    🌱 Actividades principales:
+    - Habilidades de construcción (sencillas a avanzadas)
+    - Cocinar y cuidar de los hijos
+    - Hacer pan en horno de leña
+    - Trabajos variados según habilidades
+    - Mantenimiento de granja
+    
+    🗣️ Idiomas:
+    - Francés, inglés y alemán
+    - Ambiente multilingüe
+    
+    🎭 Actividades especiales:
+    - Danza del fuego (poi y bastón)
+    - Tambores africanos (cuando hay vecinos fuera)
+    - Malabarismos (principiantes bienvenidos)
+    - Actividades creativas
+    
+    🍽️ Alimentación:
+    - No son vegetarianos pero no comen carne a diario
+    - Cocinan principalmente alimentos orgánicos
+    - Fumar permitido pero no dentro
+    
+    🎯 Perfil ideal:
+    - Personas manitas
+    - Saben cocinar
+    - Dispuestos a cuidar niños
+    - Habilidades de construcción
+    - Interesados en actividades creativas
+    
+    Perfecto para personas manitas que disfrutan la vida familiar y las actividades creativas.`,
+    imagen: "https://images.pexels.com/photos/33472506/pexels-photo-33472506.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2236362BT",
+    pais: "Suiza",
+    duracion: "Temporal (Abr-Oct)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/14110417/pexels-photo-14110417.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 103,
+    categoria: "Voluntariado",
+    titulo: "🏨 Pequeño hotel familiar - Oberems, Suiza",
+    descripcion: `Únete a un pequeño hotel familiar en las montañas del Parque Natural de Pfyn-Finges. Una experiencia perfecta para quienes buscan un ambiente tranquilo y relajante.
+
+    📍 Ubicación: Oberems, Suiza (Parque Natural de Pfyn-Finges)
+    🏠 Alojamiento: Pequeño hotel familiar
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Disponibilidad: Febrero a noviembre
+    🏔️ Características: Corazón del Valais, vistas a Alpes del Norte
+    
+    🏨 Sobre el hotel:
+    - Pequeño hotel familiar
+    - Montañas del Parque Natural de Pfyn-Finges
+    - Corazón del Valais
+    - Ubicación tranquila y relajante
+    - Vistas impresionantes a Alpes del Norte del valle del Ródano
+    
+    🌱 Actividades principales:
+    - Desherbar
+    - Cortar leña
+    - Limpiar la casa
+    - Ayudar a cocinar
+    - Trabajos variados (nada demasiado difícil)
+    
+    ⏰ Compromiso:
+    - 5 horas al día
+    - 5 días a la semana
+    - 2 días libres (excepto fines de semana)
+    - Alojamiento y comida gratuitos
+    
+    🗣️ Idiomas:
+    - Alemán y francés
+    - Un poco de inglés e italiano
+    
+    🏔️ Ubicación privilegiada:
+    - Parque Natural de Pfyn-Finges
+    - Corazón del Valais
+    - Vistas a Alpes del Norte
+    - Valle del Ródano
+    - Zona encantadora para caminar y relajarse
+    
+    🎯 Perfil ideal:
+    - Interesados en ambiente tranquilo
+    - Dispuestos a trabajo ligero
+    - Aprecian la naturaleza
+    - Buscan relajación
+    
+    Perfecto para personas que buscan un ambiente tranquilo en las montañas suizas.`,
+    imagen: "https://images.pexels.com/photos/19820070/pexels-photo-19820070.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1562424GS",
+    pais: "Suiza",
+    duracion: "Temporal (Feb-Nov)",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/5210151/pexels-photo-5210151.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 104,
+    categoria: "Voluntariado",
+    titulo: "🍄 Granja de hongos gourmet - Pompaples, Suiza",
+    descripcion: `Únete a Floyd en su granja interior de hongos gourmet y medicinales en Pompaples. Una experiencia perfecta para amantes de la micología y la agricultura sostenible.
+
+    📍 Ubicación: Pompaples, Suiza
+    🏠 Alojamiento: Casa grande del siglo XVIII
+    👥 Capacidad: 1 o 2 personas
+    🍄 Características: Granja interior de hongos gourmet y medicinales
+    🏗️ Ubicación: Antiguo aserradero detrás de zona de molinos
+    
+    👨‍💼 Sobre Floyd:
+    - Construyó granja desde cero
+    - Granja interior de hongos gourmet y medicinales
+    - Lo hace todo solo
+    - Comparte conocimientos sobre hongos
+    - Habla francés e inglés con fluidez
+    - Bastante bien español, algo de italiano
+    - Conocimientos básicos de japonés y chino
+    
+    🍄 Actividades principales:
+    - Cultivar hongos
+    - Construir y gestionar la granja
+    - Vender en mercados agrícolas
+    - Trabajos de construcción
+    - Mantenimiento de granja
+    - Aprendizaje sobre micología
+    
+    🏠 Ubicación:
+    - Antiguo aserradero
+    - Detrás de antigua zona de molinos
+    - Zona fresca y tranquila
+    - Rodeada de vegetación
+    - Tres pueblos a menos de 1 km en cada dirección
+    
+    🎓 Conocimientos compartidos:
+    - Hongos y su cultivo
+    - Biología
+    - Técnicas de cultivo
+    - Muchas otras cosas
+    - Intercambio de conocimientos
+    
+    🏠 Alojamiento:
+    - Casa grande del siglo XVIII
+    - Propiedad de tía y su mascota
+    - Pocos kilómetros de la granja
+    - Habitación libre disponible
+    
+    🎯 Perfil ideal:
+    - Interesados en micología
+    - Dispuestos a aprender
+    - Aprecian el intercambio de conocimientos
+    - Interesados en agricultura sostenible
+    
+    Perfecto para personas interesadas en micología y agricultura sostenible que buscan aprender.`,
+    imagen: "https://images.pexels.com/photos/28930878/pexels-photo-28930878.jpeg",
+    sitioWeb: "https://www.helpx.net/host/XWKZFLKKI",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/2478421/pexels-photo-2478421.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 105,
+    categoria: "Voluntariado",
+    titulo: "🐴 Granja ecológica con caballos - L, Suiza",
+    descripcion: `Únete a una pequeña granja ecológica en Suiza con 4 caballos, 10 gallinas y gatos callejeros. Una experiencia perfecta para amantes de los animales y la agricultura sostenible.
+
+    📍 Ubicación: L, Suiza
+    🏠 Alojamiento: Pequeña granja ecológica
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Máximo 4 horas al día
+    🐴 Características: 4 caballos, 10 gallinas, gatos callejeros
+    
+    👨‍👩‍👧‍👦 La familia:
+    - Matt, Inky y niños (10 y 13 años)
+    - Familia acogedora
+    - Ambiente familiar
+    
+    🐴 Animales de la granja:
+    - 4 caballos
+    - 10 gallinas
+    - Gatos callejeros que encontraron hogar
+    - Ambiente animal acogedor
+    
+    🌱 Actividades principales:
+    - Establos/cuidado de caballos
+    - Cercado
+    - Jardinería
+    - Carpintería
+    - Cocina
+    - Limpieza
+    - Cultivo de alimentos propios
+    
+    🏔️ Ubicación privilegiada:
+    - Al pie del Jura
+    - Rodeados de bosque y naturaleza
+    - Junto a impresionante desfiladero
+    - 40 minutos a pie del lago de Biel
+    
+    🚴‍♂️ Actividades recreativas:
+    - Paseos por el bosque
+    - Rutas en bicicleta (algunos descensos intensos)
+    - Relajarse en la granja
+    - Admirar paisaje de Alpes suizos
+    - Actividades al aire libre
+    
+    🍽️ Incluye:
+    - Alojamiento agradable
+    - Amplio espacio
+    - Comida vegetariana ecológica casera
+    - Ambiente familiar
+    
+    🎯 Perfil ideal:
+    - Amantes de los animales
+    - Interesados en agricultura sostenible
+    - Dispuestos a trabajar máximo 4 horas al día
+    - Aprecian la tranquilidad
+    - Buscan lugar tranquilo para trabajar
+    
+    Perfecto para personas que aman los animales y buscan un lugar tranquilo para trabajar en agricultura sostenible.`,
+    imagen: "https://images.pexels.com/photos/7883324/pexels-photo-7883324.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1677783QW",
+    pais: "Suiza",
+    duracion: "Todo el año",
+    fechaLimite: "2025-12-31",
+    imagenes: ["https://images.pexels.com/photos/37983/pexels-photo-37983.jpeg"],
     videos: [
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
