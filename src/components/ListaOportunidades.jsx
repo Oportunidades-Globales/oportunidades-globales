@@ -1,9 +1,12 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import OportunidadCard from './OportunidadCard';
 import GoogleAds from './GoogleAds';
 import { oportunidades } from '../data/oportunidades';
 
 const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
+  const [oportunidadesMostradas, setOportunidadesMostradas] = useState(51);
+  const OPPORTUNIDADES_POR_CARGA = 50;
+
   // Filtrar oportunidades según categoría y búsqueda
   const oportunidadesFiltradas = React.useMemo(() => {
     return oportunidades.filter(oportunidad => {
@@ -20,6 +23,24 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
       return coincideCategoria && coincideBusqueda;
     });
   }, [categoriaActiva, busqueda]);
+
+  // Obtener solo las oportunidades que se deben mostrar
+  const oportunidadesParaMostrar = React.useMemo(() => {
+    return oportunidadesFiltradas.slice(0, oportunidadesMostradas);
+  }, [oportunidadesFiltradas, oportunidadesMostradas]);
+
+  // Resetear el contador cuando cambian los filtros
+  useEffect(() => {
+    setOportunidadesMostradas(51);
+  }, [categoriaActiva, busqueda]);
+
+  // Función para cargar más oportunidades
+  const cargarMasOportunidades = () => {
+    setOportunidadesMostradas(prev => Math.min(prev + OPPORTUNIDADES_POR_CARGA, oportunidadesFiltradas.length));
+  };
+
+  // Verificar si hay más oportunidades para cargar
+  const hayMasOportunidades = oportunidadesMostradas < oportunidadesFiltradas.length;
 
   // Restaurar posición de scroll cuando se regresa desde una oportunidad
   useEffect(() => {
@@ -67,6 +88,14 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
     return mensaje;
   };
 
+  // Generar mensaje de progreso de carga
+  const getMensajeProgreso = () => {
+    if (oportunidadesMostradas >= oportunidadesFiltradas.length) {
+      return `Mostrando todas las ${oportunidadesFiltradas.length} oportunidades`;
+    }
+    return `Mostrando ${oportunidadesMostradas} de ${oportunidadesFiltradas.length} oportunidades`;
+  };
+
   return (
     <section id="oportunidades" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -88,7 +117,7 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
 
         {/* Grid de oportunidades */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {oportunidadesFiltradas.map((oportunidad) => (
+          {oportunidadesParaMostrar.map((oportunidad) => (
             <OportunidadCard 
               key={oportunidad.id} 
               oportunidad={oportunidad} 
@@ -96,12 +125,38 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
           ))}
         </div>
 
-        {/* Información adicional */}
-        <div className="mt-12 text-center">
-          <p className="text-sm text-gray-500">
-            Mostrando {oportunidadesFiltradas.length} de {oportunidades.length} oportunidades disponibles
-          </p>
-        </div>
+        {/* Botón cargar más oportunidades */}
+        {hayMasOportunidades && (
+          <div className="mt-12 text-center">
+            <button
+              onClick={cargarMasOportunidades}
+              className="inline-flex items-center px-8 py-4 bg-primary-600 text-white font-semibold rounded-xl hover:bg-primary-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+            >
+              <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+              Cargar más oportunidades
+            </button>
+            <p className="mt-4 text-sm text-gray-500">
+              {getMensajeProgreso()}
+            </p>
+          </div>
+        )}
+
+        {/* Información adicional cuando se muestran todas */}
+        {!hayMasOportunidades && oportunidadesFiltradas.length > 0 && (
+          <div className="mt-12 text-center">
+            <div className="inline-flex items-center px-6 py-3 bg-green-100 text-green-800 rounded-lg">
+              <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+              </svg>
+              ¡Has visto todas las oportunidades disponibles!
+            </div>
+            <p className="mt-4 text-sm text-gray-500">
+              {getMensajeProgreso()}
+            </p>
+          </div>
+        )}
       </div>
     </section>
   );

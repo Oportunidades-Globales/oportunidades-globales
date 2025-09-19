@@ -6,10 +6,11 @@ const Cookies = () => {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Header con navegación */}
-      <div className="bg-white shadow-sm border-b">
+      {/* Header con navegación - fijo en la parte superior */}
+      <div className="fixed top-0 left-0 right-0 bg-white shadow-sm border-b z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex items-center justify-between">
+            {/* Botón de navegación a la izquierda */}
             <button 
               onClick={() => navigate('/')}
               className="flex items-center text-gray-600 hover:text-gray-900 transition-colors"
@@ -17,11 +18,44 @@ const Cookies = () => {
               <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
-              Volver al Inicio
+              <span className="hidden sm:inline">Volver al Inicio</span>
+              <span className="sm:hidden">Volver</span>
             </button>
+
+            {/* En móvil: Logo y branding a la derecha */}
+            <button 
+              onClick={() => navigate('/')}
+              className="flex sm:hidden items-center space-x-2 hover:opacity-80 transition-opacity"
+            >
+              <img 
+                src="/logo2.png" 
+                alt="Oportunidades Globales" 
+                className="w-8 h-8 rounded-lg"
+              />
+              <h1 className="text-lg font-bold text-gray-900">Oportunidades Globales</h1>
+            </button>
+
+            {/* En desktop: Logo centrado y clickeable */}
+            <button 
+              onClick={() => navigate('/')}
+              className="hidden sm:flex items-center space-x-3 hover:opacity-80 transition-opacity"
+            >
+              <img 
+                src="/logo2.png" 
+                alt="Oportunidades Globales" 
+                className="w-12 h-12 rounded-lg"
+              />
+              <h1 className="text-xl font-bold text-gray-900">Oportunidades Globales</h1>
+            </button>
+
+            {/* En desktop: Espacio vacío para balancear el layout */}
+            <div className="hidden sm:block w-32"></div>
           </div>
         </div>
       </div>
+
+      {/* Espacio para compensar el header fijo */}
+      <div className="h-20"></div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Título principal */}

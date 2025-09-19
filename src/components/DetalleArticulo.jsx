@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import GoogleAds from './GoogleAds';
 
@@ -101,7 +101,7 @@ const DetalleArticulo = () => {
         <h2>Conclusión</h2>
         <p>Evitar estos errores puede aumentar significativamente tus posibilidades de admisión. Recuerda que cada aplicación debe ser única y reflejar tu verdadero potencial académico y personal.</p>
         
-        <p>La clave del éxito está en la preparación temprana, la investigación exhaustiva y la autenticidad. No intentes ser alguien que no eres, pero sí muestra lo mejor de ti de manera estratégica.</p>
+        <p>La clave del éxito está en la preparación temprana, la inve  stigación exhaustiva y la autenticidad. No intentes ser alguien que no eres, pero sí muestra lo mejor de ti de manera estratégica.</p>
       `
     },
     2: {
@@ -1481,12 +1481,56 @@ const DetalleArticulo = () => {
     // Agregar más artículos según sea necesario
   };
 
+  // Obtener el artículo actual y los artículos anterior/siguiente
   const articulo = articulos[id];
+  const articuloIds = Object.keys(articulos).map(Number).sort((a, b) => a - b);
+  const indiceActual = articuloIds.indexOf(parseInt(id));
+  
+  const articuloAnterior = indiceActual > 0 ? articulos[articuloIds[indiceActual - 1]] : null;
+  const articuloSiguiente = indiceActual < articuloIds.length - 1 ? articulos[articuloIds[indiceActual + 1]] : null;
+
+  // Función para navegar entre artículos
+  const navegarAArticulo = (articulo) => {
+    if (articulo) {
+      navigate(`/articulo/${articulo.id}`);
+    }
+  };
+
+  // Navegación con teclado
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      switch (e.key) {
+        case 'ArrowLeft':
+          if (articuloAnterior) {
+            navegarAArticulo(articuloAnterior);
+          }
+          break;
+        case 'ArrowRight':
+          if (articuloSiguiente) {
+            navegarAArticulo(articuloSiguiente);
+          }
+          break;
+        default:
+          break;
+      }
+    };
+
+    document.addEventListener('keydown', handleKeyDown);
+
+    return () => {
+      document.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [articuloAnterior, articuloSiguiente]);
 
   // Estilos CSS personalizados para mejorar la legibilidad
   useEffect(() => {
     const style = document.createElement('style');
     style.textContent = `
+      /* Prevenir overflow horizontal */
+      body, html {
+        overflow-x: hidden;
+      }
+      
       /* Estilos base para contenido de artículos */
       .article-content {
         max-width: 680px;
@@ -1646,45 +1690,93 @@ const DetalleArticulo = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      {/* Header */}
-      <div className="bg-white shadow-sm border-b">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-            <button
+    <div className="min-h-screen bg-gray-50 overflow-x-hidden">
+      {/* Header con navegación - fijo en la parte superior */}
+      <div className="fixed top-0 left-0 right-0 bg-white shadow-sm border-b z-50 overflow-x-hidden">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+          <div className="flex items-center justify-between space-x-4">
+            {/* Botón de navegación a la izquierda */}
+            <button 
               onClick={() => navigate('/articulos')}
-              className="flex items-center text-gray-600 hover:text-gray-900 transition-colors mb-4"
+              className="flex items-center text-gray-600 hover:text-gray-900 transition-colors"
             >
               <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
-              Volver a Artículos
+              <span className="hidden sm:inline">Volver a Artículos</span>
+              <span className="sm:hidden">Volver</span>
             </button>
+
+            {/* Espacio vacío para balancear el layout */}
+            <div className="flex-1"></div>
+
+            {/* Navegación entre artículos a la derecha */}
+            <div className="flex items-center space-x-2 sm:space-x-4">
+              {articuloAnterior && (
+                <button
+                  onClick={() => navegarAArticulo(articuloAnterior)}
+                  className="flex items-center px-3 py-2 sm:px-4 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors group"
+                  title={`Anterior: ${articuloAnterior.titulo} (←)`}
+                >
+                  <svg className="w-4 h-4 sm:w-5 sm:h-5 mr-2 text-gray-600 group-hover:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                  <span className="text-sm font-medium text-gray-600 group-hover:text-gray-900">Anterior</span>
+                </button>
+              )}
+
+              {articuloSiguiente && (
+                <button
+                  onClick={() => navegarAArticulo(articuloSiguiente)}
+                  className="flex items-center px-3 py-2 sm:px-4 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors group"
+                  title={`Siguiente: ${articuloSiguiente.titulo} (→)`}
+                >
+                  <span className="text-sm font-medium text-gray-600 group-hover:text-gray-900">Siguiente</span>
+                  <svg className="w-4 h-4 sm:w-5 sm:h-5 ml-2 text-gray-600 group-hover:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              )}
+            </div>
+          </div>
         </div>
       </div>
 
-      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      {/* Espacio para compensar el header fijo */}
+      <div className="h-20"></div>
+
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 overflow-x-hidden">
         {/* Estructura estilo CNN */}
         <article className="bg-white rounded-2xl shadow-lg overflow-hidden">
           {/* Header del artículo */}
           <header className="px-8 py-6 border-b border-gray-100">
-            <div className="flex items-center justify-between mb-4">
-              <span className="inline-flex items-center px-4 py-2 rounded-full text-sm font-semibold bg-red-100 text-red-800">
+            {/* Categoría y metadatos */}
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
+              <span className="inline-flex items-center px-4 py-2 rounded-full text-sm font-semibold bg-red-100 text-red-800 w-fit">
                 {articulo.categoria}
               </span>
-              <div className="flex items-center space-x-4 text-sm text-gray-500">
-                <span className="flex items-center">
-                  <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              
+              {/* Metadatos del artículo */}
+              <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-6">
+                <div className="flex items-center text-sm text-gray-600">
+                  <svg className="w-4 h-4 mr-2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  {articulo.tiempoLectura}
-                </span>
-                <span>
-                  {new Date(articulo.fecha).toLocaleDateString('es-ES', { 
-                    year: 'numeric', 
-                    month: 'long', 
-                    day: 'numeric' 
-                  })}
-                </span>
+                  <span className="font-medium">Tiempo de lectura: {articulo.tiempoLectura}</span>
+                </div>
+                
+                <div className="flex items-center text-sm text-gray-600">
+                  <svg className="w-4 h-4 mr-2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                  </svg>
+                  <span className="font-medium">
+                    {new Date(articulo.fecha).toLocaleDateString('es-ES', { 
+                      year: 'numeric', 
+                      month: 'long', 
+                      day: 'numeric' 
+                    })}
+                  </span>
+                </div>
               </div>
             </div>
             
@@ -1744,62 +1836,62 @@ const DetalleArticulo = () => {
            */}
 
            {/* Recuadro de redes sociales */}
-           <div className="mt-8 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl shadow-lg p-6 text-white">
-             <h3 className="text-xl font-bold mb-3">¿Te interesa este artículo?</h3>
-             <p className="text-blue-100 mb-4">Mantente al día con los mejores artículos. Síguenos en nuestras redes sociales para contenido exclusivo.</p>
-             <div className="flex space-x-4">
+           <div className="mt-8 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl shadow-lg p-4 sm:p-6 text-white">
+             <h3 className="text-lg sm:text-xl font-bold mb-3">¿Te interesa este artículo?</h3>
+             <p className="text-blue-100 mb-4 text-sm sm:text-base">Mantente al día con los mejores artículos. Síguenos en nuestras redes sociales para contenido exclusivo.</p>
+             <div className="flex flex-wrap gap-2 sm:gap-4">
                <a 
                  href="https://facebook.com" 
                  target="_blank" 
                  rel="noopener noreferrer"
-                 className="flex items-center px-4 py-2 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm"
+                 className="flex items-center px-3 py-2 sm:px-4 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm flex-shrink-0"
                >
-                 <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                 <svg className="w-4 h-4 sm:w-5 sm:h-5 mr-1 sm:mr-2" fill="currentColor" viewBox="0 0 24 24">
                    <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
                  </svg>
-                 Facebook
+                 <span className="text-sm sm:text-base">Facebook</span>
                </a>
                <a 
                  href="https://instagram.com" 
                  target="_blank" 
                  rel="noopener noreferrer"
-                 className="flex items-center px-4 py-2 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm"
+                 className="flex items-center px-3 py-2 sm:px-4 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm flex-shrink-0"
                >
-                 <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                 <svg className="w-4 h-4 sm:w-5 sm:h-5 mr-1 sm:mr-2" fill="currentColor" viewBox="0 0 24 24">
                    <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 6.62 5.367 11.987 11.988 11.987s11.987-5.367 11.987-11.987C24.014 5.367 18.647.001 12.017.001zM8.449 16.988c-1.297 0-2.448-.49-3.323-1.297C4.198 14.895 3.708 13.744 3.708 12.447s.49-2.448 1.418-3.323c.875-.807 2.026-1.297 3.323-1.297s2.448.49 3.323 1.297c.928.875 1.418 2.026 1.418 3.323s-.49 2.448-1.418 3.244c-.875.807-2.026 1.297-3.323 1.297zm7.83-9.281H7.721c-.49 0-.875-.385-.875-.875s.385-.875.875-.875h8.558c.49 0 .875.385.875.875s-.385.875-.875.875z"/>
                  </svg>
-                 Instagram
+                 <span className="text-sm sm:text-base">Instagram</span>
                </a>
                <a 
                  href="https://tiktok.com" 
                  target="_blank" 
                  rel="noopener noreferrer"
-                 className="flex items-center px-4 py-2 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm"
+                 className="flex items-center px-3 py-2 sm:px-4 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm flex-shrink-0"
                >
-                 <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                 <svg className="w-4 h-4 sm:w-5 sm:h-5 mr-1 sm:mr-2" fill="currentColor" viewBox="0 0 24 24">
                    <path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/>
                  </svg>
-                 TikTok
+                 <span className="text-sm sm:text-base">TikTok</span>
                </a>
                <a 
                  href="https://youtube.com" 
                  target="_blank" 
                  rel="noopener noreferrer"
-                 className="flex items-center px-4 py-2 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm"
+                 className="flex items-center px-3 py-2 sm:px-4 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm flex-shrink-0"
                >
-                 <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                 <svg className="w-4 h-4 sm:w-5 sm:h-5 mr-1 sm:mr-2" fill="currentColor" viewBox="0 0 24 24">
                    <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
                  </svg>
-                 YouTube
+                 <span className="text-sm sm:text-base">YouTube</span>
                </a>
                <a 
                  href="mailto:contacto@ejemplo.com" 
-                 className="flex items-center px-4 py-2 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm"
+                 className="flex items-center px-3 py-2 sm:px-4 bg-white bg-opacity-20 rounded-lg hover:bg-opacity-30 transition-all duration-200 backdrop-blur-sm flex-shrink-0"
                >
-                 <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                 <svg className="w-4 h-4 sm:w-5 sm:h-5 mr-1 sm:mr-2" fill="currentColor" viewBox="0 0 24 24">
                    <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
                  </svg>
-                 Gmail
+                 <span className="text-sm sm:text-base">Gmail</span>
                </a>
              </div>
            </div>

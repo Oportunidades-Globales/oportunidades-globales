@@ -19,6 +19,13 @@ const DetalleOportunidad = () => {
 
   // Encontrar la oportunidad por ID
   const oportunidad = oportunidades.find(op => op.id === parseInt(id));
+  
+  // Encontrar el índice de la oportunidad actual
+  const indiceActual = oportunidades.findIndex(op => op.id === parseInt(id));
+  
+  // Obtener oportunidades anterior y siguiente
+  const oportunidadAnterior = indiceActual > 0 ? oportunidades[indiceActual - 1] : null;
+  const oportunidadSiguiente = indiceActual < oportunidades.length - 1 ? oportunidades[indiceActual + 1] : null;
 
   // Función para verificar si la oportunidad está vencida
   const isVencida = (dateString) => {
@@ -62,6 +69,13 @@ const DetalleOportunidad = () => {
     }
   };
 
+  // Funciones para navegación entre oportunidades
+  const navegarAOportunidad = (oportunidad) => {
+    if (oportunidad) {
+      navigate(`/oportunidad/${oportunidad.id}`);
+    }
+  };
+
   // Función para cerrar el modal
   const cerrarImagenModal = useCallback(() => {
     setImagenModal({ abierto: false, imagen: '', titulo: '', indiceActual: 0, imagenes: [] });
@@ -70,25 +84,41 @@ const DetalleOportunidad = () => {
   // Función para cerrar con tecla Escape y navegación con flechas
   useEffect(() => {
     const handleKeyDown = (e) => {
-      if (!imagenModal.abierto) return;
-      
-      switch (e.key) {
-        case 'Escape':
-          cerrarImagenModal();
-          break;
-        case 'ArrowLeft':
-          navegarImagen('anterior');
-          break;
-        case 'ArrowRight':
-          navegarImagen('siguiente');
-          break;
-        default:
-          break;
+      if (imagenModal.abierto) {
+        switch (e.key) {
+          case 'Escape':
+            cerrarImagenModal();
+            break;
+          case 'ArrowLeft':
+            navegarImagen('anterior');
+            break;
+          case 'ArrowRight':
+            navegarImagen('siguiente');
+            break;
+          default:
+            break;
+        }
+      } else {
+        // Navegación entre oportunidades con teclado
+        switch (e.key) {
+          case 'ArrowLeft':
+            if (oportunidadAnterior) {
+              navegarAOportunidad(oportunidadAnterior);
+            }
+            break;
+          case 'ArrowRight':
+            if (oportunidadSiguiente) {
+              navegarAOportunidad(oportunidadSiguiente);
+            }
+            break;
+          default:
+            break;
+        }
       }
     };
 
+    document.addEventListener('keydown', handleKeyDown);
     if (imagenModal.abierto) {
-      document.addEventListener('keydown', handleKeyDown);
       document.body.style.overflow = 'hidden'; // Prevenir scroll del body
     }
 
@@ -96,7 +126,7 @@ const DetalleOportunidad = () => {
       document.removeEventListener('keydown', handleKeyDown);
       document.body.style.overflow = 'unset'; // Restaurar scroll del body
     };
-  }, [imagenModal.abierto, cerrarImagenModal]);
+  }, [imagenModal.abierto, cerrarImagenModal, oportunidadAnterior, oportunidadSiguiente]);
 
   // Función para navegar entre imágenes
   const navegarImagen = useCallback((direccion) => {
@@ -162,10 +192,11 @@ const DetalleOportunidad = () => {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Header con navegación */}
-      <div className="bg-white shadow-sm border-b">
+      {/* Header con navegación - fijo en la parte superior */}
+      <div className="fixed top-0 left-0 right-0 bg-white shadow-sm border-b z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <div className="flex items-center justify-between">
+          {/* Layout responsive: botones al mismo nivel */}
+          <div className="flex items-center justify-between space-x-4">
             <button 
               onClick={handleVolverAOportunidades}
               className="flex items-center text-gray-600 hover:text-gray-900 transition-colors"
@@ -173,13 +204,46 @@ const DetalleOportunidad = () => {
               <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
-              Volver a Oportunidades
+              <span className="hidden sm:inline">Volver a Oportunidades</span>
+              <span className="sm:hidden">Volver</span>
             </button>
-            
 
+            {/* Navegación entre oportunidades */}
+            <div className="flex items-center space-x-2 sm:space-x-4">
+              {/* Flecha anterior */}
+              {oportunidadAnterior && (
+                <button
+                  onClick={() => navegarAOportunidad(oportunidadAnterior)}
+                  className="flex items-center px-3 py-2 sm:px-4 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors group"
+                  title={`Anterior: ${oportunidadAnterior.titulo} (←)`}
+                >
+                  <svg className="w-4 h-4 sm:w-5 sm:h-5 mr-2 text-gray-600 group-hover:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                  <span className="text-sm font-medium text-gray-600 group-hover:text-gray-900">Anterior</span>
+                </button>
+              )}
+
+              {/* Flecha siguiente */}
+              {oportunidadSiguiente && (
+                <button
+                  onClick={() => navegarAOportunidad(oportunidadSiguiente)}
+                  className="flex items-center px-3 py-2 sm:px-4 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors group"
+                  title={`Siguiente: ${oportunidadSiguiente.titulo} (→)`}
+                >
+                  <span className="text-sm font-medium text-gray-600 group-hover:text-gray-900">Siguiente</span>
+                  <svg className="w-4 h-4 sm:w-5 sm:h-5 ml-2 text-gray-600 group-hover:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              )}
+            </div>
           </div>
         </div>
       </div>
+
+      {/* Espacio para compensar el header fijo */}
+      <div className="h-20"></div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Información principal */}
@@ -194,7 +258,7 @@ const DetalleOportunidad = () => {
             
             {/* Overlay para imagen vencida */}
             {isVencida(oportunidad.fechaLimite) && (
-              <div className="absolute inset-0 bg-black/60 flex items-center justify-center">
+              <div className="absolute inset-0 bg-black/60 flex items-center justify-center z-20">
                 <div className="text-center">
                   <div className="bg-red-600 text-white px-8 py-4 rounded-lg font-bold text-2xl shadow-lg">
                     VENCIDO
@@ -232,7 +296,7 @@ const DetalleOportunidad = () => {
             </div>
 
             {/* Título sobre la imagen */}
-            <div className="absolute bottom-6 left-6 right-6">
+            <div className={`absolute bottom-6 left-6 right-6 ${isVencida(oportunidad.fechaLimite) ? 'z-10' : 'z-30'}`}>
               <h1 className="text-4xl font-bold text-white mb-2">
                 {oportunidad.titulo}
               </h1>
