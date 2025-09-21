@@ -5,7 +5,7 @@ import { oportunidades } from '../data/oportunidades';
 
 const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
   const [oportunidadesMostradas, setOportunidadesMostradas] = useState(51);
-  const OPPORTUNIDADES_POR_CARGA = 50;
+  const OPPORTUNIDADES_POR_CARGA = 51;
 
   // Filtrar oportunidades según categoría y búsqueda
   const oportunidadesFiltradas = React.useMemo(() => {

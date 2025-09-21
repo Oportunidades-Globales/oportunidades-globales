@@ -2071,7 +2071,7 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     duracion: "3 - 6 meses",
     fechaLimite: "Abierto",
     imagenes: [
-      "https://images.unsplash.com/photo-1555854877-bab0ef4c7b62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+      ""
     ],
     videos: [
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
@@ -6674,6 +6674,1782 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     duracion: "Todo el año",
     fechaLimite: "2025-12-31",
     imagenes: ["https://images.pexels.com/photos/37983/pexels-photo-37983.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 106,
+    categoria: "Voluntariado",
+    titulo: "🏕️ Camping en desarrollo - Shenkoll, Lezhe, Albania",
+    descripcion: `Únete a Alessandra y Daniele en su emocionante proyecto de camping en Albania. Están construyendo un pequeño camping a 6 km de la playa de Tale en la costa norte de Albania.
+
+    📍 Ubicación: Shenkoll, Lezhe, Albania
+    🏠 Alojamiento: Camping en desarrollo
+    👥 Capacidad: 1 sola persona
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🐕 Ambiente del lugar:
+    - 4 perros, 4 gatos, gallinas y patos
+    - Pequeño bar en construcción
+    - Pequeña piscina
+    - Proyecto en fase inicial
+    
+    🛠️ Tareas principales:
+    - Jardinería y mantenimiento
+    - Limpieza general
+    - Cuidado de animales
+    - Construcción y mantenimiento
+    - Ayuda en el desarrollo del proyecto
+    
+    🗣️ Idiomas: Italiano, inglés y francés (empleado local habla albanés)
+    
+    ✅ Beneficios:
+    - Experiencia única en un proyecto en desarrollo
+    - Ambiente familiar y relajado
+    - Cerca de la playa (6 km)
+    - Oportunidad de aprender sobre construcción y agricultura
+    - Contacto con animales de granja`,
+    imagen: "https://images.pexels.com/photos/1061640/pexels-photo-1061640.jpeg",
+    sitioWeb: "https://www.helpx.net/host/13RPK45PP",
+    pais: "Albania",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1061640/pexels-photo-1061640.jpeg",
+      "https://images.pexels.com/photos/2387418/pexels-photo-2387418.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 107,
+    categoria: "Voluntariado",
+    titulo: "🏠 Hostal para mochileros - Tirana, Albania",
+    descripcion: `Únete al equipo de un acogedor albergue en la vibrante ciudad de Tirana, la más grande de Albania. Dirigido por tres hermanas y su familia, este lugar te hará sentir como en casa.
+
+    📍 Ubicación: Tirana, Albania
+    🏠 Alojamiento: Hostal para mochileros
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🏠 Ambiente del lugar:
+    - Jardín encantador con balcón
+    - Vista preciosa desde el balcón
+    - Ambiente familiar y acogedor
+    - Ubicado en la ciudad más grande de Albania
+    
+    🛠️ Tareas principales:
+    - Recepción de huéspedes
+    - Limpieza general del albergue
+    - Mantenimiento básico
+    - Atención al cliente
+    - Apoyo en actividades del albergue
+    
+    👨‍👩‍👧‍👦 Equipo: Tres hermanas y familia extendida
+    
+    ✅ Beneficios:
+    - Ambiente familiar único
+    - Experiencia en la ciudad más grande de Albania
+    - Jardín con balcón y vista hermosa
+    - Oportunidad de conocer la cultura albanesa
+    - Formar parte de una gran familia`,
+    imagen: "https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg",
+    sitioWeb: "https://www.helpx.net/host/733756VE",
+    pais: "Albania",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 108,
+    categoria: "Voluntariado",
+    titulo: "🏠 Hostal para mochileros - Shkoder, Albania",
+    descripcion: `Únete a Mikel en la gestión de su albergue en Shkoder, una ciudad que todos adoran cuando la visitan. Ubicado cerca del centro en un barrio tranquilo con un gran jardín.
+
+    📍 Ubicación: Shkoder, Albania
+    🏠 Alojamiento: Hostal para mochileros
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🏠 Ambiente del lugar:
+    - Gran jardín con árboles frutales
+    - Barrio tranquilo a 15 minutos del centro
+    - Ubicación estratégica en la ciudad
+    
+    🛠️ Tareas principales:
+    - Limpieza y rutina diaria del albergue
+    - Gestión básica del hostal
+    - Atención a huéspedes
+    - Mantenimiento del jardín
+    - Apoyo en actividades generales
+    
+    🌍 Atracciones locales:
+    - Lago más grande de los Balcanes
+    - Castillo de 2400 años de antigüedad
+    - Dos ríos a ambos lados de la ciudad
+    - Mar a solo 30 km
+    - Alpes albaneses a 70 km
+    
+    ✅ Beneficios:
+    - Ciudad encantadora y única
+    - Gran jardín con árboles frutales
+    - Ubicación céntrica pero tranquila
+    - Proximidad a múltiples atracciones naturales
+    - Ambiente relajado y amigable`,
+    imagen: "https://images.pexels.com/photos/5158948/pexels-photo-5158948.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1591667KG",
+    pais: "Albania",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/5137980/pexels-photo-5137980.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 109,
+    categoria: "Voluntariado",
+    titulo: "🏠 Hostal para mochileros - Centro de Tirana, Albania",
+    descripcion: `Únete al equipo de un albergue en el corazón de la vibrante Tirana. Ubicado cerca de los principales lugares de interés en un barrio típico con gran variedad de servicios.
+
+    📍 Ubicación: Njesia Nr.7, Tirana, Albania
+    🏠 Alojamiento: Hostal para mochileros
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🏠 Ambiente del lugar:
+    - Ubicado en el corazón de Tirana
+    - Cerca de principales lugares de interés
+    - Barrio típico de Tirana
+    - Gran variedad de cafeterías, tiendas y restaurantes
+    
+    🛠️ Tareas principales:
+    - Registro de entrada y salida de huéspedes
+    - Preparación del desayuno
+    - Limpieza general del albergue
+    - Trabajo en el bar
+    - Atención al cliente
+    - Mantenimiento básico
+    
+    👥 Capacidad del equipo: 2-4 personas
+    
+    ✅ Beneficios:
+    - Ubicación céntrica en Tirana
+    - Experiencia en gestión de albergue
+    - Ambiente urbano vibrante
+    - Acceso a múltiples servicios locales
+    - Oportunidad de conocer la cultura urbana albanesa
+    - Trabajo en equipo dinámico`,
+    imagen: "https://images.pexels.com/photos/4907627/pexels-photo-4907627.jpeg",
+    sitioWeb: "https://www.helpx.net/host/510037MW",
+    pais: "Albania",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/5137966/pexels-photo-5137966.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 110,
+    categoria: "Voluntariado",
+    titulo: "🐕 Animales orgánicos - Zistersdorf, Austria",
+    descripcion: `Únete a una experiencia única trabajando con perros y caballos en Austria. Una oportunidad para vivir en un entorno sin rutinas fijas, perfecto para personas proactivas y amantes de los animales.
+
+    📍 Ubicación: Zistersdorf, Austria
+    🏠 Alojamiento: Granja orgánica
+    👥 Capacidad: 1 sola persona
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🐕 Ambiente del lugar:
+    - Trabajo con perros y caballos
+    - Entorno sin rutinas fijas
+    - Ambiente natural y orgánico
+    - Vida comunitaria activa
+    
+    🛠️ Tareas principales:
+    - Cuidado de perros y caballos
+    - Limpieza general
+    - Trabajo con herramientas básicas
+    - Participación en actividades diarias
+    - Mantenimiento del espacio
+    
+    ✅ Beneficios:
+    - Experiencia única con animales
+    - Ambiente natural y relajado
+    - Oportunidad de aprender sobre cuidado animal
+    - Vida comunitaria dinámica
+    - Entorno orgánico y sostenible`,
+    imagen: "https://images.pexels.com/photos/247376/pexels-photo-247376.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1539402ZT",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 111,
+    categoria: "Voluntariado",
+    titulo: "🌾 Estancia en granja orgánica - Hirschwang adRax, Austria",
+    descripcion: `Únete a una comunidad diversa e internacional en una granja orgánica en Austria. Una familia numerosa que recibe visitas de todo el mundo y organiza eventos familiares.
+
+    📍 Ubicación: Hirschwang adRax, Austria
+    🏠 Alojamiento: Estancia en granja orgánica
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    👨‍👩‍👧‍👦 Comunidad:
+    - Feri (43) y Lise (50) residentes permanentes
+    - Niñas Layla (12) y Aisha (10) visitas regulares
+    - Natalia (30) y sus hijos Maja (11) y Damian (7)
+    - Muchos amigos y familiares internacionales
+    
+    🛠️ Tareas principales:
+    - Preparación de eventos familiares
+    - Preparación de habitaciones
+    - Ayuda en actividades comunitarias
+    - Participación en vida familiar
+    - Apoyo en proyectos diversos
+    
+    🌍 Ambiente internacional:
+    - Raíces austriacas, de Oriente Medio, polacas y alemanas
+    - Amigos internacionales de todo el mundo
+    - Eventos familiares y culturales
+    - Comida oriental y deliciosa
+    
+    ✅ Beneficios:
+    - Comunidad internacional diversa
+    - Experiencia familiar auténtica
+    - Ambiente multicultural
+    - Participación en eventos familiares
+    - Vida en granja orgánica`,
+    imagen: "https://images.pexels.com/photos/2132126/pexels-photo-2132126.jpeg",
+    sitioWeb: "https://www.helpx.net/host/ZJMKZVFD4",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/2132126/pexels-photo-2132126.jpeg",
+      "https://images.pexels.com/photos/1061640/pexels-photo-1061640.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 112,
+    categoria: "Voluntariado",
+    titulo: "🎨 Casa de familia creativa - Wiener Neustadt, Austria",
+    descripcion: `Únete a Silvia, entrenadora de creatividad multimodal, arteterapeuta y artista en su hermosa casa con jardín junto a un riachuelo en Wiener Neustadt.
+
+    📍 Ubicación: Wiener Neustadt, Austria
+    🏠 Alojamiento: Casa de familia orgánica
+    👥 Capacidad: 1 sola persona
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🎨 Ambiente creativo:
+    - Hermoso jardín junto a riachuelo
+    - Espacio para meditación y ejercicio
+    - Cultivo de verduras propias
+    - Plantas medicinales importantes
+    - Obras de arte textiles en creación
+    
+    🛠️ Tareas principales:
+    - Jardinería y mantenimiento
+    - Limpieza de la casa
+    - Cocina vegetariana
+    - Mejora del inglés (nativo inglés)
+    - Costura y arte textil
+    
+    🚴‍♀️ Instalaciones:
+    - Bicicleta de montaña disponible
+    - Sauna en la casa
+    - Chimenea
+    - Acceso al Euro Velo
+    - Refrescarse en el agua en verano
+    
+    ✅ Beneficios:
+    - Ambiente creativo y artístico
+    - Aprendizaje de arte textil
+    - Mejora del inglés
+    - Casa con jardín y riachuelo
+    - Instalaciones completas`,
+    imagen: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    sitioWeb: "https://www.helpx.net/host/LUAP6SQTX",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 113,
+    categoria: "Voluntariado",
+    titulo: "🏨 Hospitalidad en región olímpica - Buchen, Telfs, Austria",
+    descripcion: `Únete al equipo de hospitalidad en la región olímpica de Seefeld, rodeado de prados, bosques e impresionantes vistas a las montañas, cerca del Hotel Interalpen.
+
+    📍 Ubicación: Buchen, Telfs, Austria
+    🏠 Alojamiento: Región olímpica de Seefeld
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Temporada de verano (mayo-noviembre)
+    
+    🏔️ Ubicación privilegiada:
+    - Región olímpica de Seefeld
+    - 300 metros de carretera pintoresca
+    - Bosque de Ropfer al lado
+    - Vista a meseta de Mieminger
+    - Valle superior del Inn
+    
+    🛠️ Tareas principales:
+    - Trabajo en hospitalidad
+    - Servicio de gastronomía
+    - Atención a huéspedes
+    - Trabajo en equipo
+    - Participación en propinas
+    
+    📋 Requisitos:
+    - Permiso legal para trabajar en la UE
+    - Conocimientos básicos de alemán
+    - Experiencia en hostelería o gastronomía
+    - Disponibilidad para temporada de verano
+    
+    ✅ Beneficios:
+    - Ubicación en región olímpica
+    - Vistas impresionantes a montañas
+    - Experiencia en hotel de lujo
+    - Participación en propinas
+    - Entorno natural único`,
+    imagen: "https://images.pexels.com/photos/2581922/pexels-photo-2581922.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1591338WQ",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/2132126/pexels-photo-2132126.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 114,
+    categoria: "Voluntariado",
+    titulo: "🐕‍🦺 Perros husky y apicultura - Gnadendorf, Austria",
+    descripcion: `Únete a una experiencia única trabajando con una manada de 24 huskies, colmenas de abejas y un gran huerto en Austria.
+
+    📍 Ubicación: Gnadendorf, Austria
+    🏠 Alojamiento: Granja con animales
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🐕‍🦺 Animales de la granja:
+    - Manada de 24 huskies
+    - Colmenas de abejas
+    - Producción de miel propia
+    - Gran huerto con frutas y verduras
+    
+    🛠️ Tareas principales:
+    - Cuidado de perros husky
+    - Programas de asistencia con animales
+    - Aprendizaje de fisioterapia canina
+    - Mantenimiento del huerto
+    - Trabajo al aire libre
+    
+    🏃‍♀️ Actividades de tiempo libre:
+    - Ciclismo y senderismo
+    - Visitas a ciudades cercanas
+    - Viena bastante cerca
+    - Naturaleza y paisajes
+    
+    ✅ Beneficios:
+    - Experiencia única con huskies
+    - Aprendizaje de fisioterapia canina
+    - Producción de miel
+    - Trabajo al aire libre
+    - Proximidad a Viena`,
+    imagen: "https://images.pexels.com/photos/2004393/pexels-photo-2004393.jpeg",
+    sitioWeb: "https://www.helpx.net/host/606736WX",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 115,
+    categoria: "Voluntariado",
+    titulo: "🥛 Cooperativa láctea orgánica - Nöhagen, Austria",
+    descripcion: `Únete a una cooperativa rural de 4 agricultores y más de 100 socios consumidores que elabora productos lácteos orgánicos en Austria.
+
+    📍 Ubicación: Nöhagen, Austria
+    🏠 Alojamiento: Estancia en granja orgánica
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🥛 Producción láctea:
+    - Elaboración de yogures, queso fresco
+    - Bebidas lácteas
+    - Frutas y especias regionales
+    - Producción regional a pequeña escala
+    - Rentabilidad ecológica y económica
+    
+    🛠️ Tareas principales:
+    - Producción lechera (4-5 horas)
+    - Trabajo en el campo
+    - Ayuda en el establo
+    - Reformas en casa y cobertizos
+    - Tiempo libre después del trabajo
+    
+    👥 Equipo:
+    - 8-10 personas jóvenes locales
+    - Trabajo a tiempo parcial
+    - Voluntarios en producción
+    - Ambiente comunitario
+    
+    🌍 Ubicación:
+    - Sur del Waldviertel
+    - Cerca del hermoso Wachau
+    - Valle del río Danubio
+    - Famosa por vinos blancos
+    
+    ✅ Beneficios:
+    - Producción láctea orgánica
+    - Ambiente comunitario
+    - Rutas de senderismo y ciclismo
+    - Programa cultural interesante
+    - Tiempo libre después del trabajo`,
+    imagen: "https://images.pexels.com/photos/4911778/pexels-photo-4911778.jpeg",
+    sitioWeb: "https://www.helpx.net/host/HSO4HXZ51",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/8371733/pexels-photo-8371733.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 116,
+    categoria: "Voluntariado",
+    titulo: "🏔️ Casa de familia en montañas - Grosskirchheim, Austria",
+    descripcion: `Únete a una familia en una casa cerca del Parque Nacional Hohe Tauern/Grossglockner en Carintia, perfecto para senderistas de alta montaña.
+
+    📍 Ubicación: Grosskirchheim, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 2 solamente
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🏔️ Ubicación privilegiada:
+    - Parque Nacional Hohe Tauern/Grossglockner
+    - 1000 metros de altitud
+    - Aire fresco y vistas de altas cumbres
+    - Parada de autobús a Lienz/Tirol Oriental
+    - Pueblos cercanos: Grosskirchheim y Heiligenblut
+    
+    🚌 Acceso:
+    - Parada de autobús en la puerta
+    - Autobús pasa varias veces al día
+    - Conexión a Lienz/Tirol Oriental
+    - Acceso a pueblos con servicios
+    
+    🏔️ Atracciones:
+    - Destinos turísticos importantes
+    - Teleféricos para senderistas y esquiadores
+    - Guardabosques del parque nacional
+    - Actividades de invierno y verano
+    
+    🗣️ Idiomas: Alemán, inglés, español, croata
+    
+    ✅ Beneficios:
+    - Ubicación en parque nacional
+    - Vistas de montañas más altas de Austria
+    - Aire fresco de montaña
+    - Acceso a teleféricos y senderismo
+    - Ambiente natural único`,
+    imagen: "https://images.pexels.com/photos/33976334/pexels-photo-33976334.jpeg",
+    sitioWeb: "https://www.helpx.net/host/DVMCG0ZI1",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/20558779/pexels-photo-20558779.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 117,
+    categoria: "Voluntariado",
+    titulo: "🏠 Renovación en Viena - Viena, Austria",
+    descripcion: `Únete al proyecto de renovación de una casa de 50 años en el ojo verde y azul de Viena, cerca del Viejo Danubio y la estación de metro.
+
+    📍 Ubicación: Viena, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🌊 Ubicación privilegiada:
+    - Ojo verde y azul de Viena
+    - Centro recreativo
+    - 2 minutos a pie del Viejo Danubio
+    - 7 minutos a pie de metro U6
+    - 10 minutos a pie de Naciones Unidas
+    
+    🏗️ Proyecto de renovación:
+    - Segunda fase de renovación
+    - Renovación interior (instalación eléctrica, fontanería)
+    - Suelos y pintura
+    - Renovación del jardín
+    - Talar árboles y plantar flores
+    
+    🛠️ Tareas principales:
+    - Renovación de vivienda
+    - Instalación eléctrica y fontanería
+    - Trabajo en suelos y pintura
+    - Jardinería y cuidado del césped
+    - Plantación de hortalizas
+    
+    ⏰ Compromiso: Par de horas diarias a cambio de alojamiento y comida
+    
+    ✅ Beneficios:
+    - Ubicación céntrica en Viena
+    - Cerca del Danubio y metro
+    - Experiencia en renovación
+    - Alojamiento y comida incluidos
+    - Proyecto en curso`,
+    imagen: "https://images.pexels.com/photos/33954649/pexels-photo-33954649.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1365976XU",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/5482148/pexels-photo-5482148.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 118,
+    categoria: "Voluntariado",
+    titulo: "🏛️ Proyecto comunitario en antiguo convento - Rohrbach an der Gölsen, Austria",
+    descripcion: `Únete a un proyecto comunitario en los terrenos de un antiguo convento en las laderas boscosas de los Alpes en Baja Austria.
+
+    📍 Ubicación: Rohrbach an der Gölsen, Austria
+    🏠 Alojamiento: Estancia en granja orgánica
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Mayo-noviembre
+    ⏱️ Estancia mínima: Flexible
+    
+    🏛️ Proyecto comunitario:
+    - Antiguo convento en laderas boscosas
+    - Granja orgánica como espacio de experiencia
+    - Desarrollo de vida y trabajo comunitarios
+    - Sostenible e intergeneracional
+    
+    🏠 Servicios del proyecto:
+    - Viviendas intergeneracionales
+    - Pequeña granja orgánica (CSA)
+    - Granja de hierbas
+    - Centro educativo y cultural
+    - Consulta terapéutica multidisciplinaria
+    - Guardería infantil
+    - Centro de retiro de salud holística
+    
+    👥 Comunidad:
+    - 15 adultos y 5 niños (1-73 años)
+    - Más personas uniéndose al proyecto
+    - Dos jóvenes de Afganistán
+    
+    🐄 Ganadería:
+    - 10 gallinas, 3 gatos, 1 perro
+    - 2 caballos y 5 burros terapéuticos
+    - Más animales a medio y largo plazo
+    
+    ✅ Beneficios:
+    - Proyecto comunitario único
+    - Antiguo convento histórico
+    - Múltiples servicios y actividades
+    - Comunidad intergeneracional
+    - Animales terapéuticos`,
+    imagen: "https://images.pexels.com/photos/5740937/pexels-photo-5740937.jpeg",
+    sitioWeb: "https://www.helpx.net/host/491114WJ",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/20526550/pexels-photo-20526550.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 119,
+    categoria: "Voluntariado",
+    titulo: "🏗️ Proyecto de economía circular - Mariahilf, Viena, Austria",
+    descripcion: `Únete a Patrick en el proyecto "mariahilfer i" para transformar una casa de 1903 en un escaparate de economía circular, renovación y diseño sostenible.
+
+    📍 Ubicación: Mariahilf, Viena, Austria
+    🏠 Alojamiento: Apartamento independiente
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🏗️ Proyecto "mariahilfer i":
+    - Casa clásica de 13 viviendas (1903)
+    - Escaparate de economía circular
+    - Renovación y ampliación de edificios
+    - Energía y diseño sostenible
+    - Arte y cultura
+    
+    🛠️ Áreas principales:
+    - Planificación de terraza-torre verde
+    - Instalación de paneles fotovoltaicos
+    - Renovación del ático y terraza
+    - Organización de eventos comunitarios
+    
+    🏠 Alojamiento:
+    - Apartamento independiente
+    - Cocina, ducha y aseo
+    - Espacio como taller
+    - Ubicación en Viena
+    
+    👨‍👩‍👧‍👦 Familia:
+    - Patrick y sus dos hijos (16 y 19 años)
+    - Casa histórica en Viena
+    - Proyecto innovador de sostenibilidad
+    
+    ✅ Beneficios:
+    - Proyecto de economía circular
+    - Casa histórica de 1903
+    - Apartamento independiente
+    - Ubicación en Viena
+    - Innovación en sostenibilidad`,
+    imagen: "https://images.pexels.com/photos/1706625/pexels-photo-1706625.jpeg",
+    sitioWeb: "https://www.helpx.net/host/WBH3LKC6S",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/17120122/pexels-photo-17120122.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 120,
+    categoria: "Voluntariado",
+    titulo: "⛪ Centro espiritual cristiano - Heiligenkreuz am Waasen, Austria",
+    descripcion: `Únete al "Haus der Stille", un centro espiritual cristiano abierto a todos que ofrece momentos de silencio y apoyo espiritual en Austria.
+
+    📍 Ubicación: Heiligenkreuz am Waasen, Austria
+    🏠 Alojamiento: Centro espiritual
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    ⛪ Centro espiritual:
+    - "Haus der Stille" centro cristiano
+    - Abierto a todas las perspectivas
+    - Momentos de silencio y apoyo
+    - Reorientación en situaciones difíciles
+    - Diversas perspectivas espirituales
+    
+    🧘‍♀️ Servicios ofrecidos:
+    - Cursos de mindfulness y meditación
+    - Ejercicios espirituales
+    - Diálogo y sostenibilidad
+    - Nuevos rituales
+    - Capilla y sala de meditación
+    
+    🏠 Instalaciones:
+    - Casa de huéspedes (máximo 47 personas)
+    - Hermoso jardín con rincones especiales
+    - Laberinto y lugar de duelo
+    - Lugar de oración
+    - Huerto y árboles frutales
+    
+    🌍 Ubicación:
+    - 10 km de Graz (segunda ciudad de Austria)
+    - Rutas de senderismo
+    - Naturaleza para relajación
+    
+    ✅ Beneficios:
+    - Centro espiritual único
+    - Ambiente de silencio y reflexión
+    - Cerca de Graz
+    - Jardín hermoso y especial
+    - Diversas actividades espirituales`,
+    imagen: "https://images.pexels.com/photos/28957841/pexels-photo-28957841.jpeg",
+    sitioWeb: "https://www.helpx.net/host/9WEX14IKY",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [	
+      "https://images.pexels.com/photos/16022933/pexels-photo-16022933.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 121,
+    categoria: "Voluntariado",
+    titulo: "🐑 Granja orgánica familiar - Paldau, Austria",
+    descripcion: `Únete a la familia de Kathi y Johannes en su granja orgánica registrada por más de 30 años, con ovejas, cabras, pollos y caballos en Austria.
+
+    📍 Ubicación: Paldau, Austria
+    🏠 Alojamiento: Estancia en granja orgánica
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    👨‍👩‍👧‍👦 Familia:
+    - Kathi y Johannes con niños Mia, Romi, David Laurin y Enja
+    - Granja orgánica registrada por más de 30 años
+    - Trabajo para sus propias necesidades
+    - Transición de agricultura convencional a ecológica
+    
+    🐑 Animales de la granja:
+    - Ovejas Krainer Stein
+    - Cabras Steirerschecken
+    - Pollos, gatos y un perro
+    - Dos caballos que vagan por 5 hectáreas
+    - Pastizales y bosque
+    
+    🌱 Cultivos:
+    - Vegetales en camas elevadas
+    - Campo en cultivo mixto
+    - Frutas de huertos mixtos
+    - Jardines de bayas
+    - Talado de árboles para calefacción
+    
+    🛠️ Proyectos:
+    - Construcción de cercas
+    - Sistemas de agua de lluvia
+    - Lechos de colina
+    - Trabajo manual preferido
+    - Pequeño tractor cuando necesario
+    
+    ✅ Beneficios:
+    - Granja orgánica certificada
+    - Familia numerosa y acogedora
+    - Diversos animales y cultivos
+    - Proyectos variados
+    - Ambiente familiar auténtico`,
+    imagen: "https://images.pexels.com/photos/7782866/pexels-photo-7782866.jpeg",
+    sitioWeb: "https://www.helpx.net/host/710667QT",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/3016323/pexels-photo-3016323.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 122,
+    categoria: "Voluntariado",
+    titulo: "🪟 Bricolaje en Salzburgo - Hof en Salzburgo, Austria",
+    descripcion: `Únete a un proyecto de bricolaje en Hof, Salzburgo, limpiando y restaurando ventanas y puertas de madera en una zona preciosa.
+
+    📍 Ubicación: Hof en Salzburgo, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: 2023
+    ⏱️ Estancia mínima: Unos días a dos semanas
+    
+    🪟 Proyecto de bricolaje:
+    - Limpieza de ventanas y puertas
+    - Lijado y pintura de ventanas de madera
+    - Restauración de elementos de madera
+    - Trabajo de mantenimiento
+    
+    📋 Requisitos:
+    - Experiencia en lijado y pintura
+    - Conocimiento de ventanas de madera
+    - Trabajo de 4 horas al día
+    - Disponibilidad para bloqueo de trabajo
+    
+    🏠 Alojamiento:
+    - Habitación privada
+    - Zona preciosa de Salzburgo
+    - Ambiente de trabajo serio
+    
+    ⚠️ Importante:
+    - No es un lugar para vacaciones
+    - El trabajo tiene prioridad
+    - Ambiente profesional
+    - Consulta SOM disponible
+    
+    ✅ Beneficios:
+    - Experiencia en restauración
+    - Zona preciosa de Salzburgo
+    - Habitación privada
+    - Trabajo especializado
+    - Proyecto de corta duración`,
+    imagen: "https://images.pexels.com/photos/7220892/pexels-photo-7220892.jpeg",
+    sitioWeb: "https://www.helpx.net/host/884877IG",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/12562603/pexels-photo-12562603.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 123,
+    categoria: "Voluntariado",
+    titulo: "🍷 Granja sostenible en viñedos - Leutschach an der Weinstr, Austria",
+    descripcion: `Únete a la familia de Mitananda HOF cerca de la frontera con Eslovenia, entre viñedos y rodeada de bosques, llevando un estilo de vida sostenible.
+
+    📍 Ubicación: Leutschach an der Weinstr, Austria
+    🏠 Alojamiento: Estancia en granja
+    👥 Capacidad: 1 o pareja
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    👨‍👩‍👧‍👦 Familia:
+    - Familia de cinco miembros
+    - Niños de 19, 16, 12 y 10 años
+    - Hablan alemán, inglés y griego
+    - Educación en casa
+    - Reciben ayudantes de todo el mundo
+    
+    🏠 Propiedad:
+    - 7000 m² de terreno
+    - Casa de campo de 300 años
+    - Casa de huéspedes y cabaña
+    - Gran taller para trabajos creativos
+    - Cerámica, fieltro, costura
+    
+    🌱 Estilo de vida sostenible:
+    - Fabricación y reparación de herramientas
+    - Cultivo de alimentos propios
+    - Independientes del agua y electricidad
+    - Cerca de frontera con Eslovenia
+    - Entre viñedos y bosques
+    
+    🛠️ Tareas actuales:
+    - Jardinería y bricolaje
+    - Mantenimiento de la propiedad
+    - Trabajos creativos
+    - Proyectos de sostenibilidad
+    
+    ✅ Beneficios:
+    - Estilo de vida sostenible
+    - Casa histórica de 300 años
+    - Taller creativo completo
+    - Familia multicultural
+    - Ubicación entre viñedos`,
+    imagen: "https://images.pexels.com/photos/4921179/pexels-photo-4921179.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1620661HI",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/2452382/pexels-photo-2452382.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 124,
+    categoria: "Voluntariado",
+    titulo: "🌊 Casa de familia con estanque - Stainach, Austria",
+    descripcion: `Únete a una familia en el campo de Stainach, Austria, en una zona ideal para senderismo y ciclismo con muchos lagos alrededor.
+
+    📍 Ubicación: Stainach, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año (no en invierno)
+    ⏱️ Estancia mínima: Flexible
+    
+    🌊 Ubicación privilegiada:
+    - Zona ideal para senderismo y ciclismo
+    - Centro de Austria
+    - Muchos lagos alrededor
+    - Hermoso paisaje con altas montañas
+    - Ambiente rural tranquilo
+    
+    🏠 Propiedad:
+    - Dos jardines para mantener
+    - Bonito estanque entre jardines
+    - Casa en el campo
+    - Ambiente natural
+    
+    🛠️ Tareas principales:
+    - Mantenimiento de jardines
+    - Cuidado del estanque
+    - Trabajo de 3-4 horas diarias
+    - Preparación de comida propia a veces
+    - Mantenimiento general
+    
+    🏃‍♀️ Actividades:
+    - Senderismo en montañas
+    - Ciclismo por la zona
+    - Visita a lagos cercanos
+    - Naturaleza y paisajes
+    
+    ✅ Beneficios:
+    - Ubicación central en Austria
+    - Muchos lagos y montañas
+    - Trabajo relajado (3-4 horas)
+    - Ambiente rural tranquilo
+    - Ideal para amantes de la naturaleza`,
+    imagen: "https://images.pexels.com/photos/2560900/pexels-photo-2560900.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1335285JE",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/9652555/pexels-photo-9652555.jpeg",
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 125,
+    categoria: "Voluntariado",
+    titulo: "🍷 Casa de familia en zona vinícola - Purbach, Austria",
+    descripcion: `Únete a Tasha y sus hijas en Purbach, una famosa zona vinícola en Burgenland, cerca del lago Neusiedlersee y a una hora de Viena.
+
+    📍 Ubicación: Purbach, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Estancias largas preferidas
+    
+    👨‍👩‍👧‍👦 Familia:
+    - Tasha (39) con hijas de 14 y 11 años (adolescentes)
+    - Pequeña de 3 años y medio
+    - Buscan "Mary Poppins" para estancias largas
+    - Ambiente familiar dinámico
+    
+    🍷 Ubicación vinícola:
+    - Purbach zona vinícola famosa y turística
+    - Burgenland junto al lago Neusiedlersee
+    - Famosa por windsurf y kitesurf
+    - Cerca de frontera con Hungría
+    - Una hora en tren de Viena
+    
+    🐾 Animales:
+    - Kubko, perro mediano (un poco difícil pero mono)
+    - Leni, Percy, Sunny y Santiago (gatos)
+    - Seis gallinas
+    - Inka, poni que vive cerca
+    
+    🏠 Casa y proyectos:
+    - Casa vieja con jardín
+    - Mucho trabajo alrededor y dentro
+    - Huerto en progreso
+    - Pared exterior necesita más arte
+    - Proyectos de manitas
+    
+    ✅ Beneficios:
+    - Zona vinícola famosa
+    - Cerca del lago Neusiedlersee
+    - Una hora de Viena
+    - Familia acogedora
+    - Proyectos creativos`,
+    imagen: "https://images.pexels.com/photos/290316/pexels-photo-290316.jpeg",
+    sitioWeb: "https://www.helpx.net/host/309661RV",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/21393/pexels-photo.jpg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 126,
+    categoria: "Voluntariado",
+    titulo: "🌲 Granja remota en verano - Linz, Austria",
+    descripcion: `Únete a una granja remota durante el verano de 2025 (mayo-octubre) en Linz, Austria, con comodidades básicas y trabajo manual.
+
+    📍 Ubicación: Linz, Austria
+    🏠 Alojamiento: Estancia en granja orgánica
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Junio - Octubre
+    ⏱️ Estancia mínima: Estancias largas preferidas
+    
+    🏠 Casa y comodidades:
+    - Comodidades básicas
+    - Chimenea para cocinar y calentar agua
+    - Ducha con agua caliente
+    - Baño improvisado y aseo moderno
+    - Cuatro dormitorios en planta superior
+    
+    🛠️ Tareas principales:
+    - Tareas domésticas variadas
+    - Reparaciones en casa o maquinaria
+    - Cortar y rastrillar césped/hierba
+    - Trabajo manual general
+    - Preparación de comidas juntos
+    
+    🌲 Ubicación:
+    - Granja remota en interior
+    - Lejos de bares y lugares de ocio
+    - Senderismo por bosques de alrededores
+    - Excursiones a pueblos vecinos
+    - Supermercado más cercano a 7 km
+    
+    📶 Conectividad:
+    - WiFi disponible (punto de acceso)
+    - Velocidad: 10 Mbps bajada, 1 Mbps subida
+    - Conexión básica pero funcional
+    
+    ⚠️ Restricciones: Sin consumo de alcohol
+    
+    ✅ Beneficios:
+    - Granja remota única
+    - Estancias largas preferidas
+    - Comodidades básicas completas
+    - Trabajo manual variado
+    - Naturaleza y senderismo`,
+    imagen: "https://images.pexels.com/photos/18276433/pexels-photo-18276433.jpeg",
+    sitioWeb: "https://www.helpx.net/host/PZG2DK3AD",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33940164/pexels-photo-33940164.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 127,
+    categoria: "Voluntariado",
+    titulo: "🧹 Casa de familia con limpieza experta - Viena, Austria",
+    descripcion: `Únete a una familia en Viena que busca ayuda con limpieza experta y tareas domésticas, con oportunidades para chefs veganos y expertos en reparaciones.
+
+    📍 Ubicación: Viena, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: De vez en cuando
+    ⏱️ Estancia mínima: 1-2 semanas
+    
+    👨‍👩‍👧‍👦 Familia:
+    - Hijos ya se mudaron
+    - Solo conocerán a los "mayores"
+    - Ambiente familiar maduro
+    - Buscan ayuda específica
+    
+    🧹 Tareas principales:
+    - Limpieza (al menos 80% del trabajo)
+    - Otras tareas domésticas
+    - Estancia de 1-2 semanas
+    - Más tiempo solo si habilidades coinciden
+    
+    👨‍🍳 Oportunidades especiales:
+    - Chef VEGANO con experiencia
+    - Cocina vegana, saludable, baja en calorías
+    - Experto en reparaciones (carpinteros, fontaneros, electricistas)
+    - Habilidades informáticas (software y hardware)
+    
+    📅 Disponibilidad:
+    - Solicitudes para octubre/noviembre bienvenidas
+    - No organizan este verano
+    - Ciertos períodos del año preferidos
+    
+    ✅ Beneficios:
+    - Ubicación en Viena
+    - Trabajo especializado disponible
+    - Ambiente familiar maduro
+    - Oportunidades para expertos
+    - Estancias cortas (1-2 semanas)`,
+    imagen: "https://images.pexels.com/photos/10557498/pexels-photo-10557498.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2035159PK",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1204251/pexels-photo-1204251.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 128,
+    categoria: "Voluntariado",
+    titulo: "🌿 Jardín en Alland - Alland, Austria",
+    descripcion: `Únete a una familia en Alland, Austria, para ayudar en el jardín y con tareas de conducción, a 25 km de Viena.
+
+    📍 Ubicación: Alland, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🚨 Estado actual: ¡Por el momento no buscan ayudantes!
+    
+    🌿 Tareas principales:
+    - Ayuda en el jardín
+    - Trabajo fácil y relajado
+    - Conducción para llevar hija al colegio (si tienes carnet)
+    - Mantenimiento general
+    
+    🏠 Alojamiento:
+    - Habitación propia con baño
+    - Comida gratis incluida
+    - WiFi ilimitado
+    - Ambiente familiar
+    
+    🌍 Ubicación:
+    - Hermosa Austria
+    - Pueblo pequeño llamado Alland
+    - 25 km de Viena
+    - Ambiente rural tranquilo
+    
+    🐕 Requisitos:
+    - Gustar los perros (tienen un perro)
+    - Carnet de conducir preferido
+    - Gustar tiempo en naturaleza
+    
+    ✅ Beneficios:
+    - Trabajo fácil y relajado
+    - Habitación propia con baño
+    - Comida gratis
+    - WiFi ilimitado
+    - Cerca de Viena (25 km)`,
+    imagen: "https://images.pexels.com/photos/16895779/pexels-photo-16895779.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1094243OA",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1408221/pexels-photo-1408221.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 129,
+    categoria: "Voluntariado",
+    titulo: "🐑 Granja con ovejas en Payerbach - Payerbach, Austria",
+    descripcion: `Únete a una granja en Payerbach-Reichenau, Austria, con 2 hectáreas de jardín, cuatro casas y cuidado de ovejas, a una hora de Viena.
+
+    📍 Ubicación: Payerbach, Austria (a 1 hora de Viena)
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🌍 Ubicación privilegiada:
+    - Payerbach-Reichenau, Austria
+    - 10 minutos a pie de estación de tren
+    - Una hora de Viena
+    - Centro de bienestar, piscina pública
+    - Minigolf, pistas de tenis
+    
+    🏠 Propiedad privada:
+    - 2 hectáreas de jardín
+    - Cuatro casas con encanto
+    - Límites forestales tranquilos
+    - Ambiente natural y tranquilo
+    - Perfecto para amantes de la naturaleza
+    
+    🐑 Tareas con ovejas:
+    - Cuidado de ovejas (alimentación, control de agua)
+    - Rutinas sencillas de cuidado
+    - Construcción y mantenimiento de cercas
+    - Construcción de espacios para ovejas
+    
+    🛠️ Otras tareas:
+    - Cortar y apilar leña (árboles caídos)
+    - Jardinería y plantación
+    - Mantenimiento general
+    - Trabajos de reparación o mejora
+    
+    🏃‍♀️ Actividades locales:
+    - Senderismo y montañas con vistas
+    - Lugares mágicos para nadar en río
+    - Agua cristalina
+    - Naturaleza e inspiración
+    
+    ✅ Beneficios:
+    - Una hora de Viena
+    - 2 hectáreas de jardín
+    - Cuatro casas con encanto
+    - Cuidado de ovejas
+    - Naturaleza y tranquilidad`,
+    imagen: "https://images.pexels.com/photos/33950400/pexels-photo-33950400.jpeg",
+    sitioWeb: "https://www.helpx.net/host/AGM7M9OQW",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33950396/pexels-photo-33950396.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 130,
+    categoria: "Voluntariado",
+    titulo: "🏘️ Comunidad en desarrollo - Jennersdorf, Austria",
+    descripcion: `Únete a una comunidad en desarrollo en el hermoso paisaje del sur de Burgenland, convirtiendo una antigua granja en una comunidad acogedora.
+
+    📍 Ubicación: Jennersdorf, Austria
+    🏠 Alojamiento: Comunidad
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🏘️ Proyecto comunitario:
+    - Antigua granja en paisaje soleado y montañoso
+    - Sur de Burgenland
+    - Convirtiendo en comunidad acogedora
+    - Proyecto en desarrollo activo
+    
+    🛠️ Áreas de enfoque:
+    - Artesanía y creatividad
+    - Carpintería
+    - Renovación de edificios antiguos
+    - Granja para autosuficiencia
+    - Zona exterior en desarrollo
+    
+    ⚡ Energía:
+    - Sistema fotovoltaico para electricidad
+    - Energía renovable
+    - Autosuficiencia energética
+    - Tecnología sostenible
+    
+    🛠️ Tareas buscadas:
+    - Interés en artesanía y creatividad
+    - Iniciar granja ecológica
+    - Renovación de edificios
+    - Proyectos de carpintería
+    - Desarrollo comunitario
+    
+    ✅ Beneficios:
+    - Paisaje hermoso y soleado
+    - Proyecto comunitario único
+    - Energía fotovoltaica
+    - Artesanía y creatividad
+    - Sur de Burgenland`,
+    imagen: "https://images.pexels.com/photos/33916872/pexels-photo-33916872.jpeg",
+    sitioWeb: "https://www.helpx.net/host/9GU7L36SD",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/3856035/pexels-photo-3856035.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 131,
+    categoria: "Voluntariado",
+    titulo: "🏠 Molino histórico renovado - Eggenburg, Austria",
+    descripcion: `Únete a una emprendedora social en un antiguo molino encantador renovado en los años 90, a 77 km de Viena en una bonita región montañosa.
+
+    📍 Ubicación: Eggenburg, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 1 o pareja
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Una semana
+    
+    👩‍💼 Anfitriona:
+    - Emprendedora social de 64 años
+    - Educadora naturalista
+    - Exproductora de cine
+    - Experiencia diversa y profesional
+    
+    🏠 Casa histórica:
+    - Antiguo molino remoto y encantador
+    - Renovado en los años 90
+    - Casa de fin de semana principal
+    - Ambiente histórico único
+    
+    🌍 Ubicación:
+    - 77 km de Viena
+    - Bonita región montañosa
+    - Viñedos en la zona
+    - Estación de tren a 6 km
+    - Parada de autobús en el pueblo
+    
+    🛠️ Tareas principales:
+    - Limpiar el jardín
+    - Podar arbustos
+    - Pequeñas reparaciones en la casa
+    - Mantenimiento general
+    - Trabajo de jardinería
+    
+    🏠 Instalaciones:
+    - WiFi disponible
+    - Cocina totalmente equipada
+    - Calefacción central (suelo radiante)
+    - Chimenea acogedora
+    - Dos bicicletas eléctricas
+    
+    ✅ Beneficios:
+    - Casa histórica única
+    - 77 km de Viena
+    - Instalaciones modernas
+    - Chimenea y bicicletas eléctricas
+    - Región montañosa con viñedos`,
+    imagen: "https://images.pexels.com/photos/158034/mill-house-alabama-landscape-forest-158034.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1829071XQ",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/31543052/pexels-photo-31543052.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 132,
+    categoria: "Voluntariado",
+    titulo: "🌲 Granja en Bosques de Viena - Klausen-Leopoldsdorf, Viena, Austria",
+    descripcion: `Únete a una pareja internacional en una pequeña granja en los famosos Bosques de Viena, con experiencia en horticultura ecológica certificada.
+
+    📍 Ubicación: Klausen-Leopoldsdorf, Viena, Austria
+    🏠 Alojamiento: Estancia en granja orgánica
+    👥 Capacidad: Hasta 3 o más personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Estancias largas preferidas
+    
+    👨‍👩‍👧‍👦 Pareja internacional:
+    - Matrimonio de 53 y 66 años
+    - Artista y profesor de diseño gráfico austriaco
+    - Agricultor y músico estadounidense
+    - Experiencia certificada en horticultura ecológica
+    
+    🌱 Experiencia agrícola:
+    - Certificación del Centro de Agroecología de UC
+    - Dirigió granja orgánica en California 15 años
+    - Acogió voluntarios agrícolas en California
+    - Experiencia internacional en agricultura
+    
+    🌲 Ubicación:
+    - Pequeña granja en Bosques de Viena
+    - Afueras de la ciudad
+    - Ambiente natural y tranquilo
+    - Proximidad a Viena
+    
+    🛠️ Tareas principales:
+    - Jardinería y cuidado de animales
+    - Carpintería y mantenimiento
+    - Renovación de edificios
+    - Cuidado de toda la granja cuando están fuera
+    - Proyectos diversos
+    
+    📋 Requisitos:
+    - Experiencia con jardinería, animales y carpintería
+    - Estancias largas preferidas
+    - Estancias a tiempo parcial posibles
+    - No fumar, beber alcohol ni consumir drogas
+    
+    ✅ Beneficios:
+    - Experiencia internacional en agricultura
+    - Bosques de Viena
+    - Pareja multicultural
+    - Certificación en horticultura ecológica
+    - Estancias flexibles`,
+    imagen: "https://images.pexels.com/photos/33955828/pexels-photo-33955828.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1242207NU",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33940164/pexels-photo-33940164.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 133,
+    categoria: "Voluntariado",
+    titulo: "🐑 Granja de ovejas con productos lácteos - Hermagor, Austria",
+    descripcion: `Únete a una granja especializada en productos lácteos de oveja en Hermagor, Austria, con 75 ovejas de raza rara y tres hijos que hablan inglés.
+
+    📍 Ubicación: Hermagor, Austria
+    🏠 Alojamiento: Estancia en granja orgánica
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Flexible
+    
+    🏠 Casa histórica:
+    - Casa de campo de piedra construida en 1907
+    - Maravillosa y antigua
+    - Renovada y desarrollada
+    - Sueños agrícolas en desarrollo
+    
+    🐑 Ganadería especializada:
+    - 75 ovejas de raza rara "Krainer Steinschaf"
+    - Dos perros de protección de rebaño Maremma
+    - 10 gallinas y tres gallos
+    - Dos cerdos de pastoreo
+    - Conejos, gatos y perro doméstico border collie
+    
+    👨‍👩‍👧‍👦 Familia:
+    - Tres hijos (nacidos 2010, 2012, 2017)
+    - Ya hablan inglés parcialmente
+    - Les encanta aprender más
+    - Ambiente familiar internacional
+    
+    🥛 Especialización:
+    - Productos lácteos de oveja
+    - Aprender a ordeñar y hacer queso
+    - Cultivo y mantenimiento de huertos frutales
+    - Manzanas, peras, ciruelas, cerezas, nueces
+    
+    🏠 Alojamiento:
+    - Caravana antigua adaptada
+    - Estufa de leña para épocas frías
+    - Baño auxiliar con ducha
+    - Aseo compartido en planta baja
+    
+    ✅ Beneficios:
+    - 75 ovejas de raza rara
+    - Aprender productos lácteos
+    - Casa histórica de 1907
+    - Familia internacional
+    - Especialización en ovejas`,
+    imagen: "https://images.pexels.com/photos/9299839/pexels-photo-9299839.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1924221IW",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/9906455/pexels-photo-9906455.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 134,
+    categoria: "Voluntariado",
+    titulo: "👶 Casa de familia con bebé recién nacido - Klagenfurt, Austria",
+    descripcion: `Únete a Philipp y Elli en Klagenfurt para ayudar con las tareas del hogar después del nacimiento de su primer hijo a mediados de mayo.
+
+    📍 Ubicación: Klagenfurt, Austria
+    🏠 Alojamiento: Casa de familia
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Junio
+    ⏱️ Estancia mínima: Flexible
+    
+    👨‍👩‍👧‍👦 Familia:
+    - Philipp y Elli, pareja joven
+    - Primer hijo nacido a mediados de mayo
+    - Viven en corazón de Klagenfurt
+    - Casa más antigua de la ciudad
+    
+    🏠 Alojamiento:
+    - Apartamento propio de 40 metros cuadrados
+    - Completamente amueblado
+    - Ubicado en corazón de Klagenfurt
+    - Mismo edificio, piso más grande
+    
+    🛠️ Tareas principales:
+    - Ayuda con tareas del hogar
+    - Apoyo postparto
+    - Mantenimiento general
+    - Ayuda con la nueva familia
+    
+    👨‍👩‍👧‍👦 Perfil ideal:
+    - Gustar buena comida y cocina
+    - Ser alegre en general
+    - Experiencia con familias
+    - Ayuda con bebés recién nacidos
+    
+    🌍 Experiencia de Ellie:
+    - Viajó por todo el mundo un año con HelpX
+    - Experiencias maravillosas
+    - Conoció gente local
+    - Ahora quieren compartir como anfitriones
+    
+    ✅ Beneficios:
+    - Apartamento propio en centro
+    - Familia joven y acogedora
+    - Experiencia postparto
+    - Ubicación céntrica en Klagenfurt
+    - Anfitriones con experiencia HelpX`,
+    imagen: "https://images.pexels.com/photos/4079286/pexels-photo-4079286.jpeg",
+    sitioWeb: "https://www.helpx.net/host/WUWAIJTOE",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/6182244/pexels-photo-6182244.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 135,
+    categoria: "Voluntariado",
+    titulo: "🏭 Proyecto de molino de agua - Rüdersdorf, Austria",
+    descripcion: `Únete al proyecto "MARNIK open workshop PLUS" para revivir un molino de agua de 20 años vacío, creando un espacio de creación y comunidad.
+
+    📍 Ubicación: Rüdersdorf, Austria
+    🏠 Alojamiento: Otro
+    👥 Capacidad: 1 o pareja
+    ⏰ Compromiso: De abril a octubre de 2025
+    ⏱️ Estancia mínima: Flexible
+    
+    🏭 Proyecto del molino:
+    - Molino de agua vacío por 20 años
+    - Ya no fluye agua (gran pesar local)
+    - Asociación "MARNIK open workshop PLUS"
+    - Crear espacio de creación y comunidad
+    
+    🛠️ Tareas principales:
+    - Desmantelar y limpiar estructuras existentes
+    - Renovar el edificio
+    - Aislar el edificio
+    - Aprendizaje de nuevas habilidades
+    - No necesariamente artesanos capacitados
+    
+    🎨 Actividades creativas:
+    - Crear objetos de reciclaje creativo
+    - Aprender a manejar miniexcavadora
+    - Festival de arte en el molino
+    - Trash-ART, Upcycling-ART y Nature-ART
+    - Eventos del 24-25 de agosto de 2024
+    
+    📅 Disponibilidad:
+    - Puesto completo para 2024
+    - Nueva solicitud desde 01/04/2025
+    - Temporada de abril a octubre
+    
+    ✅ Beneficios:
+    - Proyecto histórico único
+    - Aprendizaje de nuevas habilidades
+    - Festival de arte
+    - Reciclaje creativo
+    - Espacio comunitario`,
+    imagen: "https://images.pexels.com/photos/3777763/pexels-photo-3777763.jpeg",
+    sitioWeb: "https://www.helpx.net/host/KJ0GI0J0M",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/2164496/pexels-photo-2164496.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 136,
+    categoria: "Voluntariado",
+    titulo: "🌾 Granja ecológica familiar - Neuhofen im Innkreis, Austria",
+    descripcion: `Únete a la familia de Xaver y Carola en su granja ecológica familiar de 100 hectáreas, buscando ayuda para unos 10 días en primavera.
+
+    📍 Ubicación: Neuhofen im Innkreis, Austria
+    🏠 Alojamiento: Estancia en granja orgánica
+    👥 Capacidad: 1 o 2 personas
+    ⏰ Compromiso: Todo el año, excepto invierno
+    ⏱️ Estancia mínima: 10 días
+    
+    👨‍👩‍👧‍👦 Familia:
+    - Xaver, Carola, Klara (13 años), Johannes (11 años), Martin (7 años)
+    - Granja familiar desde generaciones
+    - Transición de agricultura convencional a ecológica en 2013
+    - 100 hectáreas de superficie agrícola
+    
+    🌱 Filosofía:
+    - Cuidar la tierra
+    - Producción sana y de alta calidad
+    - Granja diversificada
+    - Alimentos saludables
+    - Conexión con el vecindario
+    
+    🏠 Estilo de vida:
+    - Abundancia con conservas propias
+    - Comida regional de temporada
+    - Principalmente vegetariana
+    - Agricultura ecológica profesional
+    - Organización profesional
+    
+    🌱 Temporada de primavera:
+    - Mucho que hacer al aire libre
+    - Trabajo en la granja
+    - Tareas estacionales
+    - Ambiente natural
+    
+    🛠️ Tareas:
+    - Diversas tareas en casa y jardín
+    - Trabajo agrícola
+    - Mantenimiento general
+    - Proyectos de temporada
+    
+    ✅ Beneficios:
+    - Granja ecológica de 100 hectáreas
+    - Familia numerosa y amable
+    - Alojamiento ideal
+    - Trabajo diverso
+    - Ambiente familiar auténtico`,
+    imagen: "https://images.pexels.com/photos/27152409/pexels-photo-27152409.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1380251XD",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/13394996/pexels-photo-13394996.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 137,
+    categoria: "Voluntariado",
+    titulo: "🐴 Equinoterapia y Lodge de Equitación - Grund, Austria",
+    descripcion: `Únete a una asociación especializada en equinoterapia y educación asistida con caballos, con 3 hectáreas de pastos y animales diversos.
+
+    📍 Ubicación: Grund, Austria
+    🏠 Alojamiento: Animales
+    👥 Capacidad: 2 solamente
+    ⏰ Compromiso: Todo el año
+    ⏱️ Estancia mínima: Un mes o más
+    
+    🐴 Especialización:
+    - Educación asistida con caballos
+    - Equitación terapéutica
+    - Asociación especializada
+    - Trabajo con equinoterapia
+    
+    🐄 Animales de la granja:
+    - 3 hectáreas de pastos
+    - Cabras para leche y queso
+    - Cuatro burros para clases terapéuticas
+    - Diversos animales de granja
+    
+    🛠️ Tareas principales:
+    - Ayuda con animales
+    - Aprender equinoterapia
+    - Participar en entrenamiento de caballos
+    - Montar a caballo por cuenta propia
+    - Aprender a montar
+    
+    🧀 Actividades adicionales:
+    - Ordeñar cabras
+    - Producir queso y productos caprinos
+    - Segar prados y heno
+    - Limpiar establo
+    - Restaurar patio histórico
+    
+    🌍 Ubicación:
+    - 60 km de Viena
+    - Rodeados de campos y colinas vitivinícolas
+    - Escena cultural de Viena accesible
+    - Eventos diversos disponibles
+    - Lugares históricos y castillos antiguos
+    
+    ✅ Beneficios:
+    - Especialización en equinoterapia
+    - 3 hectáreas de pastos
+    - Aprender equitación terapéutica
+    - 60 km de Viena
+    - Animales diversos y únicos`,
+    imagen: "https://images.pexels.com/photos/210237/pexels-photo-210237.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1535525TQ",
+    pais: "Austria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/53142/cowgirl-horse-cowboy-attractive-53142.jpeg"
+    ],
     videos: [
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
