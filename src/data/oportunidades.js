@@ -9824,6 +9824,385 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
     ]
+  },
+  {
+    id: 174,
+    categoria: "Voluntariado",
+    titulo: "🏨 Hostal para mochileros en pueblo costero - Marusici, Croacia",
+    descripcion: `Buscamos una o dos personas para que vengan en septiembre lo antes posible. Es un puesto bastante tranquilo, principalmente en recepción. También recibimos voluntarios fuera de temporada con tareas variadas.
+
+    📌 Tareas principales:
+    - Trabajo de recepción (temporada baja)
+    - Trabajo de barman/barista (verano)
+    - Limpieza de zonas comunes/habitaciones
+    - Jardinería y pequeñas tareas domésticas
+    - Redes sociales y presencia online
+    - Preparación de comidas/cenas
+    - Proyectos de arte y bricolaje
+    - Pequeños proyectos de construcción o renovación
+
+    📌 Requisitos:
+    - Disponibilidad en septiembre (urgente)
+    - Experiencia en hostales útil
+    - Buena actitud y responsabilidad
+    - Interés en arte y proyectos creativos
+
+    ✅ Beneficios:
+    - Puesto tranquilo principalmente en recepción
+    - Estudio de yoga disponible
+    - A 5 minutos de la playa
+    - Aeropuerto de Split a 40 minutos
+    - Dos restaurantes y tienda en el pueblo
+    - Muchos proyectos de arte
+    - Acceso a parada de autobús cercana`,
+    imagen: "https://images.pexels.com/photos/7968294/pexels-photo-7968294.jpeg",
+    sitioWeb: "https://www.helpx.net/host/999627ZD",
+    pais: "Croacia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/4907195/pexels-photo-4907195.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 175,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia con olivar en isla - Milna, Croacia",
+    descripcion: `Los ayudantes de alojamiento se alojarán en un cómodo apartamento en nuestra propiedad. Estamos en las primeras etapas del desarrollo de nuestro olivar en la isla de Brac.
+
+    📌 Tareas principales:
+    - Limpiar el terreno (quitar pequeños arbustos y cortar césped)
+    - Ayudar con construcción tradicional de muros de piedra seca
+    - Trabajo al aire libre y aprendizaje
+    - Participación en patrimonio local
+
+    📌 Requisitos:
+    - Disponibilidad de diciembre a abril
+    - Disposición a trabajar al aire libre
+    - Interés en aprender técnicas tradicionales
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Apartamento cómodo con 2 dormitorios
+    - Baño privado y cocina totalmente equipada
+    - Patio para relajarse al aire libre
+    - Hermoso pueblo costero en isla de Brac
+    - A pocos pasos del mar
+    - Restaurantes, tiendas y bares locales
+    - Tiempo libre para nadar y explorar costa
+    - Calles históricas de piedra`,
+    imagen: "https://images.pexels.com/photos/1666467/pexels-photo-1666467.jpeg",
+    sitioWeb: "https://www.helpx.net/host/LMMHPMO2H",
+    pais: "Croacia",
+    duracion: "Diciembre a abril",
+    fechaLimite: "Abierto",
+    imagenes: [
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 176,
+    categoria: "Voluntariado",
+    titulo: "🐴 Rancho con caballos en zona natural - Rakovica, Croacia",
+    descripcion: `Mi esposo y yo (Petra) tenemos un rancho sostenible. Fui jinete profesional durante 30 años y mi esposo es ingeniero en barcos de crucero. Llegamos a este hermoso lugar hace casi 5 años y comenzamos a desarrollar un estilo de rancho sostenible.
+
+    📌 Tareas principales:
+    - Alimentar a los animales (caballos, perros, gatos)
+    - Limpiar y mantener el rancho, granero y jardín
+    - Cocinar comidas
+    - Ayudar a compañeros de equipo
+    - Ayudar en proyectos diversos
+
+    📌 Requisitos:
+    - Fuerte ética de trabajo
+    - Capacidad de ver qué hay que hacer
+    - Limpiar después de sí mismos
+    - Interés en animales y vida rural
+
+    ✅ Beneficios:
+    - Unidad de contenedores para dormir
+    - Inodoro de compostaje, ducha y cocina equipada
+    - 2 gatos, 2 perros, 10 caballos
+    - 15 km del parque nacional de los lagos de Plitvice
+    - 3 km de las cuevas de Barac
+    - Tierra no tocada durante 30 años después de la guerra
+    - Experiencia con jinete profesional`,
+    imagen: "https://images.pexels.com/photos/7882846/pexels-photo-7882846.jpeg",
+    sitioWeb: "https://www.helpx.net/host/ABNUFN806",
+    pais: "Croacia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/2255402/pexels-photo-2255402.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 177,
+    categoria: "Voluntariado",
+    titulo: "🐕 Granja orgánica con refugio de animales - Brinje, Croacia",
+    descripcion: `En 2006, mi esposo y yo nos mudamos de Alemania a Croacia con la intención de llevar una vida sencilla en un entorno natural, rural y limpio. Ahora soy las dos "ancianitas" con mi madre. Durante nuestra vida aquí, nos dimos cuenta de la cantidad de perros y gatos abandonados que hay, así que empezamos a recogerlos de la calle, a darles cobijo y a buscarles un nuevo hogar.
+
+    📌 Tareas principales:
+    - Cuidar a los perros (darles comida y agua)
+    - Limpiar los corrales
+    - Acariciar y dar cariño a los animales
+    - Actividades diarias de la granja
+    - Cuidar el jardín, desherbar y cosechar
+    - Preparar parterres y aplicar abono
+
+    📌 Requisitos:
+    - Sólida ética laboral
+    - Saber qué hacer y limpiar lo que ensucian
+    - Amor por los animales abandonados
+    - Interés en vida rural y orgánica
+
+    ✅ Beneficios:
+    - Vida sencilla en entorno natural
+    - Refugio para perros y gatos abandonados
+    - Actividades variadas según época del año
+    - Trabajo con animales rescatados
+    - Ambiente rural y limpio
+    - Experiencia en granja orgánica
+    - Ayuda a animales necesitados`,
+    imagen: "https://images.pexels.com/photos/947768/pexels-photo-947768.png",
+    sitioWeb: "https://www.helpx.net/host/2144232WF",
+    pais: "Croacia",
+    duracion: "Marzo - noviembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/20021272/pexels-photo-20021272.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 178,
+    categoria: "Voluntariado",
+    titulo: "🌿 Granja orgánica de permacultura en isla - Stari Grad, Croacia",
+    descripcion: `Située sur l'ile de Hvar. Somos una pequeña granja orgánica sobre los principios de permacultura. Una parcela está situada a 15 minutos a pie de Stari Grad, la segunda a 10 km. Lavanda y azafrán en una parcela de 5000 m2 y huerto, árboles frutales y olivares en otra parcela de 4000 m2.
+
+    📌 Tareas principales:
+    - Tareas según las estaciones del año
+    - Trabajos de aménagement en el huerto
+    - Construcción con madera, tierra y paja
+    - Trabajo en el huerto o campo de lavanda y azafrán
+    - Plantación en el huerto, mantenimiento de olivares
+    - Construcción del gallinero
+    - Recolección de lavanda y construcción ecológica
+    - Recolección de olivas y azafrán
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en permacultura
+    - Disposición para trabajo estacional
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Ubicación en isla de Hvar
+    - Principios de permacultura
+    - Dos parcelas: 5000 m2 y 4000 m2
+    - Lavanda, azafrán, olivares y árboles frutales
+    - Alojamiento en casa en invierno, en campo en verano
+    - 5 horas de trabajo por día
+    - Trabajo estacional variado`,
+    imagen: "https://images.pexels.com/photos/1312017/pexels-photo-1312017.jpeg",
+    sitioWeb: "https://www.helpx.net/host/441224PF",
+    pais: "Croacia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1382102/pexels-photo-1382102.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 179,
+    categoria: "Voluntariado",
+    titulo: "🏔️ Santuario de gatos en terreno de montaña - Vis, Croacia",
+    descripcion: `Ahora necesito ayuda para diciembre de 2025 en adelante, un mínimo de un mes. ¿Te encanta el senderismo, acampar, la jardinería y los gatos? Esto podría ser para ti. ¡Fam LGBTQ+ bienvenida!
+
+    📌 Tareas principales:
+    - Cuidado de gatos en santuario
+    - Senderismo y acampada
+    - Jardinería en terreno montañoso
+    - Mantenimiento del terreno
+    - Trabajo en senderos accidentados
+
+    📌 Requisitos:
+    - Disponibilidad diciembre 2025 en adelante
+    - Mínimo un mes de estancia
+    - Equipo obligatorio: zapatos sólidos, mochilas resistentes, linternas frontales
+    - Solo mochileros (NO maletas)
+    - Preferir parejas o amigos que viajen juntos
+    - NO perros permitidos
+
+    ✅ Beneficios:
+    - Santuario para gatos
+    - Terreno a 40 minutos de caminata cuesta arriba
+    - Senderos accidentados y estrechos
+    - Solo accesible a pie
+    - Red de cuidadores de terrenos y gatos
+    - Presencia humana continua
+    - Estaciones definidas según clima local
+    - Experiencia única en montaña`,
+    imagen: "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1013131NP",
+    pais: "Croacia",
+    duracion: "Diciembre 2025 en adelante",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 180,
+    categoria: "Voluntariado",
+    titulo: "🏠 Renovación de casa eslava junto al río - Nardo, Croacia",
+    descripcion: `Renovaremos una antigua casa eslava en un hermoso pueblo llamado Nard, junto al río Drava. Aprenderemos a trabajar la madera con madera cortada en casa y usaremos herramientas eléctricas y manuales que proporcionaré.
+
+    📌 Tareas principales:
+    - Limpiar la casa antigua
+    - Elaborar plan de renovación
+    - Trabajo de carpintería con madera cortada en casa
+    - Uso de herramientas eléctricas y manuales
+    - Proyectos de renovación
+    - Trabajo de unas 4 horas
+
+    📌 Requisitos:
+    - Experiencia en carpintería útil pero no imprescindible
+    - Disposición para trabajo de renovación
+    - Interés en aprender técnicas tradicionales
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Hermoso pueblo junto al río Drava
+    - Aprendizaje de carpintería tradicional
+    - Herramientas proporcionadas
+    - Tiempo libre para descansar, cocinar, nadar
+    - Eventos culturales en Valpovo
+    - Casco antiguo con edificios históricos
+    - Cursos de guitarra y yoga disponibles
+    - Terreno adicional con casa en el bosque
+    - Kayak inflable para 3 personas`,
+    imagen: "https://images.pexels.com/photos/33954649/pexels-photo-33954649.jpeg",
+    sitioWeb: "https://www.helpx.net/host/BHT1GJAQG",
+    pais: "Croacia",
+    duracion: "Todo el año (no invierno)",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/7218525/pexels-photo-7218525.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 181,
+    categoria: "Voluntariado",
+    titulo: "🌱 Finca familiar de permacultura - Vojnić, Croacia",
+    descripcion: `¡Bienvenidos a nuestra finca familiar de permacultura en las verdes colinas de Croacia! Buscamos amantes de la naturaleza que quieran aprender todo sobre cómo llevar una vida sostenible y autosuficiente en el campo.
+
+    📌 Tareas principales:
+    - Primera semana: curso práctico de permacultura y vida sostenible
+    - Profundizar en temas de interés personal
+    - Trabajo en 12 hectáreas de terreno
+    - Desarrollo de paisaje comestible
+    - Construcción de comunidad-aldea
+    - Vida autosuficiente e independiente
+
+    📌 Requisitos:
+    - Estancia de 4 semanas o más
+    - Interés en vida sostenible
+    - Disposición para aprender permacultura
+    - Posibilidad de quedarse "para siempre"
+
+    ✅ Beneficios:
+    - Curso práctico de permacultura por profesora Barbara Scheltus
+    - 12 hectáreas en verdes colinas de Croacia
+    - Estilo de vida sencillo, saludable y holístico
+    - Principios de permacultura
+    - Cuidado de la tierra y el futuro
+    - Compartir abundancia
+    - Visión de comunidad-aldea
+    - Paisaje comestible
+    - Vida más autosuficiente`,
+    imagen: "https://images.pexels.com/photos/33941700/pexels-photo-33941700.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2290117LY",
+    pais: "Croacia",
+    duracion: "Mediados de marzo - julio, septiembre - principios de noviembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/5824520/pexels-photo-5824520.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 182,
+    categoria: "Voluntariado",
+    titulo: "🏡 Transformación de casa de campo familiar - Kirin, Croacia",
+    descripcion: `¡Hola y bienvenidos! Somos una familia que está transformando una casa de campo en Vrginmost, Croacia, en un refugio tranquilo y funcional, rodeado de naturaleza, con espacio para el bienestar, la creatividad y la vida tranquila.
+
+    📌 Tareas principales:
+    - Restaurar el jardín
+    - Construir pequeñas estructuras
+    - Organizar la casa
+    - Cocrear soluciones hermosas y sencillas
+    - Jardinería/paisajismo (quitar hierba silvestre, plantar, compostar)
+    - Construcción básica (madera, materiales ecológicos)
+    - Pintura y tratamiento de la madera
+    - Organización interior (almacenamiento, limpieza)
+
+    📌 Requisitos:
+    - Personas amables, motivadas y prácticas
+    - No necesitas ser profesional
+    - Ser curioso, respetuoso y con ganas de trabajar
+    - Interés en aprender y colaborar
+
+    ✅ Beneficios:
+    - Refugio tranquilo y funcional
+    - Rodeado de naturaleza
+    - Espacio para bienestar y creatividad
+    - Vida tranquila
+    - Experiencia internacional (ascendencia brasileña e italiana)
+    - Vivieron en Irlanda, Reino Unido, España, Alemania, Italia y Portugal
+    - Ambiente familiar acogedor
+    - Proyectos diversos y creativos`,
+    imagen: "https://images.pexels.com/photos/33965021/pexels-photo-33965021.jpeg",
+    sitioWeb: "https://www.helpx.net/host/8VAR28UOZ",
+    pais: "Croacia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/11025279/pexels-photo-11025279.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 
