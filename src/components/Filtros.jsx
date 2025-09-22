@@ -43,6 +43,7 @@ const Filtros = ({ categoriaActiva, setCategoriaActiva, busqueda, setBusqueda, p
     { id: 'suiza', nombre: 'Suiza', bandera: '🇨🇭' },
     { id: 'austria', nombre: 'Austria', bandera: '🇦🇹' },
     { id: 'belgica', nombre: 'Bélgica', bandera: '🇧🇪' },
+    { id: 'bulgaria', nombre: 'Bulgaria', bandera: '🇧🇬' },
     { id: 'australia', nombre: 'Australia', bandera: '🇦🇺' },
     { id: 'colombia', nombre: 'Colombia', bandera: '🇨🇴' },
     { id: 'reino-unido', nombre: 'Reino Unido', bandera: '🇬🇧' },
