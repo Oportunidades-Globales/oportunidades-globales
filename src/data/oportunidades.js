@@ -8454,6 +8454,742 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
     ]
+  },
+  {
+    id: 138,
+    categoria: "Voluntariado",
+    titulo: "🐎 Estancia en granja - Cul-des-Sarts, Bélgica",
+    descripcion: `Somos una familia gay-friendly que busca ayuda en nuestra finca/granja de recreo en las Ardenas belgas. Estamos situados justo en la frontera franco-belga, en un pequeño pueblo rural rodeado de campos y bosques.
+
+    📌 Tareas principales:
+    - Alimentar y mantener caballos, gallinas y perro
+    - Mantenimiento de cercas en propiedad de 4 hectáreas
+    - Ayuda con construcción y renovaciones
+    - Proyectos de bricolaje diversos
+
+    📌 Requisitos:
+    - Preferiblemente hombre (por tipo de trabajo)
+    - Persona motivada y práctica
+    - No se requieren habilidades especiales
+    - Buena actitud y disposición para trabajar
+
+    ✅ Beneficios:
+    - Experiencia en granja en las Ardenas belgas
+    - Ambiente familiar gay-friendly
+    - Ubicación rural rodeada de naturaleza
+    - Oportunidad de aprender habilidades prácticas`,
+    imagen: "https://images.pexels.com/photos/1996330/pexels-photo-1996330.jpeg",
+    sitioWeb: "https://www.helpx.net/host/D67UJAWNR",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1125774/pexels-photo-1125774.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 139,
+    categoria: "Voluntariado",
+    titulo: "🧘 Centro de Auto-Retiro - Vaucelles, Bélgica",
+    descripcion: `Proyecto para construir un Centro de Auto-Retiro donde cada meditador tiene una cabaña privada aislada en el jardín. Vive en un ambiente de silencio y naturaleza.
+
+    📌 Tareas principales:
+    - Construcción y renovación de cabañas
+    - Jardinería y mantenimiento del jardín
+    - Trabajos de construcción y bricolaje
+    - Mantenimiento general del centro
+
+    📌 Requisitos:
+    - Habilidad en construcción o jardinería
+    - Capacidad de trabajar independientemente
+    - Conversación fluida en uno de los 4 idiomas del anfitrión
+    - Ser adulto y responsable
+    - Traer saco de dormir y ropa de trabajo
+
+    ✅ Beneficios:
+    - Ambiente de meditación y silencio
+    - Cabañas privadas en el jardín
+    - Bicicletas disponibles para explorar
+    - Experiencia en construcción sostenible`,
+    imagen: "https://images.pexels.com/photos/1719722/pexels-photo-1719722.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1486596CC",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 140,
+    categoria: "Voluntariado",
+    titulo: "🎓 Academia Libera Mentis - Theux, Bélgica",
+    descripcion: `Somos un grupo de voluntarios que construye una comunidad abierta de educación superior donde el arte, la estética, el movimiento y las conversaciones profundas son tan importantes como el contenido académico.
+
+    📌 Tareas principales:
+    - Renovación y mantenimiento: pintura, decoración, construcción ligera
+    - Jardinería y paisajismo
+    - Proyectos creativos y artísticos: murales, diseño de interiores
+    - Actividades comunitarias y eventos
+
+    📌 Requisitos:
+    - Voluntarios motivados y de mente abierta
+    - Interés en educación y autodescubrimiento
+    - Disposición para trabajar en equipo
+    - Creatividad y habilidades prácticas
+
+    ✅ Beneficios:
+    - Experiencia en educación alternativa
+    - Ambiente artístico y creativo
+    - Ubicación en castillo en las Ardenas
+    - Desarrollo personal e intelectual`,
+    imagen: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800",
+    sitioWeb: "https://www.helpx.net/host/4I41B238E",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 141,
+    categoria: "Voluntariado",
+    titulo: "⛵ Navegación fluvial - Seneffe, Bélgica",
+    descripcion: `Navegación desde Charleroi (Bélgica) hasta Charleville Meziere pasando por Namur, Dînant y Givet. Una experiencia única de navegación fluvial.
+
+    📌 Detalles del viaje:
+    - Ruta: Charleroi → Namur → Dînant → Givet → Charleville Meziere
+    - Salida: 18 de septiembre
+    - Participación en caja de a bordo (comida y alojamiento en puertos)
+    - Duración: Varios días de navegación
+
+    📌 Requisitos:
+    - Interés en navegación fluvial
+    - Disposición para participar en tareas a bordo
+    - Buena actitud y trabajo en equipo
+    - Capacidad de adaptarse a la vida en barco
+
+    ✅ Beneficios:
+    - Experiencia única de navegación fluvial
+    - Recorrido por ciudades históricas belgas y francesas
+    - Aprendizaje sobre navegación
+    - Convivencia en ambiente náutico`,
+    imagen: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
+    sitioWeb: "https://www.helpx.net/host/665UBSE2I",
+    pais: "Bélgica",
+    duracion: "Varios días",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 142,
+    categoria: "Voluntariado",
+    titulo: "🏛️ Centro Cultural Casino - Gompel, Mol, Bélgica",
+    descripcion: `Renovación de un hermoso edificio art déco para convertirlo en un espacio social y cultural en Mol, Bélgica. El edificio Casino (centro comunitario) estuvo abandonado 25 años.
+
+    📌 Tareas principales:
+    - Renovación y restauración del edificio art déco
+    - Trabajos de construcción y decoración
+    - Preparación de espacios comunitarios
+    - Programas para combatir soledad y pobreza
+
+    📌 Requisitos:
+    - Interés en proyectos comunitarios
+    - Disposición para trabajo de renovación
+    - Habilidades prácticas útiles
+    - Compromiso con valores sociales
+
+    ✅ Beneficios:
+    - Experiencia en restauración patrimonial
+    - Contribución a proyecto social comunitario
+    - Ambiente artístico y cultural
+    - Formación en construcción y renovación`,
+    imagen: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    sitioWeb: "https://www.helpx.net/host/G0IVFUU3E",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://media.istockphoto.com/id/507631026/es/foto/old-town-en-europa-en-la-puesta-de-sol-retro-vintage-con-filtro.jpg?b=1&s=612x612&w=0&k=20&c=Rs3_VLrcawWm1fi0_5M9hQQoNsfEXpqaRrzNAg9Fv-Y="
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 143,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa familiar con jardín - Vladslo (Diksmuide), Bélgica",
+    descripcion: `Vivo con mi hijo en una casa que necesita reformas, demoliciones y reconstrucciones. Creamos todo lo posible con materiales reciclados y ecológicos.
+
+    📌 Tareas principales:
+    - Reformas y reconstrucciones de la casa
+    - Trabajos en jardín y permacultura
+    - Uso de materiales reciclados y ecológicos
+    - Cuidado de animales (gatos, gallinas)
+
+    📌 Requisitos:
+    - Interés en construcción ecológica
+    - Disposición para trabajo físico
+    - Amor por la naturaleza y sostenibilidad
+    - Capacidad de trabajar con materiales reciclados
+
+    ✅ Beneficios:
+    - Experiencia en construcción ecológica
+    - Aprendizaje de permacultura
+    - Ambiente familiar y acogedor
+    - Desarrollo de habilidades prácticas`,
+    imagen: "https://images.pexels.com/photos/30697045/pexels-photo-30697045.jpeg",
+    sitioWeb: "https://www.helpx.net/host/481948JN",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 144,
+    categoria: "Voluntariado",
+    titulo: "🌲 Casa con bosque - Hoeilaart, Bélgica",
+    descripcion: `Groenendaal es una hermosa zona montañosa del municipio de Hoeilaart, con preciosas villas antiguas y a solo 2 minutos a pie del extenso bosque de Soignes.
+
+    📌 Tareas principales:
+    - Mantenimiento de jardín y bosque (1,5 hectáreas)
+    - Cortar leña y limpiar plantas
+    - Tareas de limpieza en el interior
+    - Ayuda práctica con tareas del hogar
+
+    📌 Requisitos:
+    - Amor por los perros (tengo dos: Saffran y Kira)
+    - Disposición para trabajo al aire libre
+    - Persona responsable y práctica
+    - Buena actitud y compañía
+
+    ✅ Beneficios:
+    - Ubicación privilegiada cerca del bosque de Soignes
+    - Habitación, baño y aseo privados
+    - Ambiente natural y tranquilo
+    - Experiencia en cuidado de jardines`,
+    imagen: "https://images.pexels.com/photos/28501949/pexels-photo-28501949.jpeg",
+    sitioWeb: "https://www.helpx.net/host/QG8J2JD24",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800",
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 145,
+    categoria: "Voluntariado",
+    titulo: "🐴 Oasis de paz para animales - Paal, Beringen, Bélgica",
+    descripcion: `Creando un 'oasis de paz' para animales y humanos con un enfoque en la naturaleza y la ayuda. Organización sin fines de lucro que comenzará en mayo de 2025.
+
+    📌 Tareas principales:
+    - Cuidado de animales (5 caballos, 2 burros, 2 ovejas, 1 cabra, 2 gallos, 2 perros, 1 gato)
+    - Alimentación y mantenimiento de campos
+    - Compañía a los perros
+    - Trabajo a tiempo parcial
+
+    📌 Requisitos:
+    - Amor por los animales
+    - Estilo de vida basado en plantas (vegetariano/vegano)
+    - Disposición para trabajo con animales
+    - Persona responsable y cariñosa
+
+    ✅ Beneficios:
+    - Experiencia con múltiples especies animales
+    - Ambiente natural y pacífico
+    - Contribución a organización sin fines de lucro
+    - Aprendizaje sobre cuidado animal`,
+    imagen: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    sitioWeb: "https://www.helpx.net/host/1802742NV",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 146,
+    categoria: "Voluntariado",
+    titulo: "🌱 Granja de permacultura - Opbrakel, Brakel, Bélgica",
+    descripcion: `Granja de permacultura en Brakel, Bélgica, con jardín, animales y niños. Ofrecemos la oportunidad de experimentar una vida sencilla en conexión con la naturaleza.
+
+    📌 Tareas principales:
+    - Trabajos en huerto de permacultura
+    - Elaboración de pan de masa madre en horno de leña
+    - Actividades comunitarias (fiestas de pizza, manualidades)
+    - Cuidado de animales y jardín
+
+    📌 Requisitos:
+    - Interés en permacultura y vida sostenible
+    - Disposición para trabajo físico
+    - Amor por la naturaleza
+    - Creatividad en la cocina
+
+    ✅ Beneficios:
+    - Experiencia en permacultura
+    - Aprendizaje de técnicas tradicionales (pan de masa madre)
+    - Ambiente familiar con niños
+    - Contribución a la comunidad local`,
+    imagen: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800",
+    sitioWeb: "https://www.helpx.net/host/1517051MJ",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/732550/pexels-photo-732550.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 147,
+    categoria: "Voluntariado",
+    titulo: "🌺 Huertos orgánicos cerca de Brujas - Zedelgem, Bélgica",
+    descripcion: `Empresa familiar especializada en huertos orgánicos cerca de Brujas, Bélgica. Contamos con una gran variedad de flores, verduras y árboles frutales.
+
+    📌 Tareas principales:
+    - Arar, desherbar, cavar, sembrar, cosechar
+    - Cortar el césped y mover invernaderos
+    - Ayudar a clientes
+    - Mantenimiento general del huerto
+
+    📌 Requisitos:
+    - Ayudantes amables, responsables y simpáticos
+    - Disfrute de la naturaleza y jardinería
+    - Disponibilidad de enero a octubre
+    - Mínimo 15 días de estancia
+    - Horario: 8 horas al día, 3 días a la semana
+
+    ✅ Beneficios:
+    - Alojamiento y comida incluidos
+    - Habitación propia, cocina, lavadora
+    - Internet gratuito
+    - Cerca de Brujas y la costa belga
+    - Exploración de cervezas belgas`,
+    imagen: "https://images.pexels.com/photos/33790878/pexels-photo-33790878.jpeg",
+    sitioWeb: "https://www.helpx.net/host/JQSUKAU3Q",
+    pais: "Bélgica",
+    duracion: "Mínimo 15 días",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/9351346/pexels-photo-9351346.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 148,
+    categoria: "Voluntariado",
+    titulo: "🏭 Fábrica de Ideas - Herent, Lovaina, Bélgica",
+    descripcion: `Comunidad con más de 30 años de experiencia conocida como "Fábrica de Ideas". Actualmente viven entre 15 y 20 personas en Herent, cerca de Lovaina y Bruselas.
+
+    📌 Tareas principales:
+    - Trabajos comunitarios diversos
+    - Proyectos creativos y artísticos
+    - Mantenimiento del espacio comunitario
+    - Actividades educativas y culturales
+
+    📌 Requisitos:
+    - Respeto por la diversidad y el medio ambiente
+    - Disposición para vida comunitaria
+    - Creatividad y mente abierta
+    - Responsabilidad personal
+
+    ✅ Beneficios:
+    - Experiencia en vida comunitaria
+    - Ambiente multicultural y creativo
+    - Cerca de Lovaina y Bruselas
+    - Participación en proyectos internacionales`,
+    imagen: "https://images.pexels.com/photos/325521/pexels-photo-325521.jpeg",
+    sitioWeb: "https://www.helpx.net/host/331592TP",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/708440/pexels-photo-708440.jpeg"  
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 149,
+    categoria: "Voluntariado",
+    titulo: "🍺 Castillo de Cerveceros - Alveringem, Bélgica",
+    descripcion: `Bienvenido a nuestro Castillo de Cerveceros y a nuestra comunidad para enriquecer tus viajes. Ubicados en un pequeño sitio fluvial (Dode Ijzer) en un pequeño castillo.
+
+    📌 Tareas principales:
+    - Aprendizaje sobre elaboración de cerveza y malteado
+    - Renovaciones patrimoniales de edificios
+    - Agricultura orgánica y manejo del agua
+    - Trabajos de mantenimiento del castillo
+
+    📌 Requisitos:
+    - Interés en elaboración de cerveza
+    - Disposición para aprender
+    - Respeto por la naturaleza
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Habitaciones individuales y dobles espaciosas
+    - Aprendizaje sobre cervecería
+    - Cerca de Brujas, Gante, norte de Francia
+    - Estación de tren a 10 minutos
+    - Posibilidad de reembolso de costos`,
+    imagen: "https://images.pexels.com/photos/3358880/pexels-photo-3358880.png",
+    sitioWeb: "https://www.helpx.net/host/62AZVUD47",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1055068/pexels-photo-1055068.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 150,
+    categoria: "Voluntariado",
+    titulo: "🏗️ Construcción ecológica - Baal, Tremelo, Bélgica",
+    descripcion: `Construcción ecológica en Bélgica. Estamos construyendo una ampliación de nuestra casa con balas de paja y una estructura de madera.
+
+    📌 Tareas principales:
+    - Construcción con balas de paja
+    - Trabajos con estructura de madera
+    - Proyectos de construcción ecológica
+    - Trabajos de acabado
+
+    📌 Requisitos:
+    - Interés en construcción ecológica
+    - Disposición para trabajo físico
+    - Buena actitud y trabajo en equipo
+    - Disponibilidad mayo a octubre
+
+    ✅ Beneficios:
+    - Aprendizaje de técnicas de construcción ecológica
+    - Alojamiento en caravana o tienda
+    - Todas las comidas incluidas
+    - Ambiente familiar con 4 hijos
+    - Horario de trabajo por las mañanas`,
+    imagen: "https://images.pexels.com/photos/8817846/pexels-photo-8817846.jpeg",
+    sitioWeb: "https://www.helpx.net/host/685134DE",
+    pais: "Bélgica",
+    duracion: "Mínimo 2 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 151,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa familiar con arreglos - Middelkerke, Bélgica",
+    descripcion: `Persona curiosa interesada en muchas cosas. Hice teatro y me gusta escribir. Trabajé con niños pequeños en talleres de poesía y teatro.
+
+    📌 Tareas principales:
+    - Pequeños arreglos en la casa
+    - Instalación de timbres nuevos
+    - Pintura y trabajos de mantenimiento
+    - Tareas domésticas básicas
+
+    📌 Requisitos:
+    - Persona un poco manitas (no profesional necesario)
+    - Trabajar unas horas al día
+    - Buena actitud y responsabilidad
+    - Interés en compartir tiempo libre
+
+    ✅ Beneficios:
+    - Habitación aparte y comida
+    - Compartir tiempo libre juntos
+    - Privacidad respetada
+    - Paseos y actividades culturales
+    - Ambiente creativo y artístico`,
+    imagen: "https://images.pexels.com/photos/1608117/pexels-photo-1608117.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2166287RP",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1909014/pexels-photo-1909014.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 152,
+    categoria: "Voluntariado",
+    titulo: "⛵ Velero en lago - Walcourt, Bélgica",
+    descripcion: `Soy antropólogo, músico y propietario de un velero en el lago más grande de Bélgica. Me gustaría compartir mi hogar, conocimientos, vida diaria y trabajo.
+
+    📌 Tareas principales:
+    - Reparar velero
+    - Limpiar casa
+    - Trabajos de bricolaje
+    - Traducir textos, cocinar
+    - Compartir música o conocimientos artísticos
+
+    📌 Requisitos:
+    - Relación pacífica y respetuosa
+    - Interés en música y arte
+    - Disposición para trabajo variado
+    - Buena comunicación
+
+    ✅ Beneficios:
+    - Lugar cómodo para dormir
+    - Comida orgánica cocinada juntos
+    - Intercambio cultural y musical
+    - Ubicación en lago más grande de Bélgica
+    - Ambiente creativo y relajado`,
+    imagen: "https://images.pexels.com/photos/33987108/pexels-photo-33987108.jpeg",
+    sitioWeb: "https://www.helpx.net/host/MZQYO5XKH",
+    pais: "Bélgica",
+    duracion: "Máximo 2 semanas",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33986457/pexels-photo-33986457.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 153,
+    categoria: "Voluntariado",
+    titulo: "🚴 Casa en las Ardenas flamencas - Elst, Bélgica",
+    descripcion: `Stein y Thamy con su pequeña hija Otte viven en Elst, en las Ardenas flamencas. Compramos una casita con gran jardín en septiembre de 2021.
+
+    📌 Tareas principales:
+    - Trabajos en casa y jardín
+    - Construcción y renovación
+    - Mantenimiento del terreno
+    - Proyectos de bosque de alimentos
+
+    📌 Requisitos:
+    - Disposición para trabajo físico
+    - Interés en construcción y jardinería
+    - Buena actitud y motivación
+    - Disponibilidad primavera a otoño
+
+    ✅ Beneficios:
+    - Ubicación en zona natural preciosa
+    - Mucha naturaleza para pasear o montar en bicicleta
+    - Región conocida por competición ciclista
+    - Ambiente familiar con hija pequeña
+    - Proyecto de bosque de alimentos`,
+    imagen: "https://images.pexels.com/photos/17501996/pexels-photo-17501996.jpeg",
+    sitioWeb: "https://www.helpx.net/host/QZ6S2RISX",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/15443161/pexels-photo-15443161.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 154,
+    categoria: "Voluntariado",
+    titulo: "🐴 Granja orgánica cerca de Bruselas - Opwijk, Bélgica",
+    descripcion: `Buscamos una pareja con experiencia en bricolaje. Vivimos en una casa a 20 km de Bruselas (fácilmente accesible en tren).
+
+    📌 Tareas principales:
+    - Limpieza y pequeños trabajos en casa
+    - Jardinería y pintura
+    - Cuidado de animales: caballos, burros, perros
+    - Manejo de motosierras y traer leña
+    - Trabajos de electricidad
+
+    📌 Requisitos:
+    - Pareja con experiencia en bricolaje
+    - Ganas de trabajar y ser práctico
+    - No tener miedo a los animales
+    - No fumar ni consumir drogas
+    - Carnet de conducir útil (pero no esencial)
+
+    ✅ Beneficios:
+    - Lugar tranquilo y silencioso
+    - Fácil acceso a Bruselas en tren
+    - Dormitorio y baño propios
+    - Hablamos inglés, francés, flamenco e italiano
+    - Clases de francés disponibles`,
+    imagen: "https://images.pexels.com/photos/28549034/pexels-photo-28549034.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1861131DC",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/7227495/pexels-photo-7227495.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 155,
+    categoria: "Voluntariado",
+    titulo: "🏡 Casa de campo de 200 años - Haspengouw, Bilzen-Hoeselt, Bélgica",
+    descripcion: `Ayúdanos a renovar nuestra encantadora casa de campo de 200 años en las ondulantes colinas de Haspengouw (Bélgica).
+
+    📌 Tareas principales:
+    - Restauración de paredes de arcilla
+    - Reparación de suelos de madera en el ático
+    - Trabajos básicos de carpintería
+    - Jardinería y mantenimiento
+
+    📌 Requisitos:
+    - Una o dos personas entusiastas
+    - Aproximadamente 4 horas al día
+    - Horarios flexibles
+    - Disposición para trabajos de renovación
+
+    ✅ Beneficios:
+    - Alojamiento en tienda de campaña o ático
+    - Acceso a cocina funcional, baño, ducha, lavadora
+    - Wifi disponible
+    - Cenas compartidas
+    - Exploración de hermosa región de Haspengouw`,
+    imagen: "https://images.pexels.com/photos/1123876/pexels-photo-1123876.jpeg",
+    sitioWeb: "https://www.helpx.net/host/TQCBU4IL2",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/878873/pexels-photo-878873.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 156,
+    categoria: "Voluntariado",
+    titulo: "🌿 Jardines en Flandes - Sinaí, Bélgica",
+    descripcion: `Bienvenido a nuestro pequeño rincón del mundo en Flandes, Bélgica! Cuidando de mi anciano padre y de nuestros hermosos jardines.
+
+    📌 Tareas principales:
+    - Cuidado de jardines (desherbar, podar, cortar césped)
+    - Mantenimiento general del jardín
+    - Trabajo al aire libre
+    - Compañía y apoyo
+
+    📌 Requisitos:
+    - Gustar ensuciarse las manos
+    - Disfrutar del trabajo al aire libre
+    - Persona responsable y cariñosa
+    - Interés en jardinería
+
+    ✅ Beneficios:
+    - Dos opciones de alojamiento disponibles
+    - Hogar acogedor con cuatro hijos adultos
+    - Jardín soleado y piscina
+    - Cuatro gatos amigables
+    - Entorno tranquilo para caminar y andar en bicicleta`,
+    imagen: "https://images.pexels.com/photos/59321/pexels-photo-59321.jpeg",
+    sitioWeb: "https://www.helpx.net/host/JIZYNURZO",
+    pais: "Bélgica",
+    duracion: "Semanas o meses",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/212942/pexels-photo-212942.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 157,
+    categoria: "Voluntariado",
+    titulo: "🌍 Familia viajera internacional - Gingelom, Bélgica",
+    descripcion: `Matías creció en Argentina y Marleen en Bélgica. Hemos viajado por el mundo: Matías navega como oficial de la marina mercante y Marleen trabaja en turismo.
+
+    📌 Tareas principales:
+    - Trabajos en jardín y huerto orgánico
+    - Cuidado de animales (7 gallinas, 1 gallo, 2 gatos)
+    - Mantenimiento de la casa
+    - Actividades familiares
+
+    📌 Requisitos:
+    - Interés en vida sostenible
+    - Amor por la naturaleza
+    - Disposición para trabajo en equipo
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Espaciosa casa en pueblo rural
+    - Amplio jardín de casi 2000 m²
+    - Árboles frutales y huerto orgánico
+    - Gran estanque natural
+    - Excelentes conexiones de tren (Ámsterdam, París, Londres, Colonia)
+    - Ambiente familiar multicultural`,
+    imagen: "https://images.pexels.com/photos/10431338/pexels-photo-10431338.jpeg",
+    sitioWeb: "https://www.helpx.net/host/8GNQOU6NY",
+    pais: "Bélgica",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33587214/pexels-photo-33587214.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 

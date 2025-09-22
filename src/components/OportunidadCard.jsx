@@ -68,7 +68,17 @@ const OportunidadCard = ({ oportunidad }) => {
     console.log('Haciendo clic en Ver más detalles para oportunidad:', oportunidad.id);
     try {
       // Guardar la posición actual de scroll antes de navegar
-      sessionStorage.setItem('oportunidadesScrollPosition', window.scrollY.toString());
+      const currentPosition = window.scrollY;
+      sessionStorage.setItem('oportunidadesScrollPosition', currentPosition.toString());
+      
+      // Guardar información sobre la oportunidad para cargar las necesarias al regresar
+      sessionStorage.setItem('oportunidadTarget', JSON.stringify({
+        id: oportunidad.id,
+        titulo: oportunidad.titulo
+      }));
+      
+      console.log('Guardando posición de scroll:', currentPosition);
+      console.log('Guardando oportunidad target:', oportunidad.id);
       navigate(`/oportunidad/${oportunidad.id}`);
       console.log('Navegando a:', `/oportunidad/${oportunidad.id}`);
     } catch (error) {

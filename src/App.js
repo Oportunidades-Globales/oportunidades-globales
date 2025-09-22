@@ -24,6 +24,7 @@ import DetalleArticulo from './components/DetalleArticulo';
 function AppContent() {
   const [categoriaActiva, setCategoriaActiva] = useState('todas');
   const [busqueda, setBusqueda] = useState('');
+  const [paisActivo, setPaisActivo] = useState('todos');
   const location = useLocation();
 
   // Google Analytics - Tracking ID real
@@ -45,6 +46,20 @@ function AppContent() {
     }
   }, [location.state]);
 
+  // Ir al inicio cuando se navega a la página principal desde artículos
+  useEffect(() => {
+    if (location.pathname === '/') {
+      // Verificar si viene desde artículos (sessionStorage limpio significa que viene desde artículos)
+      const articlesScrollPosition = sessionStorage.getItem('articlesScrollPosition');
+      const cameFromArticle = sessionStorage.getItem('cameFromArticle');
+      
+      // Si no hay datos de artículos en sessionStorage, ir al inicio
+      if (!articlesScrollPosition && !cameFromArticle) {
+        window.scrollTo(0, 0);
+      }
+    }
+  }, [location.pathname]);
+
   return (
     <>
       <GoogleAnalytics trackingId={GA_TRACKING_ID} />
@@ -59,10 +74,13 @@ function AppContent() {
         setCategoriaActiva={setCategoriaActiva}
         busqueda={busqueda}
         setBusqueda={setBusqueda}
+        paisActivo={paisActivo}
+        setPaisActivo={setPaisActivo}
       />
       <ListaOportunidades 
         categoriaActiva={categoriaActiva}
         busqueda={busqueda}
+        paisActivo={paisActivo}
       />
       <ArticulosDestacados />
       <SeccionEducativa />

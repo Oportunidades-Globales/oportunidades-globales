@@ -1,7 +1,46 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import RedesSociales from './RedesSociales';
 
 const Footer = () => {
+  const navigate = useNavigate();
+
+  // Función para manejar la navegación guardando la posición de scroll
+  const handleNavigation = (path) => {
+    // Guardar la posición actual de scroll
+    const currentPosition = window.scrollY;
+    sessionStorage.setItem('footerScrollPosition', currentPosition.toString());
+    console.log('Guardando posición de scroll del footer:', currentPosition);
+    navigate(path);
+  };
+
+  // Función helper para restaurar posición del footer al regresar
+  const restoreFooterPosition = () => {
+    const footerPosition = sessionStorage.getItem('footerScrollPosition');
+    if (footerPosition) {
+      navigate('/');
+      setTimeout(() => {
+        window.scrollTo({
+          top: parseInt(footerPosition, 10),
+          behavior: 'smooth'
+        });
+        sessionStorage.removeItem('footerScrollPosition');
+      }, 100);
+    } else {
+      navigate('/');
+    }
+  };
+
+  // Exportar la función para usar en otros componentes
+  window.restoreFooterPosition = restoreFooterPosition;
+
+  // Función para gestionar cookies (especial)
+  const handleManageCookies = () => {
+    // Mostrar el banner de cookies nuevamente
+    localStorage.removeItem('cookieConsent');
+    localStorage.removeItem('cookieConsentDate');
+    window.location.reload();
+  };
 
   return (
     <footer className="bg-gray-900 text-white">
@@ -69,36 +108,31 @@ const Footer = () => {
           </p>
           <div className="mt-2 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm text-gray-400">
             <button 
-              onClick={() => window.location.href = '/politica-privacidad'}
+              onClick={() => handleNavigation('/politica-privacidad')}
               className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               Política de Privacidad
             </button>
             <button 
-              onClick={() => window.location.href = '/terminos-servicio'}
+              onClick={() => handleNavigation('/terminos-servicio')}
               className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               Términos de Servicio
             </button>
             <button 
-              onClick={() => window.location.href = '/cookies'}
+              onClick={() => handleNavigation('/cookies')}
               className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               Cookies
             </button>
             <button 
-              onClick={() => window.location.href = '/quienes-somos'}
+              onClick={() => handleNavigation('/quienes-somos')}
               className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               ¿Quiénes somos?
             </button>
             <button 
-              onClick={() => {
-                // Mostrar el banner de cookies nuevamente
-                localStorage.removeItem('cookieConsent');
-                localStorage.removeItem('cookieConsentDate');
-                window.location.reload();
-              }}
+              onClick={handleManageCookies}
               className="hover:text-white transition-colors duration-200 cursor-pointer whitespace-nowrap"
             >
               Gestionar Cookies

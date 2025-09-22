@@ -3,16 +3,20 @@ import OportunidadCard from './OportunidadCard';
 import GoogleAds from './GoogleAds';
 import { oportunidades } from '../data/oportunidades';
 
-const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
+const ListaOportunidades = ({ categoriaActiva, busqueda, paisActivo }) => {
   const [oportunidadesMostradas, setOportunidadesMostradas] = useState(51);
   const OPPORTUNIDADES_POR_CARGA = 51;
 
-  // Filtrar oportunidades según categoría y búsqueda
+  // Filtrar oportunidades según categoría, país y búsqueda
   const oportunidadesFiltradas = React.useMemo(() => {
     return oportunidades.filter(oportunidad => {
       // Filtro por categoría
       const coincideCategoria = categoriaActiva === 'todas' || 
         (oportunidad.categoria && oportunidad.categoria.toLowerCase() === categoriaActiva.toLowerCase());
+      
+      // Filtro por país
+      const coincidePais = paisActivo === 'todos' || 
+        (oportunidad.pais && oportunidad.pais.toLowerCase().replace(/\s+/g, '-') === paisActivo);
       
       // Filtro por búsqueda
       const coincideBusqueda = !busqueda || busqueda.trim() === '' || 
@@ -20,9 +24,9 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
         (oportunidad.descripcion && oportunidad.descripcion.toLowerCase().includes(busqueda.toLowerCase())) ||
         (oportunidad.pais && oportunidad.pais.toLowerCase().includes(busqueda.toLowerCase()));
 
-      return coincideCategoria && coincideBusqueda;
+      return coincideCategoria && coincidePais && coincideBusqueda;
     });
-  }, [categoriaActiva, busqueda]);
+  }, [categoriaActiva, paisActivo, busqueda]);
 
   // Obtener solo las oportunidades que se deben mostrar
   const oportunidadesParaMostrar = React.useMemo(() => {
@@ -42,17 +46,130 @@ const ListaOportunidades = ({ categoriaActiva, busqueda }) => {
   // Verificar si hay más oportunidades para cargar
   const hayMasOportunidades = oportunidadesMostradas < oportunidadesFiltradas.length;
 
-  // Restaurar posición de scroll cuando se regresa desde una oportunidad
+  // Restaurar posición de scroll cuando se regresa desde una oportunidad o página del footer
   useEffect(() => {
     const savedPosition = sessionStorage.getItem('oportunidadesScrollPosition');
-    if (savedPosition) {
+    const savedTarget = sessionStorage.getItem('oportunidadTarget');
+    const footerPosition = sessionStorage.getItem('footerScrollPosition');
+    
+    // Priorizar posición de oportunidades si existe
+    if (savedPosition && savedTarget) {
       const position = parseInt(savedPosition, 10);
-      setTimeout(() => {
-        window.scrollTo(0, position);
+      const targetInfo = JSON.parse(savedTarget);
+      
+      console.log('Restaurando posición de scroll:', position);
+      console.log('Oportunidad target:', targetInfo);
+      
+      // Encontrar el índice de la oportunidad target
+      const targetIndex = oportunidadesFiltradas.findIndex(op => op.id === targetInfo.id);
+      
+      if (targetIndex !== -1) {
+        // Calcular cuántas oportunidades necesitamos cargar para incluir la target
+        const oportunidadesNecesarias = Math.max(targetIndex + 1, 51);
+        
+        console.log('Índice de oportunidad target:', targetIndex);
+        console.log('Oportunidades necesarias:', oportunidadesNecesarias);
+        
+        // Cargar las oportunidades necesarias
+        if (oportunidadesNecesarias > oportunidadesMostradas) {
+          setOportunidadesMostradas(oportunidadesNecesarias);
+          console.log('Cargando oportunidades hasta:', oportunidadesNecesarias);
+        }
+      }
+      
+      // Función para restaurar posición
+      const restoreScroll = () => {
+        window.scrollTo({
+          top: position,
+          behavior: 'smooth'
+        });
         sessionStorage.removeItem('oportunidadesScrollPosition');
-      }, 100);
+        sessionStorage.removeItem('oportunidadTarget');
+      };
+
+      // Intentar restaurar después de un delay para que se carguen las oportunidades
+      const handleLoad = () => {
+        setTimeout(restoreScroll, 300);
+      };
+      
+      // Detectar cuando el usuario regresa a la página (navegador back button)
+      const handlePageShow = (event) => {
+        if (event.persisted) {
+          setTimeout(restoreScroll, 200);
+        }
+      };
+      
+      window.addEventListener('load', handleLoad);
+      window.addEventListener('pageshow', handlePageShow);
+      
+      // Cleanup
+      return () => {
+        window.removeEventListener('load', handleLoad);
+        window.removeEventListener('pageshow', handlePageShow);
+      };
+    } else if (footerPosition) {
+      // Manejar posición del footer
+      const position = parseInt(footerPosition, 10);
+      console.log('Restaurando posición de scroll del footer:', position);
+      
+      // Función para restaurar posición del footer
+      const restoreFooterScroll = () => {
+        window.scrollTo({
+          top: position,
+          behavior: 'smooth'
+        });
+        sessionStorage.removeItem('footerScrollPosition');
+      };
+
+      // Intentar restaurar después de un delay
+      const handleLoad = () => {
+        setTimeout(restoreFooterScroll, 100);
+      };
+      
+      // Detectar cuando el usuario regresa a la página (navegador back button)
+      const handlePageShow = (event) => {
+        if (event.persisted) {
+          setTimeout(restoreFooterScroll, 50);
+        }
+      };
+      
+      window.addEventListener('load', handleLoad);
+      window.addEventListener('pageshow', handlePageShow);
+      
+      // Cleanup
+      return () => {
+        window.removeEventListener('load', handleLoad);
+        window.removeEventListener('pageshow', handlePageShow);
+      };
     }
-  }, []);
+  }, [oportunidadesFiltradas, oportunidadesMostradas]);
+
+  // Efecto separado para restaurar scroll después de que se carguen las oportunidades
+  useEffect(() => {
+    const savedPosition = sessionStorage.getItem('oportunidadesScrollPosition');
+    const savedTarget = sessionStorage.getItem('oportunidadTarget');
+    
+    if (savedPosition && savedTarget) {
+      const position = parseInt(savedPosition, 10);
+      const targetInfo = JSON.parse(savedTarget);
+      
+      // Verificar si la oportunidad target ya está visible
+      const targetIndex = oportunidadesFiltradas.findIndex(op => op.id === targetInfo.id);
+      const isTargetVisible = targetIndex !== -1 && targetIndex < oportunidadesMostradas;
+      
+      if (isTargetVisible) {
+        console.log('Oportunidad target ya visible, restaurando scroll');
+        setTimeout(() => {
+          window.scrollTo({
+            top: position,
+            behavior: 'smooth'
+          });
+          sessionStorage.removeItem('oportunidadesScrollPosition');
+          sessionStorage.removeItem('oportunidadTarget');
+        }, 100);
+      }
+    }
+  }, [oportunidadesMostradas, oportunidadesFiltradas]);
 
   // Mensaje cuando no hay resultados
   if (oportunidadesFiltradas.length === 0) {

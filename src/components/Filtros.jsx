@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { categorias } from '../data/oportunidades';
 
-const Filtros = ({ categoriaActiva, setCategoriaActiva, busqueda, setBusqueda }) => {
+const Filtros = ({ categoriaActiva, setCategoriaActiva, busqueda, setBusqueda, paisActivo, setPaisActivo }) => {
   const [searchTerm, setSearchTerm] = useState(busqueda);
 
   // Debounce para la búsqueda
@@ -24,11 +24,36 @@ const Filtros = ({ categoriaActiva, setCategoriaActiva, busqueda, setBusqueda })
     setBusqueda('');
   };
 
+  const handlePaisChange = (pais) => {
+    setPaisActivo(pais);
+  };
+
   const clearFilters = () => {
     setCategoriaActiva('todas');
+    setPaisActivo('todos');
     setSearchTerm('');
     setBusqueda('');
   };
+
+  // Lista de países que tienen oportunidades registradas
+  const paises = [
+    { id: 'todos', nombre: 'Todos los países', bandera: '🌍' },
+    { id: 'estados-unidos', nombre: 'Estados Unidos', bandera: '🇺🇸' },
+    { id: 'nueva-zelanda', nombre: 'Nueva Zelanda', bandera: '🇳🇿' },
+    { id: 'suiza', nombre: 'Suiza', bandera: '🇨🇭' },
+    { id: 'austria', nombre: 'Austria', bandera: '🇦🇹' },
+    { id: 'belgica', nombre: 'Bélgica', bandera: '🇧🇪' },
+    { id: 'australia', nombre: 'Australia', bandera: '🇦🇺' },
+    { id: 'colombia', nombre: 'Colombia', bandera: '🇨🇴' },
+    { id: 'reino-unido', nombre: 'Reino Unido', bandera: '🇬🇧' },
+    { id: 'albania', nombre: 'Albania', bandera: '🇦🇱' },
+    { id: 'mexico', nombre: 'México', bandera: '🇲🇽' },
+    { id: 'china', nombre: 'China', bandera: '🇨🇳' },
+    { id: 'arabia-saudita', nombre: 'Arabia Saudita', bandera: '🇸🇦' },
+    { id: 'españa', nombre: 'España', bandera: '🇪🇸' },
+    { id: 'singapur', nombre: 'Singapur', bandera: '🇸🇬' },
+    { id: 'chile', nombre: 'Chile', bandera: '🇨🇱' }
+  ];
 
   return (
     <section className="bg-white py-12 border-b">
@@ -70,6 +95,33 @@ const Filtros = ({ categoriaActiva, setCategoriaActiva, busqueda, setBusqueda })
           </div>
         </div>
 
+        {/* Filtro por país */}
+        <div className="max-w-md mx-auto mb-8">
+          <div className="relative">
+            <select
+              value={paisActivo}
+              onChange={(e) => handlePaisChange(e.target.value)}
+              className="block w-full pl-10 pr-10 py-3 border border-gray-300 rounded-lg leading-5 bg-white focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500 appearance-none cursor-pointer"
+            >
+              {paises.map((pais) => (
+                <option key={pais.id} value={pais.id}>
+                  {pais.bandera} {pais.nombre}
+                </option>
+              ))}
+            </select>
+            <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+              <svg className="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <div className="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
+              <svg className="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+            </div>
+          </div>
+        </div>
+
         {/* Filtros por categoría */}
         <div className="flex flex-wrap justify-center gap-3 mb-6">
           {categorias.map((categoria) => (
@@ -88,7 +140,7 @@ const Filtros = ({ categoriaActiva, setCategoriaActiva, busqueda, setBusqueda })
         </div>
 
         {/* Botón para limpiar filtros */}
-        {(categoriaActiva !== 'todas' || searchTerm) && (
+        {(categoriaActiva !== 'todas' || paisActivo !== 'todos' || searchTerm) && (
           <div className="text-center mb-6">
             <button
               onClick={clearFilters}

@@ -1,8 +1,13 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 const PoliticaPrivacidad = () => {
   const navigate = useNavigate();
+
+  // Scroll al inicio cuando se carga la página
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -12,7 +17,14 @@ const PoliticaPrivacidad = () => {
           <div className="flex items-center justify-between">
             {/* Botón de navegación a la izquierda */}
             <button 
-              onClick={() => navigate('/')}
+              onClick={() => {
+                // Usar función helper para restaurar posición del footer
+                if (window.restoreFooterPosition) {
+                  window.restoreFooterPosition();
+                } else {
+                  navigate('/');
+                }
+              }}
               className="flex items-center text-gray-600 hover:text-gray-900 transition-colors"
             >
               <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -24,7 +36,13 @@ const PoliticaPrivacidad = () => {
 
             {/* En móvil: Logo y branding a la derecha */}
             <button 
-              onClick={() => navigate('/')}
+              onClick={() => {
+                if (window.restoreFooterPosition) {
+                  window.restoreFooterPosition();
+                } else {
+                  navigate('/');
+                }
+              }}
               className="flex sm:hidden items-center space-x-2 hover:opacity-80 transition-opacity"
             >
               <img 
@@ -37,7 +55,13 @@ const PoliticaPrivacidad = () => {
 
             {/* En desktop: Logo centrado y clickeable */}
             <button 
-              onClick={() => navigate('/')}
+              onClick={() => {
+                if (window.restoreFooterPosition) {
+                  window.restoreFooterPosition();
+                } else {
+                  navigate('/');
+                }
+              }}
               className="hidden sm:flex items-center space-x-3 hover:opacity-80 transition-opacity"
             >
               <img 

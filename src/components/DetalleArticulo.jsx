@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import GoogleAds from './GoogleAds';
+import { getArticuloById } from '../data/articulos';
 
 const DetalleArticulo = () => {
   const { id } = useParams();
@@ -11,8 +12,11 @@ const DetalleArticulo = () => {
     window.scrollTo(0, 0);
   }, [id]);
 
+  // Obtener artículo desde la base de datos centralizada
+  const articulo = getArticuloById(id);
+  
   // Base de datos de artículos con contenido completo
-  const articulos = {
+  const articulosCompletos = {
     1: {
       id: 1,
       titulo: "15 Errores Críticos que Cometen los Estudiantes Latinoamericanos al Aplicar a Universidades Internacionales",
@@ -1056,7 +1060,7 @@ const DetalleArticulo = () => {
       fecha: "2025-09-14",
       categoria: "Idiomas",
       tiempoLectura: "12 min",
-      imagen: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      imagen: "https://images.pexels.com/photos/27240871/pexels-photo-27240871.jpeg",
       contenido: `
         <p>Los requisitos de idiomas son uno de los aspectos más críticos para estudiar en el extranjero. Cada país y universidad tiene sus propios estándares y certificaciones aceptadas. Esta guía te ayudará a entender exactamente qué necesitas según tu destino académico.</p>
         
@@ -1477,17 +1481,1170 @@ const DetalleArticulo = () => {
         
         <p>Recuerda que tu CV es un documento vivo que debe evolucionar con tu carrera. Manténlo actualizado, solicita feedback regularmente y no dudes en adaptarlo para diferentes oportunidades y mercados.</p>
       `
-    }
+    },
+    13: {
+      id: 13,
+      titulo: "Pruebas de Admisión Internacional: SAT, ACT, GRE, GMAT y IELTS - Guía Completa 2025",
+      resumen: "Manual exhaustivo de todas las pruebas estandarizadas requeridas para aplicaciones internacionales. Incluye estrategias de preparación, fechas de exámenes y consejos para maximizar puntuaciones.",
+      fecha: "2025-09-22",
+      categoria: "Exámenes",
+      tiempoLectura: "14 min",
+      imagen: "https://images.pexels.com/photos/4778424/pexels-photo-4778424.jpeg",
+      contenido: `
+        <p>Las pruebas estandarizadas son una parte crucial del proceso de admisión internacional. En 2025, más del 85% de las universidades top requieren al menos una de estas pruebas como parte de su proceso de evaluación.</p>
+        
+        <p>Este manual te guiará a través de todas las pruebas principales, sus formatos, estrategias de preparación y consejos específicos para maximizar tus puntuaciones.</p>
+
+        <h2>SAT (Scholastic Assessment Test)</h2>
+        
+        <h3>Estructura del Examen</h3>
+        <p>El SAT evalúa tres áreas principales:</p>
+        <ul>
+          <li><strong>Reading & Writing:</strong> 64 preguntas, 64 minutos</li>
+          <li><strong>Math:</strong> 44 preguntas, 70 minutos</li>
+          <li><strong>Essay (opcional):</strong> 50 minutos</li>
+        </ul>
+        
+        <h3>Puntuación y Requisitos</h3>
+        <p>La puntuación total va de 400 a 1600 puntos. Las universidades top generalmente requieren:</p>
+        <ul>
+          <li>Universidades Ivy League: 1450+ puntos</li>
+          <li>Universidades top públicas: 1300+ puntos</li>
+          <li>Universidades de nivel medio: 1200+ puntos</li>
+        </ul>
+
+        <h2>ACT (American College Testing)</h2>
+        
+        <h3>Estructura del Examen</h3>
+        <p>El ACT evalúa cuatro áreas:</p>
+        <ul>
+          <li><strong>English:</strong> 75 preguntas, 45 minutos</li>
+          <li><strong>Math:</strong> 60 preguntas, 60 minutos</li>
+          <li><strong>Reading:</strong> 40 preguntas, 35 minutos</li>
+          <li><strong>Science:</strong> 40 preguntas, 35 minutos</li>
+        </ul>
+        
+        <h3>Comparación SAT vs ACT</h3>
+        <p>Elige el SAT si:</p>
+        <ul>
+          <li>Eres fuerte en matemáticas y análisis de datos</li>
+          <li>Prefieres más tiempo por pregunta</li>
+          <li>Tienes habilidades de lectura crítica</li>
+        </ul>
+        
+        <p>Elige el ACT si:</p>
+        <ul>
+          <li>Eres fuerte en ciencias</li>
+          <li>Prefieres exámenes más directos</li>
+          <li>Tienes buena velocidad de trabajo</li>
+        </ul>
+
+        <h2>GRE (Graduate Record Examination)</h2>
+        
+        <h3>Estructura del Examen</h3>
+        <p>El GRE evalúa habilidades para estudios de posgrado:</p>
+        <ul>
+          <li><strong>Verbal Reasoning:</strong> 40 preguntas, 60 minutos</li>
+          <li><strong>Quantitative Reasoning:</strong> 40 preguntas, 70 minutos</li>
+          <li><strong>Analytical Writing:</strong> 2 ensayos, 60 minutos</li>
+        </ul>
+        
+        <h3>Puntuaciones por Programa</h3>
+        <p>Requisitos típicos por área de estudio:</p>
+        <ul>
+          <li><strong>Ingeniería:</strong> Quant 160+, Verbal 150+</li>
+          <li><strong>Humanidades:</strong> Verbal 160+, Quant 150+</li>
+          <li><strong>Negocios:</strong> Ambos 155+</li>
+        </ul>
+
+        <h2>GMAT (Graduate Management Admission Test)</h2>
+        
+        <h3>Estructura del Examen</h3>
+        <p>El GMAT evalúa habilidades para programas MBA:</p>
+        <ul>
+          <li><strong>Analytical Writing Assessment:</strong> 30 minutos</li>
+          <li><strong>Integrated Reasoning:</strong> 30 minutos</li>
+          <li><strong>Quantitative:</strong> 62 minutos</li>
+          <li><strong>Verbal:</strong> 65 minutos</li>
+        </ul>
+        
+        <h3>Puntuaciones MBA</h3>
+        <p>Requisitos para escuelas de negocios top:</p>
+        <ul>
+          <li>Top 10 escuelas: 720+ puntos</li>
+          <li>Top 25 escuelas: 680+ puntos</li>
+          <li>Escuelas regionales: 600+ puntos</li>
+        </ul>
+
+        <h2>IELTS (International English Language Testing System)</h2>
+        
+        <h3>Estructura del Examen</h3>
+        <p>El IELTS evalúa competencia en inglés:</p>
+        <ul>
+          <li><strong>Listening:</strong> 40 preguntas, 30 minutos</li>
+          <li><strong>Reading:</strong> 40 preguntas, 60 minutos</li>
+          <li><strong>Writing:</strong> 2 tareas, 60 minutos</li>
+          <li><strong>Speaking:</strong> Entrevista, 11-14 minutos</li>
+        </ul>
+        
+        <h3>Puntuaciones por Universidad</h3>
+        <p>Requisitos típicos de IELTS:</p>
+        <ul>
+          <li>Universidades top: 7.0+ (todas las secciones)</li>
+          <li>Universidades de nivel medio: 6.5+</li>
+          <li>Universidades comunitarias: 6.0+</li>
+        </ul>
+
+        <h2>Estrategias de Preparación Efectivas</h2>
+        
+        <h3>Cronograma de Estudio</h3>
+        <p>Para obtener resultados óptimos:</p>
+        <ul>
+          <li><strong>3-6 meses antes:</strong> Evaluación inicial y plan de estudio</li>
+          <li><strong>2-3 meses antes:</strong> Estudio intensivo y práctica regular</li>
+          <li><strong>1 mes antes:</strong> Simulacros y revisión de debilidades</li>
+          <li><strong>1 semana antes:</strong> Repaso ligero y preparación mental</li>
+        </ul>
+        
+        <h3>Recursos Recomendados</h3>
+        <ul>
+          <li>Materiales oficiales de cada organización</li>
+          <li>Plataformas online como Khan Academy (SAT) y Magoosh</li>
+          <li>Tutores especializados para áreas débiles</li>
+          <li>Grupos de estudio y simulacros</li>
+        </ul>
+
+        <h2>Consejos para el Día del Examen</h2>
+        
+        <h3>Preparación Mental</h3>
+        <ul>
+          <li>Duerme bien la noche anterior</li>
+          <li>Desayuna ligero pero nutritivo</li>
+          <li>Llega 30 minutos antes</li>
+          <li>Trae identificación válida</li>
+        </ul>
+        
+        <h3>Durante el Examen</h3>
+        <ul>
+          <li>Lee todas las instrucciones cuidadosamente</li>
+          <li>Gestiona tu tiempo efectivamente</li>
+          <li>No te quedes en preguntas difíciles</li>
+          <li>Revisa tus respuestas si tienes tiempo</li>
+        </ul>
+
+        <h2>Retaking y Mejora de Puntuaciones</h2>
+        
+        <p>Si no obtienes la puntuación deseada en el primer intento:</p>
+        <ul>
+          <li><strong>SAT/ACT:</strong> Puedes tomarlo hasta 3 veces por año</li>
+          <li><strong>GRE:</strong> Puedes tomarlo cada 21 días, máximo 5 veces por año</li>
+          <li><strong>GMAT:</strong> Puedes tomarlo cada 16 días, máximo 5 veces por año</li>
+          <li><strong>IELTS:</strong> Sin límite de intentos</li>
+        </ul>
+        
+        <p>Las universidades generalmente consideran tu mejor puntuación, aunque algunas requieren que envíes todos los resultados.</p>
+
+        <h2>Conclusión</h2>
+        
+        <p>Las pruebas estandarizadas son una inversión significativa en tu futuro académico. Con la preparación adecuada, estrategias efectivas y determinación, puedes lograr las puntuaciones necesarias para acceder a las mejores universidades del mundo.</p>
+        
+        <p>Recuerda que estas pruebas son solo una parte de tu aplicación. Un perfil académico sólido, actividades extracurriculares relevantes y un personal statement convincente también son cruciales para el éxito.</p>
+      `
+    },
+    14: {
+      id: 14,
+      titulo: "Cartas de Recomendación Efectivas: Cómo Conseguir Referencias que Marquen la Diferencia",
+      resumen: "Estrategias probadas para obtener cartas de recomendación impactantes de profesores, empleadores y mentores. Incluye templates, consejos de seguimiento y errores comunes a evitar.",
+      fecha: "2025-09-22",
+      categoria: "Aplicaciones",
+      tiempoLectura: "11 min",
+      imagen: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      contenido: `
+        <p>Las cartas de recomendación pueden ser el factor decisivo en tu aplicación universitaria. Según estudios recientes, el 73% de los comités de admisión consideran las cartas de recomendación como "muy importantes" en su proceso de evaluación.</p>
+        
+        <p>Este artículo te guiará a través de estrategias probadas para obtener cartas de recomendación que realmente marquen la diferencia en tu aplicación.</p>
+
+        <h2>¿Por Qué Son Importantes las Cartas de Recomendación?</h2>
+        
+        <p>Las cartas de recomendación proporcionan:</p>
+        <ul>
+          <li><strong>Perspectiva externa:</strong> Validación objetiva de tus logros y capacidades</li>
+          <li><strong>Contexto académico:</strong> Información sobre tu rendimiento en el aula</li>
+          <li><strong>Carácter y personalidad:</strong> Insights sobre tu ética de trabajo y valores</li>
+          <li><strong>Potencial futuro:</strong> Predicciones sobre tu éxito en la universidad</li>
+        </ul>
+
+        <h2>Tipos de Cartas de Recomendación</h2>
+        
+        <h3>Cartas Académicas</h3>
+        <p>Generalmente requeridas de:</p>
+        <ul>
+          <li>Profesores de materias principales (matemáticas, ciencias, inglés)</li>
+          <li>Profesores de áreas relacionadas con tu campo de estudio</li>
+          <li>Consejeros académicos o coordinadores</li>
+        </ul>
+        
+        <h3>Cartas de Actividades Extracurriculares</h3>
+        <p>Opcionales pero valiosas de:</p>
+        <ul>
+          <li>Supervisores de voluntariado</li>
+          <li>Entrenadores deportivos</li>
+          <li>Directores de programas comunitarios</li>
+        </ul>
+
+        <h2>Estrategias para Solicitar Cartas Efectivas</h2>
+        
+        <h3>1. Planificación Temprana</h3>
+        <p>Comienza el proceso con al menos 6-8 semanas de anticipación:</p>
+        <ul>
+          <li>Identifica potenciales recomendadores</li>
+          <li>Construye relaciones sólidas durante el año académico</li>
+          <li>Participa activamente en clase y actividades</li>
+        </ul>
+        
+        <h3>2. Elegir a los Recomendadores Correctos</h3>
+        <p>Busca personas que:</p>
+        <ul>
+          <li>Te conozcan bien académicamente</li>
+          <li>Puedan hablar específicamente de tus fortalezas</li>
+          <li>Tengan credibilidad en su campo</li>
+          <li>Estén dispuestas a escribir cartas detalladas</li>
+        </ul>
+
+        <h3>3. Solicitud Formal y Profesional</h3>
+        <p>Tu solicitud debe incluir:</p>
+        <ul>
+          <li>Explicación clara de tus objetivos universitarios</li>
+          <li>Información sobre las universidades a las que aplicas</li>
+          <li>Fecha límite para enviar la carta</li>
+          <li>Material de apoyo (CV, ensayos, logros destacados)</li>
+        </ul>
+
+        <h2>Template de Solicitud de Carta de Recomendación</h2>
+        
+        <blockquote>
+          <p><strong>Asunto:</strong> Solicitud de Carta de Recomendación - [Tu Nombre]</p>
+          
+          <p>Estimado/a [Título] [Apellido],</p>
+          
+          <p>Espero que se encuentre bien. Me dirijo a usted para solicitar una carta de recomendación para mis aplicaciones universitarias.</p>
+          
+          <p>Como mi [profesor/consejero/supervisor] en [materia/actividad], usted ha sido testigo de mi dedicación académica y crecimiento personal. Su perspectiva sobre mis fortalezas y potencial sería invaluable para los comités de admisión.</p>
+          
+          <p>Adjunto encontrará mi CV actualizado, una lista de mis logros académicos y extracurriculares, y mis ensayos universitarios para proporcionar contexto adicional.</p>
+          
+          <p>Las fechas límite para el envío son:</p>
+          <ul>
+            <li>[Universidad 1]: [Fecha]</li>
+            <li>[Universidad 2]: [Fecha]</li>
+          </ul>
+          
+          <p>Le agradezco enormemente su tiempo y consideración. Si necesita información adicional, no dude en contactarme.</p>
+          
+          <p>Atentamente,<br>
+          [Tu Nombre]<br>
+          [Tu Información de Contacto]</p>
+        </blockquote>
+
+        <h2>Material de Apoyo para Recomendadores</h2>
+        
+        <h3>Dossier de Información</h3>
+        <p>Proporciona a tus recomendadores:</p>
+        <ul>
+          <li><strong>CV académico:</strong> Calificaciones, actividades, logros</li>
+          <li><strong>Lista de logros:</strong> Premios, reconocimientos, proyectos destacados</li>
+          <li><strong>Ensayos universitarios:</strong> Para que conozcan tus objetivos</li>
+          <li><strong>Información de universidades:</strong> Programas específicos que te interesan</li>
+          <li><strong>Experiencias memorables:</strong> Momentos específicos que compartieron</li>
+        </ul>
+
+        <h2>Errores Comunes a Evitar</h2>
+        
+        <h3>Errores en la Solicitud</h3>
+        <ul>
+          <li><strong>Solicitar demasiado tarde:</strong> No dar tiempo suficiente</li>
+          <li><strong>Solicitar a personas que no te conocen bien:</strong> Cartas genéricas</li>
+          <li><strong>No proporcionar información suficiente:</strong> Recomendadores sin contexto</li>
+          <li><strong>Ser impaciente:</strong> Presionar por respuestas rápidas</li>
+        </ul>
+        
+        <h3>Errores en el Seguimiento</h3>
+        <ul>
+          <li><strong>No hacer seguimiento:</strong> Asumir que todo está bien</li>
+          <li><strong>Seguimiento excesivo:</strong> Molestar constantemente</li>
+          <li><strong>No expresar gratitud:</strong> Dar por sentado el favor</li>
+        </ul>
+
+        <h2>Estrategias de Seguimiento Efectivo</h2>
+        
+        <h3>Cronograma de Seguimiento</h3>
+        <ul>
+          <li><strong>1 semana después:</strong> Agradecimiento inicial y confirmación</li>
+          <li><strong>3 semanas antes del deadline:</strong> Recordatorio amable</li>
+          <li><strong>1 semana antes del deadline:</strong> Verificación final</li>
+          <li><strong>Después del envío:</strong> Agradecimiento formal</li>
+        </ul>
+
+        <h3>Template de Seguimiento</h3>
+        <blockquote>
+          <p><strong>Asunto:</strong> Seguimiento - Carta de Recomendación</p>
+          
+          <p>Estimado/a [Título] [Apellido],</p>
+          
+          <p>Espero que se encuentre bien. Le escribo para hacer un seguimiento sobre mi solicitud de carta de recomendación del [fecha].</p>
+          
+          <p>Entiendo que está muy ocupado/a, pero quería confirmar que todo está en orden para el envío antes del [fecha límite]. Si necesita información adicional o tiene alguna pregunta, no dude en contactarme.</p>
+          
+          <p>Le agradezco nuevamente por su tiempo y apoyo.</p>
+          
+          <p>Atentamente,<br>
+          [Tu Nombre]</p>
+        </blockquote>
+
+        <h2>Maximizando la Calidad de las Cartas</h2>
+        
+        <h3>Proporcionar Contexto Específico</h3>
+        <ul>
+          <li>Compartir momentos específicos que demuestren tu carácter</li>
+          <li>Proporcionar ejemplos concretos de tu trabajo</li>
+          <li>Explicar cómo te has destacado en situaciones desafiantes</li>
+        </ul>
+        
+        <h3>Facilitar el Proceso</h3>
+        <ul>
+          <li>Proporcionar instrucciones claras para el envío</li>
+          <li>Ofrecer asistencia técnica si es necesario</li>
+          <li>Estar disponible para preguntas</li>
+        </ul>
+
+        <h2>Cartas de Recomendación por Tipo de Universidad</h2>
+        
+        <h3>Universidades de Investigación</h3>
+        <p>Enfatizan:</p>
+        <ul>
+          <li>Capacidad analítica y pensamiento crítico</li>
+          <li>Curiosidad intelectual y pasión por el aprendizaje</li>
+          <li>Potencial para investigación independiente</li>
+        </ul>
+        
+        <h3>Universidades de Artes Liberales</h3>
+        <p>Valoran:</p>
+        <ul>
+          <li>Versatilidad académica</li>
+          <li>Contribuciones a la comunidad</li>
+          <li>Desarrollo del carácter y liderazgo</li>
+        </ul>
+        
+        <h3>Universidades Técnicas</h3>
+        <p>Buscan:</p>
+        <ul>
+          <li>Fortaleza en matemáticas y ciencias</li>
+          <li>Capacidad de resolución de problemas</li>
+          <li>Experiencia práctica relevante</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>Las cartas de recomendación efectivas son el resultado de relaciones académicas sólidas, solicitudes profesionales y seguimiento cuidadoso. Al invertir tiempo en construir estas relaciones y facilitar el proceso para tus recomendadores, puedes obtener cartas que realmente marquen la diferencia en tu aplicación universitaria.</p>
+        
+        <p>Recuerda que el proceso de solicitar cartas de recomendación es también una oportunidad para reflexionar sobre tus logros y objetivos, y para fortalecer relaciones importantes que pueden beneficiarte a lo largo de tu carrera académica y profesional.</p>
+      `
+    },
+    15: {
+      id: 15,
+      titulo: "Estudiar Medicina en el Extranjero: Requisitos, Procesos y Mejores Destinos 2025",
+      resumen: "Guía especializada para estudiantes de medicina que buscan oportunidades internacionales. Incluye análisis de programas, requisitos específicos y consejos para aplicaciones exitosas.",
+      fecha: "2025-09-22",
+      categoria: "Especialización",
+      tiempoLectura: "13 min",
+      imagen: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      contenido: `
+        <p>Estudiar medicina en el extranjero es una oportunidad única que puede transformar tu carrera profesional. En 2025, más de 15,000 estudiantes latinoamericanos están cursando medicina en universidades internacionales, con una tasa de éxito del 78% en el retorno a sus países de origen.</p>
+        
+        <p>Esta guía te proporcionará toda la información necesaria para tomar decisiones informadas sobre tu educación médica internacional.</p>
+
+        <h2>Mejores Destinos para Estudiar Medicina</h2>
+        
+        <h3>Europa</h3>
+        <ul>
+          <li><strong>Alemania:</strong> Educación gratuita, programas en inglés disponibles</li>
+          <li><strong>Países Bajos:</strong> Innovación médica, programas de alta calidad</li>
+          <li><strong>República Checa:</strong> Costos accesibles, reconocimiento internacional</li>
+          <li><strong>Hungría:</strong> Programas especializados, comunidad latinoamericana</li>
+        </ul>
+        
+        <h3>América del Norte</h3>
+        <ul>
+          <li><strong>Estados Unidos:</strong> Tecnología avanzada, investigación de vanguardia</li>
+          <li><strong>Canadá:</strong> Sistema de salud público, oportunidades de residencia</li>
+        </ul>
+        
+        <h3>Asia</h3>
+        <ul>
+          <li><strong>Singapur:</strong> Tecnología médica, programas en inglés</li>
+          <li><strong>Malasia:</strong> Costos competitivos, reconocimiento internacional</li>
+        </ul>
+
+        <h2>Requisitos Académicos Generales</h2>
+        
+        <h3>Educación Previa</h3>
+        <ul>
+          <li>Bachillerato con énfasis en ciencias (biología, química, física)</li>
+          <li>Promedio mínimo de 8.0/10 (varía por universidad)</li>
+          <li>Pruebas estandarizadas (MCAT, BMAT, UCAT según el país)</li>
+        </ul>
+        
+        <h3>Competencias en Idiomas</h3>
+        <ul>
+          <li><strong>Inglés:</strong> IELTS 7.0+ o TOEFL 100+</li>
+          <li><strong>Idioma local:</strong> Requerido para prácticas clínicas</li>
+        </ul>
+
+        <h2>Proceso de Aplicación</h2>
+        
+        <h3>Documentos Requeridos</h3>
+        <ul>
+          <li>Certificados académicos apostillados</li>
+          <li>Cartas de recomendación de profesores de ciencias</li>
+          <li>Personal statement médico</li>
+          <li>Experiencia voluntaria en salud</li>
+          <li>Entrevistas médicas (presenciales o virtuales)</li>
+        </ul>
+        
+        <h3>Cronograma Típico</h3>
+        <ul>
+          <li><strong>Enero-Marzo:</strong> Preparación de documentos</li>
+          <li><strong>Abril-Junio:</strong> Envío de aplicaciones</li>
+          <li><strong>Julio-Septiembre:</strong> Entrevistas</li>
+          <li><strong>Octubre:</strong> Decisiones de admisión</li>
+        </ul>
+
+        <h2>Costos y Financiamiento</h2>
+        
+        <h3>Matrícula Anual</h3>
+        <ul>
+          <li><strong>Alemania:</strong> €0-€500 (semestre)</li>
+          <li><strong>Países Bajos:</strong> €2,168-€15,000</li>
+          <li><strong>Estados Unidos:</strong> $50,000-$80,000</li>
+          <li><strong>Canadá:</strong> $20,000-$40,000 CAD</li>
+        </ul>
+        
+        <h3>Costos de Vida</h3>
+        <ul>
+          <li><strong>Alojamiento:</strong> €300-€800/mes</li>
+          <li><strong>Alimentación:</strong> €200-€400/mes</li>
+          <li><strong>Transporte:</strong> €50-€100/mes</li>
+          <li><strong>Seguro médico:</strong> €80-€150/mes</li>
+        </ul>
+
+        <h2>Reconocimiento y Validación</h2>
+        
+        <h3>Proceso de Homologación</h3>
+        <p>Al regresar a tu país de origen:</p>
+        <ul>
+          <li>Validación de títulos por el ministerio de educación</li>
+          <li>Exámenes de competencia médica</li>
+          <li>Período de práctica supervisada</li>
+          <li>Certificación profesional</li>
+        </ul>
+        
+        <h3>Países con Reconocimiento Automático</h3>
+        <ul>
+          <li>Países de la Unión Europea (Directiva 2005/36/EC)</li>
+          <li>Acuerdos bilaterales específicos</li>
+          <li>Programas de intercambio académico</li>
+        </ul>
+
+        <h2>Ventajas y Desafíos</h2>
+        
+        <h3>Ventajas</h3>
+        <ul>
+          <li>Acceso a tecnología médica avanzada</li>
+          <li>Diversidad cultural en el aprendizaje</li>
+          <li>Red internacional de contactos</li>
+          <li>Oportunidades de especialización</li>
+          <li>Experiencia en diferentes sistemas de salud</li>
+        </ul>
+        
+        <h3>Desafíos</h3>
+        <ul>
+          <li>Adaptación cultural y lingüística</li>
+          <li>Costos elevados de educación</li>
+          <li>Proceso de homologación complejo</li>
+          <li>Lejanía de la familia y amigos</li>
+          <li>Diferentes sistemas de evaluación</li>
+        </ul>
+
+        <h2>Estrategias para el Éxito</h2>
+        
+        <h3>Preparación Académica</h3>
+        <ul>
+          <li>Fortalece tus bases en ciencias naturales</li>
+          <li>Participa en programas de voluntariado médico</li>
+          <li>Desarrolla competencias en investigación</li>
+          <li>Mejora tus habilidades de comunicación</li>
+        </ul>
+        
+        <h3>Preparación Personal</h3>
+        <ul>
+          <li>Aprende el idioma del país destino</li>
+          <li>Investiga la cultura y costumbres locales</li>
+          <li>Construye una red de apoyo</li>
+          <li>Desarrolla habilidades de adaptación</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>Estudiar medicina en el extranjero es una inversión significativa que puede transformar tu perspectiva profesional y personal. Con la preparación adecuada, investigación exhaustiva y determinación, puedes acceder a una educación médica de clase mundial que te prepare para los desafíos del siglo XXI.</p>
+        
+        <p>Recuerda que el éxito no solo depende de tus calificaciones, sino también de tu capacidad de adaptación, perseverancia y pasión genuina por la medicina y el servicio a la humanidad.</p>
+      `
+    },
+    16: {
+      id: 16,
+      titulo: "Programas de Intercambio Estudiantil: Erasmus, Fulbright y Alternativas Globales",
+      resumen: "Catálogo completo de programas de intercambio disponibles para estudiantes latinoamericanos. Incluye requisitos, beneficios, procesos de aplicación y experiencias de estudiantes.",
+      fecha: "2025-09-22",
+      categoria: "Intercambio",
+      tiempoLectura: "12 min",
+      imagen: "https://images.pexels.com/photos/8554440/pexels-photo-8554440.jpeg",
+      contenido: `
+        <p>Los programas de intercambio estudiantil representan una de las oportunidades más valiosas para estudiantes latinoamericanos que buscan experiencia internacional. En 2025, más de 50,000 estudiantes de la región participan en programas de intercambio, con una tasa de satisfacción del 94%.</p>
+        
+        <p>Esta guía te presentará los principales programas de intercambio disponibles, sus requisitos específicos y estrategias para maximizar tus posibilidades de éxito.</p>
+
+        <h2>Programa Erasmus+ (Europa)</h2>
+        
+        <h3>¿Qué es Erasmus+?</h3>
+        <p>Erasmus+ es el programa de la Unión Europea para educación, formación, juventud y deporte. Ofrece oportunidades de intercambio en más de 30 países europeos con reconocimiento académico completo.</p>
+        
+        <h3>Beneficios del Programa</h3>
+        <ul>
+          <li><strong>Beca mensual:</strong> €370-€420 dependiendo del país destino</li>
+          <li><strong>Reconocimiento académico:</strong> Créditos transferibles automáticamente</li>
+          <li><strong>Red internacional:</strong> Acceso a la comunidad Erasmus global</li>
+          <li><strong>Apoyo lingüístico:</strong> Cursos de idiomas gratuitos</li>
+          <li><strong>Seguro médico:</strong> Cobertura completa en Europa</li>
+        </ul>
+
+        <h3>Requisitos de Elegibilidad</h3>
+        <ul>
+          <li>Estar matriculado en una universidad participante</li>
+          <li>Haber completado al menos el primer año de estudios</li>
+          <li>Promedio académico mínimo de 7.0/10</li>
+          <li>Nivel de idioma B1-B2 según el país destino</li>
+          <li>No haber participado previamente en Erasmus+</li>
+        </ul>
+
+        <h2>Programa Fulbright (Estados Unidos)</h2>
+        
+        <h3>Becas Fulbright para Estudiantes</h3>
+        <p>El programa Fulbright ofrece becas completas para estudiantes latinoamericanos que deseen estudiar en universidades estadounidenses. Es uno de los programas de intercambio más prestigiosos del mundo.</p>
+        
+        <h3>Tipos de Becas Disponibles</h3>
+        <ul>
+          <li><strong>Fulbright Undergraduate:</strong> Para estudios de pregrado (4 años)</li>
+          <li><strong>Fulbright Graduate:</strong> Para estudios de posgrado (1-2 años)</li>
+          <li><strong>Fulbright English Teaching Assistant:</strong> Para enseñar inglés</li>
+          <li><strong>Fulbright Research:</strong> Para investigación académica</li>
+        </ul>
+        
+        <h3>Proceso de Aplicación</h3>
+        <ul>
+          <li><strong>Enero-Marzo:</strong> Aplicación inicial</li>
+          <li><strong>Abril-Junio:</strong> Entrevistas y selección</li>
+          <li><strong>Julio-Septiembre:</strong> Orientación y preparación</li>
+          <li><strong>Agosto-Enero:</strong> Inicio de estudios</li>
+        </ul>
+
+        <h2>Programas de Intercambio por Región</h2>
+        
+        <h3>América del Norte</h3>
+        <ul>
+          <li><strong>NAFSA:</strong> Red de profesionales en educación internacional</li>
+          <li><strong>IIE Passport:</strong> Base de datos de oportunidades</li>
+          <li><strong>Study in Canada:</strong> Portal oficial del gobierno canadiense</li>
+        </ul>
+        
+        <h3>Asia-Pacífico</h3>
+        <ul>
+          <li><strong>Asia Pacific Exchange:</strong> Programas en 15 países asiáticos</li>
+          <li><strong>JASSO (Japón):</strong> Intercambios académicos en Japón</li>
+          <li><strong>Australia Awards:</strong> Becas del gobierno australiano</li>
+        </ul>
+        
+        <h3>América Latina</h3>
+        <ul>
+          <li><strong>PILA:</strong> Programa de Intercambio Latinoamericano</li>
+          <li><strong>ALFA:</strong> Programa de la Unión Europea para América Latina</li>
+          <li><strong>OEI:</strong> Organización de Estados Iberoamericanos</li>
+        </ul>
+
+        <h2>Estrategias para una Aplicación Exitosa</h2>
+        
+        <h3>Preparación Académica</h3>
+        <ul>
+          <li>Mantén un promedio académico sólido (8.0+ recomendado)</li>
+          <li>Participa en actividades extracurriculares relevantes</li>
+          <li>Desarrolla competencias en idiomas extranjeros</li>
+          <li>Obtén experiencia en investigación o proyectos</li>
+        </ul>
+        
+        <h3>Documentos Requeridos</h3>
+        <ul>
+          <li>Certificados académicos oficiales</li>
+          <li>Cartas de recomendación de profesores</li>
+          <li>Personal statement o ensayo motivacional</li>
+          <li>Pruebas de competencia lingüística</li>
+          <li>CV académico actualizado</li>
+        </ul>
+
+        <h3>Consejos para la Entrevista</h3>
+        <ul>
+          <li>Investiga sobre el país y cultura destino</li>
+          <li>Prepara ejemplos específicos de tu experiencia académica</li>
+          <li>Demuestra cómo el intercambio se alinea con tus objetivos</li>
+          <li>Muestra conocimiento sobre el programa específico</li>
+        </ul>
+
+        <h2>Beneficios del Intercambio Estudiantil</h2>
+        
+        <h3>Desarrollo Personal</h3>
+        <ul>
+          <li>Independencia y autoconfianza</li>
+          <li>Adaptabilidad cultural</li>
+          <li>Habilidades de comunicación intercultural</li>
+          <li>Perspectiva global ampliada</li>
+        </ul>
+        
+        <h3>Beneficios Académicos</h3>
+        <ul>
+          <li>Acceso a metodologías educativas diferentes</li>
+          <li>Oportunidades de investigación avanzada</li>
+          <li>Red de contactos académicos internacionales</li>
+          <li>Mejora en competencias lingüísticas</li>
+        </ul>
+        
+        <h3>Ventajas Profesionales</h3>
+        <ul>
+          <li>Perfil diferenciado en el mercado laboral</li>
+          <li>Competencias de liderazgo internacional</li>
+          <li>Red profesional global</li>
+          <li>Mayor empleabilidad</li>
+        </ul>
+
+        <h2>Desafíos y Cómo Superarlos</h2>
+        
+        <h3>Desafíos Comunes</h3>
+        <ul>
+          <li><strong>Shock cultural:</strong> Diferencias en costumbres y valores</li>
+          <li><strong>Barrera lingüística:</strong> Dificultades de comunicación</li>
+          <li><strong>Extrañar el hogar:</strong> Nostalgia y aislamiento</li>
+          <li><strong>Diferencia académica:</strong> Metodologías de estudio distintas</li>
+        </ul>
+        
+        <h3>Estrategias de Adaptación</h3>
+        <ul>
+          <li>Participa activamente en actividades sociales</li>
+          <li>Únete a grupos de estudiantes internacionales</li>
+          <li>Mantén contacto regular con familia y amigos</li>
+          <li>Busca apoyo en servicios estudiantiles</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>Los programas de intercambio estudiantil ofrecen experiencias transformadoras que van más allá de la educación académica. Representan una inversión en tu desarrollo personal, académico y profesional que tendrá un impacto duradero en tu vida.</p>
+        
+        <p>Con la preparación adecuada, investigación exhaustiva y determinación, puedes acceder a estos programas que te abrirán puertas a un mundo de oportunidades internacionales.</p>
+      `
+    },
+    17: {
+      id: 17,
+      titulo: "Financiamiento Inteligente: Préstamos Estudiantiles Internacionales y Alternativas",
+      resumen: "Análisis detallado de opciones de financiamiento para estudios internacionales, incluyendo préstamos estudiantiles, programas de trabajo-estudio y estrategias de gestión financiera.",
+      fecha: "2025-09-22",
+      categoria: "Finanzas",
+      tiempoLectura: "10 min",
+      imagen: "https://images.pexels.com/photos/6963017/pexels-photo-6963017.jpeg",
+      contenido: `
+        <p>Financiar estudios internacionales requiere planificación estratégica y conocimiento de todas las opciones disponibles. En 2025, el costo promedio de estudios internacionales para estudiantes latinoamericanos oscila entre $25,000 y $80,000 anuales, dependiendo del destino y programa.</p>
+        
+        <p>Esta guía te proporcionará un análisis completo de las opciones de financiamiento disponibles y estrategias para optimizar tu inversión educativa.</p>
+
+        <h2>Préstamos Estudiantiles Internacionales</h2>
+        
+        <h3>Préstamos del Gobierno de Estados Unidos</h3>
+        <ul>
+          <li><strong>Federal Direct Loans:</strong> Para estudiantes en universidades elegibles</li>
+          <li><strong>PLUS Loans:</strong> Para padres de estudiantes dependientes</li>
+          <li><strong>Perkins Loans:</strong> Basados en necesidad financiera</li>
+        </ul>
+        
+        <h3>Préstamos Privados</h3>
+        <ul>
+          <li><strong>Sallie Mae:</strong> Préstamos para estudiantes internacionales</li>
+          <li><strong>Wells Fargo:</strong> Programas especializados</li>
+          <li><strong>Citizens Bank:</strong> Opciones flexibles</li>
+        </ul>
+
+        <h2>Programas de Trabajo-Estudio</h2>
+        
+        <h3>Estados Unidos</h3>
+        <ul>
+          <li><strong>Federal Work-Study:</strong> Trabajo en campus universitario</li>
+          <li><strong>On-Campus Jobs:</strong> Oportunidades dentro de la universidad</li>
+          <li><strong>Internships:</strong> Experiencia profesional remunerada</li>
+        </ul>
+        
+        <h3>Canadá</h3>
+        <ul>
+          <li><strong>Co-op Programs:</strong> Alternancia estudio-trabajo</li>
+          <li><strong>Part-time Jobs:</strong> Hasta 20 horas semanales</li>
+          <li><strong>Summer Employment:</strong> Trabajo de verano</li>
+        </ul>
+
+        <h2>Estrategias de Gestión Financiera</h2>
+        
+        <h3>Presupuesto Inteligente</h3>
+        <ul>
+          <li>Calcula costos reales (matrícula, vivienda, alimentación, transporte)</li>
+          <li>Reserva 20% adicional para gastos imprevistos</li>
+          <li>Considera fluctuaciones cambiarias</li>
+          <li>Planifica para 4-6 años de estudios</li>
+        </ul>
+        
+        <h3>Optimización de Costos</h3>
+        <ul>
+          <li>Compartir vivienda para reducir gastos</li>
+          <li>Usar transporte público y bicicletas</li>
+          <li>Cocinar en casa en lugar de comer fuera</li>
+          <li>Aprovechar descuentos estudiantiles</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>El financiamiento inteligente de estudios internacionales requiere investigación exhaustiva, planificación cuidadosa y aprovechamiento de todas las opciones disponibles. Con la estrategia correcta, puedes acceder a una educación de clase mundial sin comprometer tu estabilidad financiera a largo plazo.</p>
+      `
+    },
+    18: {
+      id: 18,
+      titulo: "Adaptación Cultural: Cómo Superar el Shock Cultural y Triunfar en el Extranjero",
+      resumen: "Guía práctica para estudiantes internacionales sobre adaptación cultural, manejo de diferencias y estrategias para construir una red de apoyo en el país destino.",
+      fecha: "2025-09-22",
+      categoria: "Adaptación",
+      tiempoLectura: "9 min",
+      imagen: "https://images.pexels.com/photos/974320/pexels-photo-974320.jpeg",
+      contenido: `
+        <p>La adaptación cultural es uno de los desafíos más importantes que enfrentan los estudiantes internacionales. El 78% de los estudiantes latinoamericanos experimentan algún nivel de shock cultural durante sus primeros meses en el extranjero.</p>
+        
+        <p>Esta guía te ayudará a entender y superar los desafíos de adaptación cultural para maximizar tu experiencia internacional.</p>
+
+        <h2>Fases del Shock Cultural</h2>
+        
+        <h3>Fase 1: Luna de Miel (1-2 meses)</h3>
+        <ul>
+          <li>Todo parece emocionante y nuevo</li>
+          <li>Alto nivel de energía y optimismo</li>
+          <li>Interés en aprender sobre la cultura local</li>
+        </ul>
+        
+        <h3>Fase 2: Crisis (2-4 meses)</h3>
+        <ul>
+          <li>Frustración con diferencias culturales</li>
+          <li>Nostalgia y extrañar el hogar</li>
+          <li>Dificultades de comunicación</li>
+        </ul>
+        
+        <h3>Fase 3: Recuperación (4-6 meses)</h3>
+        <ul>
+          <li>Adaptación gradual a las costumbres</li>
+          <li>Desarrollo de estrategias de afrontamiento</li>
+          <li>Construcción de nuevas amistades</li>
+        </ul>
+
+        <h2>Estrategias de Adaptación</h2>
+        
+        <h3>Preparación Cultural</h3>
+        <ul>
+          <li>Investiga sobre costumbres y valores locales</li>
+          <li>Aprende frases básicas del idioma</li>
+          <li>Lee sobre la historia del país</li>
+          <li>Conecta con estudiantes locales antes de viajar</li>
+        </ul>
+        
+        <h3>Construcción de Red de Apoyo</h3>
+        <ul>
+          <li>Únete a grupos de estudiantes internacionales</li>
+          <li>Participa en actividades del campus</li>
+          <li>Busca mentores locales</li>
+          <li>Mantén contacto con familia y amigos</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>La adaptación cultural es un proceso gradual que requiere paciencia, apertura mental y estrategias activas. Con la preparación adecuada y el apoyo correcto, puedes transformar los desafíos culturales en oportunidades de crecimiento personal y académico.</p>
+      `
+    },
+    19: {
+      id: 19,
+      titulo: "Estudios de Posgrado en Europa: Másters, PhDs y Programas de Investigación",
+      resumen: "Análisis completo del sistema educativo europeo para posgrados, incluyendo estructura de programas, requisitos de admisión y oportunidades de investigación y financiamiento.",
+      fecha: "2025-09-22",
+      categoria: "Posgrado",
+      tiempoLectura: "15 min",
+      imagen: "https://images.pexels.com/photos/901965/pexels-photo-901965.jpeg",
+      contenido: `
+        <p>Europa ofrece algunos de los mejores programas de posgrado del mundo, con universidades que figuran consistentemente en los rankings globales. El sistema educativo europeo se caracteriza por su excelencia académica, diversidad cultural y oportunidades de investigación de vanguardia.</p>
+        
+        <p>Esta guía te proporcionará toda la información necesaria para navegar el sistema de posgrados europeo y tomar decisiones informadas sobre tu futuro académico.</p>
+
+        <h2>Estructura del Sistema de Posgrados Europeo</h2>
+        
+        <h3>Proceso de Bolonia</h3>
+        <p>El Proceso de Bolonia ha estandarizado la educación superior en Europa, creando un sistema de tres ciclos:</p>
+        <ul>
+          <li><strong>Primer Ciclo (Bachelor):</strong> 3-4 años</li>
+          <li><strong>Segundo Ciclo (Master):</strong> 1-2 años</li>
+          <li><strong>Tercer Ciclo (PhD):</strong> 3-4 años</li>
+        </ul>
+        
+        <h3>Tipos de Programas de Máster</h3>
+        <ul>
+          <li><strong>Master Académico:</strong> Enfoque en investigación</li>
+          <li><strong>Master Profesional:</strong> Orientado a la práctica</li>
+          <li><strong>Master Conjunto:</strong> Entre múltiples universidades</li>
+          <li><strong>Master Erasmus Mundus:</strong> Programas de excelencia</li>
+        </ul>
+
+        <h2>Mejores Destinos para Posgrados</h2>
+        
+        <h3>Alemania</h3>
+        <ul>
+          <li>Educación gratuita en universidades públicas</li>
+          <li>Excelencia en ingeniería y ciencias</li>
+          <li>Programas en inglés disponibles</li>
+          <li>Fuerte conexión industria-academia</li>
+        </ul>
+        
+        <h3>Reino Unido</h3>
+        <ul>
+          <li>Universidades de renombre mundial</li>
+          <li>Programas de un año para másters</li>
+          <li>Tradición académica establecida</li>
+          <li>Oportunidades de networking</li>
+        </ul>
+        
+        <h3>Países Bajos</h3>
+        <ul>
+          <li>Innovación en metodologías educativas</li>
+          <li>Alto nivel de inglés</li>
+          <li>Cultura internacional</li>
+          <li>Conexión con empresas multinacionales</li>
+        </ul>
+
+        <h2>Requisitos de Admisión</h2>
+        
+        <h3>Documentos Académicos</h3>
+        <ul>
+          <li>Título de pregrado reconocido</li>
+          <li>Certificados de calificaciones</li>
+          <li>Pruebas de competencia lingüística</li>
+          <li>Cartas de recomendación</li>
+          <li>Personal statement</li>
+        </ul>
+        
+        <h3>Requisitos Específicos por Campo</h3>
+        <ul>
+          <li><strong>Ingeniería:</strong> GRE, experiencia práctica</li>
+          <li><strong>Negocios:</strong> GMAT, experiencia laboral</li>
+          <li><strong>Artes:</strong> Portafolio, audición</li>
+          <li><strong>Investigación:</strong> Propuesta de investigación</li>
+        </ul>
+
+        <h2>Oportunidades de Financiamiento</h2>
+        
+        <h3>Becas Europeas</h3>
+        <ul>
+          <li><strong>Erasmus Mundus:</strong> Becas completas</li>
+          <li><strong>Marie Curie:</strong> Para investigación</li>
+          <li><strong>EIT:</strong> Innovación y tecnología</li>
+        </ul>
+        
+        <h3>Becas Nacionales</h3>
+        <ul>
+          <li><strong>DAAD (Alemania):</strong> Varios programas</li>
+          <li><strong>Chevening (UK):</strong> Para líderes</li>
+          <li><strong>Orange Tulip (Holanda):</strong> Para latinoamericanos</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>Europa ofrece oportunidades excepcionales para estudios de posgrado que combinan excelencia académica, diversidad cultural y oportunidades de investigación de clase mundial. Con la preparación adecuada y la investigación exhaustiva, puedes acceder a programas que transformarán tu carrera profesional.</p>
+      `
+    },
+    20: {
+      id: 20,
+      titulo: "Oportunidades de Trabajo Post-Graduación: Permisos de Trabajo y Carreras Internacionales",
+      resumen: "Guía actualizada sobre opciones de trabajo después de graduarse en el extranjero, incluyendo visas de trabajo, programas de extensión y estrategias para construir una carrera internacional.",
+      fecha: "2025-09-22",
+      categoria: "Carrera",
+      tiempoLectura: "11 min",
+      imagen: "https://images.pexels.com/photos/8636637/pexels-photo-8636637.jpeg",
+      contenido: `
+        <p>Una de las principales ventajas de estudiar en el extranjero es la oportunidad de construir una carrera internacional. En 2025, el 68% de los graduados internacionales permanecen en su país de estudios por al menos 2 años, aprovechando las oportunidades laborales locales.</p>
+        
+        <p>Esta guía te ayudará a navegar las opciones de trabajo post-graduación y desarrollar estrategias para una carrera internacional exitosa.</p>
+
+        <h2>Permisos de Trabajo Post-Graduación</h2>
+        
+        <h3>Estados Unidos</h3>
+        <ul>
+          <li><strong>OPT (Optional Practical Training):</strong> 12-36 meses</li>
+          <li><strong>STEM Extension:</strong> 24 meses adicionales</li>
+          <li><strong>H-1B Visa:</strong> Para trabajadores especializados</li>
+        </ul>
+        
+        <h3>Canadá</h3>
+        <ul>
+          <li><strong>Post-Graduation Work Permit:</strong> Hasta 3 años</li>
+          <li><strong>Express Entry:</strong> Vía a residencia permanente</li>
+          <li><strong>Provincial Nominee Program:</strong> Por provincia</li>
+        </ul>
+        
+        <h3>Reino Unido</h3>
+        <ul>
+          <li><strong>Graduate Route:</strong> 2-3 años</li>
+          <li><strong>Skilled Worker Visa:</strong> Con sponsor</li>
+          <li><strong>Start-up Visa:</strong> Para emprendedores</li>
+        </ul>
+
+        <h2>Estrategias para Conseguir Trabajo</h2>
+        
+        <h3>Networking Profesional</h3>
+        <ul>
+          <li>Participa en eventos de la industria</li>
+          <li>Únete a asociaciones profesionales</li>
+          <li>Conecta con alumni de tu universidad</li>
+          <li>Mantén perfil activo en LinkedIn</li>
+        </ul>
+        
+        <h3>Preparación de Aplicaciones</h3>
+        <ul>
+          <li>Adapta tu CV al mercado local</li>
+          <li>Practica entrevistas en el idioma local</li>
+          <li>Investiga sobre empresas objetivo</li>
+          <li>Prepara ejemplos de trabajo relevante</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>Construir una carrera internacional después de graduarse requiere planificación estratégica, networking efectivo y aprovechamiento de las oportunidades locales. Con la preparación adecuada, puedes convertir tu experiencia educativa internacional en una carrera global exitosa.</p>
+      `
+    },
+    21: {
+      id: 21,
+      titulo: "Estudiar Ingeniería en el Extranjero: Programas Top y Perspectivas Laborales Globales",
+      resumen: "Análisis especializado de programas de ingeniería internacionales, rankings por especialización, requisitos técnicos y oportunidades de empleo en mercados globales.",
+      fecha: "2025-09-22",
+      categoria: "Especialización",
+      tiempoLectura: "13 min",
+      imagen: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      contenido: `
+        <p>La ingeniería es una de las disciplinas más demandadas a nivel internacional, con excelentes perspectivas laborales y oportunidades de innovación. Los ingenieros latinoamericanos que estudian en el extranjero tienen una tasa de empleo del 92% en sus primeros 6 meses post-graduación.</p>
+        
+        <p>Esta guía especializada te ayudará a identificar los mejores programas de ingeniería internacionales y planificar tu carrera en esta disciplina de alta demanda.</p>
+
+        <h2>Mejores Universidades para Ingeniería</h2>
+        
+        <h3>Rankings Globales 2025</h3>
+        <ul>
+          <li><strong>MIT (Estados Unidos):</strong> #1 en ingeniería</li>
+          <li><strong>Stanford (Estados Unidos):</strong> #2 en innovación</li>
+          <li><strong>ETH Zurich (Suiza):</strong> #3 en Europa</li>
+          <li><strong>NUS (Singapur):</strong> #1 en Asia</li>
+          <li><strong>Imperial College (UK):</strong> #1 en Reino Unido</li>
+        </ul>
+        
+        <h3>Especializaciones por Región</h3>
+        <ul>
+          <li><strong>Alemania:</strong> Ingeniería mecánica y automotriz</li>
+          <li><strong>Japón:</strong> Robótica y tecnología</li>
+          <li><strong>Corea del Sur:</strong> Electrónica y semiconductores</li>
+          <li><strong>Canadá:</strong> Ingeniería de software</li>
+        </ul>
+
+        <h2>Requisitos Técnicos Específicos</h2>
+        
+        <h3>Pruebas Estandarizadas</h3>
+        <ul>
+          <li><strong>GRE:</strong> Requerido en la mayoría de programas</li>
+          <li><strong>SAT Subject Tests:</strong> Matemáticas y ciencias</li>
+          <li><strong>AP Exams:</strong> Cálculo y física</li>
+        </ul>
+        
+        <h3>Experiencia Práctica</h3>
+        <ul>
+          <li>Proyectos de ingeniería personales</li>
+          <li>Internships en empresas tecnológicas</li>
+          <li>Participación en competencias</li>
+          <li>Portafolio de proyectos técnicos</li>
+        </ul>
+
+        <h2>Perspectivas Laborales</h2>
+        
+        <h3>Salarios Promedio por Región</h3>
+        <ul>
+          <li><strong>Estados Unidos:</strong> $75,000-120,000</li>
+          <li><strong>Alemania:</strong> €45,000-70,000</li>
+          <li><strong>Canadá:</strong> $60,000-95,000 CAD</li>
+          <li><strong>Singapur:</strong> $50,000-80,000 SGD</li>
+        </ul>
+        
+        <h3>Sectores de Mayor Demanda</h3>
+        <ul>
+          <li>Inteligencia artificial y machine learning</li>
+          <li>Energías renovables</li>
+          <li>Biotecnología</li>
+          <li>Ciberseguridad</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>Estudiar ingeniería en el extranjero abre puertas a oportunidades de innovación, investigación de vanguardia y carreras globales en sectores de alta demanda. Con la preparación técnica adecuada y la elección correcta de programa, puedes construir una carrera en una de las disciplinas más dinámicas del siglo XXI.</p>
+      `
+    },
+    22: {
+      id: 22,
+      titulo: "Preparación Académica Previa: Cómo Fortalecer tu Perfil Antes de Aplicar",
+      resumen: "Estrategias para mejorar tu perfil académico y extracurricular antes de aplicar a universidades internacionales. Incluye cursos, certificaciones, voluntariado y actividades que marcan la diferencia.",
+      fecha: "2025-09-22",
+      categoria: "Preparación",
+      tiempoLectura: "12 min",
+      imagen: "https://images.pexels.com/photos/7658412/pexels-photo-7658412.jpeg",
+      contenido: `
+        <p>La preparación académica previa es fundamental para el éxito en aplicaciones internacionales. Los estudiantes que invierten tiempo en fortalecer su perfil antes de aplicar tienen un 40% más de probabilidades de ser admitidos en universidades top.</p>
+        
+        <p>Esta guía te proporcionará estrategias específicas para mejorar tu perfil académico y extracurricular, maximizando tus posibilidades de admisión.</p>
+
+        <h2>Fortalecimiento Académico</h2>
+        
+        <h3>Cursos Avanzados</h3>
+        <ul>
+          <li><strong>AP (Advanced Placement):</strong> Cursos universitarios en secundaria</li>
+          <li><strong>IB (International Baccalaureate):</strong> Diploma internacional</li>
+          <li><strong>Dual Enrollment:</strong> Cursos universitarios mientras estás en secundaria</li>
+          <li><strong>Online Courses:</strong> Coursera, edX, MIT OpenCourseWare</li>
+        </ul>
+        
+        <h3>Competencias Específicas</h3>
+        <ul>
+          <li><strong>Matemáticas:</strong> Cálculo, estadística, álgebra avanzada</li>
+          <li><strong>Ciencias:</strong> Física, química, biología avanzada</li>
+          <li><strong>Idiomas:</strong> Inglés, francés, alemán, mandarín</li>
+          <li><strong>Tecnología:</strong> Programación, análisis de datos</li>
+        </ul>
+
+        <h2>Actividades Extracurriculares Estratégicas</h2>
+        
+        <h3>Liderazgo y Servicio</h3>
+        <ul>
+          <li>Presidencia en clubes escolares</li>
+          <li>Organización de eventos comunitarios</li>
+          <li>Voluntariado en organizaciones relevantes</li>
+          <li>Proyectos de impacto social</li>
+        </ul>
+        
+        <h3>Investigación y Proyectos</h3>
+        <ul>
+          <li>Proyectos de investigación independiente</li>
+          <li>Participación en ferias científicas</li>
+          <li>Colaboración con profesores universitarios</li>
+          <li>Publicaciones en revistas estudiantiles</li>
+        </ul>
+
+        <h2>Desarrollo de Competencias</h2>
+        
+        <h3>Habilidades Blandas</h3>
+        <ul>
+          <li><strong>Comunicación:</strong> Debate, oratoria, escritura</li>
+          <li><strong>Trabajo en equipo:</strong> Deportes, proyectos grupales</li>
+          <li><strong>Pensamiento crítico:</strong> Filosofía, análisis</li>
+          <li><strong>Creatividad:</strong> Arte, música, innovación</li>
+        </ul>
+        
+        <h3>Certificaciones Profesionales</h3>
+        <ul>
+          <li><strong>Microsoft Office Specialist:</strong> Competencias digitales</li>
+          <li><strong>Google Analytics:</strong> Marketing digital</li>
+          <li><strong>First Aid/CPR:</strong> Servicio comunitario</li>
+          <li><strong>Language Certifications:</strong> DELE, DELF, Goethe</li>
+        </ul>
+
+        <h2>Estrategias de Networking</h2>
+        
+        <h3>Conectarse con Profesionales</h3>
+        <ul>
+          <li>Asistir a conferencias de tu área de interés</li>
+          <li>Conectar con alumni de universidades objetivo</li>
+          <li>Participar en programas de mentoría</li>
+          <li>Unirse a asociaciones profesionales</li>
+        </ul>
+        
+        <h3>Construir una Presencia Online</h3>
+        <ul>
+          <li>Crear perfil profesional en LinkedIn</li>
+          <li>Mantener blog sobre tus intereses académicos</li>
+          <li>Participar en foros especializados</li>
+          <li>Compartir proyectos en GitHub (si es relevante)</li>
+        </ul>
+
+        <h2>Cronograma de Preparación</h2>
+        
+        <h3>2-3 Años Antes</h3>
+        <ul>
+          <li>Identificar áreas de interés</li>
+          <li>Comenzar cursos avanzados</li>
+          <li>Involucrarse en actividades extracurriculares</li>
+          <li>Desarrollar competencias en idiomas</li>
+        </ul>
+        
+        <h3>1-2 Años Antes</h3>
+        <ul>
+          <li>Tomar exámenes estandarizados</li>
+          <li>Desarrollar proyectos de investigación</li>
+          <li>Construir relaciones con profesores</li>
+          <li>Investigar universidades específicas</li>
+        </ul>
+        
+        <h3>6-12 Meses Antes</h3>
+        <ul>
+          <li>Finalizar exámenes requeridos</li>
+          <li>Preparar documentos de aplicación</li>
+          <li>Solicitar cartas de recomendación</li>
+          <li>Escribir personal statements</li>
+        </ul>
+
+        <h2>Conclusión</h2>
+        
+        <p>La preparación académica previa es una inversión que se paga con creces en el proceso de admisión internacional. Al fortalecer tu perfil de manera estratégica y consistente, no solo aumentas tus posibilidades de admisión, sino que también desarrollas las competencias necesarias para el éxito en la universidad y más allá.</p>
+      `
+    },
     // Agregar más artículos según sea necesario
   };
 
   // Obtener el artículo actual y los artículos anterior/siguiente
-  const articulo = articulos[id];
-  const articuloIds = Object.keys(articulos).map(Number).sort((a, b) => a - b);
+  const articuloCompleto = articulosCompletos[id];
+  const articuloIds = Object.keys(articulosCompletos).map(Number).sort((a, b) => a - b);
   const indiceActual = articuloIds.indexOf(parseInt(id));
   
-  const articuloAnterior = indiceActual > 0 ? articulos[articuloIds[indiceActual - 1]] : null;
-  const articuloSiguiente = indiceActual < articuloIds.length - 1 ? articulos[articuloIds[indiceActual + 1]] : null;
+  // Combinar información básica del artículo con el contenido completo
+  const articuloFinal = articulo ? {
+    ...articulo,
+    ...articuloCompleto
+  } : articuloCompleto;
+  
+  const articuloAnterior = indiceActual > 0 ? articulosCompletos[articuloIds[indiceActual - 1]] : null;
+  const articuloSiguiente = indiceActual < articuloIds.length - 1 ? articulosCompletos[articuloIds[indiceActual + 1]] : null;
 
   // Función para navegar entre artículos
   const navegarAArticulo = (articulo) => {
@@ -1673,7 +2830,7 @@ const DetalleArticulo = () => {
     };
   }, []);
 
-  if (!articulo) {
+  if (!articuloFinal) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
         <div className="text-center">
@@ -1753,7 +2910,7 @@ const DetalleArticulo = () => {
             {/* Categoría y metadatos */}
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
               <span className="inline-flex items-center px-4 py-2 rounded-full text-sm font-semibold bg-red-100 text-red-800 w-fit">
-                {articulo.categoria}
+                {articuloFinal.categoria}
               </span>
               
               {/* Metadatos del artículo */}
@@ -1762,7 +2919,7 @@ const DetalleArticulo = () => {
                   <svg className="w-4 h-4 mr-2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <span className="font-medium">Tiempo de lectura: {articulo.tiempoLectura}</span>
+                  <span className="font-medium">Tiempo de lectura: {articuloFinal.tiempoLectura}</span>
                 </div>
                 
                 <div className="flex items-center text-sm text-gray-600">
@@ -1770,7 +2927,7 @@ const DetalleArticulo = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                   </svg>
                   <span className="font-medium">
-                    {new Date(articulo.fecha).toLocaleDateString('es-ES', { 
+                    {new Date(articuloFinal.fecha).toLocaleDateString('es-ES', { 
                       year: 'numeric', 
                       month: 'long', 
                       day: 'numeric' 
@@ -1782,20 +2939,20 @@ const DetalleArticulo = () => {
             
             {/* Título principal - Estilo CNN */}
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 leading-tight mb-6">
-              {articulo.titulo}
+              {articuloFinal.titulo}
             </h1>
             
             {/* Subtítulo/Resumen */}
             <p className="text-xl text-gray-700 leading-relaxed font-medium">
-              {articulo.resumen}
+              {articuloFinal.resumen}
             </p>
           </header>
 
                  {/* Imagen principal */}
                  <div className="px-8 py-6">
                    <img
-                     src={articulo.imagen}
-                     alt={articulo.titulo}
+                     src={articuloFinal.imagen}
+                     alt={articuloFinal.titulo}
                      className="w-full h-64 md:h-96 lg:h-[500px] object-cover rounded-lg shadow-lg"
                    />
                    <p className="text-sm text-gray-500 mt-2 italic">
@@ -1820,7 +2977,7 @@ const DetalleArticulo = () => {
           <div className="px-8 pb-8">
             <div 
               className="article-content"
-              dangerouslySetInnerHTML={{ __html: articulo.contenido }}
+              dangerouslySetInnerHTML={{ __html: articuloFinal.contenido }}
             />
              </div>
            </article>
@@ -1836,10 +2993,10 @@ const DetalleArticulo = () => {
            */}
 
            {/* Recuadro de redes sociales */}
-           <div className="mt-8 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl shadow-lg p-4 sm:p-6 text-white">
-             <h3 className="text-lg sm:text-xl font-bold mb-3">¿Te interesa este artículo?</h3>
-             <p className="text-blue-100 mb-4 text-sm sm:text-base">Mantente al día con los mejores artículos. Síguenos en nuestras redes sociales para contenido exclusivo.</p>
-             <div className="flex flex-wrap gap-2 sm:gap-4">
+           <div className="mt-8 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl shadow-lg p-4 sm:p-6 text-white max-w-4xl mx-auto">
+             <h3 className="text-lg sm:text-xl font-bold mb-3 text-center">¿Te interesa este artículo?</h3>
+             <p className="text-blue-100 mb-4 text-sm sm:text-base text-center">Mantente al día con los mejores artículos. Síguenos en nuestras redes sociales para contenido exclusivo.</p>
+             <div className="flex flex-wrap gap-2 sm:gap-4 justify-center">
                <a 
                  href="https://facebook.com" 
                  target="_blank" 

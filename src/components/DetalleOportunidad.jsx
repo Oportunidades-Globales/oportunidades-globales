@@ -56,17 +56,7 @@ const DetalleOportunidad = () => {
 
   // Función para regresar a oportunidades manteniendo la posición
   const handleVolverAOportunidades = () => {
-    // Guardar la posición actual antes de navegar
-    const savedPosition = sessionStorage.getItem('oportunidadesScrollPosition');
-    if (savedPosition) {
-      navigate('/');
-      // Restaurar posición después de un pequeño delay
-      setTimeout(() => {
-        window.scrollTo(0, parseInt(savedPosition, 10));
-      }, 100);
-    } else {
-      navigate('/');
-    }
+    navigate('/');
   };
 
   // Funciones para navegación entre oportunidades
