@@ -9190,6 +9190,640 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
     ]
+  },
+  {
+    id: 158,
+    categoria: "Voluntariado",
+    titulo: "🏨 Hotel costero en pueblo tranquilo - Nesebar, Bulgaria",
+    descripcion: `Pequeño hotel costero en un tranquilo pueblo búlgaro. Es uno de los mejores lugares apartados de Bulgaria, por lo que muchos amantes de la naturaleza vienen aquí para alojarse y disfrutar de momentos increíbles fuera del ajetreo de la ciudad.
+
+    📌 Tareas principales:
+    - Ayuda en cocina
+    - Recepción del hotel
+    - Servicio de limpieza
+    - Mejora de página web
+    - 5 horas diarias, 5 días a la semana
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Disposición para trabajo en hotel
+    - Buena actitud y responsabilidad
+    - Interés en turismo y naturaleza
+
+    ✅ Beneficios:
+    - Nessebar, pueblo cercano, es Patrimonio de la UNESCO
+    - Largas playas de arena y rutas de senderismo
+    - Mar a 270 grados por todas partes
+    - Hermosos lugares para tomar el sol y bucear
+    - Ambiente tranquilo y natural`,
+    imagen: "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1631366SS",
+    pais: "Bulgaria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 159,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia en suroeste de Bulgaria - Dimitrovgrad, Bulgaria",
+    descripcion: `¡Bienvenidos a un hermoso pueblo en el suroeste de Bulgaria! Hay una naturaleza increíble alrededor, caballos, perros, gatos, fauna silvestre y también gente muy simpática.
+
+    📌 Tareas principales:
+    - Experiencia con animales
+    - Jardinería y bricolaje
+    - 4 o 5 horas de ayuda al día
+    - Trabajo de lunes a viernes
+
+    📌 Requisitos:
+    - Uno o dos ayudantes con experiencia en animales
+    - Conocimientos de jardinería y bricolaje
+    - Buena actitud y motivación
+    - Interés en naturaleza y animales
+
+    ✅ Beneficios:
+    - Alojamiento cómodo y acogedor
+    - Deliciosa comida vegetariana
+    - Ciudad culturalmente rica de Plovdiv (1 hora)
+    - Senderismo por montañas, lagos y cuevas
+    - Antiguas ruinas tracias y playas griegas (2 horas)
+    - Hablante nativa de inglés y profesora`,
+    imagen: "https://images.pexels.com/photos/10841763/pexels-photo-10841763.jpeg",
+    sitioWeb: "https://www.helpx.net/host/VVXF8KTR2",
+    pais: "Bulgaria",
+    duracion: "Primavera y verano",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/4992441/pexels-photo-4992441.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 160,
+    categoria: "Voluntariado",
+    titulo: "🌿 Proyectos naturales en parque - Yovovtsi, Bulgaria",
+    descripcion: `De abril a octubre de 2025, comenzaremos con nuevos proyectos para todos ustedes, maravillosos voluntarios, en el Parque Natural de Bulgarka, en Bulgaria.
+
+    📌 Tareas principales:
+    - Limpiar la zona del río y la cascada
+    - Jardinería y construcción con adobe
+    - Instalar cocinas interiores y exteriores
+    - Transformar antiguo granero en aula
+    - Reutilizar y renovar cosas viejas
+
+    📌 Requisitos:
+    - No hace falta ser profesional
+    - Ser buen compañero de equipo
+    - Disposición para aventura de voluntariado
+    - Interés en proyectos naturales
+
+    ✅ Beneficios:
+    - Ubicación en Parque Natural de Bulgarka
+    - Proyectos creativos y naturales
+    - Ambiente de equipo y colaboración
+    - Experiencia en construcción sostenible
+    - Naturaleza increíble de Bulgaria`,
+    imagen: "https://images.pexels.com/photos/1203017/pexels-photo-1203017.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2197131RD",
+    pais: "Bulgaria",
+    duracion: "Abril a julio",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1270426/pexels-photo-1270426.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 161,
+    categoria: "Voluntariado",
+    titulo: "🏰 Construcción de castillo en pueblo - Shumen, Bulgaria",
+    descripcion: `Somos Paul y Angela y tenemos tres perros, además de nuestros gatos y dos maravillosos perros callejeros. Vivimos en un pueblo maravilloso, rodeados de vegetación y aire fresco.
+
+    📌 Tareas principales:
+    - Crear jardín natural
+    - Transformar granero en torre
+    - Recrear pared del granero en muralla de castillo
+    - Pintar y jardinería
+    - Trabajo de 9:00 a 13:00
+
+    📌 Requisitos:
+    - Buscamos ayudantes para finales de septiembre
+    - Preferimos parejas o amigos
+    - Disposición para trabajo de construcción
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Alojamiento en casa independiente
+    - Nevera, baño completo, comida incluida y wifi
+    - Excelentes vistas y paseos
+    - Cocina de verano para recibir visitas
+    - Bar maravilloso en el pueblo con buena comida
+    - Experiencia previa con muchos ayudantes`,
+    imagen: "https://images.pexels.com/photos/33998591/pexels-photo-33998591.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1217339GX",
+    pais: "Bulgaria",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33988290/pexels-photo-33988290.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 162,
+    categoria: "Voluntariado",
+    titulo: "🌱 Granja orgánica familiar - Ivan Vazavo, Bulgaria",
+    descripcion: `Somos Justin y Nadia y nuestros dos hijos, Joseph, de 8 años, y James, de 4. Vivimos en un pintoresco pueblo cerca de Plovdiv, la segunda ciudad más grande del país, en el centro, un buen lugar para viajar al resto del país.
+
+    📌 Tareas principales:
+    - Restauración de la casa
+    - Jardines y permacultura
+    - Jugar y enseñar a los niños
+    - Limpieza y construcción
+    - Cocina y cuidado de animales
+    - 5 días de trabajo de unas 6 horas
+
+    📌 Requisitos:
+    - Interés en jardinería orgánica y permacultura
+    - Experiencia con niños
+    - Disposición para trabajo variado
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Pueblo cerca de Plovdiv (segunda ciudad más grande)
+    - Cerca de aguas termales, río, montañas
+    - Manantiales de agua de montaña
+    - Centro de parapente
+    - 2 días libres por semana
+    - Nadia es diseñadora de permacultura
+    - Justin es chef`,
+    imagen: "https://images.pexels.com/photos/33993770/pexels-photo-33993770.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2031161JE",
+    pais: "Bulgaria",
+    duracion: "Primavera, verano, otoño",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/4757252/pexels-photo-4757252.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 163,
+    categoria: "Voluntariado",
+    titulo: "🏡 Granja familiar en pueblo tranquilo - Banovo, Bulgaria",
+    descripcion: `Somos Marina y Rado, hermanos. Rado tiene un hijo de 7 años y nuestra madre, Vania, se aloja en la propiedad con bastante frecuencia. Si busca una escapada tranquila de la ciudad con magníficas vistas, aire fresco, comida deliciosa, anfitriones que hayan viajado mucho y la oportunidad de visitar ocasionalmente algunas de las mejores playas del Mar Negro, ¡no dude en contactarnos!
+
+    📌 Tareas principales:
+    - Cuidado de animales (perros y gatos)
+    - Mantenimiento de la propiedad
+    - Trabajos en la granja
+    - Ayuda general
+
+    📌 Requisitos:
+    - Actualmente NO buscamos ayudantes para 2025
+    - Podríamos necesitar ayuda de nuevo en mayo de 2026
+    - Interés en vida rural
+    - Amor por los animales
+
+    ✅ Beneficios:
+    - Magníficas vistas y aire fresco
+    - Comida deliciosa
+    - Anfitriones con experiencia de viaje
+    - Acceso a playas del Mar Negro
+    - Ambiente familiar y tranquilo
+    - Cuidado de animales rescatados`,
+    imagen: "https://images.pexels.com/photos/169523/pexels-photo-169523.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2251306ET",
+    pais: "Bulgaria",
+    duracion: "Mayo 2026",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/7728622/pexels-photo-7728622.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 164,
+    categoria: "Voluntariado",
+    titulo: "🍷 Paisajismo y elaboración de vino - Izvorovo, Bulgaria",
+    descripcion: `Actualmente busco ayuda con un par de proyectos que comienzan el 6 de septiembre. La casa está en un pueblo rural de la región del valle vinícola, cerca de Stara Zagora, a 15 km de Chirpan y a una hora de Plovdiv.
+
+    📌 Tareas principales:
+    - Paisajismo para crear zona exterior con asientos y hamacas
+    - Terminar de pavimentar con moldes y rellenar con piedras
+    - Recolección de uvas y elaboración de vino
+    - 4 o 5 horas de trabajo
+
+    📌 Requisitos:
+    - Disponibilidad a partir del 6 de septiembre
+    - Interés en paisajismo y viticultura
+    - Disposición para trabajo físico
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Ubicación en región del valle vinícola
+    - Cerca de Stara Zagora y Plovdiv
+    - Zona preciosa entre bosques y montañas
+    - Ideal para senderismo y relajación
+    - Bar y restaurante en pueblo de al lado
+    - Piscina y música en directo ocasional
+    - Alojamiento agradable y comida casera`,
+    imagen: "https://images.pexels.com/photos/3171158/pexels-photo-3171158.jpeg",
+    sitioWeb: "https://www.helpx.net/host/884342VB",
+    pais: "Bulgaria",
+    duracion: "Flexible",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33985023/pexels-photo-33985023.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 165,
+    categoria: "Voluntariado",
+    titulo: "🏗️ Ecoconstrucción y permacultura - Kovachitsa, Bulgaria",
+    descripcion: `Creando ecoconstrucciones, proyectos sostenibles e intercambio cultural en un pueblo con mucha naturaleza, cerca del río Danubio. Me llamo Oraya, tengo 45 años, soy mujer, he viajado mucho y me interesa la naturaleza.
+
+    📌 Tareas principales:
+    - Ecoconstrucción (tierra apisonada, balas de paja, cob, cáñamo)
+    - Techos verdes y construcción sostenible
+    - Cultivo biodinámico y orgánico
+    - Ampliación de dos plantas
+    - Construcción con paredes de botellas de vidrio
+    - Renovación de granero, sauna y baño de vapor
+
+    📌 Requisitos:
+    - Disponible de mayo a octubre
+    - Reservar con antelación
+    - Interés en construcción sostenible
+    - Experiencia en permacultura útil
+
+    ✅ Beneficios:
+    - Ubicación cerca del río Danubio
+    - Formación en ecoconstrucción
+    - Experiencia en permacultura
+    - Gran huerto sin químicos
+    - Horno de cob y hoguera exterior
+    - Proyectos diversos y creativos
+    - Entorno natural increíble`,
+    imagen: "https://images.pexels.com/photos/8830257/pexels-photo-8830257.jpeg",
+    sitioWeb: "https://www.helpx.net/host/5GI7AT3M2",
+    pais: "Bulgaria",
+    duracion: "Mayo a septiembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 166,
+    categoria: "Voluntariado",
+    titulo: "🏔️ Vida sostenible en montañas - Kyustendil, Bulgaria",
+    descripcion: `Tras años viajando y aprendiendo muchísimo como voluntarios, decidimos establecernos en las hermosas montañas de Bulgaria. Nuestro sueño es vivir en armonía con la naturaleza, con una sana distancia de la sociedad, independizándonos del sistema en la medida de lo posible y razonable.
+
+    📌 Tareas principales:
+    - Hacer más productivo, cómodo y hermoso el lugar
+    - Trabajos de construcción y mejora
+    - Jardinería y cultivos
+    - Mantenimiento general
+    - Aprender y crecer junto con el lugar
+
+    📌 Requisitos:
+    - Interés en vida sostenible
+    - Disposición para trabajo físico
+    - Curiosidad y ganas de aprender
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Ubicación en hermosas montañas de Bulgaria
+    - Terreno suficiente rodeado de bosque
+    - Fuente de agua cercana
+    - Pequeña casa antigua en buen estado
+    - Vida básica pero con necesidades cubiertas
+    - Aprendizaje continuo y crecimiento personal
+    - Conexión profunda con la naturaleza`,
+    imagen: "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg",
+    sitioWeb: "https://www.helpx.net/host/MF8BEC0W5",
+    pais: "Bulgaria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/618833/pexels-photo-618833.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 167,
+    categoria: "Voluntariado",
+    titulo: "🐴 Granja con caballos y perros - Tryavna, Bulgaria",
+    descripcion: `Pequeña finca con caballos y perros. Solo yo, mis gatos, perros y caballos. Rodeado de kilómetros y kilómetros de hermosa naturaleza, bosques y ríos. Nuestra vida es sencilla y nos centramos en los animales.
+
+    📌 Tareas principales:
+    - Pasear, alimentar y asear perros y caballos
+    - Cultivar verduras
+    - Mantener la casa y el terreno
+    - Trabajos generales en la finca
+
+    📌 Requisitos:
+    - Amor por los animales
+    - Disposición para trabajo físico
+    - Interés en vida rural
+    - Buena actitud y responsabilidad
+
+    ✅ Beneficios:
+    - Ubicación en Parque Nacional Bulgarka
+    - Pueblo turístico del Renacimiento
+    - A 800 m sobre el nivel del mar
+    - Aire puro y tradiciones fuertes
+    - Entre Veliko Tarnovo y Gabrovo
+    - Cerca del Paso de Shipka y estación de esquí
+    - Paraíso para amantes de historia y naturaleza
+    - 4 dormitorios y 2 baños en la casa`,
+    imagen: "https://images.pexels.com/photos/18454870/pexels-photo-18454870.jpeg",
+    sitioWeb: "https://www.helpx.net/host/FA7R2BH3T",
+    pais: "Bulgaria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/32192746/pexels-photo-32192746.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 168,
+    categoria: "Voluntariado",
+    titulo: "🏡 Casa británica en Bulgaria rural - Bolyarovo, Bulgaria",
+    descripcion: `Hola, soy británica y vivo en la Bulgaria rural con mis 5 perros y 2 gatos. Busco una persona amigable, flexible, tolerante, amante de los perros y de la naturaleza que me ayude a mantener y cuidar mi jardín y mi casa.
+
+    📌 Tareas principales:
+    - Mantener y cuidar jardín
+    - Cuidado de la casa
+    - Cuidado de 5 perros y 2 gatos
+    - Trabajos generales de mantenimiento
+
+    📌 Requisitos:
+    - Persona amigable y flexible
+    - Tolerante y amante de los perros
+    - Interés en naturaleza
+    - Preferir tardes tranquilas en casa
+
+    ✅ Beneficios:
+    - Casa en zona muy tranquila
+    - Propiedad a las afueras del pueblo
+    - Perfecto para estilo de vida relajado
+    - 5 perros rescatados bulliciosos y cariñosos
+    - Gatos que viven en libertad
+    - Tienda cerca, pueblo a 15 minutos
+    - Hermosa costa del Mar Negro no muy lejos
+    - Autobús local a la mayoría de lugares`,
+    imagen: "https://images.pexels.com/photos/5583000/pexels-photo-5583000.jpeg",
+    sitioWeb: "https://www.helpx.net/host/Z84Z3M5Y0",
+    pais: "Bulgaria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/8793460/pexels-photo-8793460.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 169,
+    categoria: "Voluntariado",
+    titulo: "🔨 Proyectos de construcción - Ivancha, Bulgaria",
+    descripcion: `Entre 2010 y 2017, alojé a más de 100 voluntarios de 27 países diferentes y recibí excelentes reseñas. Ahora que estoy listo para recibirlos de nuevo, me encuentro empezando desde cero. Necesito ayuda con varios proyectos.
+
+    📌 Tareas principales:
+    - Desmontar cuarto de jardín y reconstruir como cenador
+    - Crear cenador con postes sobre cimientos de hormigón
+    - Demoler edificio abandonado y en ruinas
+    - Ayuda con jardinería
+    - Trabajo requiere al menos dos personas en forma y con fuerza
+
+    📌 Requisitos:
+    - Dos o tres amigos que viajen juntos o parejas
+    - Capacidad para realizar trabajo físico
+    - Buena forma física y fuerza
+    - Disposición para trabajo de construcción
+
+    ✅ Beneficios:
+    - Experiencia previa con más de 100 voluntarios
+    - Excelentes reseñas de voluntarios anteriores
+    - Ambiente vegetariano
+    - Abundante comida de calidad
+    - Proyectos diversos y desafiantes
+    - Experiencia internacional con 27 países`,
+    imagen: "https://images.pexels.com/photos/2058729/pexels-photo-2058729.jpeg",
+    sitioWeb: "https://www.helpx.net/host/WWOIYVMKO",
+    pais: "Bulgaria",
+    duracion: "Julio - septiembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/13070784/pexels-photo-13070784.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 170,
+    categoria: "Voluntariado",
+    titulo: "🏫 Proyecto educativo en gran edificio escolar - Momchilgrad, Bulgaria",
+    descripcion: `Somos un nuevo proyecto ubicado en una hermosa zona rural del sur de Bulgaria. Contamos con un gran edificio escolar, renovado y reformado, en una propiedad de 6,5 hectáreas. El entorno es montañoso y agreste, con un río que desemboca en el lago Kardjali a poca distancia a pie.
+
+    📌 Tareas principales:
+    - Proyectos de construcción y renovación
+    - Mantenimiento del edificio escolar
+    - Trabajos en la propiedad de 6,5 hectáreas
+    - Actividades educativas y culturales
+    - Trabajo en equipo con jóvenes alemanes
+
+    📌 Requisitos:
+    - Interés en proyectos educativos
+    - Disposición para trabajo en equipo
+    - Buena actitud y motivación
+    - Interés en intercambio cultural
+
+    ✅ Beneficios:
+    - Pueblo de Kardjali a solo 15 km
+    - Se siente como paraíso rural
+    - Tumbas y asentamientos tracios cercanos
+    - Cuevas y cascadas naturales increíbles
+    - Ciudad cosmopolita de Plovdiv cerca
+    - Playas griegas en menos de dos horas
+    - Equipo internacional (Josh canadiense, Lara inglesa)
+    - Jóvenes alemanes aprendiendo nuevas habilidades`,
+    imagen: "https://images.pexels.com/photos/33973616/pexels-photo-33973616.jpeg",
+    sitioWeb: "https://www.helpx.net/host/820ZA4XM0",
+    pais: "Bulgaria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33941272/pexels-photo-33941272.png"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 171,
+    categoria: "Voluntariado",
+    titulo: "🔧 Proyectos de jardinería y soldadura - Plachi Dol, Bulgaria",
+    descripcion: `Somos tres ingleses: Ian y Kate, de unos 70 años, y Andrew (el hijo de Kate). Tenemos wifi. Idiomas: un poco de español, un francés aún más viejo, y muy poco griego y búlgaro (en proceso). Llevamos 2024 trabajando en el jardín y ya está prácticamente ajardinado, pero aún queda mucho por hacer.
+
+    📌 Tareas principales:
+    - Soldadura (equipo disponible, pero necesitamos habilidad)
+    - Trabajos de pintura y barnizado interior y exterior
+    - Trabajos de cercado
+    - Jardinería: cavar, desherbar, plantar, cortar césped, podar
+    - Mantenimiento general
+
+    📌 Requisitos:
+    - Conocimientos de soldadura muy útiles
+    - Interés en jardinería y mantenimiento
+    - Disposición para trabajo físico
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Wifi disponible
+    - Dos perros que se ganan el corazón de todos
+    - Cuatro gatos muy amigables
+    - Tres patos como mascotas
+    - Ian es profesor de TEFL (puede ayudar con inglés)
+    - Alojamiento cómodo
+    - Ambiente familiar inglés en Bulgaria`,
+    imagen: "https://images.pexels.com/photos/33965725/pexels-photo-33965725.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2284426OB",
+    pais: "Bulgaria",
+    duracion: "Abril - noviembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33968629/pexels-photo-33968629.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 172,
+    categoria: "Voluntariado",
+    titulo: "🌾 Granja familiar con animales - Dryanovets, Bulgaria",
+    descripcion: `Hola a todos, necesitamos ayuda en nuestra pequeña granja aquí en Bulgaria. Mi esposo sufrió una caída muy fuerte y, aunque intenta disimularlo, veo que está sufriendo mucho, así que nos encantaría que alguien viniera a ayudarnos durante unas semanas hasta que se recupere.
+
+    📌 Tareas principales:
+    - Sostener desbrozadora para cortar césped alto
+    - Trabajos en la granja
+    - Pintar un poco y trabajos generales
+    - Cuidado de animales: 10 patos, 10 gallinas, 2 conejos
+    - Máximo 4 horas al día
+
+    📌 Requisitos:
+    - Capacidad para sostener desbrozadora
+    - Disposición para trabajo físico
+    - Buena actitud y motivación
+    - Interés en cuidado de animales
+
+    ✅ Beneficios:
+    - Granja de 800 m² en Bulgaria
+    - Ayuda durante recuperación del esposo
+    - Ambiente familiar y acogedor
+    - Cuidado de diversos animales
+    - Trabajo máximo 4 horas diarias
+    - Experiencia en granja rural
+    - Ambiente no esclavista y relajado`,
+    imagen: "https://images.pexels.com/photos/12830449/pexels-photo-12830449.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1571051YH",
+    pais: "Bulgaria",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/10854318/pexels-photo-10854318.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 173,
+    categoria: "Voluntariado",
+    titulo: "🎨 Centro creativo en la montaña - Yarlovo, Bulgaria",
+    descripcion: `Hola, me llamo Iván y quiero compartir nuestro proyecto con ustedes. Se trata de un innovador centro creativo en la montaña que une cultura, espiritualidad, vida sana y actividades en la naturaleza para niños. Somos una familia de cuatro: mi esposa Mari, nuestra hija Viara (4 años y medio) y nuestro hijo Boris (1 año y medio).
+
+    📌 Tareas principales:
+    - Organizar eventos enriquecedores para niños y adultos
+    - Conciertos, conferencias, prácticas espirituales
+    - Actividades educativas, manualidades, música
+    - Proyectos creativos y científicos
+    - Permacultura, floricultura, cocina saludable
+    - Talleres de bienestar físico y mental
+
+    📌 Requisitos:
+    - Interés en educación y desarrollo infantil
+    - Disposición para trabajo creativo
+    - Buena actitud y motivación
+    - Interés en espiritualidad y vida sana
+
+    ✅ Beneficios:
+    - Centro creativo innovador en la montaña
+    - Unión de cultura, espiritualidad y naturaleza
+    - Ambiente familiar con dos niños pequeños
+    - Amplia gama de eventos enriquecedores
+    - Proyectos desde cero en campo salvaje
+    - Fortalecimiento de conexión con la naturaleza
+    - Conexión con el ser superior
+    - Misión de ser útiles a la sociedad`,
+    imagen: "https://images.pexels.com/photos/18717325/pexels-photo-18717325.jpeg",
+    sitioWeb: "https://www.helpx.net/host/K9PE1UHPC",
+    pais: "Bulgaria",
+    duracion: "Marzo a noviembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33989134/pexels-photo-33989134.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 
