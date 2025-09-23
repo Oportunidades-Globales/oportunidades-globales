@@ -10507,6 +10507,579 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
     ]
+  },
+  {
+    id: 190,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia creativa con enfoque danés - Stenlille, Dinamarca",
+    descripcion: `Hola y bienvenidos a nuestra casa. Somos Martin y Charlotte y vivimos en una antigua casa de campo de estilo danés con un enfoque creativo. Nos encanta que el mundo nos visite con viajeros de todo el mundo.
+
+    📌 Tareas principales:
+    - Ayudar a construir un gallinero móvil
+    - Jardinería y cuidados del jardín
+    - Aprender sobre fermentación, miso y salsas
+    - Trabajar en dulces/snacks con semillas de camelina
+    - Inspirar con recetas de países de origen
+    - Tareas variadas en el jardín
+
+    📌 Requisitos:
+    - Gusto por la jardinería
+    - Conocimientos sobre fermentación útiles
+    - Hablar bien inglés
+    - No usar generadores de texto de IA
+    - Personas creativas y motivadas
+
+    ✅ Beneficios:
+    - Antigua casa de campo de estilo danés
+    - Enfoque creativo en todo
+    - Aprendizaje sobre fermentación y miso
+    - Proyectos con semillas de camelina
+    - Intercambio cultural internacional
+    - Inspiración mundial en recetas
+    - Ambiente creativo y acogedor
+    - Experiencia única en Dinamarca`,
+    imagen: "https://images.pexels.com/photos/3711354/pexels-photo-3711354.jpeg",
+    sitioWeb: "https://www.helpx.net/host/311726XU",
+    pais: "Dinamarca",
+    duracion: "Primavera - verano - finales de verano - otoño",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/8172859/pexels-photo-8172859.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 191,
+    categoria: "Voluntariado",
+    titulo: "🎵 Casa de familia artesanal con permacultura - Broby, Dinamarca",
+    descripcion: `¡Hola! Me llamo Jalte. Tengo dos hijos: Sonja, de 15 años, y Vilbjørn, de 5. Soy músico, artesano, terapeuta de Bachs, etc. Tengo conocimientos básicos de la mayoría de las manualidades y actualmente estoy renovando mi casa, priorizando la sostenibilidad y los materiales naturales, como la arcilla.
+
+    📌 Tareas principales:
+    - Renovación de casa con materiales naturales
+    - Trabajo con arcilla y técnicas tradicionales
+    - Cuidado del huerto de permacultura y biodinámica
+    - Mantenimiento de árboles frutales y arbustos de bayas
+    - Ayudar con tareas domésticas
+    - Construcción de estufa de leña
+
+    📌 Requisitos:
+    - Interés en sostenibilidad y materiales naturales
+    - Disponibilidad de abril a diciembre
+    - Personas abiertas y de mente abierta
+    - Interés en aprender manualidades
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Gran parcela natural con muchos árboles
+    - Pequeños rincones acogedores
+    - Casa en el campo con hermoso entorno natural
+    - Pozo propio con Granderwater
+    - Estufa de leña para autosuficiencia
+    - Huerto de permacultura y biodinámica
+    - Árboles frutales y arbustos de bayas
+    - Centro comercial a 2,5 km
+    - Bicicletas disponibles`,
+    imagen: "https://images.pexels.com/photos/1038259/pexels-photo-1038259.jpeg",
+    sitioWeb: "https://www.helpx.net/host/R0633QP66",
+    pais: "Dinamarca",
+    duracion: "Abril a diciembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/3562689/pexels-photo-3562689.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 192,
+    categoria: "Voluntariado",
+    titulo: "🎨 Retiro creativo junto al mar - Sjællands Odde, Dinamarca",
+    descripcion: `Soy Maj, una artista ambiental de 46 años y fundadora del retiro de trabajo creativo YdreLand donde vivo y trabajo. Está situado en la naturaleza salvaje de Sjællands Odde justo en frente del mar, en el corazón de Dinamarca con su propio pequeño bosque de pinos, sauna de playa y a solo 1,5 horas de Copenhague.
+
+    📌 Tareas principales:
+    - Ayudar en escultura y renovación de casa de campo
+    - Tareas prácticas de mi nueva gran escultura
+    - Trabajo de renovación
+    - 3 horas por día de trabajo
+    - Vida social e intercambio cultural
+
+    📌 Requisitos:
+    - Disponibilidad en septiembre + octubre 2025
+    - Disfrutar de la propia compañía
+    - Interés en arte y escultura
+    - Buena actitud y motivación
+    - Leer descripción completa antes de contactar
+
+    ✅ Beneficios:
+    - Naturaleza salvaje junto al mar
+    - Pequeño bosque de pinos propio
+    - Sauna de playa
+    - A 1,5 horas de Copenhague (coche/autobús) o Aarhus (ferry)
+    - Club de socios y casa particular
+    - Estudio de arte
+    - Capacidad para 2 a 6 socios o invitados
+    - Intercambio cultural internacional
+    - Experiencia única de retiro creativo`,
+    imagen: "https://images.pexels.com/photos/5712704/pexels-photo-5712704.jpeg",
+    sitioWeb: "https://www.helpx.net/host/460446EU",
+    pais: "Dinamarca",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/32909444/pexels-photo-32909444.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 193,
+    categoria: "Voluntariado",
+    titulo: "🏝️ Vida en isla con viñedo y miel - Fejø, Dinamarca",
+    descripcion: `Ven a probar la vida en una pequeña isla de Dinamarca, la hermosa Fejø (aprox. 500 habitantes), al sur de Selandia (Zelanda), al norte de Lolandia. Somos una familia de tres: Mikkel (46), Ann-Mai (41), nuestro hijo Storm de 15 años, el perro Kiwi y el gato Mivs.
+
+    📌 Tareas principales:
+    - Limpiar el jardín
+    - Limpiar la casa
+    - Tareas domésticas y cocina
+    - Reformas en la casa
+    - Ayudar con el viñedo
+    - Cuidar manzanos y plantas comestibles
+    - Trabajar con colmenas
+
+    📌 Requisitos:
+    - Interés en vida en isla
+    - Disposición para probar cosas nuevas
+    - Buena actitud y motivación
+    - Interés en agricultura y apicultura
+
+    ✅ Beneficios:
+    - Pequeña isla hermosa de 500 habitantes
+    - Ubicación estratégica en Selandia
+    - Océano a menos de 400 metros por tres lados
+    - Pequeño viñedo propio
+    - Manzanos dispersos y plantas comestibles
+    - Hierbas y arbustos
+    - Pequeña huerta y gallinero
+    - Colmenas propias
+    - Elaboración de hidromiel
+    - Pesca con red
+    - Mermeladas y jugo de manzana
+    - Intercambio cultural internacional`,
+    imagen: "https://images.pexels.com/photos/3295218/pexels-photo-3295218.jpeg",
+    sitioWeb: "https://www.helpx.net/host/319094RI",
+    pais: "Dinamarca",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33979112/pexels-photo-33979112.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 194,
+    categoria: "Voluntariado",
+    titulo: "🌿 Parque natural junto al lago - Nysted, Dinamarca",
+    descripcion: `✅ 🌿 ¡Oportunidad en Dinamarca! ¡Únete a nuestra aventura! 🌿 ¡Hola, voluntarios! 👋 ¡Buscamos personas entusiastas y prácticas para que nos acompañen en nuestro parque natural en Dinamarca! Enclavado junto a un hermoso lago, rodeado de naturaleza y animales, estamos construyendo un refugio especial donde los huéspedes puedan relajarse y reconectar con la naturaleza.
+
+    📌 Tareas principales:
+    - Ayudar a que los árboles crezcan más grandes y fuertes
+    - Cortar árboles muertos y usarlos como leña
+    - Cortar césped y limpiar entorno
+    - Construir un parque natural más grande
+    - Proyectos de bricolaje y construcción
+    - Cocinar y compartir comidas juntos
+    - Otras tareas al aire libre
+    - Echar una mano a nuestro pequeño aventurero, Víkingur (1 año)
+    - Ayudar a plantar verduras (principiante total)
+
+    📌 Requisitos:
+    - Personas entusiastas y prácticas
+    - Interés en naturaleza y construcción
+    - Buena actitud y motivación
+    - Disposición para trabajo variado
+
+    ✅ Beneficios:
+    - Parque natural junto a hermoso lago
+    - Rodeado de naturaleza y animales
+    - Refugio especial para reconectar con naturaleza
+    - Alojamiento en habitación en casa principal
+    - Cocina casera compartida
+    - Ambiente familiar con niño pequeño
+    - Proyectos de construcción diversos
+    - Experiencia única en Dinamarca`,
+    imagen: "https://images.pexels.com/photos/33977847/pexels-photo-33977847.jpeg",
+    sitioWeb: "https://www.helpx.net/host/5SNQ7UKJB",
+    pais: "Dinamarca",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33966678/pexels-photo-33966678.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 195,
+    categoria: "Voluntariado",
+    titulo: "🌱 Granja orgánica con invernaderos - Kerteminde, Dinamarca",
+    descripcion: `Somos una pareja con hijos mayores, así que tenemos espacio para alojar hasta 5 personas y trabajar con nosotros en nuestra granja orgánica. Soy cocinera y mi pareja es profesora e ingeniera paisajista. Trabajamos en la producción de hortalizas, tanto en invernaderos como al aire libre.
+
+    📌 Tareas principales:
+    - Producción de hortalizas en invernaderos
+    - Cultivo de tomates, berenjenas, pimientos, chiles
+    - Judías verdes en invernaderos
+    - Diversas hortalizas en el campo
+    - Tareas agrícolas generales
+    - Construcción tradicional en edificios
+    - Mantenimiento de invernaderos
+
+    📌 Requisitos:
+    - Interés en agricultura orgánica
+    - Disposición para trabajo agrícola
+    - Buena actitud y motivación
+    - Interés en intercambio cultural
+
+    ✅ Beneficios:
+    - Granja orgánica con invernaderos
+    - Producción diversa de hortalizas
+    - Alojamiento para hasta 5 personas
+    - Bicicletas disponibles para huéspedes
+    - Odense a 17 km
+    - Ciudad de Kerteminde junto al mar a 5 km
+    - Intercambio cultural y social
+    - Experiencia con cocinera y paisajista`,
+    imagen: "https://images.pexels.com/photos/2316571/pexels-photo-2316571.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1514158CQ",
+    pais: "Dinamarca",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1084540/pexels-photo-1084540.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 196,
+    categoria: "Voluntariado",
+    titulo: "🍷 Viñedo ecológico profesional en isla - Fejø, Dinamarca",
+    descripcion: `Buscamos personas agradables o una pareja para alojarse en Hideaway en agosto de 2025. Viñedo ecológico/profesional en la pequeña isla de Fejø, en el extremo sur de Dinamarca. Actualmente, buscamos ayudantes durante tres semanas de agosto en nuestro pequeño restaurante, especialmente en el viñedo y en nuestro nuevo jardín biodiverso.
+
+    📌 Tareas principales:
+    - Trabajar en el viñedo ecológico/profesional
+    - Ayudar en el nuevo jardín biodiverso
+    - Trabajar en el pequeño restaurante
+    - Durante temporada turística (junio, julio, agosto)
+    - Ofrecer vinos y comidas
+    - Comida sencilla pero muy buena
+
+    📌 Requisitos:
+    - Disponibilidad en agosto 2025
+    - Personas agradables o parejas
+    - Interés en viticultura ecológica
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Viñedo ecológico/profesional
+    - Pequeña isla de Fejø en extremo sur de Dinamarca
+    - Viñedo Hideaway a 18 metros sobre nivel del mar
+    - Pequeño restaurante con vinos y comidas
+    - Comida basada en productos locales
+    - Clima más suave y soleado de Escandinavia
+    - Similar al PNW (isla de Vancouver)
+    - Familia: Karin, Rosa y Alma
+    - Hablan inglés y alemán
+    - Perra Molly y dos gatos`,
+    imagen: "https://images.pexels.com/photos/6408522/pexels-photo-6408522.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1053219LU",
+    pais: "Dinamarca",
+    duracion: "Marzo - octubre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33977778/pexels-photo-33977778.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 197,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de campo renovación sostenible - Svendborg, Dinamarca",
+    descripcion: `¡Bienvenidos! Somos una pareja mixta que vive en Dinamarca, ambos nacimos en 1984. Nos encanta viajar y nos conocimos en Colombia. Ahora tenemos una nueva aventura: compramos una antigua casa de campo y un terreno, así que tenemos mucho espacio para compartir y nos gustaría invitar a viajeros a quedarse con nosotros para mantener la onda del mundo.
+
+    📌 Tareas principales:
+    - Trabajos de jardinería (sinfín de trabajos)
+    - Mucha construcción
+    - Renovación de antigua casa de campo de 1884
+    - Construcción de apartamento pequeño
+    - Proyectos de renovación sostenible
+    - Ayudar con hijo pequeño (noviembre 2023)
+
+    📌 Requisitos:
+    - Interés en renovación sostenible
+    - Disposición para trabajo de jardinería y construcción
+    - Buena actitud y motivación
+    - Interés en intercambio cultural
+
+    ✅ Beneficios:
+    - Antigua casa de campo de 1884
+    - Renovación de forma más sostenible posible
+    - Pequeño apartamento construido con helpXers
+    - Mucho espacio para compartir
+    - Hijo pequeño increíble (noviembre 2023)
+    - Palabras clave: medio ambiente, felicidad, salud, diversión
+    - Humildad, crecimiento, compartir, cuidar, atrevimiento
+    - Intercambio cultural internacional
+    - Experiencia única en Dinamarca`,
+    imagen: "https://images.pexels.com/photos/8892089/pexels-photo-8892089.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1FJ6JIP8X",
+    pais: "Dinamarca",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/5490206/pexels-photo-5490206.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 198,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa orgánica vegetariana sostenible - Vester Skerninge, Dinamarca",
+    descripcion: `Hola viajeros, y bienvenidos a Fyn, cerca de Svendborg. Somos una pareja femenina, divertida, amigable, curiosa, muy viajera y tranquila: Ninna (contable + música) y Bente (escultora + artista social) y nuestros tres adorables gatos. Somos una especie de personas mayores (vejenses) pero aún vibrantes y jóvenes de corazón.
+
+    📌 Tareas principales:
+    - Trabajos de jardinería
+    - Mantenimiento de casa orgánica
+    - Proyectos de sostenibilidad
+    - Intercambio social y cultural
+    - Compartir historias de vida
+    - Jugar juegos de mesa
+    - Compartir cenas
+    - Momentos tranquilos compartidos
+
+    📌 Requisitos:
+    - Preferiblemente dos viajeros a la vez
+    - Mínimo de 2 semanas
+    - Interés en intercambio cultural
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Casa orgánica, vegetariana y muy sostenible
+    - Encantadora casa antigua en pueblo animado
+    - Entre Svendborg y Faaborg
+    - Intercambio social y cultural mutuo
+    - Hablar, compartir historias de vida
+    - Jugar juegos de mesa
+    - Disfrutar buenas risas y cenas
+    - Momentos tranquilos compartidos
+    - Compartir conocimiento y enseñar trucos
+    - Tres adorables gatos`,
+    imagen: "https://images.pexels.com/photos/33951577/pexels-photo-33951577.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1391340QX",
+    pais: "Dinamarca",
+    duracion: "De marzo a septiembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/8251198/pexels-photo-8251198.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 199,
+    categoria: "Voluntariado",
+    titulo: "🏕️ Glamping y granja ecológica - Tranekær, Dinamarca",
+    descripcion: `Nosotras, Tirza (39) y Nicki (46), decidimos despedirnos de la vida ajetreada de Ámsterdam y compramos una granja con terreno en Dinamarca. Junto con nuestros gatos Ollie y Molly, y nuestra pastora alemana Lucy, nos embarcamos en la aventura de nuestra vida y ahora disfrutamos de la naturaleza en la hermosa isla de Langeland.
+
+    📌 Tareas principales:
+    - Trabajar en el primer glamping de Dinamarca, Tiki Camp
+    - Construir y gestionar huerto de verduras y hierbas aromáticas
+    - Cuidar huerto de avellanos con 400 árboles
+    - Trabajo constante en la vieja granja
+    - Cuidar gallinas encantadoras, tres cerditos y cinco ovejas rescatadas
+    - Ayudar con pequeño humano recién añadido a la familia
+
+    📌 Requisitos:
+    - Interés en glamping y granja ecológica
+    - Disposición para trabajo variado
+    - Buena actitud y motivación
+    - Interés en intercambio cultural
+
+    ✅ Beneficios:
+    - Hermosa isla de Langeland en archipiélago danés
+    - Primer glamping de Dinamarca
+    - Campamento ecológico
+    - Huerto de verduras y hierbas aromáticas
+    - Huerto de avellanos con 400 árboles
+    - Gallinas, cerditos y ovejas rescatadas
+    - Gatos Ollie y Molly, perra Lucy
+    - Pequeño humano en la familia
+    - Intercambio cultural internacional`,
+    imagen: "https://images.pexels.com/photos/1094544/pexels-photo-1094544.jpeg",
+    sitioWeb: "https://www.helpx.net/host/4TOMF6YHG",
+    pais: "Dinamarca",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg "
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 200,
+    categoria: "Voluntariado",
+    titulo: "🌊 Granja junto al fiordo con sauna - Vesløs, Dinamarca",
+    descripcion: `Nosotros, Thomas y Annette, vivimos a pocos metros del fiordo de Limfjord, con vistas al ferry de Feggesund, cuya travesía a la isla de Mors dura solo cinco minutos. Nuestra propiedad tiene 1,1 hectáreas y cuenta con numerosos árboles frutales y arbustos, varios bancales elevados, prados y una cabaña para invitados.
+
+    📌 Tareas principales:
+    - Cortar el césped
+    - Talar árboles, partir leña
+    - Crear y mantener compost
+    - Medidas de mejora del terreno
+    - Crear nuevos bancales y senderos
+    - Podar árboles frutales
+    - Cosechar fruta (fresas, frambuesas, grosellas, moras, ciruelas)
+
+    📌 Requisitos:
+    - Disponibilidad primavera, verano y otoño
+    - Disposición para trabajo en jardín
+    - 5 horas al día de trabajo
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - A pocos metros del fiordo de Limfjord
+    - Vistas al ferry de Feggesund (5 min a isla de Mors)
+    - 1,1 hectáreas con árboles frutales y arbustos
+    - Bancales elevados y prados
+    - Cabaña para invitados
+    - Sauna de leña con piscina de agua de lluvia
+    - Cocina abierta con amplio salón
+    - Dos dormitorios y baño con ducha
+    - Alojamiento en cabaña o tienda de campaña`,
+    imagen: "https://images.pexels.com/photos/1009899/pexels-photo-1009899.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2VQNPPL50",
+    pais: "Dinamarca",
+    duracion: "Primavera, verano y otoño",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/677844/pexels-photo-677844.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 201,
+    categoria: "Voluntariado",
+    titulo: "🐴 Granja de caballos en costa oeste - Thisted, Dinamarca",
+    descripcion: `Básicamente, buscamos a una persona que nos ayude con las tareas diarias de nuestra pequeña granja en la costa oeste de Dinamarca. Tenemos aproximadamente 12 caballos. Este puesto implicaría, en parte, tareas generales del establo.
+
+    📌 Tareas principales:
+    - Limpieza de establos
+    - Alimentación de caballos
+    - Paseos con caballos
+    - Reparación de cercas
+    - Tareas generales del establo
+    - Cuidado de animales
+
+    📌 Requisitos:
+    - Interés en caballos y granja
+    - Disposición para tareas diarias
+    - Buena actitud y motivación
+    - Capacidad de trabajo independiente
+
+    ✅ Beneficios:
+    - Pequeña granja en costa oeste de Dinamarca
+    - Aproximadamente 12 caballos
+    - Alojamiento y comida proporcionados
+    - Habitación propia
+    - Considerado miembro de la familia
+    - Cenas familiares y películas
+    - Experiencia completa de vida familiar
+    - Ambiente acogedor y familiar`,
+    imagen: "https://images.pexels.com/photos/2123766/pexels-photo-2123766.jpeg",
+    sitioWeb: "https://www.helpx.net/host/W4JAGUCT0",
+    pais: "Dinamarca",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/7883174/pexels-photo-7883174.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 202,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de paja natural en ecoaldea - Nykobing Sj., Dinamarca",
+    descripcion: `Ven a vivir con nosotros en la Concha y siente la naturaleza en una casa de paja natural. La casa cuenta con árboles para trepar, figuras de arcilla, suelos de arcilla y muchas soluciones de madera. Se encuentra en medio de una ecoaldea. La ecoaldea Fri and Fro cuenta con 30 adultos y 30 niños.
+
+    📌 Tareas principales:
+    - Recolección de bayas
+    - Tala/apilado de leña
+    - Jardinería
+    - Pequeñas tareas de construcción
+    - Trabajo con soluciones de biodiversidad
+    - Proyectos de permacultura
+
+    📌 Requisitos:
+    - Disponibilidad del 20 de junio al 20 de julio
+    - Interés en ecoaldea y permacultura
+    - Buena actitud y motivación
+    - Disposición para trabajo variado
+
+    ✅ Beneficios:
+    - Casa de paja natural en ecoaldea
+    - Árboles para trepar y figuras de arcilla
+    - Suelos de arcilla y soluciones de madera
+    - Ecoaldea Fri and Fro con 30 adultos y 30 niños
+    - Casas de todas las formas y materiales
+    - Soluciones de biodiversidad
+    - Certificado de permacultura
+    - Ecopirata espiritual y muy práctica
+    - Malabarismos con fuego
+    - Budista tibetana y meditación diaria
+    - Hijo Nanur (10 años) brillante y feliz
+    - Humor, alegría, música, circo y yoga acrobático`,
+    imagen: "https://images.pexels.com/photos/18838195/pexels-photo-18838195.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1829866JJ",
+    pais: "Dinamarca",
+    duracion: "Principalmente desde finales de junio hasta el 22 de julio y septiembre una semana",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/6692153/pexels-photo-6692153.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 

@@ -55,7 +55,8 @@ const Filtros = ({ categoriaActiva, setCategoriaActiva, busqueda, setBusqueda, p
     { id: 'singapur', nombre: 'Singapur', bandera: '🇸🇬' },
     { id: 'chile', nombre: 'Chile', bandera: '🇨🇱' },
     { id: 'croacia', nombre: 'Croacia', bandera: '🇭🇷' },
-    { id: 'republica-checa', nombre: 'República Checa', bandera: '🇨🇿' }
+    { id: 'republica-checa', nombre: 'República Checa', bandera: '🇨🇿' },
+    { id: 'dinamarca', nombre: 'Dinamarca', bandera: '🇩🇰' }
   ];
 
   return (
