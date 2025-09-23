@@ -10203,6 +10203,310 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
     ]
+  },
+  {
+    id: 183,
+    categoria: "Voluntariado",
+    titulo: "🍷 Granja ecológica de vinificación - Nemcicky, República Checa",
+    descripcion: `¡BUSCAMOS AYUDANTES PARA LA VENDIMIA Y ELABORACIÓN DE VINO 2025! ¡Comienza en una semana! Pequeña granja ecológica especializada en vinificación y fruticultura. Buscamos personas flexibles, serviciales y agradables que quieran aprender más sobre la región de Moravia del Sur, su gente y la agricultura sostenible.
+
+    📌 Tareas principales:
+    - Embotellado, etiquetado y empaquetado de vino
+    - Vendimia y vinificación
+    - Paisajismo y construcción de vallas
+    - Tareas domésticas diversas
+    - Actividades agrícolas del verano/otoño
+    - Aprender sobre agricultura sostenible
+
+    📌 Requisitos:
+    - Personas flexibles, serviciales y agradables
+    - Interés en aprender sobre vinificación
+    - Disponibilidad para corto y largo plazo
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Pequeña granja ecológica especializada
+    - Aprendizaje sobre vinificación y fruticultura
+    - Región de Moravia del Sur
+    - Agricultura sostenible
+    - Disfrutar delicioso vino
+    - Enseñanza de todo lo necesario
+    - Ambiente acogedor y educativo
+    - Experiencia única en República Checa`,
+    imagen: "https://images.pexels.com/photos/5529548/pexels-photo-5529548.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1430805RY",
+    pais: "República Checa",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/1407851/pexels-photo-1407851.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 184,
+    categoria: "Voluntariado",
+    titulo: "🌿 Granja orgánica en montaña - Lužná u Vsetina, República Checa",
+    descripcion: `Misión Septiembre: ¡El verano sigue aguantando! ¡Una gran oportunidad para todos los jardineros apasionados! Si buscas aventura en la montaña, ¡te damos la bienvenida! Somos una familia un poco aventurera que elige vivir en la antigua granja, que está a 1,5 km del pueblo.
+
+    📌 Tareas principales:
+    - Cuidado y alimentación de animales (cabras, gallinas, perros, gatos)
+    - Desherbar, cortar césped, hacer heno, regar
+    - Mover tierra y estiércol, plantar semillas
+    - Trabajar en el huerto
+    - Terminar el interior del ático, pintar madera
+    - Hacer cercas, repararlas y hacer nuevas
+    - Jugar con los niños
+    - Proyecto de restauración con piedra, hormigón y tierra
+    - Cortar leña y limpiar la casa
+
+    📌 Requisitos:
+    - Pasión por la jardinería
+    - Interés en aventura de montaña
+    - Disposición para trabajo variado
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Antigua granja a 1,5 km del pueblo
+    - Renovación de casa de madera (más de 100 años)
+    - Modelo de permacultura
+    - Cuidado de animales diversos
+    - Proyectos de restauración
+    - Ambiente familiar aventurero
+    - Relajación en el prado y fogatas
+    - Experiencia única en montaña`,
+    imagen: "https://images.pexels.com/photos/2850727/pexels-photo-2850727.jpeg",
+    sitioWeb: "https://www.helpx.net/host/491702YI",
+    pais: "República Checa",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/8542742/pexels-photo-8542742.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 185,
+    categoria: "Voluntariado",
+    titulo: "🏨 Hostal para mochileros cerca de Praga - Kaliste-Poddubi, República Checa",
+    descripcion: `Nuestro albergue, camping y servicio de alquiler de canoas y bicicletas se encuentra a 30 km de Praga, accesible en tren por el pueblo cercano. Se trata de una hermosa zona de la República Checa, rodeada de bosques, el río Sázava, lugares históricos, rutas de ciclismo y senderismo, y naturaleza.
+
+    📌 Tareas principales:
+    - Limpieza general del lugar
+    - Ayudar en la cocina
+    - Cortar el césped
+    - Pintar y realizar tareas de mantenimiento
+    - Tareas comunes del albergue
+    - Mantenimiento general
+
+    📌 Requisitos:
+    - Personas independientes
+    - Disfrutar de la naturaleza
+    - Disposición para ayudar en lo que se necesite
+    - Capacidad de colaborar
+    - Flexibilidad con horario y tareas
+    - Preferir estancias de un mes o más
+
+    ✅ Beneficios:
+    - A 30 km de Praga, accesible en tren
+    - Hermosa zona rodeada de bosques
+    - Río Sázava para nadar
+    - Lugares históricos cercanos
+    - Rutas de ciclismo y senderismo
+    - Ruta ciclista de Praga a Viena
+    - Antiguos castillos y monasterios
+    - Ambiente relajado y horario flexible`,
+    imagen: "https://images.pexels.com/photos/14465265/pexels-photo-14465265.jpeg",
+    sitioWeb: "https://www.helpx.net/host/570031WI",
+    pais: "República Checa",
+    duracion: "Marzo-octubre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "hhttps://images.pexels.com/photos/10106425/pexels-photo-10106425.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 186,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia con medicina holística - Česká Třebová, República Checa",
+    descripcion: `Soy una mujer mayor con conocimientos de medicina holística (kinesiología 3 en 1) y medicina de animales tótem. También soy viajera. Vivo en un pequeño y encantador pueblo en el corazón de la República Checa, cerca de las Montañas de las Águilas.
+
+    📌 Tareas principales:
+    - Ayudar en tareas domésticas
+    - Colaborar en proyectos diversos
+    - Aprender sobre medicina holística
+    - Compartir experiencias de viaje
+    - Ayudar con tareas del hogar
+
+    📌 Requisitos:
+    - Nómadas digitales bienvenidos
+    - Disponibilidad de una semana a varios meses
+    - Responsabilidad por propia comida
+    - Presupuesto de 100-150 euros al mes para comida
+    - Interés en medicina holística
+
+    ✅ Beneficios:
+    - Pueblo encantador en corazón de República Checa
+    - Cerca de las Montañas de las Águilas
+    - Conexión directa a Praga (1,5 horas), Budapest (5 horas), Viena (4 horas)
+    - Acceso a Bratislava, Berlín, Varsovia
+    - Habla inglés, italiano, ruso y checo
+    - Mejora de español
+    - Casa grande en centro del pueblo
+    - Buen wifi y habitación privada con baño
+    - Comida asequible (4 euros en restaurante local)`,
+    imagen: "https://images.pexels.com/photos/33996329/pexels-photo-33996329.jpeg",
+    sitioWeb: "https://www.helpx.net/host/82Y7CSBSG",
+    pais: "República Checa",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33957829/pexels-photo-33957829.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 187,
+    categoria: "Voluntariado",
+    titulo: "🏡 Granja familiar indio-checa - Nove hamry, República Checa",
+    descripcion: `Vivimos la vida como deseamos. Una familia feliz. Amantes de la naturaleza y los viajes. Somos una familia indio-checa. Anbu fue cineasta en India y Alice, profesora de danza y yoga en Praga. Dejamos nuestras profesiones para vivir en la naturaleza.
+
+    📌 Tareas principales:
+    - Trabajos de granja y jardinería
+    - Mantenimiento de la casa histórica
+    - Proyectos de renovación
+    - Actividades creativas
+    - Ayudar con tareas domésticas
+    - Trabajo con la naturaleza
+
+    📌 Requisitos:
+    - Interés en naturaleza y viajes
+    - Disponibilidad excepto diciembre a febrero
+    - Disposición para trabajo variado
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Familia indio-checa acogedora
+    - Casa histórica de 1896 (villa alemana)
+    - Ubicación en Europa Central, 2 km de Alemania
+    - Única familia que se queda todo el año en el pueblo
+    - Experiencia cinematográfica (Anbu)
+    - Experiencia en danza y yoga (Alice)
+    - Ambiente creativo y artístico
+    - Conexión con la naturaleza
+    - Población histórica alemana`,
+    imagen: "https://images.pexels.com/photos/16881619/pexels-photo-16881619.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1381407SD",
+    pais: "República Checa",
+    duracion: "Todo el año (excepto diciembre a febrero)",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/7069224/pexels-photo-7069224.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 188,
+    categoria: "Voluntariado",
+    titulo: "🏰 Casa histórica del siglo XV - Brod nad Tichou, República Checa",
+    descripcion: `Esta casa, construida en el siglo XV, es un lugar hermoso y tranquilo. La familia Sicha posee la propiedad desde el año 2000 y la salvó del deterioro. En los últimos años, hemos dedicado mucho tiempo a reconstruirla, ya que es un asunto muy importante para la familia.
+
+    📌 Tareas principales:
+    - Plantar y cultivar árboles y setos
+    - Construcción del cobertizo para leña
+    - Ayudar en la cocina
+    - Nuevas recetas siempre bienvenidas
+    - Trabajos de jardinería
+    - Proyectos de reconstrucción
+
+    📌 Requisitos:
+    - Interés en casas históricas
+    - Disposición para trabajo de jardinería
+    - Ayudar en la cocina
+    - Buena actitud y motivación
+
+    ✅ Beneficios:
+    - Casa histórica del siglo XV
+    - Ubicación en mágico oeste de República Checa
+    - Cerca de frontera con Alemania
+    - Marienbad y ciudades balnearias cercanas
+    - Praga a dos horas en coche
+    - Deliciosa comida de los padres Jan y Renata
+    - Lugar animado con amigos y vecinos
+    - Ambiente familiar acogedor
+    - Proyectos de reconstrucción histórica`,
+    imagen: "https://images.pexels.com/photos/210017/pexels-photo-210017.jpeg",
+    sitioWeb: "https://www.helpx.net/host/536036FH",
+    pais: "República Checa",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33987406/pexels-photo-33987406.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 189,
+    categoria: "Voluntariado",
+    titulo: "🏰 Casa con jardín en Český Krumlov - República Checa",
+    descripcion: `Hola, nos encontramos en un lugar maravilloso con jardín y terraza en la confluencia de los ríos Moldava y el río Lido, en el casco antiguo de Chequia, a tres minutos a pie del castillo y a cinco minutos de la plaza.
+
+    📌 Tareas principales:
+    - Ayudar en el jardín
+    - Tareas de la casa
+    - Ayudar en la cocina si es necesario
+    - Trabajo según directrices de HelpX
+    - 5 horas al día de trabajo
+    - Fines de semana libres después de 5 días
+
+    📌 Requisitos:
+    - Disponibilidad de 5 horas al día
+    - Interés en jardinería y tareas domésticas
+    - Buena actitud y motivación
+    - Respeto por el horario establecido
+
+    ✅ Beneficios:
+    - Lugar maravilloso con jardín y terraza
+    - Confluencia de ríos Moldava y Lido
+    - Casco antiguo de Chequia
+    - A 3 minutos a pie del castillo
+    - A 5 minutos de la plaza
+    - Český Krumlov: ciudad más visitada después de Praga
+    - Casco antiguo medieval encantador
+    - Uno de los complejos de castillos más grandes de Europa Central
+    - Rodeado de colinas y bosques
+    - Río Moldava con balsas, canoas, kayaks en verano`,
+    imagen: "https://images.pexels.com/photos/33956381/pexels-photo-33956381.jpeg",
+    sitioWeb: "https://www.helpx.net/host/WH3SOFY7C",
+    pais: "República Checa",
+    duracion: "Abril a noviembre",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/33942953/pexels-photo-33942953.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 
