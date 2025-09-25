@@ -2028,8 +2028,7 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     🌟 Experiencia en hospitalidad y gestión comunitaria.
 
     🎯 Requisitos específicos:
-    - **Solo aplicantes femeninas**
-    - Inglés fluido
+    - Solo aplicantes femeninas    - Inglés fluido
     - Más de 21 años
     - Experiencia en liderazgo comunitario (hostel/coliving preferible)
     - Visado o ciudadanía de Estados Unidos
@@ -2218,8 +2217,7 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Precio negociable para estadías más largas
 
     🎯 Requisitos específicos:
-    - **Experiencia obligatoria en gestión de cocina**
-    - Conocimiento de preparación de alimentos para diferentes dietas:
+    - Experiencia obligatoria en gestión de cocina    - Conocimiento de preparación de alimentos para diferentes dietas:
       - Vegetariana, vegana, sin gluten, sin lácteos
       - Preparación de carnes y pescados
     - Inglés intermedio o español fluido
@@ -2612,11 +2610,10 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     🧺 Lavandería gratuita.
     🍳 Cocina completamente equipada para uso libre.
     📶 Internet de alta velocidad para trabajo remoto.
-    🏠 **Posible habitación privada** (si demuestras tu valía).
+    🏠 Posible habitación privada (si demuestras tu valía).
 
     🎯 Requisitos específicos:
-    - **Fluidez en inglés y español**
-    - Sin restricciones dietéticas (puede comer cualquier cosa)
+    - Fluidez en inglés y español    - Sin restricciones dietéticas (puede comer cualquier cosa)
     - Sin condiciones médicas no declaradas
     - Buena salud y contacto de emergencia
     - Entre 21 y 65 años
@@ -2712,10 +2709,10 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     🏗️ Ayuda en remodelación cuando sea necesario.
 
     ⏰ Horario de trabajo:
-    - **Sábados y domingos**: 12:00 PM - 4:00 PM (ventas)
-    - **Domingos**: 10:00 AM - 4:00 PM (ventas extendidas)
-    - **Lunes a viernes**: 9:00 AM - 12:00 PM (limpieza)
-    - **Jueves**: 6:00 PM - 9:00 PM (preparación de comidas)
+    - Sábados y domingos: 12:00 PM - 4:00 PM (ventas)
+    - Domingos: 10:00 AM - 4:00 PM (ventas extendidas)
+    - Lunes a viernes: 9:00 AM - 12:00 PM (limpieza)
+    - Jueves: 6:00 PM - 9:00 PM (preparación de comidas)
     - 30 horas de ayuda por semana
     - 1 día libre por semana
     - Horario estricto (no se permite faltar)
@@ -2731,8 +2728,8 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     🎫 Pases para eventos de la isla (disponibles).
 
     💰 Cuota requerida:
-    - **US$ 200 única vez** (depósito)
-    - **IMPORTANTE**: Se pierde el depósito completo si:
+    - US$ 200 única vez (depósito)
+    - IMPORTANTE: Se pierde el depósito completo si:
       - Abandonas temprano
       - Faltas días de trabajo
       - No cumples con las horas requeridas
@@ -2741,11 +2738,10 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     🎯 Requisitos específicos:
     - Inglés intermedio o español principiante
     - Entre 18 y 50 años
-    - **Experiencia en ventas o atención al cliente**
-    - Inglés fluido para ventas (preferible)
+    - Experiencia en ventas o atención al cliente    - Inglés fluido para ventas (preferible)
     - Visado o ciudadanía de Estados Unidos
     - Admite voluntarios solos, parejas y dúos
-    - **Horario estricto** - No se permite faltar
+    - Horario estricto - No se permite faltar
 
     🛍️ Experiencia en ventas:
     - Venta de gafas de sol, joyería y juguetes
@@ -2780,13 +2776,8 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Mejora del ambiente
 
     📋 Reglas estrictas:
-    - **No fumar**
-    - **No drogas**
-    - **No mascotas**
-    - **No parejas** (posiciones separadas)
-    - **No beber alcohol**
-    - **No vapear**
-    - Horario estricto obligatorio
+    - No fumar    - No drogas    - No mascotas    - No parejas (posiciones separadas)
+    - No beber alcohol    - No vapear    - Horario estricto obligatorio
 
     🌟 Oportunidades especiales:
     - Propinas de clientes (100% para ti)
@@ -2796,14 +2787,13 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Networking con turistas internacionales
     - Desarrollo de habilidades de ventas
 
-    ⚠️ **IMPORTANTE - Términos estrictos:**
-    - Depósito de US$ 200 en efectivo antes de llegar
+    ⚠️ IMPORTANTE - Términos estrictos:    - Depósito de US$ 200 en efectivo antes de llegar
     - Semana de prueba disponible (pero se pierde el depósito)
     - Horario estricto - no se permite faltar
     - Solo para personas trabajadoras y comprometidas
     - Aceptación de términos obligatoria
 
-    🏝️ **¡Hawái es para cada persona trabajadora!** 🌺`,
+    🏝️ ¡Hawái es para cada persona trabajadora! 🌺`,
     imagen: "https://images.pexels.com/photos/412681/pexels-photo-412681.jpeg",
     sitioWeb: "https://www.worldpackers.com/es/positions/77333",
     pais: "Estados Unidos",
@@ -2878,12 +2868,12 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Cambios significativos y duraderos
 
     👥 Programas principales:
-    - **Mentoría juvenil**: Apoyo a jóvenes en riesgo
-    - **Asistencia familiar**: Ayuda a familias en necesidad
-    - **Casa comunitaria**: Espacio de apoyo y recursos
-    - **Salud mental**: Apoyo especializado a veteranos
-    - **Intercambio cultural**: Educación sobre sistemas sociales
-    - **Trabajo social**: Proyectos comunitarios locales
+    - Mentoría juvenil: Apoyo a jóvenes en riesgo
+    - Asistencia familiar: Ayuda a familias en necesidad
+    - Casa comunitaria: Espacio de apoyo y recursos
+    - Salud mental: Apoyo especializado a veteranos
+    - Intercambio cultural: Educación sobre sistemas sociales
+    - Trabajo social: Proyectos comunitarios locales
 
     🌍 Intercambio cultural:
     - Educación sobre pobreza en Estados Unidos
@@ -2917,7 +2907,7 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Desarrollo de habilidades sociales
     - Impacto real en vidas humanas
 
-    💙 **¡Únete a nosotros en esta hermosa misión de transformación!**`,
+    💙 ¡Únete a nosotros en esta hermosa misión de transformación!`,
     imagen: "https://images.pexels.com/photos/207896/pexels-photo-207896.jpeg",
     sitioWeb: "https://www.worldpackers.com/es/positions/77183",
     pais: "Estados Unidos",
@@ -2984,12 +2974,12 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Perfecto para explorar Nueva Zelanda
 
     🏠 Experiencia de hogar:
-    - **Hogar acogedor** y familiar
-    - **Ubicación céntrica** en Akaroa
-    - **Acceso fácil** a servicios
-    - **Ambiente tranquilo** para descansar
-    - **Conexión** con la comunidad local
-    - **Base perfecta** para explorar
+    - Hogar acogedor y familiar
+    - Ubicación céntrica en Akaroa
+    - Acceso fácil a servicios
+    - Ambiente tranquilo para descansar
+    - Conexión con la comunidad local
+    - Base perfecta para explorar
 
     🌱 Trabajos de jardinería:
     - Cuidado de plantas y flores
@@ -3118,11 +3108,9 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Apoyo a Karen y Damian
 
     🐕🐱 Mascotas amigables:
-    - **Debe gustarle los perros**
-    - **Debe gustarle los gatos**
-    - **Ambiente familiar** y acogedor
-    - **Compañía animal** durante tu estancia
-    - **Experiencia única** con mascotas
+    - Debe gustarle los perros    - Debe gustarle los gatos    - Ambiente familiar y acogedor
+    - Compañía animal durante tu estancia
+    - Experiencia única con mascotas
 
     🌟 Experiencia única:
     - Vivir en Hamilton - corazón de Waikato
@@ -3210,61 +3198,44 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     - Actividades al aire libre
 
     🚜 Maquinaria y vehículos:
-    - **Tractores** para trabajo de campo
-    - **Quads** para transporte
-    - **Otras máquinas** agrícolas
-    - **Autocaravanas** para viajes
-    - **Bicicletas** para uso libre
-    - **Equipos modernos**
-
+    - Tractores para trabajo de campo
+    - Quads para transporte
+    - Otras máquinas agrícolas
+    - Autocaravanas para viajes
+    - Bicicletas para uso libre
+    - Equipos modernos
     🏠 Alojamiento renovado:
-    - **Cálido y acogedor**
-    - **Recientemente renovado**
-    - **Hasta 3 o más personas**
-    - **Comodidades modernas**
-    - **Ambiente familiar**
-    - **Espacio amplio**
-
+    - Cálido y acogedor    - Recientemente renovado    - Hasta 3 o más personas    - Comodidades modernas    - Ambiente familiar    - Espacio amplio
     🏊 Instalaciones de lujo:
-    - **Piscina grande** para relajación
-    - **Gimnasio completo** para ejercicio
-    - **Spa** para bienestar
-    - **Áreas de descanso** amplias
-    - **Espacios verdes** extensos
-    - **Ambiente tranquilo**
-
+    - Piscina grande para relajación
+    - Gimnasio completo para ejercicio
+    - Spa para bienestar
+    - Áreas de descanso amplias
+    - Espacios verdes extensos
+    - Ambiente tranquilo
     🌊 Atracciones cercanas:
-    - **Christchurch** - 15 minutos
-    - **Playas locales** - Acceso fácil
-    - **Ríos circundantes** - Actividades acuáticas
-    - **Playa de surf** - 10 minutos
-    - **Naturaleza** abundante
-    - **Paisajes espectaculares**
-
+    - Christchurch - 15 minutos
+    - Playas locales - Acceso fácil
+    - Ríos circundantes - Actividades acuáticas
+    - Playa de surf - 10 minutos
+    - Naturaleza abundante
+    - Paisajes espectaculares
     🚐 Autocaravanas disponibles:
-    - **Para estancias prolongadas**
-    - **Viajes por Nueva Zelanda**
-    - **Alquiler disponible**
-    - **Libertad de movimiento**
-    - **Exploración independiente**
-    - **Aventuras únicas**
-
+    - Para estancias prolongadas    - Viajes por Nueva Zelanda    - Alquiler disponible    - Libertad de movimiento    - Exploración independiente    - Aventuras únicas
     🎓 Experiencias educativas:
-    - **Atención médica** a animales bovinos
-    - **Técnicas de ordeño** profesionales
-    - **Manejo de ganado** especializado
-    - **Operación de maquinaria** agrícola
-    - **Prácticas orgánicas** sostenibles
-    - **Conocimiento agrícola** profundo
+    - Atención médica a animales bovinos
+    - Técnicas de ordeño profesionales
+    - Manejo de ganado especializado
+    - Operación de maquinaria agrícola
+    - Prácticas orgánicas sostenibles
+    - Conocimiento agrícola profundo
 
     🌍 Intercambio cultural:
-    - **Enseñanza de idiomas** mutua
-    - **Cultura neozelandesa** auténtica
-    - **Tradiciones agrícolas** locales
-    - **Intercambio de conocimientos**
-    - **Conexión humana** genuina
-    - **Aprendizaje mutuo**
-
+    - Enseñanza de idiomas mutua
+    - Cultura neozelandesa auténtica
+    - Tradiciones agrícolas locales
+    - Intercambio de conocimientos    - Conexión humana genuina
+    - Aprendizaje mutuo
     🌟 Experiencia única:
     - Vivir en una granja lechera orgánica
     - Trabajar con 260 vacas diariamente
@@ -11079,6 +11050,2213 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
     videos: [
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 203,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia en construcción - Rapla, Estonia",
+    descripcion: `Somos una familia con dos hijos. Vivimos a 60 km de Tallin, en un pequeño pueblo. Estamos empezando a construir nuestra propia casa. El primer edificio es una sauna. Ya tenemos un pequeño huerto y algunos manzanos y ciruelos. En nuestra zona hay muchos pantanos. En Estonia, tenemos muchos bosques y naturaleza virgen.
+
+    📌 Tareas principales:
+    - Terminar un cobertizo de madera
+    - Construir una cerca
+    - Cortar leña
+    - Ayudar en el jardín
+    - Recoger bayas
+    - Cortar el césped
+    - Mantenimiento general
+
+    📌 Requisitos:
+    - No necesariamente experto, pero dispuesto a ayudar
+    - Buena actitud y motivación
+    - Interés en construcción y jardinería
+    - Disposición para trabajo variado
+
+    ✅ Beneficios:
+    - Ubicación a 60 km de Tallin
+    - Pequeño pueblo tranquilo
+    - Construcción de casa propia
+    - Primera sauna construida
+    - Pequeño huerto con manzanos y ciruelos
+    - Zona con muchos pantanos
+    - Bosques y naturaleza virgen de Estonia
+    - Habitación privada con cama amplia
+    - Todas las comodidades: agua caliente, baño, inodoro
+    - Internet de alta velocidad y televisión`,
+    imagen: "https://images.pexels.com/photos/27076576/pexels-photo-27076576.jpeg",
+    sitioWeb: "https://www.helpx.net/host/414035NA",
+    pais: "Estonia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/27220006/pexels-photo-27220006.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 204,
+    categoria: "Voluntariado",
+    titulo: "🌾 Granja rural en paraíso tranquilo - Kõlbi, Estonia",
+    descripcion: `Esta granja, un pequeño paraíso rural en el tranquilo y hermoso pueblo de Kõlbi, municipio de Antsla, condado de Võru, es un lugar donde el tiempo transcurre un poco más despacio y la vida transcurre al ritmo de la naturaleza. Contamos con 2,8 hectáreas de terreno rodeadas de prados y aire puro: el lugar perfecto para quienes buscan el contacto con la naturaleza y consigo mismos.
+
+    📌 Tareas principales:
+    - Restaurar y revitalizar casas rurales antiguas
+    - Construir y elaborar proyectos
+    - Cultivar y cocinar
+    - Trabajar en comunidad solidaria
+    - Participar en proyectos de construcción
+    - Mantenimiento de 2,8 hectáreas
+    - Cuidado de prados
+
+    📌 Requisitos:
+    - Interés en vida rural y naturaleza
+    - Disposición para trabajo comunitario
+    - Buena actitud y motivación
+    - Interés en construcción y agricultura
+
+    ✅ Beneficios:
+    - Pequeño paraíso rural en pueblo tranquilo
+    - Municipio de Antsla, condado de Võru
+    - 2,8 hectáreas de terreno
+    - Rodeadas de prados y aire puro
+    - Contacto con la naturaleza
+    - Vida al ritmo de la naturaleza
+    - Casas rurales antiguas llenas de historia
+    - Comunidad solidaria con voluntarios HelpX
+    - Entorno acogedor, cálido y vibrante
+    - Auténtica hospitalidad de Võrumaa
+    - Paz y tranquilidad
+    - Alegría de compartir y cooperación
+    - Inspiración y creatividad`,
+    imagen: "https://images.pexels.com/photos/5634616/pexels-photo-5634616.jpeg",
+    sitioWeb: "https://www.helpx.net/host/XRPP9DTMK",
+    pais: "Estonia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/4090610/pexels-photo-4090610.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 205,
+    categoria: "Voluntariado",
+    titulo: "🏡 Granja orgánica vida salvaje y libre - Rõuge, Estonia",
+    descripcion: `Hola, me llamo Simone. Tengo 39 años y soy de Alemania. Compré mi hermoso rincón de paraíso en el agreste sureste de Estonia en 2017 con la idea de crear un hogar que me permitiera vivir una vida sencilla, desconectada, salvaje y libre, cerca de la naturaleza. Al año siguiente, construí una minicasa yo sola, en la que vivo hoy desconectada.
+
+    📌 Tareas principales:
+    - Talleres de construcción y motosierra para mujeres
+    - Talleres de revoque de arcilla
+    - Construir paredes de arcilla para sauna
+    - Renovar techo de cabaña de verano
+    - Construir plataforma de madera
+    - Mantener terreno natural
+    - Cuidar flores silvestres y bosque
+    - Proyectos de construcción diversos
+
+    📌 Requisitos:
+    - Interés en vida sencilla y desconectada
+    - Disposición para aprender construcción
+    - Buena actitud y motivación
+    - Interés en naturaleza y sostenibilidad
+
+    ✅ Beneficios:
+    - Hermoso rincón de paraíso en sureste de Estonia
+    - Vida sencilla, desconectada, salvaje y libre
+    - Cerca de la naturaleza
+    - Minicasa construida personalmente
+    - Terreno mantenido lo más natural posible
+    - Sin césped ni hormigón
+    - Muchas flores silvestres e insectos
+    - Bosque natural
+    - Pasión por la construcción
+    - Talleres de construcción y motosierra para mujeres
+    - Talleres de revoque de arcilla
+    - Sauna construida con paredes de arcilla
+    - Proyectos de construcción variados
+    - Estilo de vida consciente de recursos`,
+    imagen: "https://images.pexels.com/photos/28645480/pexels-photo-28645480.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1000844WR",
+    pais: "Estonia",
+    duracion: "Verano y otoño",
+    fechaLimite: "Abierto",
+    imagenes: [
+      "https://images.pexels.com/photos/5561312/pexels-photo-5561312.jpeg"
+    ],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 206,
+    categoria: "Trabajo",
+    titulo: "🔬 User Experience Research Intern, MS, Summer 2026 - Google",
+    descripcion: `Google está buscando un User Experience Research Intern para el verano de 2026. Esta es una oportunidad única para estudiantes en su penúltimo año académico que estén cursando una Maestría en Human Factors, Psychology, Human Computer Interaction, Cognitive Science, Computer Science, Information Science, o campo relacionado.
+
+    📌 Requisitos mínimos:
+    - Actualmente cursando una Maestría en Human Factors, Psychology, HCI, Cognitive Science, Computer Science, Information Science, o campo relacionado
+    - Experiencia en pasantías, trabajo o proyectos con diseño de investigación utilizando varios métodos (estudios de usabilidad, investigación contextual, encuestas, etc.)
+    - Dominio del inglés (requisito para colaboración global)
+
+    📌 Requisitos preferidos:
+    - Asistiendo actualmente a un programa de grado en EE.UU. y disponible para trabajar tiempo completo por 12 semanas fuera del período universitario
+    - En su penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+    - Experiencia integrando investigación de usuarios en diseños de productos y prácticas de diseño
+    - Conocimiento de estadísticas y diseño experimental
+    - Excelentes habilidades de comunicación, negociación y colaboración
+
+    📌 Responsabilidades:
+    - Diseñar y conducir investigación independiente usando variedad de métodos cualitativos
+    - Trabajar de manera multifuncional con diseño, ingeniería y gestión de productos
+    - Asegurar comunicación efectiva de hallazgos de investigación
+    - Recopilar y analizar comportamiento del usuario a través de estudios de laboratorio, visitas de campo, etnografía, encuestas, estudios de referencia, logs de servidor y experimentos en línea (pruebas A/B)
+
+    ✅ Beneficios:
+    - Salario base: $86,000-$115,000 USD
+    - Ubicaciones múltiples en EE.UU. (Mountain View, Ann Arbor, Atlanta, Austin, Boulder, Bellevue, Cambridge, Chicago, Irvine, Kirkland, Los Angeles, Madison, New York, Palo Alto, Portland, Pittsburgh, Raleigh, Durham, Reston, Redmond, Redwood City, San Diego, Goleta, San Bruno, Seattle, San Francisco, San Jose, Santa Cruz, Sunnyvale, Washington D.C.)
+    - Pasantía de 12 semanas tiempo completo
+    - Experiencia en Google, una empresa de ingeniería global
+    - Trabajo en equipos multidisciplinarios de Diseñadores, Investigadores, Escritores, Estrategas de Contenido, Gerentes de Programa e Ingenieros
+    - Impacto en millones o miles de millones de usuarios
+    - Oportunidad de trabajar en productos como Google Ads, Chrome, Android, YouTube
+    - Fecha límite de aplicación: 31 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Proceso de aplicación requiere CV/currículum actualizado y transcripción actual en inglés`,
+    imagen: "https://images.pexels.com/photos/5083397/pexels-photo-5083397.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/83211820956820166-user-experience-research-intern-ms-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Estados Unidos",
+    duracion: "12 semanas (Verano 2026)",
+    fechaLimite: "31 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/3764550/pexels-photo-3764550.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 207,
+    categoria: "Trabajo",
+    titulo: "💻 Software Developer Intern, PhD, Summer 2026 - Google",
+    descripcion: `Google está buscando un Software Developer Intern para el verano de 2026. Esta es una oportunidad única para estudiantes en su penúltimo año académico que estén cursando un Doctorado en Computer Science o campo relacionado.
+
+    📌 Requisitos mínimos:
+    - Cursando un programa de Doctorado con enfoque en desarrollo de software u otros campos técnicos relacionados
+    - Experiencia programando en uno de los siguientes lenguajes: C, C++, Java, o Python
+    - Dominio del inglés (requisito para colaboración global)
+
+    📌 Requisitos preferidos:
+    - Asistiendo actualmente a un programa de grado en Canadá y disponible para trabajar tiempo completo por 12 semanas fuera del período universitario
+    - En su penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+    - Experiencia conduciendo investigación en Algoritmos, Arquitectura, Inteligencia Artificial, Compiladores, Base de Datos, Minería de Datos, Sistemas Distribuidos, Machine Learning, Networking, o Sistemas
+    - Experiencia en computer science, estructuras de datos, algoritmos y diseño de software
+
+    📌 Responsabilidades:
+    - Crear y apoyar un equipo productivo e innovador, trabajando con compañeros, gerentes y equipos
+    - Desarrollar scripts para automatizar tareas rutinarias
+    - Aplicar conocimientos de cursos de computer science a problemas del mundo real
+    - Analizar información y evaluar resultados para elegir la mejor solución
+    - Trabajar en proyectos específicos críticos para las necesidades de Google
+    - Diseñar, probar, desplegar y mantener soluciones de software
+    - Trabajar en soluciones de computer science complejas y desarrollar sistemas de software distribuidos escalables
+
+    ✅ Beneficios:
+    - Pasantía pagada de 12-14 semanas
+    - Desarrollo personal y profesional
+    - Serie de conferencias ejecutivas
+    - Construcción de comunidad
+    - Ubicaciones en Canadá: Waterloo, ON; Montreal, QC; Toronto, ON
+    - Trabajo en proyectos críticos para Google
+    - Avanzar el estado del arte en computación
+    - Construir la próxima generación de sistemas inteligentes
+    - Proyectos que utilizan las últimas técnicas de computer science
+    - Oportunidad de trabajar en sostenibilidad, optimización de algoritmos, o sistemas de IA
+    - Progresar ciencia, avanzar sociedad y mejorar vidas de miles de millones de personas
+    - Fecha límite de aplicación: 27 de febrero de 2026 (puede cerrar antes si se llenan todos los proyectos)
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Proceso de aplicación requiere CV/currículum actualizado y transcripción actual en inglés`,
+    imagen: "https://images.pexels.com/photos/7350905/pexels-photo-7350905.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/122888894193509062-software-developer-intern-phd-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Canadá",
+    duracion: "12-14 semanas (Verano 2026)",
+    fechaLimite: "27 de febrero de 2026",
+    imagenes: ["https://images.pexels.com/photos/163065/mobile-phone-android-apps-phone-163065.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 208,
+    categoria: "Trabajo",
+    titulo: "🎨 Apprenticeship in Interactive Media Design EFZ, August 2026 - Google",
+    descripcion: `Google está buscando un aprendiz para Interactive Media Design EFZ (Certificado Federal de Competencia) que comenzará en agosto de 2026. Esta es una oportunidad única de 4 años de aprendizaje profesional en una de las empresas tecnológicas más innovadoras del mundo.
+
+    📌 Requisitos mínimos:
+    - Graduado del nivel más alto de escuela secundaria
+    - Calificaciones académicas promedio de 4.5 o superior
+    - Multicheck (Media & Design) completado
+    - Capacidad de comunicarse en inglés y alemán con fluidez
+    - Interacción con stakeholders y escuelas
+
+    📌 Requisitos preferidos:
+    - Experiencia e interés en medios interactivos, herramientas de comunicación digital, arte o diseño
+    - Entusiasmo y pasión por nuevas tecnologías y herramientas
+    - Demostrado a través de proyectos personales e interés en aprender nuevas habilidades
+    - Habilidades demostradas de resolución creativa de problemas y pensamiento abstracto
+    - Intención de cursar la Berufsmaturitätsschule (BM1) durante el aprendizaje
+    - Autorización para trabajar en Suiza
+
+    📌 Responsabilidades:
+    - Entender oportunidades de productos a través de asociación con usuarios, investigación de usuarios, gestión de productos, ciencia de datos e ingeniería
+    - Entender e incorporar perspectivas culturales, éticas y diversas para crear productos inclusivos y globales
+    - Crear contenido digital (wireframes, mockups, prototipos, presentaciones) para comunicar y progresar conceptos hasta la implementación
+    - Aprender y aplicar fundamentos de usabilidad a través de diseño e investigación
+    - Desarrollar un oficio de ejecución de alta calidad según los más altos estándares de diseño de interacción, interfaz y experiencia
+
+    ✅ Beneficios:
+    - Aprendizaje de 4 años con Google
+    - Equipo profesional de formadores vocacionales (Berufsbildner:innen) para guía y apoyo
+    - Período de incorporación seguido de participación completa en proyectos existentes y nuevos
+    - Fundación para un futuro exitoso como Interactive Media Designer
+    - Integrado en equipos de User Experience (UX) Media Design
+    - Enfoque en creación y diseño de nuevos proyectos
+    - Rotación entre diferentes equipos con diferentes especialidades
+    - Comprensión del rango de roles en este campo de rápido crecimiento
+    - Ubicación en Zürich, Suiza
+    - Revisión de aplicaciones completas comenzando en agosto temprano
+    - Documentos requeridos: CV/Resume actual, carta de presentación, calificaciones escolares y certificados, Multicheck (Media & Design)`,
+    imagen: "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/105962053612511942-apprenticeship-in-interactive-media-design-efz-august-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Suiza",
+    duracion: "4 años (A partir de agosto 2026)",
+    fechaLimite: "Agosto 2026",
+    imagenes: ["https://images.pexels.com/photos/1482061/pexels-photo-1482061.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 209,
+    categoria: "Trabajo",
+    titulo: "💻 Software Engineering BS/MS Intern, 2026 - Google",
+    descripcion: `Google está buscando un Software Engineering Intern para 2026. Esta es una oportunidad única para estudiantes inscritos en su penúltimo/año final de educación en un programa de grado Bachelor's o Master's acreditado de tiempo completo ubicado en la región EMEA.
+
+    📌 Requisitos mínimos:
+    - Actualmente inscrito en un Bachelor's o Master's en Computer Science o campo técnico relacionado en la región EMEA
+    - Experiencia trabajando con estructuras de datos o algoritmos durante cursos/proyectos, investigación, pasantías, o experiencia práctica en escuela o trabajo (ej. programación open-source)
+    - Experiencia programando en uno de los siguientes lenguajes: Python, C, C++, Java, JavaScript
+    - Ubicación en Rumania y derecho legal para trabajar en la ubicación durante la duración del programa
+
+    📌 Requisitos preferidos:
+    - Experiencia práctica o de pasantía relevante (ej. asistente de investigación, asistente de enseñanza, proyectos personales, etc.) programando en: C++, Java, Python o Go
+    - Experiencia práctica o de pasantía relevante con uno o más de los siguientes: desarrollo de aplicaciones web, Unix/Linux, desarrollo de aplicaciones móviles, sistemas distribuidos y paralelos, machine learning, recuperación de información, procesamiento de lenguaje natural, networking, desarrollo de sistemas de software grandes o desarrollo de software de seguridad
+    - Interés y capacidad para aprender otros lenguajes de programación según sea necesario
+    - Capacidad para completar una pasantía de 13-17 semanas tiempo completo en Rumania comenzando en mayo, junio o julio 2026
+    - Actualmente en tu penúltimo/año final de educación
+
+    📌 Responsabilidades:
+    - Crear y apoyar un equipo productivo e innovador trabajando con compañeros, gerentes y equipos
+    - Desarrollar scripts para automatizar tareas rutinarias
+    - Analizar información y evaluar resultados para elegir la mejor solución para resolver problemas efectivamente
+    - Aplicar conocimientos obtenidos en cursos de computer science a problemas del mundo real
+    - Cumplir con todas las políticas de salud y seguridad de la empresa, procedimientos y requisitos legales
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Diseñar, probar, desplegar y mantener soluciones de software
+
+    ✅ Beneficios:
+    - Pasantía de 13-17 semanas tiempo completo en Rumania
+    - Comenzando en mayo, junio o julio 2026
+    - Trabajo en proyectos críticos para las necesidades de Google
+    - Avanzar el estado de la computación y construir la próxima generación de sistemas inteligentes
+    - Proyectos que utilizan las últimas técnicas de computer science
+    - Oportunidad de trabajar en sostenibilidad, optimización de algoritmos o sistemas de IA
+    - Progresar ciencia, avanzar sociedad y mejorar vidas de las personas
+    - Trabajar como miembro clave de un equipo versátil
+    - Diseño, prueba, despliegue y mantenimiento de soluciones de software
+    - Crecimiento y evolución durante la pasantía
+    - Ubicación en Bucharest, Rumania
+    - Fecha límite de aplicación: 24 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Equipo y proyecto(s) específicos determinados basados en antecedentes educativos, interés y habilidades
+    - Documentos requeridos: CV/Resume actualizado y transcripción actual en inglés`,
+    imagen: "https://images.pexels.com/photos/106341/pexels-photo-106341.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/114944217771320006-software-engineering-bsms-intern-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Rumania",
+    duracion: "13-17 semanas (Verano 2026)",
+    fechaLimite: "24 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/7350906/pexels-photo-7350906.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 210,
+    categoria: "Trabajo",
+    titulo: "🔬 Software Engineering PhD Intern, 2026 - Google",
+    descripcion: `Google está buscando un Software Engineering PhD Intern para 2026. Esta es una oportunidad única para estudiantes inscritos en su penúltimo/año final de educación en un programa de Doctorado acreditado de tiempo completo ubicado en la región EMEA.
+
+    📌 Requisitos mínimos:
+    - Actualmente inscrito en un Doctorado en Computer Science o campo técnico relacionado en la región EMEA
+    - En tu penúltimo/año final de educación
+    - Experiencia trabajando con estructuras de datos o algoritmos durante cursos/proyectos, investigación, pasantías, o experiencia práctica en escuela o trabajo (ej. programación open-source)
+    - Experiencia con uno o más lenguajes de programación de propósito general (ej. Java, C/C++, Python, JavaScript, Go, etc.)
+    - Ubicación en uno de los países específicos identificados para este rol
+
+    📌 Requisitos preferidos:
+    - Experiencia práctica o de pasantía relevante con uno o más de los siguientes: desarrollo de aplicaciones web, Unix/Linux, desarrollo de aplicaciones móviles, sistemas distribuidos y paralelos, machine learning, recuperación de información, procesamiento de lenguaje natural, networking, desarrollo de sistemas de software grandes o desarrollo de software de seguridad
+    - Experiencia práctica o de pasantía relevante (ej. asistente de investigación, asistente de enseñanza, proyectos personales, etc.) programando en: C++, Java, Python, o Go
+    - Experiencia en investigación en Algoritmos, Arquitectura, Inteligencia Artificial, Compiladores, Base de Datos, Minería de Datos, Sistemas Distribuidos, Machine Learning, Networking, o Sistemas
+    - Capacidad para completar una pasantía de 13-17 semanas tiempo completo en la ubicación de la pasantía comenzando en mayo, junio o julio 2026
+
+    📌 Responsabilidades:
+    - Investigar, concebir y desarrollar aplicaciones de software para extender y mejorar la oferta de productos de Google
+    - Contribuir a una amplia variedad de proyectos usando procesamiento de lenguaje natural, inteligencia artificial, compresión de datos, machine learning, y tecnologías de búsqueda
+    - Colaborar en problemas de escalabilidad involucrando acceso a datos e información
+    - Utilizar exposición a solución de problemas de software de producción a gran escala
+    - Ayudar a mantener servicios de misión crítica
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Diseñar, probar, desplegar y mantener soluciones de software
+
+    ✅ Beneficios:
+    - Pasantía de 13-17 semanas tiempo completo
+    - Comenzando en mayo, junio o julio 2026
+    - Ubicaciones disponibles: Zürich, Suiza; Munich, Alemania
+    - Trabajo en proyectos críticos para las necesidades de Google
+    - Como miembro clave de un equipo versátil
+    - Enfrentar problemas mientras continuamos empujando la tecnología hacia adelante
+    - Diseño, prueba, despliegue y mantenimiento de soluciones de software
+    - Crecimiento y evolución durante la pasantía
+    - Trabajo en una empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar usuarios alrededor del mundo
+    - Trabajar en escalabilidad y soluciones de almacenamiento
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Fecha límite de aplicación: 24 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Equipo y proyecto(s) específicos determinados basados en antecedentes educativos, interés y habilidades
+    - Documentos requeridos: CV/Resume actualizado y transcripción actual en inglés`,
+    imagen: "https://images.pexels.com/photos/20453229/pexels-photo-20453229.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/105181343448474310-software-engineering-phd-intern-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Suiza/Alemania",
+    duracion: "13-17 semanas (Verano 2026)",
+    fechaLimite: "24 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/6155000/pexels-photo-6155000.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 211,
+    categoria: "Trabajo",
+    titulo: "💻 Software Developer Intern, MS, Summer 2026 - Google",
+    descripcion: `Google está buscando un Software Developer Intern para el verano de 2026. Esta es una oportunidad única para estudiantes en su penúltimo año académico que estén cursando un programa de Maestría en Computer Science o campo relacionado.
+
+    📌 Requisitos mínimos:
+    - Cursando una Maestría o experiencia post-secundaria o de entrenamiento con enfoque en desarrollo de software u otros campos técnicos relacionados
+    - Experiencia con estructuras de datos o algoritmos obtenida dentro o fuera de la escuela o trabajo
+    - Ubicación en Canadá durante la duración del programa de pasantía
+    - Dominio del inglés (requisito para colaboración global)
+
+    📌 Requisitos preferidos:
+    - Actualmente asistiendo a un programa de grado en Canadá y disponible para trabajar tiempo completo por 12 semanas fuera del período universitario
+    - Penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+    - Experiencia programando en tres o más de los siguientes lenguajes: C, C++, C#, Java, JavaScript, Kotlin, Go, Python, Typescript o similar
+    - Experiencia con desarrollo de aplicaciones web, entornos Unix/Linux, desarrollo de aplicaciones móviles, sistemas distribuidos y paralelos, machine learning, recuperación de información, procesamiento de lenguaje natural, networking, desarrollo de sistemas de software grandes o desarrollo de software de seguridad
+
+    📌 Responsabilidades:
+    - Desarrollar scripts para automatizar tareas rutinarias
+    - Analizar información y evaluar resultados para elegir la mejor solución para resolver problemas efectivamente
+    - Aplicar conocimientos obtenidos en cursos de computer science a problemas del mundo real
+    - Crear y apoyar un equipo trabajando con compañeros, gerentes y equipos
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Diseñar, probar, desplegar y mantener soluciones de software
+
+    ✅ Beneficios:
+    - Pasantía pagada única de 12-14 semanas
+    - Desarrollo personal y profesional
+    - Serie de conferencias ejecutivas
+    - Construcción de comunidad
+    - Oportunidad de trabajar en soluciones complejas de computer science
+    - Desarrollar sistemas de software distribuidos escalables
+    - Colaborar en múltiples proyectos más pequeños con atractivo universal
+    - Rango de pasantías en Software Developer o Site-Reliability en Norteamérica
+    - Ubicaciones disponibles: Waterloo, ON, Canadá; Montreal, QC, Canadá; Toronto, ON, Canadá
+    - Trabajo en proyectos críticos para las necesidades de Google
+    - Avanzar el estado del arte en computación y construir la próxima generación de sistemas inteligentes
+    - Proyectos que utilizan las últimas técnicas de computer science
+    - Oportunidad de trabajar en sostenibilidad, optimización de algoritmos o sistemas de IA
+    - Progresar ciencia, avanzar sociedad y mejorar vidas de miles de millones de personas
+    - Fecha límite de aplicación: 31 de octubre de 2025 (puede cerrar antes si se llenan todos los proyectos)
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Tiempo de respuesta: hasta 90+ días
+    - Documentos requeridos: CV/Resume actualizado y transcripción actual en inglés`,
+    imagen: "https://images.pexels.com/photos/5494323/pexels-photo-5494323.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/83033753760211654-software-developer-intern-ms-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Canadá",
+    duracion: "12-14 semanas (Verano 2026)",
+    fechaLimite: "31 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/15406292/pexels-photo-15406292.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 212,
+    categoria: "Trabajo",
+    titulo: "🔧 Product Design Engineering Intern, BS/MS, Summer 2026 - Google",
+    descripcion: `Google está buscando un Product Design Engineering Intern para el verano de 2026. Esta es una oportunidad única para estudiantes en su penúltimo año académico que estén cursando un programa de Bachelor's o Master's en Mechanical Engineering, Computer Engineering, Computer Science, o campo técnico relacionado.
+
+    📌 Requisitos mínimos:
+    - Actualmente cursando un Bachelor's o Master's en Electrical Engineering, Computer Engineering, Product Design, o campo técnico relacionado
+    - Experiencia en pasantías, experiencia laboral, educativa o proyectos personales con diseño de productos, o con herramientas de Computer Aided Design (CAD) (ej. PTC Creo, ProE, o Unigraphics NX) y herramientas de simulación mecánica
+    - Ubicación en Estados Unidos durante la duración del programa de pasantía
+    - Dominio del inglés (requisito para colaboración global)
+
+    📌 Requisitos preferidos:
+    - Actualmente asistiendo a un programa de grado en EE.UU. y disponible para trabajar tiempo completo por 12 semanas fuera del período universitario
+    - En su penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+    - Experiencia con Unigraphics NX/Teamcenter con competencia en CAD, análisis de tolerancia y análisis de elementos finitos estructurales
+    - Familiaridad con diseño mecánico de componentes de plástico y metal, placas de circuito impreso (PCB) y circuitos impresos flexibles (FPC), y acústica usada en productos electrónicos de consumo
+    - Familiaridad con ensamblajes electromecánicos, técnicas de manufactura, técnicas de fabricación y prototipado rápido
+
+    📌 Responsabilidades:
+    - Realizar responsabilidades específicas que varían por área de proyecto
+    - Ayudar a reinventar la forma de la electrónica: balanceando comodidad, rendimiento y apariencia
+    - Trabajar en equipo que balancea estos conceptos en un diseño innovador y armonioso
+    - Trabajar cómodamente en los bordes del riesgo
+    - Comunicarse activamente entre el equipo para establecer una dirección de diseño
+    - Crear prototipos que prueben el diseño
+    - Trabajar para escalar ese prototipo
+
+    ✅ Beneficios:
+    - Salario base: $84,000-$112,000 USD
+    - Pasantía de 12 semanas tiempo completo
+    - Ubicaciones múltiples en EE.UU. (29 ubicaciones disponibles)
+    - Trabajo en una empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar millones o miles de millones de usuarios
+    - Trabajar en escalabilidad y soluciones de almacenamiento masivo
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Fecha límite de aplicación: 31 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Tiempo de respuesta: hasta 90+ días
+    - Documentos requeridos: CV/Resume actualizado y transcripción actual en inglés
+    - Ubicaciones principales: Mountain View, CA; Ann Arbor, MI; Atlanta, GA; Austin, TX; Boulder, CO; Cambridge, MA; Bellevue, WA; Chicago, IL; Irvine, CA; Kirkland, WA; Los Angeles, CA; Madison, WI; New York, NY; Palo Alto, CA; Portland, OR; Pittsburgh, PA; Raleigh, NC; Durham, NC; Reston, VA; Redmond, WA; Redwood City, CA; San Diego, CA; Goleta, CA; San Bruno, CA; Seattle, WA; San Francisco, CA; San Jose, CA; Sunnyvale, CA; Washington D.C., DC`,
+    imagen: "https://images.pexels.com/photos/5444631/pexels-photo-5444631.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/141518372821967558-product-design-engineering-intern-bsms-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Estados Unidos",
+    duracion: "12 semanas (Verano 2026)",
+    fechaLimite: "31 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/9169534/pexels-photo-9169534.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 213,
+    categoria: "Trabajo",
+    titulo: "🎨 User Experience Engineer Intern, BS/MS, Summer 2026 - Google",
+    descripcion: `Google está buscando un User Experience Engineer Intern para el verano de 2026. Esta es una oportunidad única para estudiantes que estén cursando actualmente un programa de Bachelor's o Master's en Computer Science, HCI, Design o campo técnico relacionado.
+
+    📌 Requisitos mínimos:
+    - Actualmente cursando un Bachelor's o Master's en Computer Science, HCI, Design, o campo técnico relacionado
+    - Experiencia con JavaScript, HTML, y CSS
+    - Experiencia en diseño e implementación de interfaces de usuario (UIs)
+    - Ubicación en Estados Unidos durante la duración del programa de pasantía
+    - Dominio del inglés (requisito para colaboración global)
+
+    📌 Requisitos preferidos:
+    - Actualmente asistiendo a un programa de grado en EE.UU. y disponible para trabajar tiempo completo por 12 semanas fuera del período universitario
+    - En su penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+    - Experiencia en JavaScript y frameworks frontend (Angular2+, Vue, React)
+    - Experiencia en desarrollo o prototipado
+    - Experiencia programando en Go, Python, C++, Java, Kotlin, Objective C, Swift o similar
+
+    📌 Responsabilidades:
+    - Trabajar estrechamente con diseñadores UX, gerentes de proyecto e ingenieros back-end para implementar soluciones frontend versátiles a problemas de desarrollo web
+    - Lanzar, iterar y hacer una diferencia. Proporcionar experiencia en codificación frontend, y ayudar a hacer nuestros productos mejores para usuarios
+    - Gestionar tu propio tiempo, y trabajar bien tanto independientemente como parte de un equipo
+    - Entregar prototipos innovadores y atractivos usando las últimas tecnologías frontend
+    - Trabajar en el frontend de productos en un ambiente desafiante y de ritmo rápido
+    - Ayudar a conectar mejores prácticas UX con ejecución de producción
+    - Demostrar creatividad, habilidades analíticas y conocimiento de tecnologías orientadas al usuario
+
+    ✅ Beneficios:
+    - Salario base: $84,000-$112,000 USD
+    - Pasantía de 12 semanas tiempo completo
+    - Ubicaciones múltiples en EE.UU. (25 ubicaciones disponibles)
+    - Trabajo en equipos multidisciplinarios de UX Designers, Researchers, Writers, Content Strategists, Program Managers, y Engineers
+    - Cuidado profundo por las personas que usan nuestros productos
+    - Jugar parte integral en recopilar insights sobre actitudes, emociones y comportamientos de usuarios
+    - Colaborar estrechamente con ingeniería y gestión de productos
+    - Crear productos líderes de la industria que entreguen valor
+    - Trabajar en una empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar millones o miles de millones de usuarios
+    - Trabajar en escalabilidad y soluciones de almacenamiento masivo
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Fecha límite de aplicación: 31 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Tiempo de respuesta: hasta 90+ días
+    - Documentos requeridos: CV/Resume actualizado y transcripción actual en inglés
+    - Ubicaciones principales: Mountain View, CA; Atlanta, GA; Austin, TX; Boulder, CO; Bellevue, WA; Cambridge, MA; Chicago, IL; Irvine, CA; Kirkland, WA; Los Angeles, CA; Madison, WI; New York, NY; Palo Alto, CA; Portland, OR; Pittsburgh, PA; Reston, VA; Redmond, WA; San Diego, CA; Goleta, CA; San Bruno, CA; Seattle, WA; San Francisco, CA; Santa Cruz, CA; Sunnyvale, CA; Washington D.C., DC`,
+    imagen: "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/126044533367415494-user-experience-engineer-intern-bsms-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Estados Unidos",
+    duracion: "12 semanas (Verano 2026)",
+    fechaLimite: "31 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/7172657/pexels-photo-7172657.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 214,
+    categoria: "Trabajo",
+    titulo: "💻 Part-Time Software Engineering BS/MS Intern, 2026 - Google",
+    descripcion: `Google está buscando un Part-Time Software Engineering Intern para 2026. Esta es una oportunidad única para estudiantes inscritos en su penúltimo/año final de educación en un programa de Bachelor's o Master's acreditado de tiempo completo ubicado en Israel.
+
+    📌 Requisitos mínimos:
+    - Actualmente inscrito en un Bachelor's o Master's en Computer Science o campo técnico relacionado en Israel
+    - Experiencia trabajando con estructuras de datos o algoritmos durante cursos/proyectos, investigación, pasantías o experiencia práctica en escuela o trabajo (ej. programación open-source)
+    - Experiencia programando en uno de los siguientes lenguajes: Python, C, C++, Java, JavaScript
+    - Ubicación en Israel para este rol durante la duración del programa de pasantía
+
+    📌 Requisitos preferidos:
+    - Experiencia práctica o de pasantía relevante (ej. asistente de investigación, asistente de enseñanza, proyectos personales, etc.) programando en: C++, Java, Python o Go
+    - Experiencia práctica o de pasantía relevante con uno o más de los siguientes: desarrollo de aplicaciones web, Unix/Linux, desarrollo de aplicaciones móviles, sistemas distribuidos y paralelos, machine learning, recuperación de información, procesamiento de lenguaje natural, networking, desarrollo de sistemas de software grandes o desarrollo de software de seguridad
+    - Interés y capacidad para aprender otros lenguajes de programación según sea necesario
+    - Capacidad para completar una pasantía de 26 semanas en Israel comenzando entre marzo, abril o mayo 2026
+    - Actualmente inscrito en tu penúltimo/año final de educación
+
+    📌 Responsabilidades:
+    - Crear y apoyar un equipo productivo e innovador, trabajando con compañeros, gerentes y equipos
+    - Desarrollar scripts para automatizar tareas rutinarias
+    - Analizar información y evaluar resultados para elegir la mejor solución para resolver problemas efectivamente
+    - Aplicar conocimientos obtenidos en cursos de computer science a problemas del mundo real
+    - Cumplir con todas las políticas de salud y seguridad de la empresa, procedimientos y requisitos legales
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Diseñar, probar, desplegar y mantener soluciones de software
+
+    ✅ Beneficios:
+    - Pasantía de medio tiempo (mínimo 2 días por semana, máximo 4 días por semana)
+    - Duración mínima de 26 semanas comenzando en marzo, abril o mayo 2026
+    - Trabajar junto a tus estudios
+    - Ubicaciones disponibles: Tel Aviv, Israel; Haifa, Israel
+    - Trabajo en proyectos críticos para las necesidades de Google
+    - Avanzar el estado de la computación y construir la próxima generación de sistemas inteligentes
+    - Proyectos que utilizan las últimas técnicas de computer science
+    - Oportunidad de trabajar en sostenibilidad, optimización de algoritmos o sistemas de IA
+    - Progresar ciencia, avanzar sociedad y mejorar vidas de las personas
+    - Como miembro clave de un equipo versátil
+    - Enfrentar problemas mientras continuamos empujando la tecnología hacia adelante
+    - Diseño, prueba, despliegue y mantenimiento de soluciones de software
+    - Crecimiento y evolución durante la pasantía
+    - Trabajo en una empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar usuarios alrededor del mundo
+    - Trabajar en escalabilidad y soluciones de almacenamiento
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Fecha límite de aplicación: 24 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Equipo y proyecto(s) específicos determinados basados en antecedentes educativos, interés y habilidades
+    - Documentos requeridos: CV/Resume actualizado y transcripción actual en inglés`,
+    imagen: "https://images.pexels.com/photos/6963944/pexels-photo-6963944.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/82001749891523270-parttime-software-engineering-bsms-intern-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Israel",
+    duracion: "26 semanas (Part-time, 2026)",
+    fechaLimite: "24 de octubre de 2025",
+    imagenes: [],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 215,
+    categoria: "Trabajo",
+    titulo: "🔧 Software Engineering, Site Reliability Engineering BS/MS Intern, 2026 - Google",
+    descripcion: `Google está buscando un Software Engineering, Site Reliability Engineering Intern para 2026. Esta es una oportunidad única para estudiantes inscritos en su penúltimo/año final de educación en un programa de Bachelor's o Master's acreditado de tiempo completo ubicado en la región EMEA.
+
+    📌 Requisitos mínimos:
+    - Actualmente inscrito en un Bachelor's o Master's en Computer Science o campo técnico relacionado en la región EMEA
+    - Experiencia trabajando con estructuras de datos o algoritmos durante cursos/proyectos, investigación, pasantías o experiencia práctica en escuela o trabajo (ej. programación open-source)
+    - Experiencia programando en uno de los siguientes lenguajes: Python, C, C++, Java, JavaScript
+    - Ubicación en una de las ubicaciones específicas de país identificadas para este rol durante la duración del programa
+
+    📌 Requisitos preferidos:
+    - Experiencia práctica o de pasantía relevante (ej. asistente de investigación, asistente de enseñanza, proyectos personales, etc.) programando en: C++, Java, Python o Go
+    - Experiencia práctica o de pasantía relevante con uno o más de los siguientes: desarrollo de aplicaciones web, Unix/Linux, desarrollo de aplicaciones móviles, sistemas distribuidos y paralelos, machine learning, recuperación de información, procesamiento de lenguaje natural, networking, desarrollo de sistemas de software grandes o desarrollo de software de seguridad
+    - Interés y capacidad para aprender otros lenguajes de programación según sea necesario
+    - Capacidad para completar una pasantía de 13-17 semanas tiempo completo en la ubicación de la pasantía comenzando en mayo, junio o julio 2026
+    - Actualmente inscrito en tu penúltimo/año final de educación
+
+    📌 Responsabilidades:
+    - Crear y apoyar un equipo productivo e innovador trabajando con compañeros, gerentes y equipos
+    - Desarrollar scripts para automatizar tareas rutinarias
+    - Analizar información y evaluar resultados para elegir la mejor solución para resolver problemas efectivamente
+    - Aplicar conocimientos obtenidos en cursos de computer science a problemas del mundo real
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Diseñar, probar, desplegar y mantener soluciones de software
+
+    ✅ Beneficios:
+    - Pasantía de 13-17 semanas tiempo completo
+    - Comenzando en mayo, junio o julio 2026
+    - Rango de pasantías en Software Engineering o Site-Reliability Engineering en EMEA
+    - Duraciones y fechas de inicio variarán según proyecto y ubicación
+    - Ubicaciones disponibles: London, UK; Zürich, Switzerland; Berlin, Germany; Munich, Germany; Paris, France; Zagreb, Croatia; Dublin, Ireland; Stockholm, Sweden
+    - Trabajo en proyectos críticos para las necesidades de Google
+    - Avanzar el estado del arte en computación y construir la próxima generación de sistemas inteligentes
+    - Proyectos que utilizan las últimas técnicas de computer science
+    - Oportunidad de trabajar en sostenibilidad, optimización de algoritmos o sistemas de IA
+    - Progresar ciencia, avanzar sociedad y mejorar vidas de miles de millones de personas
+    - Como miembro clave de un equipo versátil
+    - Enfrentar problemas mientras continuamos empujando la tecnología hacia adelante
+    - Diseño, prueba, despliegue y mantenimiento de soluciones de software
+    - Crecimiento y evolución durante la pasantía
+    - Trabajo en una empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar usuarios alrededor del mundo
+    - Trabajar en escalabilidad y soluciones de almacenamiento
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Fecha límite de aplicación: 24 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Equipo y proyecto(s) específicos determinados basados en antecedentes educativos, interés y habilidades
+    - Documentos requeridos: CV/Resume actualizado y transcripción actual en inglés
+    - Para Francia, Google da la bienvenida a personas con discapacidades`,
+    imagen: "https://images.pexels.com/photos/7988113/pexels-photo-7988113.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/93991924192420550-software-engineering-site-reliability-engineering-bsms-intern-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "EMEA (Europa, Medio Oriente, África)",
+    duracion: "13-17 semanas (Verano 2026)",
+    fechaLimite: "24 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/2061168/pexels-photo-2061168.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 216,
+    categoria: "Trabajo",
+    titulo: "🎨 User Experience Design Intern, BS/MS, Summer 2026 - Google",
+    descripcion: `Google está buscando un User Experience Design Intern para el verano de 2026. Esta es una oportunidad única para estudiantes en su penúltimo año académico que estén cursando un programa de Bachelor's o Master's en Design, Human-Computer Interaction, Computer Science, o campo relacionado.
+
+    📌 Requisitos mínimos:
+    - Actualmente cursando un Bachelor's o Master's en Design (ej. Interaction, Graphic, Visual Communications, Product, Industrial, etc.), Human-Computer Interaction, Computer Science, o campo relacionado
+    - Experiencia con herramientas de diseño estándar de la industria (ej. Photoshop, Illustrator, Sketch, InVisio, Principle, etc.)
+    - Experiencia diseñando interfaces usables
+    - Portfolio de diseño mostrando principios de diseño para plataformas web o móviles
+    - Ubicación en Canadá durante la duración del programa de pasantía
+    - Penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+
+    📌 Requisitos preferidos:
+    - Actualmente asistiendo a un programa de grado en Canadá y disponible para trabajar tiempo completo por 12 semanas fuera del tiempo de término universitario
+    - En su penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+    - Experiencia trabajando con tecnologías web o móviles (ej. HTML, CSS, JavaScript, Android Studio, XCode, etc.)
+    - Pasantía de UX o experiencia trabajando (ej. proyectos personales, proyectos académicos, proyectos de voluntariado, etc.) en Interaction, Graphic Design o Motion Design
+    - Excelentes habilidades de liderazgo, comunicación y colaboración
+
+    📌 Responsabilidades:
+    - Ayudar a definir el modelo de usuario e interfaz de usuario para productos y características de Google
+    - Desarrollar storyboards de alto nivel o detallados, mockups y prototipos para comunicar efectivamente ideas de interacción y diseño
+    - Colaborar con gerentes de producto, ingenieros, investigadores, escritores y stakeholders multifuncionales para entender requisitos y proporcionar soluciones creativas y reflexivas
+    - Evaluar la usabilidad de productos nuevos y existentes y hacer sugerencias constructivas para cambios
+    - Trabajar en diseño y experiencia de usuario (UX) que están al frente de todo lo que hacemos
+    - Envisionar cómo las personas experimentan nuestros productos
+    - Traer esa visión a la vida de una manera que se sienta inspirada y refinada
+    - Abordar tareas complejas y transformarlas en soluciones intuitivas, accesibles y fáciles de usar
+    - Trabajar para personas alrededor del mundo
+
+    ✅ Beneficios:
+    - Pasantía de verano 2026
+    - 12 semanas de duración
+    - Ubicación en Waterloo, ON, Canada
+    - Trabajo tiempo completo fuera del tiempo de término universitario
+    - Trabajo en diseño y experiencia de usuario al frente de todo
+    - Envisionar cómo las personas experimentan productos
+    - Traer visión a la vida de manera inspirada y refinada
+    - Abordar tareas complejas y transformarlas en soluciones intuitivas
+    - Soluciones accesibles y fáciles de usar para personas del mundo
+    - Trabajo en productos y características de Google
+    - Desarrollo de storyboards, mockups y prototipos
+    - Comunicación efectiva de ideas de interacción y diseño
+    - Colaboración con equipos multifuncionales
+    - Entender requisitos y proporcionar soluciones creativas
+    - Evaluación de usabilidad de productos
+    - Sugerencias constructivas para cambios
+    - Trabajo con gerentes de producto, ingenieros, investigadores, escritores
+    - Stakeholders multifuncionales
+    - Fecha límite de aplicación: 31 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Tiempo de respuesta variable (puede tomar hasta 90+ días)
+    - Documentos requeridos: CV/Resume actualizado y transcripción en inglés
+    - Fecha de graduación anticipada requerida (MM/YY)
+    - Empresa global con colaboración y comunicación global
+    - Dominio del inglés requerido para el programa
+
+    🎨 Áreas de diseño cubiertas:
+    - Interaction Design: Diseño de interacción
+    - Graphic Design: Diseño gráfico
+    - Visual Communications: Comunicaciones visuales
+    - Product Design: Diseño de productos
+    - Industrial Design: Diseño industrial
+    - Human-Computer Interaction: Interacción humano-computadora
+    - Computer Science: Ciencias de la computación
+
+    🛠️ Herramientas técnicas:
+    - Diseño: Photoshop, Illustrator, Sketch, InVisio, Principle
+    - Web: HTML, CSS, JavaScript
+    - Móvil: Android Studio, XCode
+    - Plataformas: Web y móviles
+
+    🌟 Características especiales:
+    - Enfoque UX: Diseño y experiencia de usuario al frente
+    - Visión de producto: Envisionar experiencia del usuario
+    - Soluciones intuitivas: Transformar tareas complejas
+    - Accesibilidad: Soluciones accesibles y fáciles de usar
+    - Impacto global: Para personas alrededor del mundo
+    - Colaboración: Trabajo con equipos multifuncionales
+    - Creatividad: Soluciones creativas y reflexivas`,
+    imagen: "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/123636602902586054-user-experience-design-intern-bsms-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Canadá",
+    duracion: "12 semanas (Verano 2026)",
+    fechaLimite: "31 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/5496464/pexels-photo-5496464.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 217,
+    categoria: "Trabajo",
+    titulo: "🏢 Data Center Technician Intern, 2026 - Google",
+    descripcion: `Google está buscando un Data Center Technician Intern para 2026. Esta es una oportunidad única para estudiantes inscritos en un programa educativo relevante a las calificaciones del trabajo o aquellos en el penúltimo/año final de un programa de Bachelor's o Master's acreditado de tiempo completo ubicado en la región EMEA.
+
+    📌 Requisitos mínimos:
+    - Actualmente inscrito en un programa educativo relevante a las calificaciones del trabajo o en el penúltimo/año final de un programa de Bachelor's o Master's acreditado de tiempo completo ubicado en la región EMEA
+    - Experiencia práctica o de pasantía relevante en diagnóstico y solución de problemas de uno de los siguientes: sistemas operativos, hardware de computadora/servidor, o protocolos de networking
+    - Ubicación en una de las ubicaciones específicas de país identificadas para este rol durante la duración del programa de pasantía
+    - Disponibilidad para trabajar tiempo completo por mínimo 13 semanas durante el Verano 2026 (comenzando en mayo, junio o julio)
+
+    📌 Requisitos preferidos:
+    - Experiencia práctica relevante a pasantía realizando reparaciones a nivel de componente y solución de problemas en equipos de TI o en un rol similar (ej. Administración de Sistemas, Ingeniero de Despliegue de Red, Técnico de Help Desk, etc.)
+    - Experiencia práctica relevante trabajando dentro de un entorno de centro de datos o centro de operaciones de red
+    - Capacidad para completar una pasantía de 13 semanas tiempo completo en la ubicación de la pasantía comenzando en mayo, junio o julio 2026
+
+    📌 Responsabilidades:
+    - Ser parte clave del equipo de Data Center
+    - Ganar experiencia ayudando con la instalación, configuración y solución de problemas de hardware
+    - Trabajar con servidores y sus componentes
+    - Trabajar con software de servidor como el cluster Linux de Google
+    - Aprender a configurar y manejar componentes de red como routers, hubs, bridges y switches
+    - Participar en movimiento manual e instalación en rack de equipos
+    - Oportunidad de participar en o liderar pequeños equipos de proyecto en instalaciones más grandes
+    - Construir una base sólida en operaciones de centro de datos e infraestructura de red
+    - Responsabilidades y proyectos detallados determinados basados en antecedentes educativos, interés y habilidades
+
+    ✅ Beneficios:
+    - Pasantía de 13 semanas tiempo completo
+    - Comenzando en mayo, junio o julio 2026
+    - Ubicaciones disponibles: Eemshaven, Netherlands; Saint-Ghislain, Belgium; Hamina, Finland
+    - Trabajo en uno de los centros de datos más eficientes energéticamente y ambientalmente sostenibles del mundo
+    - Parte del equipo de Data Center Engineering que lleva el diseño físico de los centros de datos al futuro
+    - Trabajo con técnicos, ingenieros y equipos de soporte que dan vida a las ideas
+    - Uso de enfoques creativos para reducir costos operativos
+    - Extensión de prácticas tradicionales para hacer centros de datos más eficientes
+    - Trabajo detrás de la infraestructura tecnológica más compleja del mundo
+    - Trabajo con grupo variado de Googlers que diseñan, construyen y mantienen las luces encendidas
+    - Experiencia en instalación, configuración y solución de problemas de hardware
+    - Trabajo con servidores y componentes
+    - Trabajo con software de servidor como cluster Linux de Google
+    - Configuración y manejo de componentes de red
+    - Movimiento manual e instalación en rack de equipos
+    - Oportunidad de participar en o liderar equipos de proyecto
+    - Construcción de base sólida en operaciones de centro de datos
+    - Infraestructura de red
+    - Fecha límite de aplicación: 24 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Documentos requeridos: CV/Resume actualizado y transcripción en inglés
+    - Fecha de graduación o finalización de programa esperada requerida (mes y año)
+    - Disponibilidad para la pasantía requerida en el resume
+    - Equipo y proyecto(s) específicos determinados basados en antecedentes educativos, interés y habilidades
+
+    🏢 Áreas técnicas cubiertas:
+    - Sistemas Operativos: Diagnóstico y solución de problemas
+    - Hardware: Computadora/servidor, reparaciones a nivel de componente
+    - Networking: Protocolos, routers, hubs, bridges, switches
+    - TI: Equipos de TI, administración de sistemas
+    - Centros de Datos: Operaciones, infraestructura
+    - Redes: Despliegue, centros de operaciones
+    - Soporte: Help Desk, solución de problemas
+
+    🌍 Ubicaciones disponibles (3 ubicaciones):
+    - Eemshaven, Netherlands
+    - Saint-Ghislain, Belgium
+    - Hamina, Finland
+
+    🔧 Tecnologías y herramientas:
+    - Hardware: Servidores y componentes
+    - Software: Cluster Linux de Google
+    - Redes: Routers, hubs, bridges, switches
+    - Instalación: Rack mounting, movimiento manual
+    - Proyectos: Liderazgo de equipos pequeños
+
+    🌟 Características especiales:
+    - Infraestructura compleja: Trabajo detrás de la infraestructura tecnológica más compleja del mundo
+    - Sostenibilidad: Centros de datos más eficientes energéticamente y ambientalmente sostenibles
+    - Innovación: Enfoques creativos para reducir costos operativos
+    - Liderazgo: Oportunidad de liderar equipos de proyecto
+    - Aprendizaje: Construcción de base sólida en operaciones de centro de datos
+    - Colaboración: Trabajo con grupo variado de Googlers
+    - Impacto: Mantener las luces encendidas para usuarios`,
+    imagen: "https://images.pexels.com/photos/7988747/pexels-photo-7988747.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/103717295666143942-data-center-technician-intern-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "EMEA (Europa, Medio Oriente, África)",
+    duracion: "13 semanas (Verano 2026)",
+    fechaLimite: "24 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/5926382/pexels-photo-5926382.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 218,
+    categoria: "Trabajo",
+    titulo: "💻 User Experience Engineer Intern, PhD, Summer 2026 - Google",
+    descripcion: `Google está buscando un User Experience Engineer Intern (PhD) para el verano de 2026. Esta es una oportunidad única para estudiantes que actualmente están cursando un programa de PhD en Computer Science, HCI, Design o campo técnico relacionado.
+
+    📌 Requisitos mínimos:
+    - Actualmente cursando un PhD en Computer Science, HCI, Design, o campo técnico relacionado
+    - Experiencia con JavaScript, HTML y CSS
+    - Experiencia diseñando e implementando interfaces de usuario (UIs)
+    - Ubicación en Estados Unidos durante la duración del programa de pasantía
+    - Empresa global con colaboración y comunicación global
+    - Dominio del inglés requerido para el programa
+
+    📌 Requisitos preferidos:
+    - Actualmente asistiendo a un programa de grado en Estados Unidos y disponible para trabajar tiempo completo por 12 semanas fuera del término universitario
+    - En penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+    - Experiencia en JavaScript y frameworks frontend (Angular2+, Vue, React)
+    - Experiencia en desarrollo o prototipado
+    - Experiencia programando en Go, Python, C++, Java, Kotlin, Objective C, Swift o similar
+
+    📌 Responsabilidades:
+    - Trabajar estrechamente con diseñadores de UX, gerentes de proyecto e ingenieros backend para implementar soluciones frontend versátiles a problemas de desarrollo web
+    - Lanzar, iterar y hacer la diferencia
+    - Proporcionar experiencia en programación frontend y ayudar a hacer nuestros productos mejores para usuarios
+    - Manejar tu propio tiempo y trabajar bien tanto independientemente como parte de un equipo
+    - Entregar prototipos innovadores y atractivos usando las últimas tecnologías frontend
+    - Trabajar en el frontend de nuestros productos en un entorno desafiante y de ritmo rápido
+    - Ayudar a tender puentes entre mejores prácticas de UX y ejecución de producción
+    - Demostrar creatividad, habilidades analíticas y conocimiento de tecnologías orientadas al usuario
+    - Permitir ejecución y comunicaciones eficientes y de alta calidad
+    - Lanzar características innovadoras a una audiencia global
+
+    ✅ Beneficios:
+    - Pasantía de verano 2026
+    - 12 semanas de duración
+    - Ubicación en Estados Unidos
+    - Trabajo tiempo completo fuera del término universitario
+    - Trabajo en equipos multidisciplinarios de UX
+    - Colaboración con UX Designers, Researchers, Writers, Content Strategists, Program Managers y Engineers
+    - Preocupación profunda por las personas que usan nuestros productos
+    - Papel integral en reunir insights sobre actitudes, emociones y comportamientos
+    - Inspirar e informar diseño basado en insights de usuarios
+    - Colaboración estrecha con ingeniería y gestión de productos
+    - Creación de productos líderes de la industria
+    - Entrega de valor para usuarios y negocios de Google
+    - Trabajo en frontend de productos
+    - Entorno desafiante y de ritmo rápido
+    - Tender puentes entre mejores prácticas de UX y ejecución
+    - Demostración de creatividad y habilidades analíticas
+    - Conocimiento de tecnologías orientadas al usuario
+    - Ejecución eficiente y de alta calidad
+    - Comunicaciones efectivas
+    - Lanzamiento de características innovadoras
+    - Audiencia global
+    - Trabajo con diseñadores de UX
+    - Colaboración con gerentes de proyecto
+    - Trabajo con ingenieros backend
+    - Soluciones frontend versátiles
+    - Resolución de problemas de desarrollo web
+    - Experiencia en programación frontend
+    - Mejora de productos para usuarios
+    - Manejo independiente del tiempo
+    - Trabajo en equipo
+    - Prototipos innovadores y atractivos
+    - Tecnologías frontend más recientes
+    - Fecha límite de aplicación: 31 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Tiempo de respuesta variable (puede tomar hasta 90+ días)
+    - Documentos requeridos: CV/Resume actualizado y transcripción en inglés
+    - Fecha de graduación anticipada requerida (MM/YY)
+    - Experiencia con lenguajes de programación requerida en resume
+    - Experiencia técnica y proyectos requeridos en resume
+
+    💰 Compensación:
+    - Rango de salario base US: $101,000-$135,000
+    - Rangos de salario determinados por rol, nivel y ubicación
+    - Pago individual determinado por ubicación de trabajo y factores adicionales
+    - Factores incluyen: habilidades relacionadas con el trabajo, experiencia, educación o entrenamiento relevante
+    - Compensación lista refleja solo salario base
+    - No incluye bonificación, equidad o beneficios
+    - Consultar con reclutador para rango específico de salario para ubicación preferida
+
+    🌍 Ubicaciones disponibles (26 ubicaciones):
+    - Mountain View, CA, USA    - Atlanta, GA, USA    - Austin, TX, USA    - Boulder, CO, USA    - Bellevue, WA, USA    - Cambridge, MA, USA    - Chicago, IL, USA    - Irvine, CA, USA    - Kirkland, WA, USA    - Los Angeles, CA, USA    - Madison, WI, USA    - New York, NY, USA    - Palo Alto, CA, USA    - Portland, OR, USA    - Pittsburgh, PA, USA    - Reston, VA, USA    - Redmond, WA, USA    - San Diego, CA, USA    - Goleta, CA, USA    - San Bruno, CA, USA    - Seattle, WA, USA    - San Francisco, CA, USA    - Santa Cruz, CA, USA    - Sunnyvale, CA, USA    - Washington D.C., DC, USA    - Playa Vista, CA campus
+    🛠️ Tecnologías y herramientas:
+    - Frontend: JavaScript, HTML, CSS
+    - Frameworks: Angular2+, Vue, React
+    - Lenguajes: Go, Python, C++, Java, Kotlin, Objective C, Swift
+    - Desarrollo: Prototipado, desarrollo web
+    - UI/UX: Diseño e implementación de interfaces de usuario
+
+    🌟 Características especiales:
+    - Equipos multidisciplinarios: UX Designers, Researchers, Writers, Content Strategists, Program Managers, Engineers
+    - Enfoque centrado en usuarios: Preocupación profunda por las personas que usan productos
+    - Insights de comportamiento: Reunir insights sobre actitudes, emociones y comportamientos
+    - Diseño informado: Inspirar e informar diseño basado en insights
+    - Colaboración estrecha: Con ingeniería y gestión de productos
+    - Productos líderes: Creación de productos líderes de la industria
+    - Valor dual: Para usuarios y negocios de Google
+    - Frontend especializado: Trabajo en frontend de productos
+    - Entorno dinámico: Desafiante y de ritmo rápido
+    - Mejores prácticas: Tender puentes entre UX y ejecución
+    - Creatividad: Demostración de creatividad y habilidades analíticas
+    - Tecnologías modernas: Conocimiento de tecnologías orientadas al usuario
+    - Calidad: Ejecución eficiente y de alta calidad
+    - Innovación: Lanzamiento de características innovadoras
+    - Alcance global: Audiencia global
+    - Autonomía: Manejo independiente del tiempo
+    - Colaboración: Trabajo en equipo efectivo
+
+    📋 Consideraciones legales:
+    - Condado de Los Ángeles: Aplicaciones calificadas con registros de arresto o condena serán consideradas para empleo de acuerdo con la Ordenanza de Oportunidad Justa del Condado de Los Ángeles para Empleadores y la Ley de Oportunidad Justa de California
+    - San Francisco: Aplicaciones calificadas con registros de arresto o condena serán consideradas para empleo de acuerdo con la Ordenanza de Oportunidad Justa de San Francisco para Empleadores y la Ley de Oportunidad Justa de California`,
+    imagen: "https://images.pexels.com/photos/12899165/pexels-photo-12899165.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/138221487206081222-user-experience-engineer-intern-phd-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Estados Unidos",
+    duracion: "12 semanas (Verano 2026)",
+    fechaLimite: "31 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 219,
+    categoria: "Trabajo",
+    titulo: "💻 Software Developer Intern, BS, Summer 2026 - Google",
+    descripcion: `Google está buscando un Software Developer Intern (BS) para el verano de 2026. Esta es una oportunidad única para estudiantes en todos los años académicos que están cursando un programa de Bachelor's en Computer Science o campo relacionado.
+
+    📌 Requisitos mínimos:
+    - Cursando un Bachelor's degree o experiencia post-secundaria o de entrenamiento con enfoque en materias de desarrollo de software u otros campos técnicos relacionados
+    - Experiencia en Software Development y programación en dos o más lenguajes de programación de propósito general (ej. C, C++, Java, JavaScript, Python)
+    - Experiencia con estructuras de datos o algoritmos obtenida dentro o fuera de escuela o trabajo
+    - Ubicación en Canadá durante la duración del programa de pasantía
+    - Empresa global con colaboración y comunicación global
+    - Dominio del inglés requerido para el programa
+
+    📌 Requisitos preferidos:
+    - Actualmente asistiendo a un programa de grado en Canadá y disponible para trabajar tiempo completo por 12 semanas fuera del tiempo de término universitario
+    - Regresando a un programa de grado después de completar la pasantía
+    - Experiencia programando en tres o más de los siguientes lenguajes: C, C++, C#, Java, JavaScript, Kotlin, Go, Python, Typescript o similar
+    - Experiencia con desarrollo de aplicaciones web, entornos Unix/Linux, desarrollo de aplicaciones móviles, sistemas distribuidos y paralelos, machine learning, recuperación de información, procesamiento de lenguaje natural, networking, desarrollo de sistemas de software grandes o desarrollo de software de seguridad
+
+    📌 Responsabilidades:
+    - Desarrollar scripts para automatizar tareas rutinarias
+    - Analizar información y evaluar resultados para elegir la mejor solución para resolver problemas efectivamente
+    - Aplicar conocimientos obtenidos en cursos de computer science a problemas del mundo real
+    - Crear y apoyar un equipo trabajando con compañeros, gerentes y equipos
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Diseñar, probar, desplegar y mantener soluciones de software
+    - Crecer y evolucionar durante la pasantía
+    - Trabajar como miembro clave de un equipo versátil
+    - Ser versátil y entusiasta abordando nuevos problemas
+    - Continuar empujando la tecnología hacia adelante
+
+    ✅ Beneficios:
+    - Pasantía única de 12-14 semanas pagada
+    - Desarrollo personal y profesional
+    - Serie de oradores ejecutivos
+    - Construcción de comunidad
+    - Oportunidad de trabajar en soluciones complejas de computer science
+    - Desarrollo de sistemas de software escalables y distribuidos
+    - Colaboración en multitud de proyectos más pequeños con atractivo universal
+    - Rango de pasantías en Software Developer o Site-Reliability en Norteamérica
+    - Incluye Estados Unidos y Canadá
+    - Equipo de reclutamiento determina dónde encajas mejor basado en tu resume
+    - Trabajo en proyecto específico crítico para necesidades de Google
+    - Avanzar el estado del arte en computación
+    - Construir la próxima generación de sistemas inteligentes
+    - Proyectos que utilizan las últimas técnicas de computer science
+    - Desarrollado por desarrolladores de software hábiles
+    - Trabajo en sostenibilidad, optimización de algoritmos o sistemas de IA
+    - Equipos que se esfuerzan por progresar continuamente en ciencia
+    - Avanzar sociedad y mejorar vidas de miles de millones de personas
+    - Trabajo como miembro clave de equipo versátil
+    - Abordar nuevos problemas mientras empujamos tecnología hacia adelante
+    - Diseño, prueba, despliegue y mantenimiento de soluciones de software
+    - Crecimiento y evolución durante la pasantía
+    - Trabajo en empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar millones, si no miles de millones de usuarios
+    - Ingenieros que revolucionan búsqueda
+    - Trabajo en soluciones de escalabilidad y almacenamiento masivas
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Para desarrolladores alrededor del mundo
+    - Fecha límite de aplicación: 31 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Ventana de aplicación anticipada abierta hasta 31 de octubre de 2025
+    - Puede cerrar antes si todos los proyectos disponibles están llenos
+    - Aplicaciones después de la ventana o una vez cerrado el rol no serán consideradas
+    - Tiempo de respuesta variable (puede tomar hasta 90+ días)
+    - Documentos requeridos: CV/Resume actualizado y transcripción en inglés
+    - Reclutadores pueden contactar si encuentran coincidencia potencial diferente
+
+    🌍 Ubicaciones disponibles (3 ubicaciones):
+    - Waterloo, ON, Canada    - Montreal, QC, Canada    - Toronto, ON, Canada
+    🛠️ Tecnologías y herramientas:
+    - Lenguajes básicos: C, C++, Java, JavaScript, Python
+    - Lenguajes avanzados: C, C++, C#, Java, JavaScript, Kotlin, Go, Python, Typescript
+    - Desarrollo web: Aplicaciones web
+    - Sistemas: Unix/Linux, sistemas distribuidos y paralelos
+    - Móvil: Desarrollo de aplicaciones móviles
+    - IA/ML: Machine learning, procesamiento de lenguaje natural
+    - Networking: Redes, recuperación de información
+    - Seguridad: Desarrollo de software de seguridad
+    - Sistemas grandes: Desarrollo de sistemas de software grandes
+
+    🔧 Áreas técnicas cubiertas:
+    - Software Development: Desarrollo de software
+    - Estructuras de Datos: Algoritmos y estructuras de datos
+    - Automatización: Scripts para automatizar tareas rutinarias
+    - Análisis: Información y evaluación de resultados
+    - Solución de Problemas: Elegir mejores soluciones
+    - Computer Science: Aplicar conocimientos a problemas reales
+    - Trabajo en Equipo: Crear y apoyar equipos
+    - Colaboración: Trabajar con compañeros, gerentes y equipos
+    - Diseño: Diseño de soluciones de software
+    - Testing: Pruebas de software
+    - Deployment: Despliegue de soluciones
+    - Mantenimiento: Mantenimiento de software
+
+    🌟 Características especiales:
+    - Pasantía única: 12-14 semanas pagada
+    - Desarrollo integral: Personal y profesional
+    - Oradores ejecutivos: Serie de oradores ejecutivos
+    - Comunidad: Construcción de comunidad
+    - Soluciones complejas: Trabajo en soluciones complejas de computer science
+    - Sistemas escalables: Desarrollo de sistemas escalables y distribuidos
+    - Colaboración: Multitud de proyectos más pequeños
+    - Atractivo universal: Proyectos con atractivo universal
+    - Norteamérica: Rango de pasantías en Norteamérica
+    - Flexibilidad: Software Developer o Site-Reliability
+    - Ubicación flexible: Estados Unidos y Canadá
+    - Personalización: Equipo determina dónde encajas mejor
+    - Proyectos críticos: Trabajo en proyectos críticos para Google
+    - Estado del arte: Avanzar el estado del arte en computación
+    - Sistemas inteligentes: Próxima generación de sistemas inteligentes
+    - Técnicas avanzadas: Últimas técnicas de computer science
+    - Desarrolladores hábiles: Desarrollado por desarrolladores hábiles
+    - Sostenibilidad: Trabajo en sostenibilidad
+    - Optimización: Optimización de algoritmos
+    - IA: Sistemas de IA
+    - Progreso científico: Progresar continuamente en ciencia
+    - Impacto social: Avanzar sociedad
+    - Mejora de vidas: Mejorar vidas de miles de millones
+    - Equipo versátil: Miembro clave de equipo versátil
+    - Nuevos problemas: Abordar nuevos problemas
+    - Innovación tecnológica: Empujar tecnología hacia adelante
+    - Crecimiento: Crecimiento y evolución durante pasantía
+    - Empresa de ingeniería: Trabajo en empresa de ingeniería
+    - Desafíos tecnológicos: Enfrentar mayores desafíos tecnológicos
+    - Impacto masivo: Impactar millones de usuarios
+    - Revolución: Ingenieros que revolucionan búsqueda
+    - Escalabilidad masiva: Soluciones de escalabilidad masiva
+    - Aplicaciones grandes: Aplicaciones a gran escala
+    - Plataformas nuevas: Plataformas completamente nuevas
+    - Alcance global: Para desarrolladores alrededor del mundo`,
+    imagen: "https://images.pexels.com/photos/1181471/pexels-photo-1181471.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Canadá",
+    duracion: "12-14 semanas (Verano 2026)",
+    fechaLimite: "31 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/7504824/pexels-photo-7504824.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 220,
+    categoria: "Trabajo",
+    titulo: "🔬 Part-Time Software Engineering PhD Intern, 2026 - Google",
+    descripcion: `Google está buscando un Part-Time Software Engineering PhD Intern para 2026. Esta es una oportunidad única para estudiantes en su penúltimo/año final de educación en un programa de PhD acreditado de tiempo completo en Israel.
+
+    📌 Requisitos mínimos:
+    - Actualmente inscrito en un PhD en Computer Science o campo técnico relacionado en Israel
+    - En penúltimo/año final de educación
+    - Experiencia trabajando con estructuras de datos o algoritmos durante cursos/proyectos, investigación, pasantías, o experiencia práctica en escuela o trabajo (ej. programación open-source)
+    - Experiencia con uno o más lenguajes de programación de propósito general (ej. Java, C/C++, Python, JavaScript, Go, etc.)
+    - Ubicación en Israel para este rol durante la duración del programa de pasantía
+    - Disponibilidad para trabajar part-time (mínimo 2 días por semana, máximo 4 días por semana)
+    - Junto a estudios por mínimo 26 semanas comenzando a principios de 2026 (comenzando en marzo, abril o mayo)
+
+    📌 Requisitos preferidos:
+    - Experiencia práctica o de pasantía relevante con uno o más de los siguientes: desarrollo de aplicaciones web, Unix/Linux, desarrollo de aplicaciones móviles, sistemas distribuidos y paralelos, machine learning, recuperación de información, procesamiento de lenguaje natural, networking, desarrollo de sistemas de software grandes o desarrollo de software de seguridad
+    - Experiencia de investigación en Algorithms, Architecture, Artificial Intelligence, Compilers, Database, Data Mining, Distributed Systems, Machine Learning, Networking, o Systems
+    - Experiencia práctica o de pasantía relevante (ej. asistente de investigación, asistente de enseñanza, proyectos personales, etc.) programando en C++, Java, Python, o Go
+    - Capacidad para completar una pasantía mínima de 26 semanas en Israel comenzando entre marzo, abril o mayo 2026
+
+    📌 Responsabilidades:
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Ser miembro clave de un equipo versátil
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Ser versátil y entusiasta abordando problemas mientras continuamos empujando la tecnología hacia adelante
+    - Diseñar, probar, desplegar y mantener soluciones de software
+    - Crecer y evolucionar durante la pasantía
+    - Investigar, concebir y desarrollar aplicaciones de software para extender y mejorar la oferta de productos de Google
+    - Contribuir a una amplia variedad de proyectos usando procesamiento de lenguaje natural, inteligencia artificial, compresión de datos, machine learning, y tecnologías de búsqueda
+    - Colaborar en problemas de escalabilidad involucrando acceso a datos e información
+    - Utilizar exposición a solución de problemas de software de producción a gran escala
+    - Ayudar a mantener servicios críticos para la misión
+
+    ✅ Beneficios:
+    - Pasantía part-time de 26 semanas
+    - Comenzando en marzo, abril o mayo 2026
+    - Ubicaciones disponibles: Tel Aviv, Israel; Haifa, Israel
+    - Trabajo part-time (mínimo 2 días por semana, máximo 4 días por semana)
+    - Junto a estudios por mínimo 26 semanas
+    - Trabajo en proyecto específico crítico para Google
+    - Miembro clave de equipo versátil
+    - Abordar problemas mientras empujamos tecnología hacia adelante
+    - Diseño, prueba, despliegue y mantenimiento de soluciones de software
+    - Crecimiento y evolución durante la pasantía
+    - Trabajo en empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar usuarios alrededor del mundo
+    - Ingenieros que revolucionan búsqueda
+    - Trabajo en soluciones de escalabilidad y almacenamiento
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Para desarrolladores alrededor del mundo
+    - Investigación, concepción y desarrollo de aplicaciones de software
+    - Extender y mejorar oferta de productos de Google
+    - Contribuir a amplia variedad de proyectos
+    - Procesamiento de lenguaje natural
+    - Inteligencia artificial
+    - Compresión de datos
+    - Machine learning
+    - Tecnologías de búsqueda
+    - Colaboración en problemas de escalabilidad
+    - Acceso a datos e información
+    - Exposición a software de producción a gran escala
+    - Solución de problemas
+    - Mantenimiento de servicios críticos para la misión
+    - Fecha límite de aplicación: 24 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Documentos requeridos: CV/Resume actualizado y transcripción en inglés
+    - Fecha de graduación esperada requerida (mes y año)
+    - Disponibilidad para la pasantía requerida en el resume
+    - Equipo y proyecto(s) específicos determinados basados en antecedentes educativos, interés y habilidades
+
+    🌍 Ubicaciones disponibles (2 ubicaciones):
+    - Tel Aviv, Israel    - Haifa, Israel
+    🛠️ Tecnologías y herramientas:
+    - Lenguajes: Java, C/C++, Python, JavaScript, Go
+    - Desarrollo web: Aplicaciones web
+    - Sistemas: Unix/Linux, sistemas distribuidos y paralelos
+    - Móvil: Desarrollo de aplicaciones móviles
+    - IA/ML: Machine learning, inteligencia artificial
+    - Procesamiento: Procesamiento de lenguaje natural
+    - Datos: Compresión de datos, data mining
+    - Networking: Redes, recuperación de información
+    - Seguridad: Desarrollo de software de seguridad
+    - Sistemas grandes: Desarrollo de sistemas de software grandes
+    - Búsqueda: Tecnologías de búsqueda
+
+    🔬 Áreas de investigación cubiertas:
+    - Algorithms: Algoritmos
+    - Architecture: Arquitectura
+    - Artificial Intelligence: Inteligencia artificial
+    - Compilers: Compiladores
+    - Database: Base de datos
+    - Data Mining: Minería de datos
+    - Distributed Systems: Sistemas distribuidos
+    - Machine Learning: Machine learning
+    - Networking: Redes
+    - Systems: Sistemas
+
+    🌟 Características especiales:
+    - Pasantía part-time: Mínimo 2 días por semana, máximo 4 días por semana
+    - Flexibilidad académica: Junto a estudios
+    - Duración extendida: 26 semanas mínimo
+    - Inicio flexible: Marzo, abril o mayo 2026
+    - Proyectos críticos: Trabajo en proyectos críticos para Google
+    - Equipo versátil: Miembro clave de equipo versátil
+    - Abordar problemas: Enfrentar problemas mientras empujamos tecnología
+    - Diseño completo: Diseño, prueba, despliegue y mantenimiento
+    - Crecimiento: Crecimiento y evolución durante pasantía
+    - Empresa de ingeniería: Trabajo en empresa de ingeniería
+    - Desafíos tecnológicos: Enfrentar mayores desafíos tecnológicos
+    - Impacto global: Impactar usuarios alrededor del mundo
+    - Revolución: Ingenieros que revolucionan búsqueda
+    - Escalabilidad: Soluciones de escalabilidad y almacenamiento
+    - Aplicaciones grandes: Aplicaciones a gran escala
+    - Plataformas nuevas: Plataformas completamente nuevas
+    - Alcance global: Para desarrolladores alrededor del mundo
+    - Investigación: Investigar, concebir y desarrollar aplicaciones
+    - Mejora de productos: Extender y mejorar oferta de productos
+    - Variedad de proyectos: Contribuir a amplia variedad de proyectos
+    - Tecnologías avanzadas: NLP, IA, compresión de datos, ML, búsqueda
+    - Colaboración: Colaboración en problemas de escalabilidad
+    - Acceso a datos: Acceso a datos e información
+    - Producción a gran escala: Exposición a software de producción
+    - Solución de problemas: Solución de problemas
+    - Servicios críticos: Mantenimiento de servicios críticos
+
+    📋 Consideraciones especiales:
+    - Ubicación: Israel durante la duración del programa
+    - No elegible: Para patrocinio de inmigración
+    - Penúltimo/año final: En penúltimo/año final de educación
+    - Programa acreditado: PhD acreditado de tiempo completo
+    - Disponibilidad: Mínimo 2 días por semana, máximo 4 días por semana`,
+    imagen: "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/94097166728864454-parttime-software-engineering-phd-intern-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Israel",
+    duracion: "26 semanas (Part-time, 2026)",
+    fechaLimite: "24 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/6804613/pexels-photo-6804613.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 221,
+    categoria: "Trabajo",
+    titulo: "📈 Customer Growth Associate BS/MS Intern, 2026 - Google",
+    descripcion: `Google está buscando un Customer Growth Associate BS/MS Intern para 2026. Esta es una oportunidad única para estudiantes inscritos en su penúltimo/año final de educación en un programa de Bachelor's o Master's acreditado de tiempo completo ubicado en la región EMEA.
+
+    📌 Requisitos mínimos:
+    - Actualmente inscrito en un programa de Bachelor's o Master's en la región EMEA
+    - Experiencia práctica o de pasantía relevante en ventas digitales, gestión de clientes, servicio al cliente, desarrollo de negocios, alcance al cliente, marketing, consultoría, publicidad digital o campo relacionado
+    - Capacidad para comunicarse en inglés y un idioma adicional del mercado regional EMEA como se nota en las responsabilidades del trabajo para apoyar gestión de relaciones con clientes en esta región
+    - Ubicación en una de las ubicaciones específicas de país identificadas para este rol durante la duración del programa de pasantía
+    - Disponibilidad para trabajar tiempo completo por mínimo 13 semanas durante el Verano 2026 (comenzando en mayo, junio o julio)
+
+    📌 Requisitos preferidos:
+    - Experiencia práctica o de pasantía relevante con Google Ads y publicidad online
+    - Experiencia práctica o de pasantía relevante manejando un portafolio o trabajando contra metas de clientes asignadas (ej. crecimiento de negocio, métricas de éxito del cliente, metas de alcance, etc.)
+    - Pasión por ventas y tecnología para ayudar a negocios a crecer online
+    - Capacidad para completar una pasantía de 13 semanas tiempo completo en la ubicación de la pasantía comenzando en mayo, junio o julio 2026
+    - Actualmente inscrito en tu penúltimo/año final de educación
+
+    📌 Responsabilidades:
+    - Responsabilidades y proyectos detallados determinados basados en antecedentes educativos, interés y habilidades
+    - Comunicarse en inglés, alemán, holandés, francés, italiano, español o polaco
+    - Rol orientado al cliente que incluiría interacciones con stakeholders locales
+    - Establecer relaciones conduciendo consultas telefónicas regulares y presentaciones con un gran portafolio de clientes
+    - Promover soluciones, manejar asociaciones y proporcionar análisis para entregar resultados de negocio exitosos
+    - Descubrir las necesidades de negocio de los clientes clave de Google
+    - Lograr sus metas de marketing mientras impulsan acuerdos incrementales a través de nuestras soluciones publicitarias
+    - Servir como asesores de confianza y vendedores competitivos
+    - Mantener un enfoque implacable en el éxito del cliente
+    - Traer lo mejor que Google tiene para ofrecer a pequeñas y medianas empresas (SMBs)
+    - Trabajar con dueños de compañías y hacer una diferencia real en sus negocios
+    - Ayudarles a crecer
+    - Ayudar a dar forma al futuro de la innovación para clientes, socios y vendedores
+
+    ✅ Beneficios:
+    - Pasantía de 13 semanas tiempo completo
+    - Comenzando en mayo, junio o julio 2026
+    - Ubicación en Dublin, Ireland
+    - Trabajo en equipo Scaled Google Customer Solutions
+    - Equipo de ventas diseñado para hacer crecer compañías pequeñas con potencial de expansión significativo
+    - Especialización en entregar las soluciones más efectivas a pequeñas empresas de alto potencial
+    - De todos los verticales y modelos de negocio
+    - De la manera más eficiente para el negocio
+    - Customer Growth Associates son los promotores que sirven como defensores de Google
+    - Establecer relaciones con clientes
+    - Consultas telefónicas regulares y presentaciones
+    - Gran portafolio de clientes
+    - Promoción de soluciones
+    - Manejo de asociaciones
+    - Proporcionar análisis
+    - Entregar resultados de negocio exitosos
+    - Descubrir necesidades de negocio
+    - Lograr metas de marketing
+    - Impulsar acuerdos incrementales
+    - Soluciones publicitarias
+    - Trabajo en Google Customer Solutions (GCS)
+    - Equipos de ventas
+    - Asesores de confianza
+    - Vendedores competitivos
+    - Enfoque implacable en éxito del cliente
+    - Lo mejor que Google tiene para ofrecer
+    - Pequeñas y medianas empresas (SMBs)
+    - Columna vertebral de nuestras comunidades
+    - Oportunidad de trabajar con dueños de compañías
+    - Hacer diferencia real en sus negocios
+    - Ayudarles a crecer
+    - Dar forma al futuro de la innovación
+    - Para clientes, socios y vendedores
+    - Diversión en el proceso
+    - Fecha límite de aplicación: 24 de octubre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Documentos requeridos: CV/Resume actualizado y transcripción en inglés
+    - Fecha de graduación esperada requerida (mes y año)
+    - Disponibilidad para la pasantía requerida en el resume
+    - Equipo y proyecto(s) específicos determinados basados en antecedentes educativos, interés y habilidades
+
+    🌍 Ubicación:
+    - Dublin, Ireland
+    🛠️ Idiomas requeridos:
+    - Inglés (obligatorio)
+    - Alemán (opcional)
+    - Holandés (opcional)
+    - Francés (opcional)
+    - Italiano (opcional)
+    - Español (opcional)
+    - Polaco (opcional)
+
+    📊 Áreas de experiencia cubiertas:
+    - Ventas digitales: Ventas digitales
+    - Gestión de clientes: Client management
+    - Servicio al cliente: Customer service
+    - Desarrollo de negocios: Business development
+    - Alcance al cliente: Customer outreach
+    - Marketing: Marketing
+    - Consultoría: Consulting
+    - Publicidad digital: Digital advertising
+    - Google Ads: Google Ads y publicidad online
+    - Gestión de portafolio: Manejo de portafolio
+    - Metas de clientes: Trabajo contra metas de clientes asignadas
+    - Crecimiento de negocio: Business growth
+    - Métricas de éxito: Customer success metrics
+    - Metas de alcance: Outreach goals
+
+    🌟 Características especiales:
+    - Equipo especializado: Scaled Google Customer Solutions
+    - Enfoque en crecimiento: Diseñado para hacer crecer compañías pequeñas
+    - Potencial significativo: Con potencial de expansión significativo
+    - Soluciones efectivas: Entregar las soluciones más efectivas
+    - Alto potencial: Pequeñas empresas de alto potencial
+    - Todos los verticales: De todos los verticales y modelos de negocio
+    - Eficiencia: De la manera más eficiente para el negocio
+    - Promotores: Customer Growth Associates como promotores
+    - Defensores: Servir como defensores de Google
+    - Relaciones: Establecer relaciones con clientes
+    - Consultas regulares: Consultas telefónicas regulares y presentaciones
+    - Gran portafolio: Gran portafolio de clientes
+    - Promoción: Promoción de soluciones
+    - Asociaciones: Manejo de asociaciones
+    - Análisis: Proporcionar análisis
+    - Resultados exitosos: Entregar resultados de negocio exitosos
+    - Necesidades de negocio: Descubrir necesidades de negocio
+    - Metas de marketing: Lograr metas de marketing
+    - Acuerdos incrementales: Impulsar acuerdos incrementales
+    - Soluciones publicitarias: A través de soluciones publicitarias
+    - Asesores de confianza: Trabajo como asesores de confianza
+    - Vendedores competitivos: Vendedores competitivos
+    - Enfoque implacable: Enfoque implacable en éxito del cliente
+    - Lo mejor de Google: Traer lo mejor que Google tiene para ofrecer
+    - SMBs: Pequeñas y medianas empresas
+    - Columna vertebral: Columna vertebral de comunidades
+    - Dueños de compañías: Trabajo con dueños de compañías
+    - Diferencia real: Hacer diferencia real en negocios
+    - Ayudar a crecer: Ayudarles a crecer
+    - Futuro de innovación: Dar forma al futuro de la innovación
+    - Clientes, socios, vendedores: Para clientes, socios y vendedores
+    - Diversión: Diversión en el proceso
+
+    📋 Consideraciones especiales:
+    - Región: EMEA (Europa, Medio Oriente, África)
+    - Ubicación específica: En una de las ubicaciones específicas de país durante la duración del programa
+    - No elegible: Para patrocinio de inmigración
+    - Penúltimo/año final: En penúltimo/año final de educación
+    - Programa acreditado: Bachelor's o Master's acreditado de tiempo completo
+    - Idiomas múltiples: Comunicación en inglés y un idioma adicional del mercado regional EMEA
+    - Rol orientado al cliente: Interacciones con stakeholders locales`,
+    imagen: "https://images.pexels.com/photos/3861967/pexels-photo-3861967.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/73653158101820102-customer-growth-associate-bsms-intern-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Irlanda",
+    duracion: "13 semanas (Verano 2026)",
+    fechaLimite: "24 de octubre de 2025",
+    imagenes: ["https://images.pexels.com/photos/5473301/pexels-photo-5473301.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 222,
+    categoria: "Trabajo",
+    titulo: "🎓 Apprenticeship in Application Development, Informatiker:in EFZ, August 2026 - Google",
+    descripcion: `Google está buscando un Apprentice en Application Development (Informatiker:in EFZ) para agosto de 2026. Esta es una oportunidad única de aprendizaje de 4 años con un equipo profesional de instructores vocacionales (Berufsbildner:innen) que te guiarán y apoyarán durante tu aprendizaje con Google.
+
+    📌 Requisitos mínimos:
+    - Graduado del nivel más alto de escuela secundaria
+    - Calificaciones académicas en promedio de 4.5 o superior
+    - Multicheck Junior ICT report completado
+    - Capacidad para comunicarse en inglés y alemán con fluidez
+    - Para interactuar con stakeholders y escuelas
+    - Ubicación en Suiza para el programa de aprendizaje
+
+    📌 Requisitos preferidos:
+    - Pasión por nuevas tecnologías y fuerte motivación para aprender
+    - Experiencia y fuerte interés en escribir código
+    - Entusiasmo genuino por leer textos técnicos
+    - Pensamiento lógico y abstracto demostrado
+    - Intención de cursar la Berufsmaturitätsschule (BM1) durante el aprendizaje
+    - Autorización para trabajar en Suiza
+
+    📌 Responsabilidades:
+    - Analizar proactivamente una gama de problemas, identificar soluciones potenciales e implementarlas efectivamente
+    - Fomentar colaboración fuerte dentro de tu equipo, comunicando claramente ideas y conceptos técnicos tanto a colegas técnicos como no técnicos
+    - Escribir código limpio, eficiente y bien documentado que se alinee con requisitos del proyecto
+    - Conducir pruebas sólidas para asegurar funcionalidad y confiabilidad
+    - Trabajar en diseño y desarrollo de software
+    - Trabajar junto a varios equipos front-end y back-end a través de la suite de productos de Google
+    - Experiencia inmersiva que te expondrá a diversos roles y caminos de carrera dentro de este campo dinámico
+    - Trabajar en proyectos existentes y nuevos que te desafiarán
+    - Sentar las bases para un futuro exitoso como Application Developer
+
+    ✅ Beneficios:
+    - Aprendizaje de 4 años con Google
+    - Comenzando en agosto de 2026
+    - Ubicación en Zürich, Switzerland
+    - Equipo profesional de instructores vocacionales (Berufsbildner:innen)
+    - Guía y apoyo durante todo el aprendizaje
+    - Curso de fundación de 1 año (Basislehrjahr)
+    - Unirse a tu equipo de Google en Zurich después del primer año
+    - Compromiso completo en proyectos existentes y nuevos
+    - Proyectos que te desafiarán
+    - Sentar bases para futuro exitoso como Application Developer
+    - Enfoque en Application Development como Computer Scientist apprentice
+    - Sumergirse en diseño y desarrollo de software
+    - Trabajar junto a equipos front-end y back-end
+    - A través de la suite de productos de Google
+    - Experiencia inmersiva
+    - Exposición a diversos roles y caminos de carrera
+    - Campo dinámico
+    - Trabajo en empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar millones, si no miles de millones de usuarios
+    - Ingenieros que revolucionan búsqueda
+    - Trabajo en soluciones de escalabilidad y almacenamiento masivas
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Para desarrolladores alrededor del mundo
+    - Desde Google Ads hasta Chrome, Android hasta YouTube
+    - Social hasta Local
+    - Ingenieros de Google cambiando el mundo
+    - Un logro tecnológico después de otro
+    - Análisis proactivo de problemas
+    - Identificación de soluciones potenciales
+    - Implementación efectiva
+    - Colaboración fuerte en equipo
+    - Comunicación clara de ideas
+    - Conceptos técnicos
+    - Colegas técnicos y no técnicos
+    - Código limpio, eficiente y bien documentado
+    - Alineación con requisitos del proyecto
+    - Pruebas sólidas
+    - Funcionalidad y confiabilidad
+    - Documentos requeridos: CV/Resume actual, carta de presentación, calificaciones escolares y certificados, Multicheck (ICT)
+    - Revisión de aplicaciones completas comenzando en agosto temprano
+    - Crear un PDF con todos los documentos y subirlo al campo "upload your resume"
+
+    🌍 Ubicación:
+    - Zürich, Switzerland
+    🛠️ Documentos requeridos:
+    - CV/Resume actual: CV/Resume actual
+    - Carta de presentación: Explicando interés en aplicar para ser apprentice en Google
+    - Calificaciones escolares: Calificaciones escolares y todos los certificados
+    - Multicheck: Multicheck (ICT)
+
+    🎓 Estructura del programa:
+    - Año 1: Curso de fundación (Basislehrjahr)
+    - Años 2-4: Unirse al equipo de Google en Zurich
+    - Duración total: 4 años
+    - Berufsmaturitätsschule (BM1): Opcional durante el aprendizaje
+    - Certificación: Informatiker:in EFZ
+
+    📚 Áreas de desarrollo cubiertas:
+    - Diseño de software: Diseño y desarrollo de software
+    - Front-end: Equipos front-end
+    - Back-end: Equipos back-end
+    - Suite de productos: A través de la suite de productos de Google
+    - Application Development: Desarrollo de aplicaciones
+    - Computer Science: Ciencias de la computación
+    - Análisis de problemas: Análisis proactivo de problemas
+    - Soluciones: Identificación e implementación de soluciones
+    - Colaboración: Colaboración fuerte en equipo
+    - Comunicación: Comunicación clara de ideas
+    - Conceptos técnicos: Conceptos técnicos
+    - Código limpio: Código limpio, eficiente y bien documentado
+    - Requisitos del proyecto: Alineación con requisitos del proyecto
+    - Testing: Pruebas sólidas
+    - Funcionalidad: Funcionalidad y confiabilidad
+
+    🌟 Características especiales:
+    - Aprendizaje de 4 años: Programa de aprendizaje de 4 años
+    - Instructores profesionales: Equipo profesional de instructores vocacionales
+    - Guía y apoyo: Guía y apoyo durante todo el aprendizaje
+    - Curso de fundación: 1 año de curso de fundación (Basislehrjahr)
+    - Equipo de Google: Unirse al equipo de Google en Zurich
+    - Proyectos desafiantes: Proyectos existentes y nuevos que desafían
+    - Futuro exitoso: Sentar bases para futuro exitoso
+    - Application Developer: Como Application Developer
+    - Enfoque especializado: Computer Scientist apprentice enfocado en Application Development
+    - Inmersión completa: Experiencia inmersiva
+    - Diversos roles: Exposición a diversos roles y caminos de carrera
+    - Campo dinámico: Campo dinámico
+    - Empresa de ingeniería: Trabajo en empresa de ingeniería
+    - Desafíos tecnológicos: Enfrentar mayores desafíos tecnológicos
+    - Impacto masivo: Impactar millones de usuarios
+    - Revolución: Ingenieros que revolucionan búsqueda
+    - Escalabilidad masiva: Soluciones de escalabilidad masiva
+    - Aplicaciones grandes: Aplicaciones a gran escala
+    - Plataformas nuevas: Plataformas completamente nuevas
+    - Alcance global: Para desarrolladores alrededor del mundo
+    - Productos diversos: Desde Google Ads hasta Chrome, Android hasta YouTube
+    - Cambio mundial: Ingenieros cambiando el mundo
+    - Logros tecnológicos: Un logro tecnológico después de otro
+    - Análisis proactivo: Análisis proactivo de problemas
+    - Soluciones efectivas: Implementación efectiva de soluciones
+    - Colaboración fuerte: Colaboración fuerte en equipo
+    - Comunicación clara: Comunicación clara de ideas
+    - Código de calidad: Código limpio, eficiente y bien documentado
+    - Testing sólido: Pruebas sólidas para funcionalidad y confiabilidad
+
+    📋 Consideraciones especiales:
+    - Ubicación: Suiza durante todo el programa
+    - Idiomas: Inglés y alemán con fluidez requeridos
+    - Educación: Graduado del nivel más alto de escuela secundaria
+    - Calificaciones: Promedio de 4.5 o superior
+    - Multicheck: Junior ICT report completado
+    - Autorización: Para trabajar en Suiza
+    - Berufsmaturitätsschule: Opcional durante el aprendizaje
+    - Revisión: Aplicaciones completas revisadas comenzando en agosto temprano
+    - Documentos: Todos los documentos en un PDF único`,
+    imagen: "https://images.pexels.com/photos/1181275/pexels-photo-1181275.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/77652377976349382-apprenticeship-in-application-development-informatikerin-efz-august-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Suiza",
+    duracion: "4 años (Agosto 2026)",
+    fechaLimite: "Agosto 2026 (Revisión temprana)",
+    imagenes: [],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 223,
+    categoria: "Trabajo",
+    titulo: "🔬 Silicon Engineering Intern, PhD, Summer 2026 - Google",
+    descripcion: `Google está buscando un Silicon Engineering Intern (PhD) para el verano de 2026. Esta es una oportunidad única para estudiantes en su penúltimo año académico que están cursando un programa de PhD en Electrical, Electronics, and Communication Engineering o campo técnico relacionado.
+
+    📌 Requisitos mínimos:
+    - Actualmente cursando un PhD en Electrical Engineering, Computer Engineering, Computer Science, o campo técnico relacionado
+    - Experiencia de investigación o proyecto en al menos una de las siguientes áreas de silicon engineering:
+      * Architecture and Digital Design: Arquitectura de computadora, microarquitectura, diseño lógico, o diseño RTL (SystemVerilog, Verilog, VHDL)
+      * Design Verification: Crear testbenches y planes de validación, verificación formal, o verificación basada en aserciones
+      * Physical Design and Circuits: Síntesis, place-and-route, timing closure, diseño de circuitos personalizados, o análisis de integridad de potencia/señal
+      * Pre/Post-silicon validation: Emulación, prototipado FPGA, o post-silicon bring-up y debug
+    - Experiencia con lenguajes de scripting y programación como Python, Tcl, Perl, o C++
+    - Ubicación en Estados Unidos durante la duración del programa de pasantía
+    - Empresa global con colaboración y comunicación global
+    - Dominio del inglés requerido para el programa
+
+    📌 Requisitos preferidos:
+    - Actualmente asistiendo a un programa de grado en Estados Unidos y disponible para trabajar tiempo completo por 12 semanas fuera del término universitario
+    - En penúltimo año académico o regresando a un programa de grado después de completar la pasantía
+    - Experiencia con modelado de rendimiento, simulación a nivel de sistema, o desarrollo de sistemas embebidos
+    - Expertise en un área especializada como técnicas de diseño de alto rendimiento/bajo consumo, jerarquías de memoria, aceleradores de machine learning, interconexiones, o empaquetado avanzado
+    - Base sólida en Design Automation (CAD/EDA), incluyendo desarrollar y apoyar flujos de diseño e infraestructura para proyectos a gran escala
+    - Familiaridad con herramientas EDA estándar de la industria (ej. de Synopsys, Cadence, Mentor)
+    - Capacidad para trabajar en problemas de investigación complejos y abiertos, demostrado a través de publicaciones en conferencias de primer nivel
+
+    📌 Responsabilidades:
+    - Responsabilidades y proyectos detallados determinados basados en antecedentes educativos, interés y habilidades
+    - Trabajar en problemas fundamentales en la intersección de hardware, software y algoritmos
+    - Colaborar con ingenieros y investigadores excepcionales en proyectos que impactan directamente el portafolio de silicon personalizado de Google
+    - Incluyendo aceleradores de IA altamente especializados como Tensor Processing Units (TPUs)
+    - Sistemas-en-un-Chip (SoCs) complejos
+    - Proyectos y responsabilidades adaptados a tu expertise
+    - Enfocarse en cualquier parte de la pila del sistema
+    - Algorithmic Innovation: Desarrollar y analizar nuevos algoritmos que están profundamente co-diseñados con nuestro hardware personalizado
+    - System Architecture and Modeling: Arquitecturar y modelar TPUs futuras para guiar decisiones de diseño críticas
+    - Hardware Design and Verification: Contribuir a todos los aspectos de creación de silicon, desde diseño lógico y verificación hasta implementación física VLSI
+
+    ✅ Beneficios:
+    - Pasantía de verano 2026
+    - 12 semanas de duración
+    - Ubicaciones disponibles: Sunnyvale, CA, USA; Madison, WI, USA
+    - Trabajo tiempo completo fuera del término universitario
+    - Trabajo en equipo Google Cloud and AI Infrastructure
+    - Enfocado en construir sistemas de próxima generación de Google
+    - Trabajo fundamentado en crear hardware personalizado
+    - Colaboración con ingenieros de varias partes de la organización
+    - Influir en el futuro de Google Cloud y la infraestructura de IA
+    - Trabajar en tecnología fundamental que hace todo posible
+    - Hardware que impulsa todo desde Google Cloud hasta nuestros modelos más avanzados como Gemini
+    - Trabajo en problemas fundamentales en intersección de hardware, software y algoritmos
+    - Colaboración con ingenieros y investigadores excepcionales
+    - Proyectos que impactan directamente portafolio de silicon personalizado de Google
+    - Aceleradores de IA altamente especializados
+    - Tensor Processing Units (TPUs)
+    - Sistemas-en-un-Chip (SoCs) complejos
+    - Proyectos adaptados a expertise
+    - Enfoque en cualquier parte de la pila del sistema
+    - Innovation algorítmica
+    - Desarrollar y analizar nuevos algoritmos
+    - Co-diseño profundo con hardware personalizado
+    - Arquitectura y modelado de sistema
+    - Arquitecturar y modelar TPUs futuras
+    - Guiar decisiones de diseño críticas
+    - Diseño y verificación de hardware
+    - Contribuir a todos los aspectos de creación de silicon
+    - Diseño lógico y verificación
+    - Implementación física VLSI
+    - Trabajo en empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar millones, si no miles de millones de usuarios
+    - Ingenieros que revolucionan búsqueda
+    - Trabajo en soluciones de escalabilidad y almacenamiento masivas
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Para desarrolladores alrededor del mundo
+    - Fecha límite de aplicación: 7 de noviembre de 2025
+    - Aplicaciones revisadas de forma continua (aplicar temprano es beneficioso)
+    - Tiempo de respuesta variable (puede tomar hasta 90+ días)
+    - Documentos requeridos: CV/Resume actualizado y transcripción en inglés
+    - Fecha de graduación anticipada requerida (MM/YY)
+
+    💰 Compensación:
+    - Rango de salario base US: $106,000-$141,000
+    - Rangos de salario determinados por rol, nivel y ubicación
+    - Pago individual determinado por ubicación de trabajo y factores adicionales
+    - Factores incluyen: habilidades relacionadas con el trabajo, experiencia, educación o entrenamiento relevante
+    - Compensación lista refleja solo salario base
+    - No incluye bonificación, equidad o beneficios
+    - Consultar con reclutador para rango específico de salario para ubicación preferida
+
+    🌍 Ubicaciones disponibles (2 ubicaciones):
+    - Sunnyvale, CA, USA    - Madison, WI, USA
+    🛠️ Áreas técnicas cubiertas:
+    - Architecture and Digital Design: Arquitectura de computadora, microarquitectura, diseño lógico, diseño RTL
+    - Design Verification: Testbenches, planes de validación, verificación formal, verificación basada en aserciones
+    - Physical Design and Circuits: Síntesis, place-and-route, timing closure, diseño de circuitos personalizados
+    - Pre/Post-silicon validation: Emulación, prototipado FPGA, post-silicon bring-up y debug
+    - Scripting y programación: Python, Tcl, Perl, C++
+    - Modelado de rendimiento: Modelado de rendimiento, simulación a nivel de sistema
+    - Sistemas embebidos: Desarrollo de sistemas embebidos
+    - Técnicas especializadas: Alto rendimiento/bajo consumo, jerarquías de memoria, aceleradores ML
+    - Interconexiones: Interconexiones, empaquetado avanzado
+    - Design Automation: CAD/EDA, flujos de diseño, infraestructura
+    - Herramientas EDA: Synopsys, Cadence, Mentor
+
+    🔬 Especialidades de silicon engineering:
+    - SystemVerilog: SystemVerilog
+    - Verilog: Verilog
+    - VHDL: VHDL
+    - Testbenches: Testbenches
+    - Validación: Planes de validación
+    - Verificación formal: Verificación formal
+    - Verificación basada en aserciones: Verificación basada en aserciones
+    - Síntesis: Síntesis
+    - Place-and-route: Place-and-route
+    - Timing closure: Timing closure
+    - Circuitos personalizados: Diseño de circuitos personalizados
+    - Integridad de potencia: Análisis de integridad de potencia/señal
+    - Emulación: Emulación
+    - Prototipado FPGA: Prototipado FPGA
+    - Post-silicon bring-up: Post-silicon bring-up y debug
+
+    🌟 Características especiales:
+    - Equipo especializado: Google Cloud and AI Infrastructure
+    - Sistemas de próxima generación: Construir sistemas de próxima generación de Google
+    - Hardware personalizado: Crear hardware personalizado
+    - Colaboración multidisciplinaria: Con ingenieros de varias partes de la organización
+    - Futuro de Google Cloud: Influir en el futuro de Google Cloud
+    - Infraestructura de IA: Infraestructura de IA
+    - Tecnología fundamental: Tecnología fundamental que hace todo posible
+    - Hardware impulsor: Hardware que impulsa Google Cloud y Gemini
+    - Problemas fundamentales: En intersección de hardware, software y algoritmos
+    - Colaboración excepcional: Con ingenieros y investigadores excepcionales
+    - Impacto directo: Proyectos que impactan directamente portafolio de silicon
+    - Aceleradores especializados: Aceleradores de IA altamente especializados
+    - TPUs: Tensor Processing Units
+    - SoCs complejos: Sistemas-en-un-Chip complejos
+    - Proyectos adaptados: Adaptados a expertise
+    - Pila del sistema: Cualquier parte de la pila del sistema
+    - Innovation algorítmica: Desarrollar y analizar nuevos algoritmos
+    - Co-diseño profundo: Con hardware personalizado
+    - Arquitectura de sistema: Arquitecturar y modelar TPUs futuras
+    - Decisiones críticas: Guiar decisiones de diseño críticas
+    - Diseño de hardware: Diseño lógico y verificación
+    - Implementación VLSI: Implementación física VLSI
+    - Empresa de ingeniería: Trabajo en empresa de ingeniería
+    - Desafíos tecnológicos: Enfrentar mayores desafíos tecnológicos
+    - Impacto masivo: Impactar millones de usuarios
+    - Revolución: Ingenieros que revolucionan búsqueda
+    - Escalabilidad masiva: Soluciones de escalabilidad masiva
+    - Aplicaciones grandes: Aplicaciones a gran escala
+    - Plataformas nuevas: Plataformas completamente nuevas
+    - Alcance global: Para desarrolladores alrededor del mundo
+    - Investigación compleja: Problemas de investigación complejos y abiertos
+    - Publicaciones: En conferencias de primer nivel
+
+    📋 Consideraciones especiales:
+    - Ubicación: Estados Unidos durante la duración del programa
+    - Empresa global: Colaboración y comunicación global
+    - Dominio del inglés: Requerido para el programa
+    - Penúltimo año: Académico o regresando a programa después de pasantía
+    - Investigación avanzada: Experiencia en investigación o proyectos
+    - Áreas múltiples: Al menos una de las áreas de silicon engineering
+    - Scripting: Experiencia con lenguajes de scripting y programación
+    - Herramientas EDA: Familiaridad con herramientas estándar de la industria
+    - Publicaciones: Demostrado a través de publicaciones en conferencias de primer nivel`,
+    imagen: "https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/119346653739000518-silicon-engineering-intern-phd-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Estados Unidos",
+    duracion: "12 semanas (Verano 2026)",
+    fechaLimite: "7 de noviembre de 2025",
+    imagenes: ["https://images.pexels.com/photos/7988087/pexels-photo-7988087.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 224,
+    categoria: "Trabajo",
+    titulo: "💻 Software Engineering PhD Intern, Summer 2026 - Google",
+    descripcion: `Google está buscando un Software Engineering PhD Intern para el verano de 2026. Esta es una oportunidad única de pasantía de 12-14 semanas pagada que ofrece desarrollo personal y profesional, una serie de oradores ejecutivos y construcción de comunidad.
+
+    📌 Requisitos mínimos:
+    - Cursando un programa de PhD con enfoque en desarrollo de software u otro campo técnico relacionado
+    - Experiencia con uno o más lenguajes de programación de propósito general (ej. Java, C/C++, Python, JavaScript, Go, etc.)
+    - Experiencia trabajando en entornos Unix/Linux
+    - Experiencia con estructuras de datos, algoritmos y diseño de software
+    - Ubicación en India para el programa de pasantía
+
+    📌 Requisitos preferidos:
+    - Experiencia de investigación en Algorithms, Architecture, Artificial Intelligence, Compilers, Database, Data Mining, Distributed Systems, Machine Learning, Networking, o Systems
+    - Experiencia de programación en uno o más de los siguientes: C/C++, C#, Java, JavaScript, Python, Objective C, Go o similar
+    - Experiencia en computer science, con competencias en estructuras de datos, algoritmos y diseño de software
+
+    📌 Responsabilidades:
+    - Crear y apoyar un equipo productivo e innovador trabajando con compañeros, gerentes y equipos
+    - Desarrollar soluciones de ingeniería escalables para productos de Google
+    - Analizar información y evaluar resultados para elegir la mejor solución para resolver problemas efectivamente
+    - Aplicar conocimientos obtenidos en cursos de computer science a desafíos del mundo real
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Como miembro clave de un equipo versátil
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Ser versátil y entusiasta abordando problemas mientras continuamos empujando la tecnología hacia adelante
+    - Diseñar, probar, desplegar y mantener soluciones de software
+    - Crecer y evolucionar durante la pasantía
+
+    ✅ Beneficios:
+    - Pasantía única de 12-14 semanas pagada
+    - Desarrollo personal y profesional
+    - Serie de oradores ejecutivos
+    - Construcción de comunidad
+    - Oportunidad de trabajar en soluciones complejas de computer science
+    - Desarrollo de sistemas de software escalables y distribuidos
+    - Colaboración en multitud de proyectos más pequeños con atractivo universal
+    - Equipo de reclutamiento determina dónde encajas mejor basado en tu resume
+    - Trabajo en proyecto específico crítico para necesidades de Google
+    - Miembro clave de equipo versátil
+    - Abordar problemas mientras empujamos tecnología hacia adelante
+    - Diseño, prueba, despliegue y mantenimiento de soluciones de software
+    - Crecimiento y evolución durante la pasantía
+    - Trabajo en empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar millones, si no miles de millones de usuarios
+    - Ingenieros que revolucionan búsqueda
+    - Trabajo en soluciones de escalabilidad y almacenamiento masivas
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Para desarrolladores alrededor del mundo
+    - Desde Google Ads hasta Chrome, Android hasta YouTube
+    - Social hasta Local
+    - Ingenieros de Google cambiando el mundo
+    - Un logro tecnológico después de otro
+    - Crear y apoyar equipos productivos e innovadores
+    - Trabajar con compañeros, gerentes y equipos
+    - Desarrollar soluciones de ingeniería escalables
+    - Para productos de Google
+    - Analizar información y evaluar resultados
+    - Elegir mejores soluciones
+    - Resolver problemas efectivamente
+    - Aplicar conocimientos de computer science
+    - A desafíos del mundo real
+    - Empresa global con colaboración y comunicación global
+    - Dominio del inglés requerido para todos los roles
+
+    🌍 Ubicaciones disponibles (3 ubicaciones):
+    - Bengaluru, Karnataka, India    - Hyderabad, Telangana, India    - Pune, Maharashtra, India
+    🛠️ Áreas técnicas cubiertas:
+    - Lenguajes de programación: Java, C/C++, Python, JavaScript, Go, C#, Objective C
+    - Entornos: Unix/Linux
+    - Estructuras de datos: Estructuras de datos
+    - Algoritmos: Algoritmos
+    - Diseño de software: Diseño de software
+    - Computer science: Computer science
+    - Desarrollo de software: Desarrollo de software
+    - Ingeniería escalable: Soluciones de ingeniería escalables
+    - Análisis: Análisis de información
+    - Evaluación: Evaluación de resultados
+    - Solución de problemas: Resolución de problemas efectiva
+
+    🔬 Áreas de investigación cubiertas:
+    - Algorithms: Algoritmos
+    - Architecture: Arquitectura
+    - Artificial Intelligence: Inteligencia artificial
+    - Compilers: Compiladores
+    - Database: Base de datos
+    - Data Mining: Minería de datos
+    - Distributed Systems: Sistemas distribuidos
+    - Machine Learning: Machine learning
+    - Networking: Redes
+    - Systems: Sistemas
+
+    🌟 Características especiales:
+    - Pasantía única: 12-14 semanas pagada
+    - Desarrollo integral: Personal y profesional
+    - Oradores ejecutivos: Serie de oradores ejecutivos
+    - Comunidad: Construcción de comunidad
+    - Soluciones complejas: Trabajo en soluciones complejas de computer science
+    - Sistemas escalables: Desarrollo de sistemas escalables y distribuidos
+    - Colaboración: Multitud de proyectos más pequeños
+    - Atractivo universal: Proyectos con atractivo universal
+    - Personalización: Equipo determina dónde encajas mejor
+    - Proyectos críticos: Trabajo en proyectos críticos para Google
+    - Equipo versátil: Miembro clave de equipo versátil
+    - Abordar problemas: Enfrentar problemas mientras empujamos tecnología
+    - Diseño completo: Diseño, prueba, despliegue y mantenimiento
+    - Crecimiento: Crecimiento y evolución durante pasantía
+    - Empresa de ingeniería: Trabajo en empresa de ingeniería
+    - Desafíos tecnológicos: Enfrentar mayores desafíos tecnológicos
+    - Impacto masivo: Impactar millones de usuarios
+    - Revolución: Ingenieros que revolucionan búsqueda
+    - Escalabilidad masiva: Soluciones de escalabilidad masiva
+    - Aplicaciones grandes: Aplicaciones a gran escala
+    - Plataformas nuevas: Plataformas completamente nuevas
+    - Alcance global: Para desarrolladores alrededor del mundo
+    - Productos diversos: Desde Google Ads hasta Chrome, Android hasta YouTube
+    - Cambio mundial: Ingenieros cambiando el mundo
+    - Logros tecnológicos: Un logro tecnológico después de otro
+    - Equipos productivos: Crear y apoyar equipos productivos e innovadores
+    - Colaboración: Trabajar con compañeros, gerentes y equipos
+    - Soluciones escalables: Desarrollar soluciones de ingeniería escalables
+    - Productos de Google: Para productos de Google
+    - Análisis efectivo: Analizar información y evaluar resultados
+    - Mejores soluciones: Elegir mejores soluciones
+    - Resolución efectiva: Resolver problemas efectivamente
+    - Conocimientos aplicados: Aplicar conocimientos de computer science
+    - Desafíos reales: A desafíos del mundo real
+    - Empresa global: Colaboración y comunicación global
+    - Dominio del inglés: Requerido para todos los roles
+
+    📋 Consideraciones especiales:
+    - Ubicación: India durante la duración del programa
+    - Empresa global: Colaboración y comunicación global
+    - Dominio del inglés: Requerido para todos los roles
+    - PhD en progreso: Cursando programa de PhD
+    - Enfoque técnico: En desarrollo de software u otro campo técnico relacionado
+    - Experiencia Unix/Linux: Trabajando en entornos Unix/Linux
+    - Competencias sólidas: En estructuras de datos, algoritmos y diseño de software
+    - Investigación avanzada: Experiencia de investigación en áreas técnicas
+    - Programación múltiple: Experiencia con múltiples lenguajes de programación`,
+    imagen: "https://images.pexels.com/photos/12899189/pexels-photo-12899189.jpeg",
+    sitioWeb: "http://google.com/about/careers/applications/jobs/results/129234040505934534-software-engineering-phd-intern-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "India",
+    duracion: "12-14 semanas (Verano 2026)",
+    fechaLimite: "2026 (Aplicaciones abiertas)",
+    imagenes: [],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
+    ]
+  },
+  {
+    id: 225,
+    categoria: "Trabajo",
+    titulo: "💻 Software Engineering Intern, BS, Summer 2026 - Google",
+    descripcion: `Google está buscando un Software Engineering Intern (BS) para el verano de 2026. Esta es una oportunidad única de pasantía de 12-14 semanas pagada que ofrece desarrollo personal y profesional, una serie de oradores ejecutivos y construcción de comunidad.
+
+    📌 Requisitos mínimos:
+    - Cursando un programa de Bachelor's degree o experiencia post-secundaria o de entrenamiento con enfoque en desarrollo de software u otros campos técnicos relacionados
+    - Experiencia en desarrollo de software y programación en dos o más lenguajes de programación de propósito general (ej. C, C++, Java, JavaScript, Python, etc.)
+    - Experiencia con estructuras de datos o algoritmos obtenida dentro o fuera de la escuela o trabajo
+    - Ubicación en Estados Unidos durante la duración del programa de pasantía
+
+    📌 Requisitos preferidos:
+    - Actualmente cursando un programa de grado en Estados Unidos y disponible para trabajar tiempo completo por 12 semanas fuera del período universitario
+    - Regresar a un programa de grado después de completar la pasantía
+    - Experiencia programando en tres o más de los siguientes lenguajes: C, C++, C#, Java, JavaScript, Kotlin, Go, Python, Typescript o similar
+    - Experiencia con desarrollo de aplicaciones web, entornos Unix/Linux, desarrollo de aplicaciones móviles, sistemas distribuidos y paralelos, machine learning, recuperación de información, procesamiento de lenguaje natural, networking, desarrollo de sistemas de software grandes, o desarrollo de software de seguridad
+
+    📌 Responsabilidades:
+    - Crear y apoyar un equipo productivo e innovador trabajando con compañeros, gerentes y equipos
+    - Desarrollar scripts para automatizar tareas rutinarias
+    - Analizar información y evaluar resultados para elegir la mejor solución para resolver problemas efectivamente
+    - Aplicar conocimientos obtenidos en cursos de computer science a problemas del mundo real
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Como miembro clave de un equipo versátil
+    - Trabajar en un proyecto específico crítico para las necesidades de Google
+    - Ser versátil y entusiasta abordando nuevos problemas mientras continuamos empujando la tecnología hacia adelante
+    - Diseñar, probar, desplegar y mantener soluciones de software
+    - Crecer y evolucionar durante la pasantía
+
+    ✅ Beneficios:
+    - Pasantía única de 12-14 semanas pagada
+    - Desarrollo personal y profesional
+    - Serie de oradores ejecutivos
+    - Construcción de comunidad
+    - Oportunidad de trabajar en soluciones complejas de computer science
+    - Desarrollo de sistemas de software escalables y distribuidos
+    - Colaboración en multitud de proyectos más pequeños con atractivo universal
+    - Oferta de rango de pasantías en Software Engineering o Site-Reliability Engineering
+    - En toda América del Norte, incluyendo Estados Unidos y Canadá
+    - Equipo de reclutamiento determina dónde encajas mejor basado en tu resume
+    - Trabajo en proyecto específico crítico para necesidades de Google
+    - Miembro clave de equipo versátil
+    - Abordar nuevos problemas mientras empujamos tecnología hacia adelante
+    - Diseño, prueba, despliegue y mantenimiento de soluciones de software
+    - Crecimiento y evolución durante la pasantía
+    - Trabajo en empresa de ingeniería
+    - Enfrentar algunos de los mayores desafíos tecnológicos
+    - Impactar millones, si no miles de millones de usuarios
+    - Ingenieros que revolucionan búsqueda
+    - Trabajo en soluciones de escalabilidad y almacenamiento masivas
+    - Aplicaciones a gran escala y plataformas completamente nuevas
+    - Para desarrolladores alrededor del mundo
+    - Desde Google Ads hasta Chrome, Android hasta YouTube
+    - Social hasta Local
+    - Ingenieros de Google cambiando el mundo
+    - Un logro tecnológico después de otro
+    - Crear y apoyar equipos productivos e innovadores
+    - Trabajar con compañeros, gerentes y equipos
+    - Desarrollar scripts para automatizar tareas rutinarias
+    - Analizar información y evaluar resultados
+    - Elegir mejores soluciones
+    - Resolver problemas efectivamente
+    - Aplicar conocimientos de computer science
+    - A problemas del mundo real
+    - Empresa global con colaboración y comunicación global
+    - Dominio del inglés requerido para todos los roles
+    - Rango salarial base de Estados Unidos: $92,000-$122,000
+    - Rangos salariales determinados por rol, nivel y ubicación
+    - Pago individual determinado por ubicación de trabajo y factores adicionales
+    - Incluyendo habilidades relacionadas con el trabajo, experiencia y educación relevante
+    - Tu reclutador puede compartir más sobre el rango salarial específico
+    - Para tu ubicación preferida durante el proceso de contratación
+    - Detalles de compensación reflejan solo salario base
+    - No incluyen bono, equity o beneficios
+    - Aprende más sobre beneficios en Google
+
+    🌍 Ubicaciones disponibles (30+ ubicaciones):
+    - Mountain View, CA, USA    - Atlanta, GA, USA    - Austin, TX, USA    - Boulder, CO, USA    - Cambridge, MA, USA    - Bellevue, WA, USA    - Chicago, IL, USA    - Irvine, CA, USA    - Kirkland, WA, USA    - Los Angeles, CA, USA    - Madison, WI, USA    - New York, NY, USA    - Palo Alto, CA, USA    - Portland, OR, USA    - Pittsburgh, PA, USA    - Raleigh, NC, USA    - Durham, NC, USA    - Reston, VA, USA    - Redmond, WA, USA    - Redwood City, CA, USA    - San Diego, CA, USA    - Goleta, CA, USA    - San Bruno, CA, USA    - Seattle, WA, USA    - San Francisco, CA, USA    - San Jose, CA, USA    - Santa Cruz, CA, USA    - South San Francisco, CA, USA    - Sunnyvale, CA, USA    - Washington D.C., DC, USA    - Playa Vista, CA, USA
+    🛠️ Áreas técnicas cubiertas:
+    - Lenguajes de programación: C, C++, Java, JavaScript, Python, C#, Kotlin, Go, Typescript
+    - Desarrollo de software: Desarrollo de software
+    - Estructuras de datos: Estructuras de datos
+    - Algoritmos: Algoritmos
+    - Desarrollo web: Desarrollo de aplicaciones web
+    - Entornos Unix/Linux: Entornos Unix/Linux
+    - Desarrollo móvil: Desarrollo de aplicaciones móviles
+    - Sistemas distribuidos: Sistemas distribuidos y paralelos
+    - Machine learning: Machine learning
+    - Recuperación de información: Recuperación de información
+    - Procesamiento de lenguaje natural: Procesamiento de lenguaje natural
+    - Networking: Networking
+    - Sistemas grandes: Desarrollo de sistemas de software grandes
+    - Seguridad: Desarrollo de software de seguridad
+    - Automatización: Scripts para automatizar tareas rutinarias
+    - Análisis: Análisis de información
+    - Evaluación: Evaluación de resultados
+    - Solución de problemas: Resolución de problemas efectiva
+    - Computer science: Computer science
+    - Diseño de software: Diseño de software
+    - Pruebas: Pruebas de software
+    - Despliegue: Despliegue de software
+    - Mantenimiento: Mantenimiento de software
+
+    🔬 Áreas de especialización cubiertas:
+    - Software Engineering: Ingeniería de software
+    - Site-Reliability Engineering: Ingeniería de confiabilidad del sitio
+    - Computer science: Computer science
+    - Desarrollo de software: Desarrollo de software
+    - Sistemas escalables: Sistemas de software escalables y distribuidos
+    - Proyectos complejos: Soluciones complejas de computer science
+    - Colaboración: Multitud de proyectos más pequeños
+    - Atractivo universal: Proyectos con atractivo universal
+    - Técnicas avanzadas: Técnicas de computer science más recientes
+    - Desarrolladores hábiles: Desarrolladores de software hábiles
+    - Sostenibilidad: Formando el futuro de la sostenibilidad
+    - Optimización de algoritmos: Optimizando algoritmos
+    - Sistemas de IA: Sistemas de inteligencia artificial pioneros
+    - Progreso científico: Progreso continuo de la ciencia
+    - Avance social: Avance de la sociedad
+    - Mejora de vidas: Mejora de las vidas de miles de millones de personas
+    - Equipos versátiles: Miembros clave de equipos versátiles
+    - Proyectos críticos: Proyectos críticos para necesidades de Google
+    - Versatilidad: Versátil y entusiasta abordando problemas
+    - Empuje tecnológico: Empujando la tecnología hacia adelante
+    - Diseño completo: Diseño, prueba, despliegue y mantenimiento
+    - Crecimiento: Crecimiento y evolución durante pasantía
+    - Confiabilidad: Confiabilidad y rendimiento a gran escala
+    - Código funcional: Crear, arreglar, extender y escalar código
+    - Protección: Endurecer contra actores maliciosos de internet
+    - Sistemas importantes: Mantener sistemas importantes funcionando
+    - Solución de problemas: Solución de problemas a nivel de código
+    - Anomalías de tráfico: Anomalías de tráfico
+    - Mantenimiento: Mantenimiento de servicios más avanzados
+    - Monitoreo: Monitoreo y alertas
+    - Automatización: Construcción de infraestructura de automatización
+
+    🌟 Características especiales:
+    - Pasantía única: 12-14 semanas pagada
+    - Desarrollo integral: Personal y profesional
+    - Oradores ejecutivos: Serie de oradores ejecutivos
+    - Comunidad: Construcción de comunidad
+    - Soluciones complejas: Trabajo en soluciones complejas de computer science
+    - Sistemas escalables: Desarrollo de sistemas escalables y distribuidos
+    - Colaboración: Multitud de proyectos más pequeños
+    - Atractivo universal: Proyectos con atractivo universal
+    - Rango de pasantías: Software Engineering o Site-Reliability Engineering
+    - América del Norte: Estados Unidos y Canadá
+    - Personalización: Equipo determina dónde encajas mejor
+    - Proyectos críticos: Trabajo en proyectos críticos para Google
+    - Equipo versátil: Miembro clave de equipo versátil
+    - Abordar problemas: Enfrentar nuevos problemas mientras empujamos tecnología
+    - Diseño completo: Diseño, prueba, despliegue y mantenimiento
+    - Crecimiento: Crecimiento y evolución durante pasantía
+    - Empresa de ingeniería: Trabajo en empresa de ingeniería
+    - Desafíos tecnológicos: Enfrentar mayores desafíos tecnológicos
+    - Impacto masivo: Impactar millones de usuarios
+    - Revolución: Ingenieros que revolucionan búsqueda
+    - Escalabilidad masiva: Soluciones de escalabilidad masiva
+    - Aplicaciones grandes: Aplicaciones a gran escala
+    - Plataformas nuevas: Plataformas completamente nuevas
+    - Alcance global: Para desarrolladores alrededor del mundo
+    - Productos diversos: Desde Google Ads hasta Chrome, Android hasta YouTube
+    - Cambio mundial: Ingenieros cambiando el mundo
+    - Logros tecnológicos: Un logro tecnológico después de otro
+    - Equipos productivos: Crear y apoyar equipos productivos e innovadores
+    - Colaboración: Trabajar con compañeros, gerentes y equipos
+    - Automatización: Desarrollar scripts para automatizar tareas rutinarias
+    - Análisis efectivo: Analizar información y evaluar resultados
+    - Mejores soluciones: Elegir mejores soluciones
+    - Resolución efectiva: Resolver problemas efectivamente
+    - Conocimientos aplicados: Aplicar conocimientos de computer science
+    - Problemas reales: A problemas del mundo real
+    - Empresa global: Colaboración y comunicación global
+    - Dominio del inglés: Requerido para todos los roles
+    - Compensación competitiva: Rango salarial base $92,000-$122,000
+    - Factores de pago: Ubicación, habilidades, experiencia, educación
+    - Transparencia: Detalles de compensación claros
+    - Beneficios adicionales: Bono, equity y beneficios disponibles
+
+    📋 Consideraciones especiales:
+    - Ubicación: Estados Unidos durante la duración del programa
+    - Empresa global: Colaboración y comunicación global
+    - Dominio del inglés: Requerido para todos los roles
+    - Bachelor's en progreso: Cursando programa de Bachelor's degree
+    - Enfoque técnico: En desarrollo de software u otros campos técnicos relacionados
+    - Experiencia múltiple: En múltiples lenguajes de programación
+    - Estructuras de datos: Experiencia con estructuras de datos y algoritmos
+    - Disponibilidad: Tiempo completo por 12 semanas fuera del período universitario
+    - Regreso académico: Regresar a programa de grado después de pasantía
+    - Programación avanzada: Tres o más lenguajes de programación
+    - Experiencia diversa: Web, móvil, sistemas distribuidos, ML, NLP, networking
+    - Sistemas grandes: Desarrollo de sistemas de software grandes
+    - Seguridad: Desarrollo de software de seguridad
+    - Aplicaciones web: Desarrollo de aplicaciones web
+    - Entornos Unix/Linux: Trabajando en entornos Unix/Linux
+    - Desarrollo móvil: Desarrollo de aplicaciones móviles
+    - Sistemas paralelos: Sistemas distribuidos y paralelos
+    - Machine learning: Machine learning
+    - Recuperación de información: Recuperación de información
+    - Procesamiento de lenguaje natural: Procesamiento de lenguaje natural
+    - Networking: Networking
+    - Automatización: Scripts para automatizar tareas rutinarias
+    - Análisis: Análisis de información
+    - Evaluación: Evaluación de resultados
+    - Solución de problemas: Resolución de problemas efectiva
+    - Computer science: Aplicar conocimientos de computer science
+    - Problemas reales: A problemas del mundo real
+    - Rango salarial: $92,000-$122,000 base
+    - Factores de pago: Ubicación, habilidades, experiencia, educación
+    - Compensación: Solo salario base, no incluye bono, equity o beneficios
+    - Beneficios: Disponibles en Google
+    - Ubicaciones múltiples: 30+ ubicaciones en Estados Unidos
+    - Flexibilidad: Oportunidad de compartir ubicación preferida
+    - Equipos versátiles: Miembros clave de equipos versátiles
+    - Proyectos críticos: Trabajo en proyectos críticos para Google
+    - Versatilidad: Versátil y entusiasta abordando problemas
+    - Empuje tecnológico: Empujando la tecnología hacia adelante
+    - Diseño completo: Diseño, prueba, despliegue y mantenimiento
+    - Crecimiento: Crecimiento y evolución durante pasantía
+    - Confiabilidad: Confiabilidad y rendimiento a gran escala
+    - Código funcional: Crear, arreglar, extender y escalar código
+    - Protección: Endurecer contra actores maliciosos de internet
+    - Sistemas importantes: Mantener sistemas importantes funcionando
+    - Solución de problemas: Solución de problemas a nivel de código
+    - Anomalías de tráfico: Anomalías de tráfico
+    - Mantenimiento: Mantenimiento de servicios más avanzados
+    - Monitoreo: Monitoreo y alertas
+    - Automatización: Construcción de infraestructura de automatización
+    - Aplicaciones web: Desarrollo de aplicaciones web
+    - Entornos Unix/Linux: Trabajando en entornos Unix/Linux
+    - Desarrollo móvil: Desarrollo de aplicaciones móviles
+    - Sistemas paralelos: Sistemas distribuidos y paralelos
+    - Machine learning: Machine learning
+    - Recuperación de información: Recuperación de información
+    - Procesamiento de lenguaje natural: Procesamiento de lenguaje natural
+    - Networking: Networking
+    - Automatización: Scripts para automatizar tareas rutinarias
+    - Análisis: Análisis de información
+    - Evaluación: Evaluación de resultados
+    - Solución de problemas: Resolución de problemas efectiva
+    - Computer science: Aplicar conocimientos de computer science
+    - Problemas reales: A problemas del mundo real
+    - Rango salarial: $92,000-$122,000 base
+    - Factores de pago: Ubicación, habilidades, experiencia, educación
+    - Compensación: Solo salario base, no incluye bono, equity o beneficios
+    - Beneficios: Disponibles en Google
+    - Ubicaciones múltiples: 30+ ubicaciones en Estados Unidos
+    - Flexibilidad: Oportunidad de compartir ubicación preferida`,
+    imagen: "https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg",
+    sitioWeb: "https://www.google.com/about/careers/applications/jobs/results/75808725415142086-software-engineering-intern-bs-summer-2026?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+    pais: "Estados Unidos",
+    duracion: "12-14 semanas (Verano 2026)",
+    fechaLimite: "31 de octubre de 2025",
+    imagenes: [],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
     ]
   }
 ];
