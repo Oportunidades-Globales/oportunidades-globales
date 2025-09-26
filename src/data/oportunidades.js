@@ -13258,6 +13258,717 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "Life at Google", url: "https://www.instagram.com/lifeatgoogle/", plataforma: "Instagram" }
     ]
+  },
+  {
+    id: 226,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia con arte y carpintería - Kirkkonummi, Finlandia",
+    descripcion: `Soy artista visual y trabajo con arte, dibujo, pintura y cerámica. Vivo en Kirkkonummi, a 29 km de Helsinki, en una casa de troncos de dos plantas de 130 años con mi hijo Joel, de 15 años, y mi gato Sikru. La casa está bien comunicada con transporte público, autobús y tren.
+
+    📌 Tareas principales:
+    - Renovación parcial de la cocina
+    - Reparación de daños por agua
+    - Desmontaje de armarios de cocina
+    - Sustitución de tarimas bajo los armarios
+    - Renovación de suelos
+    - Reinstalación de armarios, fregaderos y lavavajillas
+    - Trabajos de jardinería
+    - Raleo de árboles y arbustos
+    - Eliminación de malas hierbas
+    - Construcción, pintura e instalación de vallas y portones
+    - Excavaciones y limpieza de terraza
+    - Instalación de obras pendientes como molduras
+    - Restauración de ventanas
+    - Vaciado de canaletas
+
+    📌 Requisitos:
+    - Persona con habilidades manuales (soltera o pareja)
+    - Experiencia en carpintería tradicional
+    - Experiencia con herramientas eléctricas
+    - Disponibilidad de 3-4 meses a partir del 1 de febrero de 2025
+
+    ✅ Beneficios:
+    - Casa de troncos histórica de 130 años
+    - Bien comunicada con Helsinki (29 km)
+    - Transporte público disponible
+    - Ambiente artístico y creativo
+    - Trabajo variado y desafiante`,
+    imagen: "https://images.pexels.com/photos/5785162/pexels-photo-5785162.jpeg ",
+    sitioWeb: "https://www.helpx.net/host/Z985ZMXOM",
+    pais: "Finlandia",
+    duracion: "3-4 meses",
+    fechaLimite: "1 de febrero de 2025",
+    imagenes: ["https://images.pexels.com/photos/6667418/pexels-photo-6667418.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 227,
+    categoria: "Voluntariado",
+    titulo: "🏠 Reforma de casa de huéspedes - Rovaniemi, Finlandia",
+    descripcion: `Somos una pequeña familia franco-finlandesa que vive en Rovaniemi, a solo 15 km del centro de la ciudad y del aeropuerto, en una propiedad junto al río. Hace unos meses, compramos una casa que estamos reformando para convertirla en una casa de huéspedes.
+
+    📌 Tareas principales:
+    - Reformar una habitación para convertirla en cuarto de juegos infantil
+    - Retirar objetos que dejaron los anteriores propietarios
+    - Construir una nueva terraza
+    - Convertir una dependencia en pequeño alojamiento
+    - Ordenar y mejorar las zonas exteriores de la casa
+
+    📌 Requisitos:
+    - Disponibilidad en otoño de 2025
+    - Personas motivadas y trabajadoras
+    - Capacidad de trabajar en equipo
+    - Flexibilidad con las tareas
+
+    ✅ Beneficios:
+    - Alojamiento privado recién reformado
+    - Uso de coche durante la estancia
+    - Ubicación cerca del aeropuerto (15 km)
+    - Propiedad junto al río
+    - Ambiente familiar acogedor`,
+    imagen: "https://images.pexels.com/photos/14826052/pexels-photo-14826052.jpeg",
+    sitioWeb: "https://www.helpx.net/host/YBA2CXU8S",
+    pais: "Finlandia",
+    duracion: "Otoño 2025",
+    fechaLimite: "Agosto - noviembre 2025",
+    imagenes: ["https://images.pexels.com/photos/16747776/pexels-photo-16747776.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 228,
+    categoria: "Voluntariado",
+    titulo: "🌿 Casa de familia con permacultura - Kirkkonummi, Finlandia",
+    descripcion: `Soy una madre germano-finlandesa, fotógrafa, editora de fotos y trabajadora del hogar y la jardinería. Tengo 36 años. Vivo con mi hijo en el suroeste de Finlandia. Tenemos una casa de madera con muchas reformas pequeñas y algunas más grandes que necesitan reformas, y un gran jardín con flores silvestres, hierbas aromáticas, hortalizas silvestres, fresas silvestres, arbustos de bayas, muchos árboles, un pequeño bosque y un pequeño arroyo de agua cristalina.
+
+    📌 Tareas principales:
+    - Ayudar en la casa con pequeñas reformas
+    - Pintar
+    - Trabajos de jardinería
+    - Mantenimiento general
+
+    📌 Requisitos:
+    - Personas amables y colaboradoras
+    - Interés en la naturaleza
+    - Disponibilidad en finales de septiembre, octubre, quizás noviembre
+    - Disposición para aprender
+
+    ✅ Beneficios:
+    - Gran jardín con flores silvestres y hierbas
+    - Arroyo de agua cristalina
+    - Bosque protegido con rutas de senderismo
+    - Numerosos lagos para nadar
+    - Ambiente de permacultura y sostenibilidad
+    - Intercambio cultural`,
+    imagen: "https://images.pexels.com/photos/16533557/pexels-photo-16533557.jpeg",
+    sitioWeb: "https://www.helpx.net/host/W7EE7K7BG",
+    pais: "Finlandia",
+    duracion: "Finales de septiembre - noviembre",
+    fechaLimite: "Agosto 2025",
+    imagenes: ["https://images.pexels.com/photos/5750121/pexels-photo-5750121.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 229,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia en Savitaipale - Finlandia",
+    descripcion: `Te invitamos al corazón de Savitaipale, Finlandia. Savitaipale es un pueblito precioso y acogedor entre los lagos Saimaa y Kuolimo. Es conocido por sus diversas instalaciones deportivas (gimnasio, piscina, hockey sobre hielo, patinaje sobre hielo, curling, voleibol, tenis, equitación, etc.).
+
+    📌 Tareas principales:
+    - Cortar leña
+    - Realizar trabajos de carpintería
+    - Pintar
+    - Ayudar con el taller de manualidades recicladas
+    - Tareas personales y del hogar
+    - Limpiar, cocinar, lavar la ropa, planchar
+    - Cuidar del jardín y del perro
+    - Proyectos de arte
+
+    📌 Requisitos:
+    - Personas motivadas y responsables
+    - Interés en el reciclaje y manualidades
+    - Capacidad de trabajar de forma independiente
+    - Flexibilidad con las tareas
+
+    ✅ Beneficios:
+    - Ubicación entre lagos Saimaa y Kuolimo
+    - Instalaciones deportivas variadas
+    - Visitas ocasionales a cabaña junto al lago
+    - Naturaleza finlandesa pristina
+    - Ambiente familiar acogedor
+    - Oportunidades de senderismo`,
+    imagen: "https://images.pexels.com/photos/902756/pexels-photo-902756.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1082643WX",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/29935806/pexels-photo-29935806.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 230,
+    categoria: "Voluntariado",
+    titulo: "👶 Niñera en familia internacional - Seinäjoki, Finlandia",
+    descripcion: `Somos una familia internacional de mente abierta, relajada y tranquila. Nos gusta la naturaleza, el arte, los eventos, la sauna, etc. Necesitamos niñera para tres niños pequeños. Los niños hablan inglés.
+
+    📌 Tareas principales:
+    - Servicio de niñera para tres niños pequeños
+    - Tareas del hogar
+    - Cuidado de los niños
+    - Actividades recreativas
+
+    📌 Requisitos:
+    - Experiencia con niños
+    - Inglés fluido
+    - Persona responsable y cariñosa
+    - Disponibilidad de 3-5 horas al día, 5 días a la semana
+    - 2 días libres a la semana
+
+    ✅ Beneficios:
+    - Alojamiento en familia con comida compartida
+    - Acceso ilimitado a internet
+    - Jardín exterior
+    - Ubicación en Ostrobotnia, oeste de Finlandia
+    - Atracciones turísticas cercanas
+    - Festivales de música y conciertos en verano
+    - Transporte público disponible`,
+    imagen: "https://images.pexels.com/photos/6974808/pexels-photo-6974808.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1420819ED",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/3661340/pexels-photo-3661340.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 231,
+    categoria: "Voluntariado",
+    titulo: "🎓 Educación en región de los lagos - Mikkeli, Finlandia",
+    descripcion: `Queridos amigos, sois bienvenidos a Finlandia, al pequeño lugar situado en la región de los lagos. Ofrecemos una experiencia educativa única en un entorno natural hermoso.
+
+    📌 Tareas principales:
+    - Actividades educativas
+    - Trabajo con la comunidad local
+    - Proyectos de desarrollo
+    - Intercambio cultural
+
+    📌 Requisitos:
+    - Interés en la educación
+    - Capacidad de trabajo en equipo
+    - Flexibilidad y adaptabilidad
+    - Motivación para aprender
+
+    ✅ Beneficios:
+    - Ubicación en la región de los lagos
+    - Experiencia educativa única
+    - Intercambio cultural
+    - Naturaleza finlandesa
+    - Ambiente de aprendizaje
+    - Oportunidades de crecimiento personal`,
+    imagen: "https://images.pexels.com/photos/19155531/pexels-photo-19155531.jpeg",
+    sitioWeb: "https://www.helpx.net/host/578502PB",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/30231965/pexels-photo-30231965.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 232,
+    categoria: "Voluntariado",
+    titulo: "🌲 Comunidad orgánica en Fagervik - Finlandia",
+    descripcion: `¡Ha llegado un hermoso invierno al sur de Finlandia! Trabajando en el bosque, me di cuenta de que necesitaba ayuda para preparar leña para el próximo invierno. Es un trabajo físico agradable con las pocas horas de luz y mucho tiempo para relajarse en la oscuridad.
+
+    📌 Tareas principales:
+    - Preparar leña para el invierno
+    - Trabajos de jardinería
+    - Proyectos de construcción natural
+    - Mantenimiento general
+
+    📌 Requisitos:
+    - Personas cómodas consigo mismas
+    - Capacidad de cuidarse bien
+    - Interés en la construcción natural
+    - Disposición para trabajo físico
+
+    ✅ Beneficios:
+    - Lugar cálido para dormir
+    - Buena comida
+    - Ejercicios de respiración matutinos
+    - Ubicación en valle secreto entre bosque y reserva natural
+    - Lagos de aguas cristalinas
+    - Colinas rocosas emocionantes
+    - Comunidad intencional de Solbacka`,
+    imagen: "https://images.pexels.com/photos/30730000/pexels-photo-30730000.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1337687RZ",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/9375017/pexels-photo-9375017.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 233,
+    categoria: "Voluntariado",
+    titulo: "🐕 Programa intensivo con huskies - Hetta, Enontekiö, Finlandia",
+    descripcion: `Ofrecemos un programa intensivo de prácticas para personas interesadas en trabajar con huskies en un entorno ártico. El programa de entrenamiento es una extensión del sistema que hemos implementado para clientes que desean participar en el estilo de vida husky durante periodos cortos.
+
+    📌 Tareas principales:
+    - Trabajo con huskies
+    - Cuidado de perros
+    - Entrenamiento de perros
+    - Mantenimiento de instalaciones
+    - Trabajos de temporada
+
+    📌 Requisitos:
+    - Interés en trabajar con perros
+    - Capacidad de trabajo en condiciones árticas
+    - Disposición para aprender
+    - Resistencia física
+    - Compromiso a largo plazo
+
+    ✅ Beneficios:
+    - Programa de formación sistemático
+    - Experiencia en entorno ártico
+    - Oportunidades de trabajo remunerado
+    - Experiencia inolvidable
+    - Desarrollo de habilidades transferibles
+    - Formación de próxima generación de adiestradores`,
+    imagen: "https://images.pexels.com/photos/5619157/pexels-photo-5619157.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2130082JJ",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/2004393/pexels-photo-2004393.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 234,
+    categoria: "Voluntariado",
+    titulo: "🌱 Jardinería en Valiharju - Lehtopaa, Oulainen, Finlandia",
+    descripcion: `El norte de Finlandia es un lugar de belleza y paz. Somos Jouni y Harriet, y vivimos en nuestro pequeño paraíso llamado Valiharju. Nos interesan los ayudantes que vengan entre junio y septiembre, cuando el clima es ideal para la jardinería y las tareas al aire libre.
+
+    📌 Tareas principales:
+    - Jardinería y horticultura
+    - Deshierbe
+    - Pequeñas tareas de mantenimiento
+    - Trabajos al aire libre
+    - Cuidado de huertos
+
+    📌 Requisitos:
+    - Disponibilidad entre junio y septiembre
+    - Interés en la jardinería
+    - Capacidad de trabajo físico
+    - Flexibilidad con horarios
+    - Trabajo de 4-5 horas al día, 5-6 días a la semana
+
+    ✅ Beneficios:
+    - Pequeña casa rural con casas de huéspedes
+    - Huertos, jardines y bosque
+    - Ubicación a 5 km del pueblo
+    - A 5 km de un lago y playa
+    - Uso de bicicletas
+    - Comidas con productos del huerto y bosque
+    - Experiencia de gastronomía finlandesa`,
+    imagen: "https://images.pexels.com/photos/33992827/pexels-photo-33992827.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1985175AY",
+    pais: "Finlandia",
+    duracion: "Junio - septiembre",
+    fechaLimite: "Mayo 2025",
+    imagenes: ["https://images.pexels.com/photos/6633437/pexels-photo-6633437.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 235,
+    categoria: "Voluntariado",
+    titulo: "🌾 Granja orgánica en Karjalohja - Finlandia",
+    descripcion: `Nuestro lugar se encuentra entre Turku y Helsinki, en el pueblo de Karjalohja, en una hermosa colina con vistas a campos de cultivo y caballos. A solo 7 minutos a pie se llega a la orilla del limpio y protegido lago Enäjärvi.
+
+    📌 Tareas principales:
+    - Cultivo de alimentos biodinámicos
+    - Experimentos de reciclaje
+    - Mantenimiento de la granja
+    - Trabajos agrícolas
+    - Proyectos ecológicos
+
+    📌 Requisitos:
+    - Interés en la agricultura orgánica
+    - Disponibilidad de mayo a septiembre
+    - Capacidad de trabajo físico
+    - Interés en la sostenibilidad
+    - Flexibilidad con las tareas
+
+    ✅ Beneficios:
+    - Ubicación entre Turku y Helsinki
+    - Vistas a campos de cultivo y caballos
+    - Lago Enäjärvi a 7 minutos a pie
+    - Actividades acuáticas (pescar, remar, navegar, nadar)
+    - Bosques extensos con bayas y setas
+    - Parada de autobús exprés a 15 minutos
+    - Proyecto de transformación ecológica`,
+    imagen: "https://images.pexels.com/photos/13118709/pexels-photo-13118709.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1545282WI",
+    pais: "Finlandia",
+    duracion: "Mayo - septiembre",
+    fechaLimite: "Abril 2025",
+    imagenes: ["https://images.pexels.com/photos/16066329/pexels-photo-16066329.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 236,
+    categoria: "Voluntariado",
+    titulo: "🎨 Artistas textiles en Värtsilä - Finlandia",
+    descripcion: `Una pareja de artistas textiles independientes y artesanos/lutieres necesita ayuda para gestionar proyectos y mantener una gran propiedad de madera junto a un río en Karelia del Norte, Finlandia.
+
+    📌 Tareas principales:
+    - Ayuda en casa
+    - Gestión de la cocina
+    - Mantenimiento de la propiedad
+    - Proyectos artísticos
+    - Trabajos de carpintería
+
+    📌 Requisitos:
+    - Personas independientes y autosuficientes
+    - Habilidades prácticas
+    - Interés en el arte y la artesanía
+    - Capacidad de trabajar con herramientas
+    - Flexibilidad y creatividad
+
+    ✅ Beneficios:
+    - Ubicación en Karelia del Norte
+    - Propiedad junto a un río
+    - Ambiente artístico y creativo
+    - Aguas limpias y aire puro
+    - Inmensos bosques y canales
+    - Noches blancas en verano
+    - Auroras boreales en invierno
+    - Niños bienvenidos`,
+    imagen: "https://images.pexels.com/photos/3778061/pexels-photo-3778061.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1386178NM",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/1487834/pexels-photo-1487834.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 237,
+    categoria: "Voluntariado",
+    titulo: "🐄 Granjas junto al lago - Saboya del Norte, Finlandia",
+    descripcion: `¡Muuuuu! "Todo es mejor con vacas cerca" (canta Corb Lund). ¿Quieres probar? ¡Aprovecha la oportunidad y ven! Tengo 45 años y casi siempre llevo a mis dos perros conmigo, y a veces también a otros perros a mi cuidado.
+
+    📌 Tareas principales:
+    - Ayudar con las vacas
+    - Ayudar a cocinar
+    - Jugar/quedarse con los niños
+    - Ayudar a hacer leña
+    - Operar la máquina de coser
+    - Ayudar en general con lo que sea
+
+    📌 Requisitos:
+    - Disposición para trabajar con vacas
+    - Interés en la cocina
+    - Capacidad de trabajar con niños
+    - Habilidades con herramientas
+    - Flexibilidad y adaptabilidad
+
+    ✅ Beneficios:
+    - Trabajo en granjas ordeñando vacas
+    - Alojamiento propio en granja
+    - Paseos por caminos rurales y bosque
+    - Remar en el lago
+    - Parques para perros
+    - Casita en bosque tranquilo
+    - Sauna y baño seco al aire libre`,
+    imagen: "https://images.pexels.com/photos/30927777/pexels-photo-30927777.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1563067JL",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/11643233/pexels-photo-11643233.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 238,
+    categoria: "Voluntariado",
+    titulo: "🏡 Granja histórica en Tohmajärvi - Finlandia",
+    descripcion: `¡Hola! Somos una familia finlandesa que vive en una granja histórica en el este de Finlandia. Buscamos ayudantes que nos ayuden con diversas tareas en nuestra finca. Nos ganamos la vida con el turismo a pequeña escala, la silvicultura y el embalaje de piedra caliza.
+
+    📌 Tareas principales:
+    - Tareas en la finca
+    - Cuidado de ovejas
+    - Mantenimiento de jardines
+    - Cuidado de animales (gato, perro, conejos)
+    - Conservación de frutas y verduras
+    - Trabajos de silvicultura
+
+    📌 Requisitos:
+    - Disponibilidad de mayo a septiembre
+    - Interés en la agricultura
+    - Capacidad de trabajo físico
+    - Flexibilidad con las tareas
+    - Interés en la autosuficiencia
+
+    ✅ Beneficios:
+    - Granja histórica junto a un lago
+    - Dos cabañas junto al lago para alquilar
+    - Zona de sauna para eventos
+    - Cuidado de ovejas en verano
+    - Amplios jardines con manzanos y ciruelos
+    - Cultivo de verduras
+    - Bosques con setas, bayas e hierbas
+    - Objetivo de autosuficiencia`,
+    imagen: "https://images.pexels.com/photos/4909803/pexels-photo-4909803.jpeg",
+    sitioWeb: "https://www.helpx.net/host/848729WZ",
+    pais: "Finlandia",
+    duracion: "Mayo - septiembre",
+    fechaLimite: "Abril 2025",
+    imagenes: ["https://images.pexels.com/photos/1508034/pexels-photo-1508034.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 239,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa circular de balas de paja - Vaivio, Finlandia",
+    descripcion: `Ahora somos Marja y nuestros dos hijos, Leo (nacido en 2014) y Luna (nacidos en 2016). Vivimos en el campo, en Karelia del Norte, a 20 km del centro de Joensuu. Nuestro proyecto consistía en construir una casa circular de balas de paja, y ya está casi terminada.
+
+    📌 Tareas principales:
+    - Finalización de la casa circular
+    - Trabajos de construcción natural
+    - Mantenimiento de la propiedad
+    - Cuidado de los niños
+    - Trabajos agrícolas
+
+    📌 Requisitos:
+    - Interés en la construcción natural
+    - Capacidad de trabajar con niños
+    - Flexibilidad y adaptabilidad
+    - Interés en la sostenibilidad
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Casa circular de balas de paja única
+    - 5 hectáreas de bosque propio
+    - Granja orgánica Pikkunuppu cercana
+    - Proyecto con materiales naturales y reciclados
+    - Cimientos de piedra natural
+    - Aislamiento de balas de paja
+    - Chimenea de ladrillo y horno
+    - Energía solar`,
+    imagen: "https://images.pexels.com/photos/20208726/pexels-photo-20208726.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1412182GR",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: [],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 240,
+    categoria: "Voluntariado",
+    titulo: "⛷️ Estación de esquí Levi - Kittilä, Finlandia",
+    descripcion: `¡Bienvenidos al País de las Maravillas Invernales! Explora la mágica Laponia y la vibrante temporada de primavera. Levi es la estación de esquí más grande de Finlandia.
+
+    📌 Tareas principales:
+    - Trabajo al aire libre con guía de sauna
+    - Mantenimiento (trabajos en la nieve)
+    - Atender grupos de sauna
+    - Trabajo en cafetería
+    - Atender clientes internacionales
+    - Servir gofres a los huéspedes
+    - Limpiar mesas
+
+    📌 Requisitos:
+    - Disponibilidad entre diciembre y abril
+    - Disponibilidad en septiembre
+    - Capacidad de trabajo en frío
+    - Inglés para atención al cliente
+    - Flexibilidad con horarios
+    - Mínimo 2 semanas de estancia
+
+    ✅ Beneficios:
+    - Estación de esquí más grande de Finlandia
+    - Comida y habitación privada
+    - Internet ilimitado
+    - Lavadora y secadora gratuitas
+    - Tarjeta de autobús
+    - Actividades: motos de nieve y sauna finlandesa
+    - Oportunidad de ver auroras boreales
+    - Clima ideal para senderismo y ciclismo`,
+    imagen: "https://images.pexels.com/photos/33423511/pexels-photo-33423511.jpeg",
+    sitioWeb: "https://www.helpx.net/host/810867OT",
+    pais: "Finlandia",
+    duracion: "Diciembre - abril, septiembre",
+    fechaLimite: "Noviembre 2025",
+    imagenes: ["https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 241,
+    categoria: "Voluntariado",
+    titulo: "👶 Niñera en familia - Kalajoki, Finlandia",
+    descripcion: `¡Hola! Soy Janet (29) y vivo con mis hijos Hugo (7) y Doris (5). Vivimos en una casa de tres habitaciones en un pequeño pueblo de Ostrobotnia del Norte. El pueblo está rodeado de campos, bosques y mar, y tenemos una hermosa playa.
+
+    📌 Tareas principales:
+    - Tareas domésticas ligeras
+    - Lavar platos y ropa
+    - Pasar la aspiradora
+    - Cocinar (opcional)
+    - Pasar tiempo con los niños
+    - Cuidado de mascotas (hámster y gato)
+
+    📌 Requisitos:
+    - Persona sociable
+    - Sentido del humor
+    - Capacidad de llevarse bien con niños
+    - Flexibilidad con horarios
+    - Interés en la vida familiar
+
+    ✅ Beneficios:
+    - Pueblo rodeado de campos, bosques y mar
+    - Hermosa playa
+    - Casa de campo en Kuusamo
+    - Tiempo en familia
+    - Ambiente relajado
+    - Experiencia de campiña finlandesa
+    - Mascotas adorables`,
+    imagen: "https://images.pexels.com/photos/1620653/pexels-photo-1620653.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1304780ZI",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/3889804/pexels-photo-3889804.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 242,
+    categoria: "Voluntariado",
+    titulo: "🌲 Naturaleza y conservación - Värtsilä, Finlandia",
+    descripcion: `¡Hola a todos los viajeros! Me llamo Eki. He acogido voluntarios durante las últimas diez temporadas, principalmente en verano, de todo el mundo que vienen a mi casa. Esta idea de intercambio cultural me ha parecido brillante y he recibido muchísimos beneficios.
+
+    📌 Tareas principales:
+    - Cultivar comida propia
+    - Pescar
+    - Recolectar bayas y setas del bosque
+    - Trabajo de conservación de la naturaleza
+    - Actividades al aire libre
+    - Escritura sobre naturaleza
+
+    📌 Requisitos:
+    - Interés en la naturaleza
+    - Capacidad de trabajo independiente
+    - Disposición para aprender
+    - Flexibilidad y adaptabilidad
+    - Interés en la conservación
+
+    ✅ Beneficios:
+    - Cultivo de comida propia
+    - Pesca y recolección
+    - Trabajo de conservación
+    - Intercambio cultural
+    - Experiencia en marketing de eventos
+    - Feria de naturaleza y vida silvestre
+    - Ambiente espiritual y de crecimiento`,
+    imagen: "https://images.pexels.com/photos/2649394/pexels-photo-2649394.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2244172ME",
+    pais: "Finlandia",
+    duracion: "Todo el año",
+    fechaLimite: "Abierto",
+    imagenes: ["https://images.pexels.com/photos/4406351/pexels-photo-4406351.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 243,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa antigua en reforma - Orimattila, Finlandia",
+    descripcion: `Somos una familia de cuatro (mamá, lingüista y editora; papá, escenógrafo teatral, artista general y sidrero, y dos niños casi adultos) que vivimos en una casa antigua que estamos reformando poco a poco. También tenemos dos perritos.
+
+    📌 Tareas principales:
+    - Recoger bayas, cerezas y manzanas
+    - Jardinería
+    - Silvicultura básica
+    - Cortar leña
+    - Cortar césped
+    - Raspar y pintar
+    - Limpiar y empapelar
+    - Carpintería básica
+    - Cuidado de colmenas (opcional)
+
+    📌 Requisitos:
+    - Disponibilidad solo en verano
+    - Disposición a trabajar unas horas al día
+    - No tener miedo de ensuciarse
+    - Flexibilidad con las tareas
+    - Interés en la agricultura
+
+    ✅ Beneficios:
+    - Casa antigua en reforma
+    - Dos perritos adorables
+    - Trabajo variado según la época
+    - Experiencia de vida familiar
+    - Aprendizaje de habilidades prácticas
+    - Ambiente artístico y creativo
+    - Estancias de 1-2 semanas`,
+    imagen: "https://images.pexels.com/photos/3159062/pexels-photo-3159062.jpeg",
+    sitioWeb: "https://www.helpx.net/host/692658JW",
+    pais: "Finlandia",
+    duracion: "Solo verano",
+    fechaLimite: "Casa llena para 2025",
+    imagenes: ["https://images.pexels.com/photos/6933167/pexels-photo-6933167.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 
