@@ -157,9 +157,80 @@ const Articulos = () => {
           </p>
         </div>
 
-        {/* Grid de artículos */}
+        {/* Anuncio superior */}
+        <div className="flex justify-center mb-8">
+          <GoogleAds 
+            adSlot="1234567895" 
+            adFormat="auto"
+            fullWidthResponsive={true}
+          />
+        </div>
+
+        {/* Grid de artículos - Primera mitad */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
+          {articulos.slice(0, Math.ceil(articulos.length / 2)).map((articulo) => (
+            <article
+              key={articulo.id}
+              className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden group cursor-pointer"
+              onClick={() => handleNavigateToArticle(articulo.id)}
+            >
+              {/* Imagen del artículo */}
+              <div className="relative h-48 overflow-hidden">
+                <img
+                  src={articulo.imagen}
+                  alt={articulo.titulo}
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                  onError={(e) => {
+                    e.target.src = '/imagenes/Problemas.jpg'; // Imagen de fallback
+                  }}
+                />
+                {/* Overlay con categoría */}
+                <div className="absolute top-4 left-4">
+                  <span className="bg-primary-500 text-white px-3 py-1 rounded-full text-sm font-medium">
+                    {articulo.categoria}
+                  </span>
+                </div>
+                {/* Overlay con tiempo de lectura */}
+                <div className="absolute top-4 right-4">
+                  <span className="bg-black bg-opacity-50 text-white px-2 py-1 rounded text-xs">
+                    {articulo.tiempoLectura}
+                  </span>
+                </div>
+              </div>
+
+              {/* Contenido del artículo */}
+              <div className="p-6">
+                <h2 className="text-xl font-bold text-gray-900 mb-3 line-clamp-2 group-hover:text-primary-600 transition-colors">
+                  {articulo.titulo}
+                </h2>
+                <p className="text-gray-600 mb-4 line-clamp-3">
+                  {articulo.resumen}
+                </p>
+                
+                {/* Footer del artículo */}
+                <div className="flex items-center justify-between text-sm text-gray-500">
+                  <span>{articulo.fecha}</span>
+                  <span className="text-primary-500 font-medium group-hover:text-primary-600">
+                    Leer más →
+                  </span>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        {/* Anuncio en el medio */}
+        <div className="flex justify-center mb-8">
+          <GoogleAds 
+            adSlot="1234567896" 
+            adFormat="auto"
+            fullWidthResponsive={true}
+          />
+        </div>
+
+        {/* Grid de artículos - Segunda mitad */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-          {articulos.map((articulo) => (
+          {articulos.slice(Math.ceil(articulos.length / 2)).map((articulo) => (
             <article
               key={articulo.id}
               className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden group cursor-pointer"

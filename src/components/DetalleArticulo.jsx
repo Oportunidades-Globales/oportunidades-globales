@@ -2961,7 +2961,6 @@ const DetalleArticulo = () => {
                  </div>
 
                  {/* Anuncio después de la imagen */}
-                 {/* Anuncio temporalmente oculto hasta autorización de Google Ads
                  <div className="px-8 pb-6">
                    <div className="flex justify-center">
                      <GoogleAds 
@@ -2971,7 +2970,6 @@ const DetalleArticulo = () => {
                      />
                    </div>
                  </div>
-                 */}
 
           {/* Contenido principal */}
           <div className="px-8 pb-8">
@@ -2979,10 +2977,19 @@ const DetalleArticulo = () => {
               className="article-content"
               dangerouslySetInnerHTML={{ __html: articuloFinal.contenido }}
             />
+            
+            {/* Anuncio en el medio del contenido */}
+            <div className="my-8 flex justify-center">
+              <GoogleAds 
+                adSlot="1234567894" 
+                adFormat="auto"
+                className="max-w-full"
+              />
+            </div>
              </div>
            </article>
 
-           {/* Anuncio después del contenido - temporalmente oculto hasta autorización de Google Ads
+           {/* Anuncio después del contenido */}
            <div className="mt-8 flex justify-center">
              <GoogleAds 
                adSlot="1234567893" 
@@ -2990,7 +2997,6 @@ const DetalleArticulo = () => {
                className="max-w-full"
              />
            </div>
-           */}
 
            {/* Recuadro de redes sociales */}
            <div className="mt-8 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl shadow-lg p-4 sm:p-6 text-white max-w-4xl mx-auto">
