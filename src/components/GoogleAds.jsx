@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import AdSenseTest from './AdSenseTest';
+import { AD_CLIENT, DEFAULT_AD_CONFIG } from '../config/adsense';
 
 const GoogleAds = ({ 
   adSlot, 
@@ -47,7 +48,7 @@ const GoogleAds = ({
           ref={adRef}
           className="adsbygoogle"
           style={adStyle}
-          data-ad-client="ca-pub-5233249247468234"
+          data-ad-client={AD_CLIENT}
           data-ad-slot={adSlot}
           data-ad-format={adFormat}
           data-full-width-responsive={responsive ? "true" : "false"}
@@ -62,7 +63,7 @@ const GoogleAds = ({
         ref={adRef}
         className="adsbygoogle"
         style={adStyle}
-        data-ad-client="ca-pub-5233249247468234"
+        data-ad-client={AD_CLIENT}
         data-ad-slot={adSlot}
         data-ad-format={adFormat}
         data-full-width-responsive={responsive ? "true" : "false"}

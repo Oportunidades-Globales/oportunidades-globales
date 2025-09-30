@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import GoogleAds from './GoogleAds';
 import { getArticulosLista } from '../data/articulos';
+import { AD_SLOTS } from '../config/adsense';
 
 const Articulos = () => {
   const navigate = useNavigate();
@@ -160,7 +161,7 @@ const Articulos = () => {
         {/* Anuncio superior */}
         <div className="flex justify-center mb-8">
           <GoogleAds 
-            adSlot="1234567895" 
+            adSlot={AD_SLOTS.ARTICLES_TOP} 
             adFormat="auto"
             fullWidthResponsive={true}
           />
@@ -222,7 +223,7 @@ const Articulos = () => {
         {/* Anuncio en el medio */}
         <div className="flex justify-center mb-8">
           <GoogleAds 
-            adSlot="1234567896" 
+            adSlot={AD_SLOTS.ARTICLES_MIDDLE} 
             adFormat="auto"
             fullWidthResponsive={true}
           />
@@ -284,7 +285,7 @@ const Articulos = () => {
         {/* Anuncio inferior */}
         <div className="flex justify-center mb-8">
           <GoogleAds 
-            adSlot="1234567890" 
+            adSlot={AD_SLOTS.ARTICLES_BOTTOM} 
             adFormat="auto"
             fullWidthResponsive={true}
           />
