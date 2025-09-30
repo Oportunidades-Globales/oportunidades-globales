@@ -7,20 +7,20 @@ export const AD_SLOTS = {
   
   // Slots para página de artículos
   ARTICLES_TOP: '7612449715', // Anuncio superior en lista de artículos
-  ARTICLES_MIDDLE: '1234567896', // Anuncio en el medio de la lista
-  ARTICLES_BOTTOM: '1234567890', // Anuncio inferior en lista de artículos
+  ARTICLES_MIDDLE: '5442593705', // Anuncio en el medio de la lista
+  ARTICLES_BOTTOM: '5498434024', // Anuncio inferior en lista de artículos
   
   // Slots para detalle de artículos
-  ARTICLE_AFTER_IMAGE: '1234567892', // Anuncio después de la imagen
-  ARTICLE_MIDDLE_CONTENT: '1234567894', // Anuncio en el medio del contenido
-  ARTICLE_AFTER_CONTENT: '1234567893', // Anuncio después del contenido
+  ARTICLE_AFTER_IMAGE: '2816430361', // Anuncio después de la imagen
+  ARTICLE_MIDDLE_CONTENT: '3962631704', // Anuncio en el medio del contenido
+  ARTICLE_AFTER_CONTENT: '1559189012', // Anuncio después del contenido
   
   // Slots para detalle de oportunidades
-  OPPORTUNITY_DETAIL: '0987654321', // Anuncio en detalle de oportunidades
+  OPPORTUNITY_DETAIL: '1503348692', // Anuncio en detalle de oportunidades
   
   // Slots para otras páginas
-  QUIENES_SOMOS: '1234567897', // Anuncio en página "Quiénes Somos"
-  CONTACTO: '1234567898', // Anuncio en página de contacto
+  QUIENES_SOMOS: '4986286372', // Anuncio en página "Quiénes Somos"
+  CONTACTO: '9190267027', // Anuncio en página de contacto
 };
 
 // Configuración del cliente de AdSense
