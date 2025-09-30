@@ -18,6 +18,7 @@ import Articulos from './components/Articulos';
 import SeccionEducativa from './components/SeccionEducativa';
 import ArticulosDestacados from './components/ArticulosDestacados';
 import DetalleArticulo from './components/DetalleArticulo';
+import NotFound from './components/NotFound';
 
 
 // Componente interno para manejar la lógica de navegación
@@ -105,6 +106,7 @@ function App() {
           <Route path="/cookies" element={<Cookies />} />
           <Route path="/articulos" element={<Articulos />} />
           <Route path="/articulo/:id" element={<DetalleArticulo />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </div>
     </Router>

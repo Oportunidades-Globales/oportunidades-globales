@@ -39,9 +39,21 @@ const GoogleAds = ({
     );
   }
 
-  // Temporalmente ocultar anuncios en producción hasta que Google AdSense los apruebe
+  // Mostrar anuncios en producción ahora que AdSense está aprobado
   if (process.env.NODE_ENV === 'production') {
-    return null;
+    return (
+      <div className={`ads-container ${className}`} style={{ minHeight: '250px', minWidth: '300px' }}>
+        <ins
+          ref={adRef}
+          className="adsbygoogle"
+          style={adStyle}
+          data-ad-client="ca-pub-5233249247468234"
+          data-ad-slot={adSlot}
+          data-ad-format={adFormat}
+          data-full-width-responsive={responsive ? "true" : "false"}
+        />
+      </div>
+    );
   }
 
   return (
