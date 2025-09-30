@@ -3,7 +3,7 @@
 
 export const AD_SLOTS = {
   // Slots para página principal
-  HOME_BOTTOM: '1234567890', // Anuncio inferior en página principal
+  HOME_BOTTOM: '3008002058', // Anuncio inferior en página principal
   
   // Slots para página de artículos
   ARTICLES_TOP: '1234567895', // Anuncio superior en lista de artículos

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import OportunidadCard from './OportunidadCard';
 import GoogleAds from './GoogleAds';
 import { oportunidades } from '../data/oportunidades';
+import { AD_SLOTS } from '../config/adsense';
 
 const ListaOportunidades = ({ categoriaActiva, busqueda, paisActivo }) => {
   const [oportunidadesMostradas, setOportunidadesMostradas] = useState(51);
@@ -226,7 +227,7 @@ const ListaOportunidades = ({ categoriaActiva, busqueda, paisActivo }) => {
         {/* Anuncio superior */}
         <div className="mb-8 flex justify-center">
           <GoogleAds 
-            adSlot="1234567890" 
+            adSlot={AD_SLOTS.HOME_BOTTOM} 
             adFormat="auto"
             className="max-w-full"
           />
