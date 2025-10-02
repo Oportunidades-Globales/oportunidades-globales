@@ -61,36 +61,6 @@ const NotFound = () => {
           </button>
         </div>
 
-        {/* Enlaces útiles */}
-        <div className="mt-12 pt-8 border-t border-gray-200">
-          <h3 className="text-lg font-semibold text-gray-700 mb-4">Enlaces útiles</h3>
-          <div className="grid grid-cols-2 gap-4 text-sm">
-            <button
-              onClick={() => navigate('/becas')}
-              className="text-primary-600 hover:text-primary-700 transition-colors"
-            >
-              Becas
-            </button>
-            <button
-              onClick={() => navigate('/voluntariados')}
-              className="text-primary-600 hover:text-primary-700 transition-colors"
-            >
-              Voluntariados
-            </button>
-            <button
-              onClick={() => navigate('/trabajos')}
-              className="text-primary-600 hover:text-primary-700 transition-colors"
-            >
-              Trabajos
-            </button>
-            <button
-              onClick={() => navigate('/cruceros')}
-              className="text-primary-600 hover:text-primary-700 transition-colors"
-            >
-              Cruceros
-            </button>
-          </div>
-        </div>
 
         {/* Información adicional */}
         <div className="mt-8 text-sm text-gray-500">
