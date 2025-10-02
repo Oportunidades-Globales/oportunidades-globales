@@ -40,8 +40,20 @@ const GoogleAds = ({
     );
   }
 
-  // Mostrar anuncios en producción ahora que AdSense está aprobado
+  // Mostrar anuncios en producción solo en páginas con contenido suficiente
   if (process.env.NODE_ENV === 'production') {
+    // Verificar que la página tenga suficiente contenido
+    const hasEnoughContent = () => {
+      const bodyText = document.body.innerText || '';
+      const wordCount = bodyText.split(/\s+/).length;
+      return wordCount > 100; // Mínimo 100 palabras
+    };
+
+    // Solo mostrar anuncios si hay suficiente contenido
+    if (!hasEnoughContent()) {
+      return null;
+    }
+
     return (
       <div className={`ads-container ${className}`} style={{ minHeight: '250px', minWidth: '300px' }}>
         <ins

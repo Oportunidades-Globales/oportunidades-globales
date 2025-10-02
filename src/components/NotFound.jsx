@@ -23,6 +23,27 @@ const NotFound = () => {
           Lo sentimos, la página que buscas no existe o ha sido movida.
         </p>
 
+        {/* Contenido adicional para evitar que Google considere la página vacía */}
+        <div className="mb-8 text-left">
+          <h3 className="text-xl font-semibold text-gray-800 mb-4">¿Qué puedes hacer ahora?</h3>
+          <div className="space-y-3 text-gray-600">
+            <p>• <strong>Explora nuestras oportunidades:</strong> Descubre becas, voluntariados y trabajos en el extranjero</p>
+            <p>• <strong>Lee nuestros artículos:</strong> Guías completas para estudiantes latinoamericanos</p>
+            <p>• <strong>Conoce más sobre nosotros:</strong> Somos especialistas en oportunidades internacionales</p>
+            <p>• <strong>Contacta con nosotros:</strong> Estamos aquí para ayudarte en tu aventura global</p>
+          </div>
+        </div>
+
+        <div className="mb-8 text-left">
+          <h3 className="text-xl font-semibold text-gray-800 mb-4">Oportunidades Destacadas</h3>
+          <div className="space-y-2 text-gray-600">
+            <p>• Becas de estudio en universidades de prestigio mundial</p>
+            <p>• Voluntariados internacionales en más de 50 países</p>
+            <p>• Trabajos en el extranjero para diferentes perfiles</p>
+            <p>• Programas de cruceros y experiencias únicas</p>
+          </div>
+        </div>
+
         {/* Botones de acción */}
         <div className="space-y-4">
           <button
