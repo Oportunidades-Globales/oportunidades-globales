@@ -13969,6 +13969,1771 @@ Comunidad rural en Estados Unidos, rodeada de bosques, aguas termales, playas y 
       { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
       { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
     ]
+  },
+  {
+    id: 244,
+    categoria: "Voluntariado",
+    titulo: "🏠 Renovación de casa antigua - Marignac, Mediodía-Pirineos, Francia",
+    descripcion: `Estamos renovando una casa antigua en los Pirineos. Solo hay que hacer algunos trabajos de decoración, como decapar paredes y carpintería, y repintar. También puede que haya que hacer algún trabajo de carpintería ocasional, nada demasiado complicado.
+
+    📌 Tareas principales:
+    - Trabajos de decoración
+    - Decapar paredes y carpintería
+    - Repintar
+    - Trabajos de carpintería ocasional
+    - Desherbar y podar árboles
+    - Hacer caminos
+
+    📌 Requisitos:
+    - 5 horas al día, cinco días a la semana
+    - Dos personas fuertes y sanas
+    - Fuerza física y resistencia
+    - No tener problemas de salud preexistentes
+
+    ✅ Beneficios:
+    - Casa antigua en los Pirineos
+    - Pequeño pueblo con tiendas
+    - Centro de escalada cercano
+    - Río justo enfrente de la casa
+    - Huerto grande con verduras y árboles frutales
+    - Vistas espectaculares a la montaña
+    - Rutas de senderismo
+    - Carriles bici y esquí`,
+    imagen: "https://images.pexels.com/photos/3562689/pexels-photo-3562689.jpeg",
+    sitioWeb: "https://www.helpx.net/host/WDAQD9EF0",
+    pais: "Francia",
+    duracion: "Todo el año (de marzo a noviembre, excepto agosto)",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/10682524/pexels-photo-10682524.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 245,
+    categoria: "Voluntariado",
+    titulo: "🌱 Estancia en granja orgánica - St Martial Viveyrol, Aquitania, Francia",
+    descripcion: `Somos Pierre-yves y Paul, dos hombres gay. Somos habitantes del sur oeste de Francia, del hermoso departamento de Dordoña. Somos algunos horticultores. Vivimos con nuestros dos gatos en nuestra vieja granja construida hace más de 200 años.
+
+    📌 Tareas principales:
+    - Jardín y desherbaje
+    - Descongelamiento de la casa
+    - Mantenimiento de los edificios
+    - Trabajos en exterior en todos los climas
+    - Explotación de vivero a domicilio
+
+    📌 Requisitos:
+    - Personas motivadas y enérgicas
+    - Apreciar la serenidad del estilo de vida
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Vieja granja de más de 200 años
+    - Lugar pacífico en el campo francés
+    - Cerca de un pequeño pueblo
+    - Comercios y ciudades no muy lejos
+    - Pueblo de Verteillac cerca de Ribérac`,
+    imagen: "https://images.pexels.com/photos/8961254/pexels-photo-8961254.jpeg",
+    sitioWeb: "https://www.helpx.net/host/0G6FTANDO",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/327089/pexels-photo-327089.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 246,
+    categoria: "Voluntariado",
+    titulo: "🌿 Casa rural de bienestar - Séderon, Provenza, Francia",
+    descripcion: `¡Únete a la Aventura del Bienestar: Conviértete en el Colaborador Ideal para Nuestra Casa Rural Encantada! Imagina transformar un remanso de paz en un santuario de bienestar, en plena naturaleza...
+
+    📌 Tareas principales:
+    - Cocrear y expandir la casa rural
+    - Organizar experiencias inolvidables
+    - Estancias de bienestar con cocina casera
+    - Programas dinámicos: yoga, caminatas, deportes
+    - Sesiones de meditación
+    - Gestión de redes sociales
+
+    📌 Requisitos:
+    - Espíritu colaborador y mente abierta
+    - Dominio de redes sociales (Instagram, TikTok)
+    - Comunidad comprometida (seguidores son un plus)
+    - Energía positiva
+    - Ganas de compartir el día a día
+
+    ✅ Beneficios:
+    - Asociación justa: compartir trabajo = compartir beneficios
+    - Casa rural encantada
+    - Experiencias de bienestar
+    - Ambiente natural y pacífico
+    - Oportunidad de innovar juntos`,
+    imagen: "https://images.pexels.com/photos/8112358/pexels-photo-8112358.jpeg",
+    sitioWeb: "https://www.helpx.net/host/TKE18TM09",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/7671947/pexels-photo-7671947.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 247,
+    categoria: "Voluntariado",
+    titulo: "🏡 Casa de familia orgánica - Boisset, Auvernia, Francia",
+    descripcion: `Hola, vivo en Francia desde 2013. Me mudé a otra casa el 1 de diciembre de 2024 y estoy cultivando un gran huerto. La casa está en una colina con tres plataformas.
+
+    📌 Tareas principales:
+    - Ayuda con el jardín
+    - Nuevas vallas
+    - Corte de setos
+    - Trabajo en el huerto
+
+    📌 Requisitos:
+    - Personas amables y honestas
+    - Curiosidad por aprender jardinería
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Casa en colina con tres plataformas
+    - Terreno privado junto al río
+    - Ideal para tienda de campaña
+    - Futura yurta disponible
+    - 40 años de experiencia en masajes energéticos
+    - Enseñanza de masajes energéticos
+    - Cerca de trenes (6 trenes pequeños por día)
+    - Vista magnifica desde la colina`,
+    imagen: "https://images.pexels.com/photos/8112835/pexels-photo-8112835.jpeg",
+    sitioWeb: "https://www.helpx.net/host/Q3LRNLMMB",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/628591/pexels-photo-628591.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 248,
+    categoria: "Voluntariado",
+    titulo: "🐴 Centro de equitación western - Oltingue, Alsacia-Lorena, Francia",
+    descripcion: `Nuestra familia gestiona un centro de equitación western con 30 boxes, donde ofrecemos alojamiento y entrenamiento para caballos, incluyendo reining y manejo de vacas.
+
+    📌 Tareas principales:
+    - Limpiar los boxes
+    - Alimentar a los caballos
+    - Trabajos generales
+    - Mejorar habilidades de equitación western
+    - Manejo de vacas y reining
+    - Aprender baile en línea
+
+    📌 Requisitos:
+    - Persona mayor en forma
+    - Con iniciativa
+    - Mínimo dos semanas
+    - Experiencia en manejo de caballos
+
+    ✅ Beneficios:
+    - Centro de equitación western con 30 boxes
+    - Salón western para bodas y eventos
+    - Club los fines de semana
+    - Alojamiento y comida incluidos
+    - Actividades familiares
+    - Pista de 30 x 60 m
+    - Bicicleta para explorar
+    - Cerca de Suiza (15 min de Basilea)
+    - 20 minutos de Alemania
+    - Excelente región turística`,
+    imagen: "https://images.pexels.com/photos/8624631/pexels-photo-8624631.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1769380OT",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/13712779/pexels-photo-13712779.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 249,
+    categoria: "Voluntariado",
+    titulo: "🌿 Finca de olivos orgánicos - Laroque des alberes, Languedoc-Rosellón, Francia",
+    descripcion: `Somos una pequeña finca de olivos orgánicos, aún no en producción comercial, y un refugio para animales. Practicamos la permacultura y los olivos forman parte de un huerto forestal.
+
+    📌 Tareas principales:
+    - Cuidado forestal
+    - Gestión del huerto (riego, deshierbe)
+    - Alimentación de animales
+    - Cuidado de animales rescatados
+    - Tareas cotidianas de vida comunitaria sostenible
+    - Cosecha de aceitunas (finales de octubre)
+
+    📌 Requisitos:
+    - Compromiso mínimo requerido
+    - Interés en estilo de vida compasivo y sostenible
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Finca de olivos orgánicos
+    - Refugio para animales
+    - Práctica de permacultura
+    - Huerto forestal con 200 alcornoques
+    - Algarrobos y otros árboles
+    - Huerto y árboles frutales
+    - Animales rescatados (perros, gatos, cerdo, burros, cabra, patos, conejos)
+    - Clima mediterráneo
+    - Reciclaje de agua
+    - Piscina biológica
+    - Comidas veganas
+    - Vino con la cena
+    - Zona para no fumadores`,
+    imagen: "https://images.pexels.com/photos/3402371/pexels-photo-3402371.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1100971HD",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/4911711/pexels-photo-4911711.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 250,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia - morlhon le haut, Mediodía-Pirineos, Francia",
+    descripcion: `Estamos jubilados y vivimos en un granero reformado en un terreno de aproximadamente dos acres. El pueblo más cercano es Villefranche-de-Rouergue, a diez kilómetros.
+
+    📌 Tareas principales:
+    - 5 horas de trabajo al día
+    - 5 días a la semana
+    - Horario flexible
+    - Variedad de tareas según necesidades
+
+    📌 Requisitos:
+    - No fumador
+    - Dificultad para alimentar veganos
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Granero reformado
+    - Terreno de dos acres
+    - Comida sana y sabrosa
+    - Habitación privada y cómoda
+    - Televisión y baño privado
+    - Apartamento independiente para parejas
+    - Práctica de inglés
+    - Anfitriones ideales para practicar inglés
+    - Variedad de comidas (francesa, británica, local)
+    - No se repite ninguna comida principal durante 14 días`,
+    imagen: "https://images.pexels.com/photos/34152794/pexels-photo-34152794.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1417918RF",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/32034638/pexels-photo-32034638.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 251,
+    categoria: "Voluntariado",
+    titulo: "🚨 Granja pequeña necesita ayuda - Chapelle Voland, Franco Condado, Francia",
+    descripcion: `¡¡¡¡¡AYUDA!!!!!! Me estoy ahogando. No me estoy ahogando en el mar ni en un río, sino en el trabajo. ¡Necesito alguien que me ayude! Mi último ayudante acaba de irse. ¡Ahora estoy sola!
+
+    📌 Tareas principales:
+    - Trabajo continuo en la granja
+    - No es trabajo demasiado duro
+    - Ayuda continua necesaria
+    - Trabajo variado según temporada
+
+    📌 Requisitos:
+    - Persona amable y servicial
+    - Disponibilidad todo el año
+    - No trabajar al sol
+
+    ✅ Beneficios:
+    - Granja pequeña (3.5 hectáreas total)
+    - Huerto de 1 hectárea
+    - Resto alquilado para pastoreo de vacas
+    - Experiencia en apicultura (antes)
+    - Gansos, patos especiales, pavos reales, faisanes
+    - Trabajo variado y continuo`,
+    imagen: "https://images.pexels.com/photos/14546644/pexels-photo-14546644.jpeg",
+    sitioWeb: "https://www.helpx.net/host/439197JO",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/33206149/pexels-photo-33206149.png"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 252,
+    categoria: "Voluntariado",
+    titulo: "🎬 Estudio de cine independiente - Maisonnais-sur-Tardoire, Lemosín, Francia",
+    descripcion: `Soy un cineasta irlandés, recién mudado a Francia. Acabo de comprar una casa solariega francesa de 150 años (más de 20 habitaciones) y dos graneros enormes, que estoy convirtiendo en un estudio de cine independiente.
+
+    📌 Tareas principales:
+    - Pintar y decorar
+    - Colocar baldosas en habitaciones
+    - Colocar madera
+    - Construir sala de cine/proyección de 30 butacas
+    - Salas de edición
+    - Estudio de grabación
+    - Reparar piscina enterrada
+    - Muchas tareas variadas
+
+    📌 Requisitos:
+    - Disponibilidad todo el año (de marzo a octubre)
+    - Habilidades variadas
+    - Opciones para todos los niveles
+
+    ✅ Beneficios:
+    - Casa solariega francesa de 150 años
+    - Más de 20 habitaciones
+    - Dos graneros enormes
+    - Estudio de cine independiente
+    - Estudio de grabación
+    - Estudios para artistas
+    - Eventos cinematográficos Kino Kabaret
+    - Retiros para escritores
+    - Clases magistrales sobre industria cinematográfica
+    - Teatro al aire libre en verano
+    - Piscina enterrada
+    - Muchas ganas de cocinar con viajeros`,
+    imagen: "https://images.pexels.com/photos/7900581/pexels-photo-7900581.jpeg",
+    sitioWeb: "https://www.helpx.net/host/T7FGY60K0",
+    pais: "Francia",
+    duracion: "De marzo a octubre",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/3945316/pexels-photo-3945316.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 253,
+    categoria: "Voluntariado",
+    titulo: "🏰 Antigua granja en Normandía - Saint-Fromond, Normandía, Francia",
+    descripcion: `Vivo en una antigua granja y casa de campo en Normandía. He convertido una cabaña en una casa de vacaciones con 4 dormitorios (todos con baño privado) y un granero en otro.
+
+    📌 Tareas principales:
+    - Ordenar el cobertizo de herramientas
+    - Mover el cobertizo del jardín
+    - Crear una cochera
+    - Construcción, pintura, limpieza
+    - Agricultura y mantenimiento general
+
+    📌 Requisitos:
+    - Sentido del humor
+    - Disponibilidad todo el año
+    - 5 días a la semana
+
+    ✅ Beneficios:
+    - Antigua granja y casa de campo
+    - Casa de vacaciones con 4 dormitorios
+    - Todos con baño privado
+    - Granero convertido
+    - Yurta (ya no está, pero las fotos siguen)
+    - Camping
+    - Alojamiento y comidas incluidas
+    - Visita de un día a los campos de batalla después de una semana
+    - Fácil de encontrar y llegar
+    - En tren desde París (Gare de St Lazare hacia Cherburgo)
+    - Música variada (clásica, Genesis, Roxy Music, London Grammar)`,
+    imagen: "https://images.pexels.com/photos/6022636/pexels-photo-6022636.jpeg ",
+    sitioWeb: "https://www.helpx.net/host/1002381UM",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/2872846/pexels-photo-2872846.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 254,
+    categoria: "Voluntariado",
+    titulo: "👨‍👩‍👧‍👦 Cuidado de casa y animales - Lapte, Auvernia, Francia",
+    descripcion: `PARA EL 2026, BUSCAMOS PERSONAS QUE CUIDEN LA CASA Y CUIDEN A NUESTROS ANIMALES DURANTE 3 MESES EN FEBRERO, MARZO Y ABRIL, MIENTRAS VIAJAMOS AL EXTRANJERO.
+
+    📌 Tareas principales:
+    - Cuidar la casa
+    - Cuidar de nuestros animales
+    - Proyectos de casa y jardín
+    - Ayuda con tareas variadas
+
+    📌 Requisitos:
+    - Disponibilidad en febrero, marzo y abril de 2026
+    - Interés en el cuidado de animales
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Gran casa de piedra
+    - Vista hermosa sobre el bosque y las vacas
+    - Lugar muy pacífico
+    - Perro, gato, oveja y cabra
+    - Adrien es neuropsicólogo especializado en TDA/H
+    - Eva es herborista especializada en pediatría
+    - Experiencia con HelpX en Australia y Asia del sudeste
+    - Proyectos variados para la casa y el jardín`,
+    imagen: "https://images.pexels.com/photos/420233/pexels-photo-420233.jpeg",
+    sitioWeb: "https://www.helpx.net/host/M5R76JPF0",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/619873/pexels-photo-619873.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 255,
+    categoria: "Voluntariado",
+    titulo: "🌿 Experiencia tranquila en el campo - Hambye, Normandía, Francia",
+    descripcion: `Hola 🤗 ¿Buscas una experiencia tranquila en el campo? Somos una familia cariñosa y atenta, lista para recibir a alguien respetuoso en nuestro pequeño paraíso natural.
+
+    📌 Tareas principales:
+    - Jardinería
+    - Mantenimiento del terreno
+    - Cocina
+    - Limpieza
+    - Proyectos al aire libre
+    - Cuidado de gatos y gallinas
+
+    📌 Requisitos:
+    - Persona respetuosa
+    - Gusto por trabajar al aire libre
+    - Interés en jardinería y naturaleza
+    - Buen humor
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Familia cariñosa y atenta
+    - Pequeño paraíso natural
+    - Gran propiedad
+    - Varios gatos y gallinas
+    - Cerca del Mont Saint Michel
+    - Playas del Desembarco y Granville
+    - 20 horas de ayuda a la semana
+    - Comida, alojamiento y buen humor
+    - Muchos lugares hermosos para visitar`,
+    imagen: "https://images.pexels.com/photos/33684906/pexels-photo-33684906.jpeg",
+    sitioWeb: "https://www.helpx.net/host/288WU1O0S",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/32907369/pexels-photo-32907369.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 256,
+    categoria: "Voluntariado",
+    titulo: "🌿 Finca de olivos en Provenza - Domaine des Escavalins, Belgentier, Provenza, Francia",
+    descripcion: `Nuestra finca en la colina de los olivos se encuentra en Provenza, con 95 acres de olivares y bosques mediterráneos. También disponemos de una casa rural (un apartamento) y estamos a solo 24 km de las playas mediterráneas de la Costa Azul.
+
+    📌 Tareas principales:
+    - Cosecha de aceitunas (mediados de octubre - mediados de diciembre)
+    - Trabajos en olivares
+    - Cuidado de bosques mediterráneos
+    - Mantenimiento de la finca
+    - Trabajos estacionales
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Principalmente en temporada de cosecha
+    - Interés en agricultura mediterránea
+
+    ✅ Beneficios:
+    - Finca de 95 acres de olivares
+    - Bosques mediterráneos
+    - Casa rural (apartamento)
+    - 24 km de playas mediterráneas de la Costa Azul
+    - Vista del mar desde los olivares
+    - Cabaña cerca de la casa para ayudantes
+    - Cima de valle apartado
+    - Círculo de acantilados en forma de herradura
+    - Protección del Mistral
+    - 2 km del pueblo
+    - 3.000 hectáreas de bosque nacional
+    - Senderos en entorno natural virgen
+    - Fauna: jabalíes, corzos, zorros, martas, busardos ratoneros, halcones, águilas`,
+    imagen: "https://images.pexels.com/photos/20280060/pexels-photo-20280060.jpeg",
+    sitioWeb: "https://www.helpx.net/host/762326VJ",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/20280068/pexels-photo-20280068.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 257,
+    categoria: "Voluntariado",
+    titulo: "🏡 Casa moderna en Champagne - Écury sur Coole, Champaña, Francia",
+    descripcion: `Experimenta la campiña francesa en una casa moderna. Soy Valérie, tengo 60 años y vivo sola en una casa moderna en el campo de "Marne", a 45 minutos de Reims y a 10 minutos de Châlons-en-Champagne.
+
+    📌 Tareas principales:
+    - Jardinería
+    - Recorte de bordes
+    - Pintura de persianas
+    - Mantenimiento del terreno
+    - Trabajos de limpieza
+
+    📌 Requisitos:
+    - Estancias cortas de 1 o 2 semanas
+    - Principalmente marzo, abril, octubre, noviembre
+    - Servicio de limpieza cuando viajo
+
+    ✅ Beneficios:
+    - Casa moderna en el campo
+    - Campo de "Marne"
+    - 45 minutos de Reims
+    - 10 minutos de Châlons-en-Champagne
+    - Gran terreno alrededor de la casa
+    - Pequeño huerto
+    - Muchos arbustos y plantas
+    - Primera planta con habitación y baño privados
+    - Wifi y televisión
+    - Tres comidas proporcionadas
+    - Experiencia con Airbnb`,
+    imagen: "https://images.pexels.com/photos/16656943/pexels-photo-16656943.jpeg",
+    sitioWeb: "https://www.helpx.net/host/DUJHCI1QY",
+    pais: "Francia",
+    duracion: "Primavera y otoño",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/15884799/pexels-photo-15884799.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 258,
+    categoria: "Voluntariado",
+    titulo: "🏔️ Chalet en los Alpes franceses - Villarembert-Le Corbier, Ródano-Alpes, Francia",
+    descripcion: `Hola, viajeros, ayudantes. Vivimos en los Alpes franceses, en Maurienne, en la estación de esquí Les Sybelles. Somos una pareja de 40 años con un perro muy deportista, Loulou.
+
+    📌 Tareas principales:
+    - Trabajos en el chalet
+    - Mantenimiento del terreno
+    - Trabajos de construcción
+    - Ayuda general
+
+    📌 Requisitos:
+    - Disponibilidad en octubre
+    - Interés en montaña y esquí
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Chalet de madera en los Alpes
+    - Estación de esquí Les Sybelles
+    - Casi perdido en el bosque
+    - Acceso a pie (20 min) o en quad
+    - 1500 m de altitud
+    - Coche propio recomendado
+    - Acceso a Corbier a pie
+    - Recogida en St Jean de Maurienne
+    - Autostop funciona bien
+    - Chalet de madera en restauración
+    - Paneles solares
+    - Agua de manantial
+    - Autosuficientes y autónomos
+    - Cuatro gallinas
+    - Huevos frescos
+    - Muchos proyectos propios`,
+    imagen: "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg",
+    sitioWeb: "https://www.helpx.net/host/NDFAO6H0N",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/1022411/pexels-photo-1022411.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 259,
+    categoria: "Voluntariado",
+    titulo: "🐎 Granja con caballos - Argent sur Sauldre, Centro, Francia",
+    descripcion: `Para disfrutar de una experiencia en una granja con caballos y perros, si te encanta la naturaleza y no te da miedo el trabajo duro. Aquí encontrarás silencio y paz, además de muchos lugares espléndidos para visitar.
+
+    📌 Tareas principales:
+    - Limpieza de arbustos
+    - Uso de la desbrozadora
+    - Manejo del tractor para moler los campos
+    - Ayuda con los animales
+    - Manejo de los caballos
+
+    📌 Requisitos:
+    - Persona fuerte y trabajadora
+    - No tener miedo al trabajo duro
+    - Interés en caballos y perros
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Granja con caballos y perros
+    - Silencio y paz
+    - Muchos lugares espléndidos para visitar
+    - Zona poco poblada llamada Berry
+    - Entre Orleans (60 km) y Bourges (50 km)
+    - Ciudad más cercana: Gien (27 km)
+    - Condado de Sologne al oeste
+    - Valle de Sancerre al este
+    - Solo 2 horas de París
+    - Naturaleza por todas partes`,
+    imagen: "https://images.pexels.com/photos/7882835/pexels-photo-7882835.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1152523EJ",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/7882843/pexels-photo-7882843.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 260,
+    categoria: "Voluntariado",
+    titulo: "🏖️ Granja cerca de la costa - Audembert, Le Nord, Francia",
+    descripcion: `¡Hola, querido desconocido! Nos llamamos Claire y Michiel, somos una joven familia franco-belga que vive en una antigua granja cerca de la costa de Wissant, al norte de Francia.
+
+    📌 Tareas principales:
+    - Trabajos en la granja
+    - Mantenimiento del terreno
+    - Trabajos de construcción
+    - Ayuda general
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Principalmente en verano
+    - Interés en la costa y la naturaleza
+
+    ✅ Beneficios:
+    - Antigua granja cerca de la costa
+    - Costa de Wissant, al norte de Francia
+    - 8 años devolviendo la vida a las antiguas granjas
+    - Dos hijas: Fleur (5 años) y Perle (3 años)
+    - Anfitriones desde 2021
+    - Descubrir la cultura francesa
+    - Enseñar francés y aprender otros idiomas
+    - Diferentes nacionalidades
+    - Viajar por el mundo sin salir de casa
+    - Ampliar horizontes
+    - Amor, risas y amistad
+    - Antiguo establo convertido en hogar
+    - Propiedad de dos hectáreas
+    - Descubrir el suroeste de Francia`,
+    imagen: "https://images.pexels.com/photos/30270563/pexels-photo-30270563.jpeg",
+    sitioWeb: "https://www.helpx.net/host/C6ODLZQCT",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/30270553/pexels-photo-30270553.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 261,
+    categoria: "Voluntariado",
+    titulo: "🏛️ B&B y casa de arte - Pourrain, Borgoña, Francia",
+    descripcion: `¡Hola viajeros! Gracias a todos los que vinieron de todas partes del mundo para ayudarnos... Buscamos personas con carnet de conducir para ayudarnos con el mantenimiento de la casa.
+
+    📌 Tareas principales:
+    - Mantenimiento de la casa
+    - Trabajos en el parque
+    - Cortar árboles
+    - Segar
+    - Albañilería
+    - Lijado
+    - Pintura
+    - Limpieza
+    - Jardinería
+
+    📌 Requisitos:
+    - Carnet de conducir
+    - Hombre organizado o pareja
+    - Fuerza, pragmatismo, habilidad para la mano
+    - Independencia durante 2-3 semanas
+    - Experiencia en cortar árboles, segar, albañilería
+
+    ✅ Beneficios:
+    - B&B y casa de arte
+    - Asociación cultural
+    - Exposiciones, talleres, conferencias, conciertos
+    - Pueblo cerca de Auxerre, en Borgoña
+    - Parque patrimonial de 1.5 hectáreas
+    - Varios proyectos en marcha
+    - Siempre hay algo que hacer y reparar
+    - Experiencia en mantenimiento
+    - Trabajo variado y desafiante`,
+    imagen: "https://images.pexels.com/photos/27443119/pexels-photo-27443119.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2276046KD",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/25300505/pexels-photo-25300505.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 262,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia - Ailly-sur-Meuse, Alsacia-Lorena, Francia",
+    descripcion: `Hola a todos. Somos una pareja con una hija (11 años), un gato y un perro. Necesitamos ayuda en el jardín y en la casa.
+
+    📌 Tareas principales:
+    - Jardinería (especialmente desherbar)
+    - Tareas del hogar
+    - Cocina
+    - Limpiar la casa
+    - Lavar la ropa
+    - Doblarla
+    - Cocinar
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en jardinería y tareas del hogar
+    - Gusto por la cocina
+
+    ✅ Beneficios:
+    - Pareja con hija de 11 años
+    - Gato y perro amigables
+    - Tiempo libre los fines de semana
+    - Descubrir la región
+    - Referencias de personas que nos han ayudado
+    - Casa y jardín mejorados
+    - Perro salchicha de 11 años
+    - Gato que puede entrar en casa
+    - Etienne trabaja desde casa
+    - Monika en su tienda casi todo el día
+    - 2 días a la semana en casa
+    - Pasar tiempo con Chloé y cocinar
+    - Sugerencias de bricolaje
+    - Colocar luces exteriores, macetas, etc.`,
+    imagen: "https://images.pexels.com/photos/28485784/pexels-photo-28485784.jpeg",
+    sitioWeb: "https://www.helpx.net/host/984329JU",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/29887389/pexels-photo-29887389.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 263,
+    categoria: "Voluntariado",
+    titulo: "🐴 Cría de caballos árabes - Chevannes, Billy-Chevannes, Borgoña, Francia",
+    descripcion: `¡Buen día a todos! Somos criadores de caballos árabes, arabe-barbes y anglo-árabes y tenemos una treintena de caballos en promedio, incluyendo retirados, potros y adultos que son montados.
+
+    📌 Tareas principales:
+    - Cuidado de caballos
+    - Montar a caballo
+    - Trabajos en la granja
+    - Cuidado de animales
+    - Trabajos generales
+
+    📌 Requisitos:
+    - Cavalière o cavalier
+    - Muy ligero si es un chico
+    - Sonriente y simpático
+    - Que bavarde
+    - Montar a caballo conmigo
+    - Una vez por la mañana y una vez por la tarde
+    - Según el clima
+
+    ✅ Beneficios:
+    - Cría de caballos árabes
+    - Arabe-barbes y anglo-árabes
+    - Treintena de caballos en promedio
+    - Retirados, potros y adultos
+    - Dos perros
+    - Pastor malinois guía de caballos
+    - Micro beagle reformado en laboratorios
+    - Gallinas que viven en libertad
+    - Disciplina deportiva: resistencia
+    - Competiciones de 20 a 120 km o más
+    - Pasión por los caballos
+    - Compartir con apasionados
+    - Montar a caballo conmigo
+    - Una vez por la mañana y una vez por la tarde
+    - Según el clima
+    - No vamos a sufrir`,
+    imagen: "https://images.pexels.com/photos/11679315/pexels-photo-11679315.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2256693VG",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/13599186/pexels-photo-13599186.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 264,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de familia - Carcasona, Languedoc-Rosellón, Francia",
+    descripcion: `Bonjour à tous. Je m'appelle Alix et suis une mère de famille de 63 ans. C'est ma 1ère expérience en tant que "host". Je recherche seulement des germanophones/anglophones car je souhaite aussi pouvoir converser en allemand/anglais pour améliorer mon niveau.
+
+    📌 Tareas principales:
+    - Travaux de ménage
+    - Préparation des repas
+    - Repas de midi et du soir ensemble
+    - Entretien du jardin
+    - Petits travaux de rénovation
+
+    📌 Requisitos:
+    - Germanophones/anglophones seulement
+    - Pas de souci si vous ne parlez pas le français
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Mère de famille de 63 ans
+    - 1ère expérience en tant que host
+    - Améliorer le niveau d'allemand/anglais
+    - Travaux de ménage
+    - Préparation des repas
+    - Repas ensemble pour discuter
+    - Gastronomía juega un papel muy importante
+    - Pas besoin d'un Master chef
+    - Bons petits plats
+    - Entretien du jardin
+    - Petits travaux de rénovation
+    - Villa en el campo`,
+    imagen: "https://images.pexels.com/photos/32155575/pexels-photo-32155575.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2048242GC",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/33483751/pexels-photo-33483751.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 265,
+    categoria: "Voluntariado",
+    titulo: "🐝 Apicultura natural - Lanty, Borgoña, Francia",
+    descripcion: `Hola, espero que estén todos bien por ahí. Aquí encontrarán algunos: -Apicultura principalmente, -Jardinería, -Bonus de cetrería o trabajos relacionados con... y tal vez terapia de cetrería, quién sabe.
+
+    📌 Tareas principales:
+    - Apicultura principalmente
+    - Jardinería
+    - Bonus de cetrería
+    - Trabajos relacionados con cetrería
+    - Terapia de cetrería
+
+    📌 Requisitos:
+    - Tranquilo
+    - Dinámico
+    - Interactuar y conectar
+    - Preferiblemente sin adicciones
+    - Sin mal humor, sin enojo
+    - Sin debates políticos
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Apicultura natural
+    - Jardinería
+    - Cetrería
+    - Terapia de cetrería
+    - Bonita habitación en la casa
+    - Libre de traer caravana o montar tienda de campaña
+    - Compartir baño y cocina
+    - Trabajo variado
+    - Descansar, hacer el ridículo, divertirse y reírse
+    - Aprovechar la vida al máximo
+    - Manera cariñosa
+    - No necesito drogas ni alcohol para estar alegre
+    - Hacer el tonto`,
+    imagen: "https://images.pexels.com/photos/2260935/pexels-photo-2260935.jpeg",
+    sitioWeb: "https://www.helpx.net/host/27BPBI01P",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/2260932/pexels-photo-2260932.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 266,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa de huéspedes - Roussayrolles, Mediodía-Pirineos, Francia",
+    descripcion: `Me llamo Thierry y he trabajado la mayor parte de mi vida como chef en hoteles. Ahora vivo solo con mi pastor suizo "Willow". Tengo una visión artística del mundo y me gusta tocar música, concretamente la armónica y la trompeta.
+
+    📌 Tareas principales:
+    - Jardinería (desherbar, podar setos)
+    - Limpiar los árboles de los alrededores
+    - Arreglar la casa
+    - Preparar para recibir huéspedes
+    - Trabajos de mantenimiento
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en jardinería y música
+    - Gusto por la cocina
+
+    ✅ Beneficios:
+    - Chef en hoteles
+    - Pastor suizo "Willow"
+    - Visión artística del mundo
+    - Tocar música (armónica y trompeta)
+    - Piano antiguo "Gaveau"
+    - Guitarras para músicos
+    - Hermosa propiedad
+    - Casa de huéspedes
+    - Amplio jardín con plantas y árboles frutales
+    - Piscina
+    - Entre pueblos hermosos: Cordes-sur-Ciel, Bruniquel, Saint-Antonin-Noble-Val
+    - Cerca de Vaour (festival de música en agosto)
+    - Gargantas del Aveyron
+    - Actividades al aire libre (natación, ciclismo, senderismo)`,
+    imagen: "https://images.pexels.com/photos/8284908/pexels-photo-8284908.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1647094HI",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/11693940/pexels-photo-11693940.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 267,
+    categoria: "Voluntariado",
+    titulo: "🍷 Finca vinícola - Westhoffen (Estrasburgo), Alsacia-Lorena, Francia",
+    descripcion: `Gestionamos una pequeña finca vinícola: yo, mi empleado y trabajadores temporales. También cultivo huertos y una huerta que estoy demasiado ocupado para cuidar.
+
+    📌 Tareas principales:
+    - REHACER PAPEL PINTADO (se necesita experiencia previa)
+    - ENREJADO (junio)
+    - RECOLECCIÓN DE FRUTAS (agosto, septiembre)
+    - COCINAR PARA 10 PERSONAS (septiembre, octubre)
+    - PODA (diciembre)
+
+    📌 Requisitos:
+    - Personas de campo
+    - Estancias cortas o largas
+    - Ayuda 3 días a la semana
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Pequeña finca vinícola
+    - Empleado y trabajadores temporales
+    - Huertos y huerta
+    - Padre soltero
+    - Granja en municipio de 1700 habitantes
+    - Media hora en coche de Estrasburgo y Alemania
+    - Transporte público
+    - Cómodo en coche o bicicleta
+    - Comida, bebidas, sábanas, mantas
+    - Mapas, guías, lavadora, wifi
+    - Llevarte si es posible
+    - Levantarse a las 6:00 y dormir a las 22:00
+    - No trabajar los domingos
+    - Bautista, luterano, judío, calvinista, católico, metodista`,
+    imagen: "https://images.pexels.com/photos/110822/pexels-photo-110822.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2029612LI",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/2308939/pexels-photo-2308939.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 268,
+    categoria: "Voluntariado",
+    titulo: "🏰 Molino de agua renovado - DOMPIERRE LES EGLISES, Lemosín, Francia",
+    descripcion: `Hola, somos una pareja franco-suiza que vivimos en el noroeste de la región de Limousin (entre Poitiers y Limoges), en un molino de agua que llevamos 15 años renovando.
+
+    📌 Tareas principales:
+    - Trabajos de renovación
+    - Mantenimiento del molino
+    - Trabajos en el terreno
+    - Ayuda general
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en renovación y mantenimiento
+    - Gusto por la naturaleza
+
+    ✅ Beneficios:
+    - Pareja franco-suiza
+    - Molino de agua renovado
+    - 15 años de renovación
+    - Noroeste de Limousin
+    - Entre Poitiers y Limoges
+    - Zona rural a 6 km del pueblo
+    - Estación de tren a 22 km
+    - Aeropuerto de Limoges (64 km)
+    - París a menos de 3 horas
+    - Lugares encantadores para visitar
+    - Pueblos y ciudades como Limoges
+    - Objetivo global: mayor autonomía
+    - Energías verdes
+    - Alimentación saludable
+    - Salud con métodos naturales
+    - Consulta de naturopatía
+    - Casa de huéspedes
+    - Spa
+    - Producción de energía ecológica (solar e hidráulica)
+    - Huerto con variedades de frutas antiguas y locales
+    - Jardín de permacultura (orgánico)
+    - Pequeños parques para animales`,
+    imagen: "https://images.pexels.com/photos/2164496/pexels-photo-2164496.jpeg",
+    sitioWeb: "https://www.helpx.net/host/308887SP",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/2131966/pexels-photo-2131966.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 269,
+    categoria: "Voluntariado",
+    titulo: "🏠 Casa rural con vistas a los Pirineos - ARTIGAT, Languedoc-Rosellón, Francia",
+    descripcion: `Somos una familia suizo-argentina sin hijos. Trabajamos con voluntarios durante más de 10 años en Argentina. Solo tenemos buenos recuerdos de aquella época.
+
+    📌 Tareas principales:
+    - Jardín
+    - Cocina
+    - Reformas
+    - Ayuda general
+    - Trabajos variados
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en jardinería y cocina
+    - Gusto por las reformas
+
+    ✅ Beneficios:
+    - Familia suizo-argentina sin hijos
+    - 10 años trabajando con voluntarios en Argentina
+    - Solo buenos recuerdos
+    - Casa rural con gran jardín
+    - Vistas a los Pirineos
+    - Habitaciones
+    - Lejos del ruido y de la ciudad
+    - Lugar precioso
+    - Experiencia en voluntariado
+    - Trabajo variado
+    - Ambiente familiar
+    - Aprendizaje de culturas
+    - Intercambio cultural`,
+    imagen: "https://images.pexels.com/photos/15211452/pexels-photo-15211452.jpeg",
+    sitioWeb: "https://www.helpx.net/host/BH8I2ONNQ",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/16180673/pexels-photo-16180673.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 270,
+    categoria: "Voluntariado",
+    titulo: "🏡 Antigua granja - Région Nord Toulouse, VARENNES, Mediodía-Pirineos, Francia",
+    descripcion: `Somos dos chicos que vivimos juntos desde hace 35 años y llevamos 10 casados. Hemos hospedado en casa durante 8 años: un chico ruso, Steeve, durante un mes; Diego (Colombia, 2 semanas, dos veces); Katherin y Edwin (Colombia, 1 mes); Andrew (EE. UU., Oregón, 3 semanas); Josh (Inglaterra, 3 veces, 2 meses); Rodrigo y Salomon (Brasil, Recife, 1 mes); Xavier (EE. UU., Luisiana, 3 veces); Mickael y Cory (EE. UU., Ohio y Michigan, 2 semanas); Jonathan (Alemania, 1 mes).
+
+    📌 Tareas principales:
+    - Mantenimiento de la propiedad
+    - Trabajos en el terreno
+    - Ayuda general
+    - Trabajos variados
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en el mantenimiento
+    - Gusto por la naturaleza
+
+    ✅ Beneficios:
+    - Dos chicos juntos desde hace 35 años
+    - 10 años casados
+    - 8 años hospedando
+    - Experiencia con diferentes nacionalidades
+    - Chico ruso, colombianos, estadounidenses, ingleses, brasileños, alemanes
+    - Lo pasamos genial
+    - Queremos continuar la experiencia
+    - Esposo mayordomo
+    - Trabaja para familia noble estadounidense en Francia
+    - Trabajo en informática para fabricante de satélites
+    - No suficiente tiempo libre
+    - Pequeño paraíso
+    - Apoyo para mantenimiento
+    - Propiedad de dos hectáreas
+    - Compartir placer de alojarse
+    - Descubrir el suroeste de Francia
+    - Antigua granja
+    - Ya no se utiliza como granja
+    - Cultivamos algunos productos`,
+    imagen: "https://images.pexels.com/photos/30571137/pexels-photo-30571137.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1951318SY",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/15645690/pexels-photo-15645690.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 271,
+    categoria: "Voluntariado",
+    titulo: "🌿 Jardín orgánico - Plonévez-du-Faou, Bretaña, Francia",
+    descripcion: `Hola a todos, tengo un terreno de unos 2000 metros cuadrados que me cuesta mantener sola. Las zarzas se aprovechan de mi debilidad y crecen un poco más cada año.
+
+    📌 Tareas principales:
+    - Podar las zarzas
+    - Arrancarlas (con guadaña o desbrozadora)
+    - Mantenimiento del jardín
+    - Trabajos de limpieza
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en jardinería
+    - Gusto por el trabajo al aire libre
+
+    ✅ Beneficios:
+    - Terreno de 2000 metros cuadrados
+    - Campo a 1 km del pueblo
+    - Comuna de 2000 habitantes
+    - Huerto con flores, hortalizas y árboles frutales
+    - No uso productos químicos
+    - Esparcir residuos orgánicos
+    - Arroyo al fondo del huerto
+    - Aldea "Stank Vihan" (lugar por donde corre el agua)
+    - Prioridad: podar zarzas
+    - Más fácil de lo que parece
+    - Robles y castaños empezando a crecer
+    - Trabajo en equipo
+    - Motivación doble con ayuda
+    - Ambiente rural
+    - Naturaleza bretóna`,
+    imagen: "https://images.pexels.com/photos/34107148/pexels-photo-34107148.jpeg",
+    sitioWeb: "https://www.helpx.net/host/XJMP3TTO8",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/34111939/pexels-photo-34111939.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 272,
+    categoria: "Voluntariado",
+    titulo: "🏛️ Casa de arte y espacio inspirador - burgos, Centro, Francia",
+    descripcion: `Hola, somos una familia con una niña grande de 14 años. Vivimos en la ciudad de Bourges. Aquí hay Todo lo que Necesitas, Mercado, naturaleza, Río, Arte. Experiencias. ¡Y el autobús es gratis!
+
+    📌 Tareas principales:
+    - Construir una casa desde el primero hasta el último paso
+    - Trabajos de construcción
+    - Renovación
+    - Mantenimiento
+    - Ayuda general
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en construcción y arte
+    - Gusto por la creatividad
+
+    ✅ Beneficios:
+    - Familia con niña de 14 años
+    - Ciudad de Bourges
+    - Ciudad aux 7 rivières
+    - Monuments historiques
+    - Marais magestueux
+    - Autobús gratis
+    - Todo lo que necesitas para descansar
+    - Inspirarte y divertirte
+    - Gran proyecto
+    - Casa muy antigua de 200 años
+    - Espacio de arte
+    - Arte escolar
+    - Espacio inspirador
+    - Salle de répétition
+    - Lugar de inspiración y espectáculo
+    - Enseñar a construir una casa
+    - Desde el primero hasta el último paso
+    - Nuevas experiencias
+    - Tiempo para encontrar la mejor manera
+    - Lograr la ecología
+    - Trabajo creativo
+    - Ambiente artístico`,
+    imagen: "https://images.pexels.com/photos/29877049/pexels-photo-29877049.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1435997EF",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/33815111/pexels-photo-33815111.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 273,
+    categoria: "Voluntariado",
+    titulo: "🌱 Granja de permacultura - Montchauvet, Normandía, Francia",
+    descripcion: `Ofrecemos comida y alojamiento a cambio de ayuda en los huertos y otras zonas del terreno. El proyecto consiste en cultivar todos los alimentos necesarios para un pequeño número de personas, beneficiando así la biodiversidad, la salud del suelo y la salud humana.
+
+    📌 Tareas principales:
+    - Cultivar todos los alimentos necesarios
+    - Trabajos en huertos
+    - Mantenimiento del terreno
+    - Trabajos de permacultura
+    - Cuidado de plantas
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en permacultura
+    - Gusto por la agricultura sostenible
+
+    ✅ Beneficios:
+    - Comida y alojamiento incluidos
+    - Huertos y otras zonas del terreno
+    - Proyecto de cultivo completo
+    - Pequeño número de personas
+    - Beneficiar la biodiversidad
+    - Salud del suelo
+    - Salud humana
+    - Huertos inspirados en permacultura
+    - Cultivos anuales junto con plantas perennes
+    - Expansión lenta hasta bosque comestible
+    - Menor cantidad de maquinaria posible
+    - Casi todo se hace a mano
+    - Cortar pradera con guadaña
+    - Reemplazar uso del tractor
+    - Alimentos veganos y orgánicos
+    - Principalmente del huerto
+    - No hay animales domésticos
+    - Muchos salvajes
+    - 25 horas de trabajo a la semana
+    - Amplia variedad de tareas
+    - Según la temporada
+    - Flexibilidad en tareas
+    - Momento de realizarlas
+    - No limitado a desherbar
+    - Trabajos tediosos
+    - Solo pequeña parte cultivada
+    - Resto se deja silvestre`,
+    imagen: "https://images.pexels.com/photos/34182523/pexels-photo-34182523.jpeg",
+    sitioWeb: "https://www.helpx.net/host/NG3DT1OE9",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/8469656/pexels-photo-8469656.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 274,
+    categoria: "Voluntariado",
+    titulo: "🎨 Espacio artístico - Curtieux, MONTBRISON, Ródano-Alpes, Francia",
+    descripcion: `¡Buen día! ¡Mi nombre es Gilles! ¡Has decidido colaborar con Bonjour! Vous avez decidé de venir visiter et passer quelques jours en France, c'est avec joie que je vous accueillerais dans un espace confortable et arboré au 39 Chemin des Combes à Montbrison 42600 !
+
+    📌 Tareas principales:
+    - Trabajos artísticos
+    - Escultura
+    - Fotografía
+    - Trabajos generales
+    - Ayuda en el espacio
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en arte y cultura
+    - Gusto por la naturaleza
+
+    ✅ Beneficios:
+    - Espacio confortable y arboré
+    - Lugar artístico
+    - Práctica de escultura y fotografía
+    - Descubrir la ciudad y alrededores
+    - Belle région aux pieds du Massif Central
+    - "le Cœur du Forez"
+    - Musées y patrimonio
+    - Nourriture végétale et biologique
+    - Médecine en lien avec la Nature
+    - Ambiente creativo y cultural`,
+    imagen: "https://images.pexels.com/photos/5824520/pexels-photo-5824520.jpeg",
+    sitioWeb: "https://www.helpx.net/host/013ZEYX4X",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/4207892/pexels-photo-4207892.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 275,
+    categoria: "Voluntariado",
+    titulo: "🌱 Granja de permacultura - Puivert, Languedoc-Rosellón, Francia",
+    descripcion: `Hola a todos, soy Mark y buscamos personas que nos ayuden con nuestro proyecto agrícola (basado en ideas de permacultura): trabajaremos en nuestro sistema de agua, en los campos y el jardín, en los árboles frutales, en el cuidado de las ovejas, patos y gallinas, en nuestra fuente de energía alternativa.
+
+    📌 Tareas principales:
+    - Sistema de agua
+    - Campos y jardín
+    - Árboles frutales
+    - Cuidado de ovejas, patos y gallinas
+    - Fuente de energía alternativa
+    - Espacios comunes y privados
+    - Eventos locales (iluminación, electricidad)
+    - Alquiler de baños secos
+    - Baile local de mayo
+    - Conciertos y teatro
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en permacultura
+    - Prepararse para experiencia sin conexión a la red
+
+    ✅ Beneficios:
+    - Proyecto agrícola basado en permacultura
+    - Palabra clave: "autonomía"
+    - Personas autónomas crean comunidad
+    - Células individuales de un organismo vivo mayor
+    - Humanidad que se reconoce como un todo
+    - Experiencia en la naturaleza
+    - Sin conexión a la red
+    - Trabajo variado y significativo
+    - Colaboración en eventos locales
+    - Ambiente comunitario`,
+    imagen: "https://images.pexels.com/photos/34173590/pexels-photo-34173590.jpeg",
+    sitioWeb: "https://www.helpx.net/host/2113412ZB",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/4800250/pexels-photo-4800250.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 276,
+    categoria: "Voluntariado",
+    titulo: "🏰 Casa en el Valle del Loira - Langeais, Valle del Loira, Francia",
+    descripcion: `¡Disponibilidad para finales de octubre y principios de noviembre! Bienvenidos a su encantadora casa con jardín en el Valle del Loira, a las afueras del típico pueblo francés de Langeais.
+
+    📌 Tareas principales:
+    - Jardinería paisajística (desherbar, podar, eliminar zarzas, cortar el césped)
+    - Mantenimiento de la casa (pintura interior/exterior, limpieza a fondo, organización)
+    - Trabajos variados según habilidades y clima
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - 4 horas de trabajo al día
+    - Interés en jardinería y mantenimiento
+
+    ✅ Beneficios:
+    - Casa encantadora con jardín
+    - Valle del Loira
+    - Pueblo francés de Langeais
+    - Castillo renacentista
+    - Cerca de autopistas
+    - Estación de tren SNCF
+    - Servicio regular a Tours/Saumur/Angers
+    - Fácil conexión con París
+    - Propiedad de Patrick (Londres)
+    - Gestionada por Brodie (Nueva York)
+    - Habitación con baño privado
+    - Individual o doble si son pareja
+    - Comidas y bebidas compartidas
+    - Duración de estancia acordada`,
+    imagen: "https://images.pexels.com/photos/4604425/pexels-photo-4604425.jpeg",
+    sitioWeb: "https://www.helpx.net/host/UT9BVPULP",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/6952009/pexels-photo-6952009.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 277,
+    categoria: "Voluntariado",
+    titulo: "🌿 Proyectos de jardinería - Casseneuil, Aquitania, Francia",
+    descripcion: `A partir de septiembre de 2025 buscamos ayuda para proyectos de jardinería, recorte de bordes, pintura de persianas, etc. En otoño de 2025 ayudamos con la pintura refrescante en interiores y exteriores.
+
+    📌 Tareas principales:
+    - Proyectos de jardinería
+    - Recorte de bordes
+    - Pintura de persianas
+    - Pintura refrescante en interiores y exteriores
+    - Limpieza del jardín después de la temporada de invierno
+    - Recorte anual de setos y boj
+
+    📌 Requisitos:
+    - HARRY o HARRIET MANUAL
+    - BUENAS VIBRAS DE JARDÍN
+    - Disponibilidad todo el año
+
+    ✅ Beneficios:
+    - Familia belga en Francia desde hace 20 años
+    - Finales de los años cincuenta
+    - Hablan francés, holandés, inglés y algo de español
+    - Región Lot et Garonne
+    - Tierra rural llena de historia
+    - Entre Burdeos y Toulouse
+    - Entre Guyenne y Languedoc
+    - Muchas influencias diferentes
+    - Muy turístico en verano
+    - Marché Gourmands
+    - Conciertos de verano
+    - Festivales medievales
+    - Gran finca natural de 18 hectáreas
+    - Junto al río
+    - Al borde de un pequeño pueblo`,
+    imagen: "https://images.pexels.com/photos/34174901/pexels-photo-34174901.jpeg",
+    sitioWeb: "https://www.helpx.net/host/308409VV",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/34174915/pexels-photo-34174915.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 278,
+    categoria: "Voluntariado",
+    titulo: "🏡 Casa orgánica cerca de París - Longpont-sur-Orge, París, Francia",
+    descripcion: `Bonjour, Je serai heureux de vous accueillir pour quelques semaines dans la maison que j'ai rénové avec mon épouse (maintenant au Ciel) et mes enfants, et que j'habite maintenant avec ma fille.
+
+    📌 Tareas principales:
+    - Trabajar dehors
+    - Rendre service
+    - Trabajos variados
+    - Ayuda general
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Gusto por trabajar al aire libre
+    - Interés en estilo de vida simple y saludable
+
+    ✅ Beneficios:
+    - Casa renovada con esposa e hijos
+    - Ahora con hija
+    - Estilo de vida muy simple, sano, sobrio y joyeux
+    - Vallée de l'Orge
+    - Bajo el manteau protector de "Notre Dame de Bonne Garde"
+    - Santuario marial entre los primeros en Francia
+    - Rico patrimonio
+    - Chemin de Saint Jacques de Compostelle
+    - Alimentación excepcional: totalmente bio
+    - Muy variada, con muchos légumes
+    - Nada tóxico ni industrial
+    - Poca viande, pero siempre de élevages respetuosos
+    - Largamente local y équitable
+    - No fan des ondes
+    - No wifi (pero está en ville)
+    - Ambiente natural y saludable`,
+    imagen: "https://images.pexels.com/photos/34173590/pexels-photo-34173590.jpeg",
+    sitioWeb: "https://www.helpx.net/host/WXS8LMJZC",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+  imagenes: ["https://images.pexels.com/photos/949774/pexels-photo-949774.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 279,
+    categoria: "Voluntariado",
+    titulo: "🏰 Casa familiar - Fouqueure, Aquitania, Francia",
+    descripcion: `Hola, vivimos en la hermosa región de Charente 16140 y buscamos ayuda con todo tipo de tareas, desde alimentar a los burros y otros animales hasta pintar y ayudar en el jardín.
+
+    📌 Tareas principales:
+    - Alimentar a los burros y otros animales
+    - Pintar
+    - Ayudar en el jardín
+    - Trabajos variados
+    - Proyectos de renovación
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - 5 horas de trabajo al día
+    - Fines de semana libres
+    - Interés en animales y jardinería
+
+    ✅ Beneficios:
+    - Hermosa región de Charente 16140
+    - Pareja inglesa
+    - Cultivando verduras orgánicas
+    - Cuidando de nuestros animales
+    - Encantador y antiguo castillo
+    - Vacío y abandonado durante muchos años
+    - Devolviendo la vida poco a poco
+    - Georgina ha sido ayudante en muchos países
+    - Disfruta conociendo gente nueva de diferentes culturas
+    - Momentos maravillosos con ayudantes
+    - Muchos siguen siendo amigos
+    - Nos han visitado varias veces
+    - Cómoda habitación en el castillo
+    - Tres comidas al día
+    - Cocinadas con productos frescos
+    - Mucho que explorar
+    - Pequeños pueblos y el río
+    - La costa`,
+    imagen: "https://images.pexels.com/photos/1535049/pexels-photo-1535049.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1791633PO",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 280,
+    categoria: "Voluntariado",
+    titulo: "🌿 Jardín Art-House - Normanville, Normandía, Francia",
+    descripcion: `Este hermoso jardín de 2,5 hectáreas, ubicado en el corazón de la Alta Normandía, en el País de Caux, cerca del Canal de la Mancha, inspiró el movimiento impresionista, un jardín de estilo Art-House.
+
+    📌 Tareas principales:
+    - Jardinería artística
+    - Trabajos en el jardín
+    - Mantenimiento
+    - Trabajos estacionales
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Experiencia previa en jardinería (valorada)
+    - Conocimiento básico de francés (no imprescindible)
+    - 5 o 6 horas de trabajo
+
+    ✅ Beneficios:
+    - Hermoso jardín de 2,5 hectáreas
+    - Corazón de la Alta Normandía
+    - País de Caux
+    - Cerca del Canal de la Mancha
+    - Inspiró el movimiento impresionista
+    - Jardín de estilo Art-House
+    - Priorato del siglo XVII
+    - En el centro del jardín
+    - Cécile, artista de jardinería
+    - Jardinera artística
+    - Domina inglés, español y alemán
+    - Enseñará todo lo necesario
+    - Trabajo cambia con las estaciones
+    - Gran fuerza bruta y delicada sensibilidad
+    - Aventura artística abierta al público
+    - Comer y alojarse incluidos`,
+    imagen: "https://images.pexels.com/photos/34178908/pexels-photo-34178908.jpeg",
+    sitioWeb: "https://www.helpx.net/host/558157OS",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/34177451/pexels-photo-34177451.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 281,
+    categoria: "Voluntariado",
+    titulo: "🏰 Castillo en el Valle del Loira - Vernantes, Saumur, Valle del Loira, Francia",
+    descripcion: `Compramos este hermoso castillo en el Valle del Loira en 2013 y, junto con HelpXers como usted, trabajamos incansablemente para renovarlo, transformándolo de su estado ruinoso al esplendor actual de un castillo moderno del siglo XXI.
+
+    📌 Tareas principales:
+    - Renovación del castillo
+    - Trabajos de mantenimiento
+    - Jardinería
+    - Albañilería (reparar muros de piedra)
+    - Trabajar detrás de la barra
+    - Preparar desayunos
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Estancia mínima de dos semanas
+    - Habilidades profesionales
+    - Gente positiva y entusiasta
+    - Interés en jardinería o mantenimiento
+
+    ✅ Beneficios:
+    - Hermoso castillo en el Valle del Loira
+    - Comprado en 2013
+    - Transformado de estado ruinoso
+    - Esplendor actual de castillo moderno del siglo XXI
+    - Mucho espacio por renovar
+    - Últimos retoques en todo el castillo
+    - Disponibilidad todo el año
+    - Estancias más largas son gran ventaja
+    - Gente positiva y entusiasta
+    - Disfruta de todo lo que la vida ofrece
+    - Compartir energía con quienes la rodean
+    - Trabajo en jardín
+    - Habilidades de mantenimiento general
+    - Albañil para reparar muros de piedra
+    - Experiencia trabajando detrás de la barra
+    - Preparar desayunos`,
+    imagen: "https://images.pexels.com/photos/1055068/pexels-photo-1055068.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1075988OR",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/2360682/pexels-photo-2360682.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 282,
+    categoria: "Voluntariado",
+    titulo: "🏖️ Familia en Bretaña - Esquibien, Bretaña, Francia",
+    descripcion: `Hola, somos una familia que llevamos poco más de un año viviendo en Bretaña, concretamente en Cap Sizun, al oeste de Douarnenez. La región es preciosa e ideal para practicar senderismo, surf, paddleboarding, etc.
+
+    📌 Tareas principales:
+    - Trabajar juntos en el jardín
+    - Limpiar el terreno
+    - Desherbar
+    - Construir una puerta
+    - Instalar las vallas del terreno
+    - Construir un gallinero móvil
+    - Construir la zona de compostaje
+    - Preparar y almacenar leña
+    - Pintar
+    - Preparar comidas juntos
+    - Ayudar con los suministros
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - 4 horas al día, 6 días a la semana
+    - Lunes a sábado
+    - Interés en trabajos variados
+
+    ✅ Beneficios:
+    - Familia en Bretaña
+    - Poco más de un año viviendo allí
+    - Cap Sizun, al oeste de Douarnenez
+    - Región preciosa
+    - Ideal para senderismo, surf, paddleboarding
+    - Lista no exhaustiva de tareas
+    - Nos adaptamos a la situación
+    - Siempre hay algo que hacer en casa
+    - Alojamiento y comidas incluidos
+    - Excepto los domingos
+    - Tiempo con la familia
+    - Explorar la región
+    - Trabajo variado y dinámico`,
+    imagen: "https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg",
+    sitioWeb: "https://www.helpx.net/host/TT3BZG4RM",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/10388450/pexels-photo-10388450.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
+  },
+  {
+    id: 283,
+    categoria: "Voluntariado",
+    titulo: "🌱 Granja con truferos - Montferrand du Perigord, Aquitania, Francia",
+    descripcion: `Hola, buscamos ayuda… ahora estamos libres. Trabajamos en los truferos y el huerto. Somos una pareja, Agathe y Geoffrey, con una hija de 5 años llamada Ciel y su hermanita pequeña, Isis.
+
+    📌 Tareas principales:
+    - Construcción
+    - Bricolaje
+    - Plantar verduras
+    - Desherbar
+    - Alimentar a los animales
+    - Cercar
+    - Trabajos en el terreno
+    - Cuidado de animales
+
+    📌 Requisitos:
+    - Disponibilidad todo el año
+    - Interés en agricultura y construcción
+    - Coche propio recomendado
+
+    ✅ Beneficios:
+    - Pareja Agathe y Geoffrey
+    - Hija de 5 años llamada Ciel
+    - Hermanita pequeña Isis
+    - Hace años trabajaban como ayudantes
+    - Ahora les toca acoger
+    - Ovejas, gato, perro, gallinas y patos
+    - Bonita casa de piedra
+    - Terreno con truferos
+    - Mucho que hacer con animales, huerto y construcción
+    - Ayudantes duermen en autocaravana
+    - Se aceptan veganos o vegetarianos
+    - Comemos nuestra propia carne o de la granja del vecino
+    - Périgord Noir
+    - Muchos pueblos para visitar
+    - Río Dordoña
+    - Muchos paseos para disfrutar
+    - 15 minutos de las primeras tiendas y pueblos
+    - 15 minutos en coche de Belves`,
+    imagen: "https://images.pexels.com/photos/1656663/pexels-photo-1656663.jpeg",
+    sitioWeb: "https://www.helpx.net/host/1346091OF",
+    pais: "Francia",
+    duracion: "Todo el año",
+    fechaLimite: "Disponible",
+    imagenes: ["https://images.pexels.com/photos/1000057/pexels-photo-1000057.jpeg"],
+    videos: [
+      { titulo: "Guía de aplicación", url: "https://www.tiktok.com/@chevening/video/321654987", plataforma: "TikTok" },
+      { titulo: "HELPX", url: "https://www.helpx.net", plataforma: "HelpX" }
+    ]
   }
 ];
 
